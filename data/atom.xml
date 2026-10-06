@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-05T22:01:34.188Z</updated>
+    <updated>2026-10-06T00:01:29.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports]]></title>
-        <id>https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports</id>
-        <link href="https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports"/>
-        <updated>2026-10-05T16:00:00.000Z</updated>
-        <published>2026-10-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Matic is the first robovac to get an FCC ban waiver, not that it needs it]]></title>
-        <id>https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval</id>
-        <link href="https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval"/>
+        <title type="html"><![CDATA[Hyundai CEO says only a ‘level playing field’ can minimize damage from China]]></title>
+        <id>https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share</id>
+        <link href="https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share"/>
         <updated>2026-10-05T16:00:00.000Z</updated>
         <published>2026-10-05T16:00:00.000Z</published>
     </entry>
@@ -36,9 +29,16 @@
         <published>2026-10-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hyundai CEO says only a ‘level playing field’ can minimize damage from China]]></title>
-        <id>https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share</id>
-        <link href="https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share"/>
+        <title type="html"><![CDATA[The Matic is the first robovac to get an FCC ban waiver, not that it needs it]]></title>
+        <id>https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval</id>
+        <link href="https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval"/>
+        <updated>2026-10-05T16:00:00.000Z</updated>
+        <published>2026-10-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports]]></title>
+        <id>https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports</id>
+        <link href="https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports"/>
         <updated>2026-10-05T16:00:00.000Z</updated>
         <published>2026-10-05T16:00:00.000Z</published>
     </entry>
@@ -85,30 +85,37 @@
         <published>2026-10-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Month in Ladybird – September 2026]]></title>
-        <id>https://ladybird.org/newsletter/2026-09-30/</id>
-        <link href="https://ladybird.org/newsletter/2026-09-30/"/>
+        <title type="html"><![CDATA[Show HN: Headline Arena – public forecasting records for AI agents]]></title>
+        <id>https://headlinearena.com</id>
+        <link href="https://headlinearena.com"/>
         <updated>2026-10-05T16:00:00.000Z</updated>
         <published>2026-10-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Wallet for Android adds 12th digital U.S. state ID]]></title>
-        <id>https://9to5google.com/2026/10/05/google-wallet-id-oklahoma/</id>
-        <link href="https://9to5google.com/2026/10/05/google-wallet-id-oklahoma/"/>
+        <title type="html"><![CDATA[Show HN: Cluttersignal, a second opinion on any email or link you get]]></title>
+        <id>https://clutterstrike.com/</id>
+        <link href="https://clutterstrike.com/"/>
         <updated>2026-10-05T16:00:00.000Z</updated>
         <published>2026-10-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Laravel Rust Is Coming]]></title>
-        <id>https://twitter.com/taylorotwell/status/2107117389762515319</id>
-        <link href="https://twitter.com/taylorotwell/status/2107117389762515319"/>
+        <title type="html"><![CDATA["Rising cost of memory," Microsoft explains why Windows 11 will use less RAM]]></title>
+        <id>https://www.windowslatest.com/2026/10/04/rising-cost-of-memory-microsoft-explains-why-windows-11-will-use-less-ram/</id>
+        <link href="https://www.windowslatest.com/2026/10/04/rising-cost-of-memory-microsoft-explains-why-windows-11-will-use-less-ram/"/>
         <updated>2026-10-05T16:00:00.000Z</updated>
         <published>2026-10-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Fond Farewell to Three Rust Foundation Colleagues]]></title>
-        <id>https://rustfoundation.org/media/a-fond-farewell-to-three-rust-foundation-colleagues/</id>
-        <link href="https://rustfoundation.org/media/a-fond-farewell-to-three-rust-foundation-colleagues/"/>
+        <title type="html"><![CDATA[LLM SEO tools in 2026: what each one tracks]]></title>
+        <id>https://picked.so/blog/llm-seo-tools</id>
+        <link href="https://picked.so/blog/llm-seo-tools"/>
+        <updated>2026-10-05T16:00:00.000Z</updated>
+        <published>2026-10-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whistleblower who flagged Lutnick's links to Epstein dies]]></title>
+        <id>https://www.thebanker.com/content/02286d53-0338-42ef-996d-5f7712b9f133</id>
+        <link href="https://www.thebanker.com/content/02286d53-0338-42ef-996d-5f7712b9f133"/>
         <updated>2026-10-05T16:00:00.000Z</updated>
         <published>2026-10-05T16:00:00.000Z</published>
     </entry>
@@ -120,6 +127,41 @@
         <published>2026-10-05T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A Fond Farewell to Three Rust Foundation Colleagues]]></title>
+        <id>https://rustfoundation.org/media/a-fond-farewell-to-three-rust-foundation-colleagues/</id>
+        <link href="https://rustfoundation.org/media/a-fond-farewell-to-three-rust-foundation-colleagues/"/>
+        <updated>2026-10-05T16:00:00.000Z</updated>
+        <published>2026-10-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laravel Rust Is Coming]]></title>
+        <id>https://twitter.com/taylorotwell/status/2107117389762515319</id>
+        <link href="https://twitter.com/taylorotwell/status/2107117389762515319"/>
+        <updated>2026-10-05T16:00:00.000Z</updated>
+        <published>2026-10-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Wallet for Android adds 12th digital U.S. state ID]]></title>
+        <id>https://9to5google.com/2026/10/05/google-wallet-id-oklahoma/</id>
+        <link href="https://9to5google.com/2026/10/05/google-wallet-id-oklahoma/"/>
+        <updated>2026-10-05T16:00:00.000Z</updated>
+        <published>2026-10-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Month in Ladybird – September 2026]]></title>
+        <id>https://ladybird.org/newsletter/2026-09-30/</id>
+        <link href="https://ladybird.org/newsletter/2026-09-30/"/>
+        <updated>2026-10-05T16:00:00.000Z</updated>
+        <published>2026-10-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Sonnet 5.5 Migration Test Harness: Catch Thinking-Block Failures Before Production]]></title>
+        <id>https://pub.towardsai.net/claude-sonnet-5-5-migration-test-harness-catch-thinking-block-failures-before-production-d26f0b44505a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/claude-sonnet-5-5-migration-test-harness-catch-thinking-block-failures-before-production-d26f0b44505a?source=rss----98111c9905da---4"/>
+        <updated>2026-10-05T16:00:00.000Z</updated>
+        <published>2026-10-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[From Retrieval to Governance — The Architecture Shift Replacing Naive RAG]]></title>
         <id>https://pub.towardsai.net/from-retrieval-to-governance-the-architecture-shift-replacing-naive-rag-e8fc93260834?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/from-retrieval-to-governance-the-architecture-shift-replacing-naive-rag-e8fc93260834?source=rss----98111c9905da---4"/>
@@ -127,51 +169,44 @@
         <published>2026-10-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering Web Performance & Technical SEO: From Zero Crawls to 30K Search Impressions]]></title>
-        <id>https://dev.to/muhammad_ahmed_6631d2cc13/mastering-web-performance-technical-seo-from-zero-crawls-to-30k-search-impressions-337e</id>
-        <link href="https://dev.to/muhammad_ahmed_6631d2cc13/mastering-web-performance-technical-seo-from-zero-crawls-to-30k-search-impressions-337e"/>
+        <title type="html"><![CDATA[Quoting Felix Rieseberg]]></title>
+        <id>https://simonwillison.net/2026/Oct/5/felix-rieseberg/</id>
+        <link href="https://simonwillison.net/2026/Oct/5/felix-rieseberg/"/>
         <updated>2026-10-05T16:00:00.000Z</updated>
         <published>2026-10-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🌙 Never miss Suhoor again - let your iPhone do the math and set the alarm automatically every night]]></title>
-        <id>https://dev.to/muhamm-ad/never-miss-suhoor-again-let-your-iphone-do-the-math-and-set-the-alarm-automatically-every-night-lac</id>
-        <link href="https://dev.to/muhamm-ad/never-miss-suhoor-again-let-your-iphone-do-the-math-and-set-the-alarm-automatically-every-night-lac"/>
+        <title type="html"><![CDATA[Parse a TikTok Profile URL Without Keeping Tracking Parameters]]></title>
+        <id>https://dev.to/evanmercerdev/parse-a-tiktok-profile-url-without-keeping-tracking-parameters-21ce</id>
+        <link href="https://dev.to/evanmercerdev/parse-a-tiktok-profile-url-without-keeping-tracking-parameters-21ce"/>
         <updated>2026-10-05T16:00:00.000Z</updated>
         <published>2026-10-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PCN: a text notation for curling games, one line per shot]]></title>
-        <id>https://dev.to/shinagaki/pcn-a-text-notation-for-curling-games-one-line-per-shot-41c8</id>
-        <link href="https://dev.to/shinagaki/pcn-a-text-notation-for-curling-games-one-line-per-shot-41c8"/>
+        <title type="html"><![CDATA[Server-render an SVG map with no map library]]></title>
+        <id>https://dev.to/chasefleming/server-render-an-svg-map-with-no-map-library-16om</id>
+        <link href="https://dev.to/chasefleming/server-render-an-svg-map-with-no-map-library-16om"/>
         <updated>2026-10-05T16:00:00.000Z</updated>
         <published>2026-10-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Voice-Enabled Documentation Reader]]></title>
-        <id>https://dev.to/voice_developer/build-a-voice-enabled-documentation-reader-3in7</id>
-        <link href="https://dev.to/voice_developer/build-a-voice-enabled-documentation-reader-3in7"/>
+        <title type="html"><![CDATA[Labeled Boxes: How JavaScript Remembers Things]]></title>
+        <id>https://dev.to/ayekpleclemence/labeled-boxes-how-javascript-remembers-things-g9n</id>
+        <link href="https://dev.to/ayekpleclemence/labeled-boxes-how-javascript-remembers-things-g9n"/>
         <updated>2026-10-05T16:00:00.000Z</updated>
         <published>2026-10-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Handle Errors Correctly with the JavaScript Fetch API]]></title>
-        <id>https://dev.to/greatness_10xxx7/how-to-handle-errors-correctly-with-the-javascript-fetch-api-lab</id>
-        <link href="https://dev.to/greatness_10xxx7/how-to-handle-errors-correctly-with-the-javascript-fetch-api-lab"/>
+        <title type="html"><![CDATA[Rebuilding Shopify's Finances summary from the Admin GraphQL API, line by line]]></title>
+        <id>https://dev.to/bananafestdestiny/rebuilding-shopifys-finances-summary-from-the-admin-graphql-api-line-by-line-4665</id>
+        <link href="https://dev.to/bananafestdestiny/rebuilding-shopifys-finances-summary-from-the-admin-graphql-api-line-by-line-4665"/>
         <updated>2026-10-05T16:00:00.000Z</updated>
         <published>2026-10-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Rebuilt ICQ 5 as a WhatsApp Client — and the Download Page Tells You It Might Get You Banned]]></title>
-        <id>https://dev.to/felix-helleckes/i-rebuilt-icq-5-as-a-whatsapp-client-and-the-download-page-tells-you-it-might-get-you-banned-5dd1</id>
-        <link href="https://dev.to/felix-helleckes/i-rebuilt-icq-5-as-a-whatsapp-client-and-the-download-page-tells-you-it-might-get-you-banned-5dd1"/>
-        <updated>2026-10-05T16:00:00.000Z</updated>
-        <published>2026-10-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trustlines: Why XRPL Holder Counts Are Hard to Fake]]></title>
-        <id>https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-4d0a</id>
-        <link href="https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-4d0a"/>
+        <title type="html"><![CDATA[How to Build a Pronunciation Guide App with AI Voice]]></title>
+        <id>https://dev.to/voice_developer/how-to-build-a-pronunciation-guide-app-with-ai-voice-5h3m</id>
+        <link href="https://dev.to/voice_developer/how-to-build-a-pronunciation-guide-app-with-ai-voice-5h3m"/>
         <updated>2026-10-05T16:00:00.000Z</updated>
         <published>2026-10-05T16:00:00.000Z</published>
     </entry>
@@ -183,16 +218,65 @@
         <published>2026-10-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nvidia’s Shield TV Pro just got a $100 price hike]]></title>
-        <id>https://www.theverge.com/tech/1004791/nvidia-shield-tv-pro-streaming-box-price-increase</id>
-        <link href="https://www.theverge.com/tech/1004791/nvidia-shield-tv-pro-streaming-box-price-increase"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Trustlines: Why XRPL Holder Counts Are Hard to Fake]]></title>
+        <id>https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-4d0a</id>
+        <link href="https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-4d0a"/>
+        <updated>2026-10-05T16:00:00.000Z</updated>
+        <published>2026-10-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Rebuilt ICQ 5 as a WhatsApp Client — and the Download Page Tells You It Might Get You Banned]]></title>
+        <id>https://dev.to/felix-helleckes/i-rebuilt-icq-5-as-a-whatsapp-client-and-the-download-page-tells-you-it-might-get-you-banned-5dd1</id>
+        <link href="https://dev.to/felix-helleckes/i-rebuilt-icq-5-as-a-whatsapp-client-and-the-download-page-tells-you-it-might-get-you-banned-5dd1"/>
+        <updated>2026-10-05T16:00:00.000Z</updated>
+        <published>2026-10-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Errors Correctly with the JavaScript Fetch API]]></title>
+        <id>https://dev.to/greatness_10xxx7/how-to-handle-errors-correctly-with-the-javascript-fetch-api-lab</id>
+        <link href="https://dev.to/greatness_10xxx7/how-to-handle-errors-correctly-with-the-javascript-fetch-api-lab"/>
+        <updated>2026-10-05T16:00:00.000Z</updated>
+        <published>2026-10-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Voice-Enabled Documentation Reader]]></title>
+        <id>https://dev.to/voice_developer/build-a-voice-enabled-documentation-reader-3in7</id>
+        <link href="https://dev.to/voice_developer/build-a-voice-enabled-documentation-reader-3in7"/>
+        <updated>2026-10-05T16:00:00.000Z</updated>
+        <published>2026-10-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PCN: a text notation for curling games, one line per shot]]></title>
+        <id>https://dev.to/shinagaki/pcn-a-text-notation-for-curling-games-one-line-per-shot-41c8</id>
+        <link href="https://dev.to/shinagaki/pcn-a-text-notation-for-curling-games-one-line-per-shot-41c8"/>
+        <updated>2026-10-05T16:00:00.000Z</updated>
+        <published>2026-10-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🌙 Never miss Suhoor again - let your iPhone do the math and set the alarm automatically every night]]></title>
+        <id>https://dev.to/muhamm-ad/never-miss-suhoor-again-let-your-iphone-do-the-math-and-set-the-alarm-automatically-every-night-lac</id>
+        <link href="https://dev.to/muhamm-ad/never-miss-suhoor-again-let-your-iphone-do-the-math-and-set-the-alarm-automatically-every-night-lac"/>
+        <updated>2026-10-05T16:00:00.000Z</updated>
+        <published>2026-10-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Web Performance & Technical SEO: From Zero Crawls to 30K Search Impressions]]></title>
+        <id>https://dev.to/muhammad_ahmed_6631d2cc13/mastering-web-performance-technical-seo-from-zero-crawls-to-30k-search-impressions-337e</id>
+        <link href="https://dev.to/muhammad_ahmed_6631d2cc13/mastering-web-performance-technical-seo-from-zero-crawls-to-30k-search-impressions-337e"/>
+        <updated>2026-10-05T16:00:00.000Z</updated>
+        <published>2026-10-05T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[The new Fitbit Edge leaks]]></title>
         <id>https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks</id>
         <link href="https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <published>2026-10-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia’s Shield TV Pro just got a $100 price hike]]></title>
+        <id>https://www.theverge.com/tech/1004791/nvidia-shield-tv-pro-streaming-box-price-increase</id>
+        <link href="https://www.theverge.com/tech/1004791/nvidia-shield-tv-pro-streaming-box-price-increase"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
@@ -239,128 +323,44 @@
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I built a video transcript tool that also reads what is on screen]]></title>
-        <id>https://scribiz.com</id>
-        <link href="https://scribiz.com"/>
+        <title type="html"><![CDATA[Show HN: Cachetoast]]></title>
+        <id>https://github.com/rhunterharris/cachetoast</id>
+        <link href="https://github.com/rhunterharris/cachetoast"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measles disaster in Florida might not be far off, analysis finds]]></title>
-        <id>https://www.cidrap.umn.edu/public-health/measles-disaster-florida-might-not-be-far-analysis-finds</id>
-        <link href="https://www.cidrap.umn.edu/public-health/measles-disaster-florida-might-not-be-far-analysis-finds"/>
+        <title type="html"><![CDATA[Commodified Intelligence]]></title>
+        <id>https://herecomesthemoon.net/2026/09/commodified-intelligence/</id>
+        <link href="https://herecomesthemoon.net/2026/09/commodified-intelligence/"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pivot – Real-time analytics on Iceberg and Delta, faster than ClickHouse]]></title>
-        <id>https://github.com/pivotlake/pivot/</id>
-        <link href="https://github.com/pivotlake/pivot/"/>
+        <title type="html"><![CDATA[Discover AI – A Learning Guide]]></title>
+        <id>https://github.com/Fazmin/AILearningGuide</id>
+        <link href="https://github.com/Fazmin/AILearningGuide"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS does your tooltip positioning now]]></title>
-        <id>https://allthingssmitty.com/2026/10/05/css-does-your-tooltip-positioning-now/</id>
-        <link href="https://allthingssmitty.com/2026/10/05/css-does-your-tooltip-positioning-now/"/>
+        <title type="html"><![CDATA[Walden [video]]]></title>
+        <id>https://www.youtube.com/watch?v=DPRKPmvYsHw</id>
+        <link href="https://www.youtube.com/watch?v=DPRKPmvYsHw"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Science Slop Index]]></title>
-        <id>https://yerimoh.github.io/scientific-slop-demo/</id>
-        <link href="https://yerimoh.github.io/scientific-slop-demo/"/>
+        <title type="html"><![CDATA[Rust for CPython (Python Language Summit 2026) – Python Insider]]></title>
+        <id>https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/</id>
+        <link href="https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build and fly drones with a C flight controller running as WebAssembly]]></title>
-        <id>https://mrtksn.github.io/liftlab/</id>
-        <link href="https://mrtksn.github.io/liftlab/"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Steve Jobs died 15 years ago today. I built an interactive tribute]]></title>
-        <id>https://thankyousteve.org/</id>
-        <link href="https://thankyousteve.org/"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metacognitive Agents (2025) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=mE28UJ3tkos</id>
-        <link href="https://www.youtube.com/watch?v=mE28UJ3tkos"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The State of AI in Software Development: Data from 400 Orgs [video]]]></title>
-        <id>https://www.youtube.com/watch?v=Se8jHLliLXE</id>
-        <link href="https://www.youtube.com/watch?v=Se8jHLliLXE"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kosmora – open packs of Wikipedia posts as cards (I'm addicted)]]></title>
-        <id>https://kosmora.io</id>
-        <link href="https://kosmora.io"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build on ECS Primitives, Not Convenience Layers]]></title>
-        <id>https://awsfundamentals.com/blog/ecs-primitives-not-convenience-layers</id>
-        <link href="https://awsfundamentals.com/blog/ecs-primitives-not-convenience-layers"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Mooring – a better screen sharing experience for Macs]]></title>
-        <id>https://kcirtapfromspace.github.io/mooring/</id>
-        <link href="https://kcirtapfromspace.github.io/mooring/"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researcher at Russian plague laboratory dies of 'unknown' infection]]></title>
-        <id>https://www.cnn.com/2026/10/04/europe/russia-laboratory-plague-accident-intl</id>
-        <link href="https://www.cnn.com/2026/10/04/europe/russia-laboratory-plague-accident-intl"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waste colonialism: Turkish city carrying the weight of Britain's pollution issue]]></title>
-        <id>https://www.theguardian.com/environment/2026/aug/06/waste-colonialism-the-turkish-city-carrying-the-weight-of-britains-pollution-problem</id>
-        <link href="https://www.theguardian.com/environment/2026/aug/06/waste-colonialism-the-turkish-city-carrying-the-weight-of-britains-pollution-problem"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI: 28 Days of Codex Improvements – Or a Full Usage Reset]]></title>
-        <id>https://twitter.com/Codexresets_/status/2106946116294000889</id>
-        <link href="https://twitter.com/Codexresets_/status/2106946116294000889"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Split an ultrawide monitor into two real displays on macOS]]></title>
-        <id>https://github.com/eduardoworrel/telas</id>
-        <link href="https://github.com/eduardoworrel/telas"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Panda Express to help 55,000 employees become homeowners]]></title>
-        <id>https://www.fastcompany.com/91616008/panda-expresss-founders-employee-homeowners</id>
-        <link href="https://www.fastcompany.com/91616008/panda-expresss-founders-employee-homeowners"/>
-        <updated>2026-10-04T16:00:00.000Z</updated>
-        <published>2026-10-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Random Topic Generator with built-in talking points]]></title>
-        <id>https://random-topic.com</id>
-        <link href="https://random-topic.com"/>
+        <title type="html"><![CDATA[Linux Plumbers Conference Timetable]]></title>
+        <id>https://lpc.events/event/20/timetable/</id>
+        <link href="https://lpc.events/event/20/timetable/"/>
         <updated>2026-10-04T16:00:00.000Z</updated>
         <published>2026-10-04T16:00:00.000Z</published>
     </entry>
