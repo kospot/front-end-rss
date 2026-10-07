@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-07T07:03:24.406Z</updated>
+    <updated>2026-10-07T10:04:08.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,13 +15,6 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say]]></title>
-        <id>https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy</id>
-        <link href="https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon’s last-gen Kindle Paperwhite is 30 percent off]]></title>
         <id>https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale</id>
         <link href="https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale"/>
@@ -29,16 +22,30 @@
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You Probably Aren’t Going to Get the Plague]]></title>
-        <id>https://www.wired.com/story/what-we-know-about-plague-russia/</id>
-        <link href="https://www.wired.com/story/what-we-know-about-plague-russia/"/>
+        <title type="html"><![CDATA[Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say]]></title>
+        <id>https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy</id>
+        <link href="https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers]]></title>
-        <id>https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/</id>
-        <link href="https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/"/>
+        <title type="html"><![CDATA[Your Next Great Read Might Be Certified ‘Organic’]]></title>
+        <id>https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/</id>
+        <link href="https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[117 Best Prime Day Deals We’re Shopping This October (2026)]]></title>
+        <id>https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/</id>
+        <link href="https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 13 Amazon Device Deals Actually Worth Snagging This Prime Day (2026)]]></title>
+        <id>https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day-10-07-2026/</id>
+        <link href="https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day-10-07-2026/"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
@@ -50,16 +57,23 @@
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors]]></title>
-        <id>https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/</id>
-        <link href="https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/"/>
+        <title type="html"><![CDATA[‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers]]></title>
+        <id>https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/</id>
+        <link href="https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[India’s JioHotstar takes partnership route for Middle East expansion]]></title>
-        <id>https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/</id>
-        <link href="https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/"/>
+        <title type="html"><![CDATA[You Probably Aren’t Going to Get the Plague]]></title>
+        <id>https://www.wired.com/story/what-we-know-about-plague-russia/</id>
+        <link href="https://www.wired.com/story/what-we-know-about-plague-russia/"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spotify expands audiobooks to over 180 markets]]></title>
+        <id>https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/</id>
+        <link href="https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
@@ -71,128 +85,72 @@
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Truth Firewall – Don't trust your coding agent when it says DONE]]></title>
-        <id>https://github.com/aldi949/truth-firewall</id>
-        <link href="https://github.com/aldi949/truth-firewall"/>
+        <title type="html"><![CDATA[India’s JioHotstar takes partnership route for Middle East expansion]]></title>
+        <id>https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/</id>
+        <link href="https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A cyberpunk HUD overlay for Discord in pure Vanilla JavaScript]]></title>
-        <id>https://github.com/Doomeec/discord-quest-hud</id>
-        <link href="https://github.com/Doomeec/discord-quest-hud"/>
+        <title type="html"><![CDATA[Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors]]></title>
+        <id>https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/</id>
+        <link href="https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OMG's Meta-Object Facility]]></title>
-        <id>https://www.omg.org/mof/</id>
-        <link href="https://www.omg.org/mof/"/>
+        <title type="html"><![CDATA[Googlebook "Better Together" phone features don't work with Samsung at launch]]></title>
+        <id>https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/</id>
+        <link href="https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI unleashes hundreds more math results upon a field in shock]]></title>
-        <id>https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/</id>
-        <link href="https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/"/>
+        <title type="html"><![CDATA[I Worked with a Laptop Thief (2025)]]></title>
+        <id>https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/</id>
+        <link href="https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FreeLLMAPI – One OpenAI-Compatible API for Multiple Free LLM Providers]]></title>
-        <id>https://github.com/tashfeenahmed/freellmapi</id>
-        <link href="https://github.com/tashfeenahmed/freellmapi"/>
+        <title type="html"><![CDATA[Show HN: PgNimbus 1.0, an open-source PostgreSQL client that sends no telemetry]]></title>
+        <id>https://github.com/Shman4ik/pgNimbus</id>
+        <link href="https://github.com/Shman4ik/pgNimbus"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Do Grains Defy Gravity? [video]]]></title>
-        <id>https://www.youtube.com/watch?v=F2M2aRXI8lc</id>
-        <link href="https://www.youtube.com/watch?v=F2M2aRXI8lc"/>
+        <title type="html"><![CDATA[Abliterated models can get you pwned]]></title>
+        <id>https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned</id>
+        <link href="https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IBM and Red Hat Find More Than 400 New Vulnerabilities in Popular Java Code]]></title>
-        <id>https://www.phoronix.com/news/IBM-Red-Hat-Java-400-Vulns</id>
-        <link href="https://www.phoronix.com/news/IBM-Red-Hat-Java-400-Vulns"/>
+        <title type="html"><![CDATA[Google Chrome's AI API actively used for device fingerprinting and profiling]]></title>
+        <id>https://news.ycombinator.com/item?id=49990335</id>
+        <link href="https://news.ycombinator.com/item?id=49990335"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Software developers are not okay [video]]]></title>
-        <id>https://www.youtube.com/watch?v=KsEpW03gxKg</id>
-        <link href="https://www.youtube.com/watch?v=KsEpW03gxKg"/>
+        <title type="html"><![CDATA[Formula 1 Coverage on Apple TV to Get Dolby Atmos Later This Month]]></title>
+        <id>https://www.macrumors.com/2026/10/07/formula-1-apple-tv-dolby-atmos-this-month/</id>
+        <link href="https://www.macrumors.com/2026/10/07/formula-1-apple-tv-dolby-atmos-this-month/"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: OpenPhoto – Photoshop Rebuilt in Rust]]></title>
-        <id>https://github.com/yuanzhixiang/openphoto</id>
-        <link href="https://github.com/yuanzhixiang/openphoto"/>
+        <title type="html"><![CDATA[Creating interactive slides with LLMs, Slidev and Rough.js]]></title>
+        <id>https://svrnm.com/blog/creating-interactive-slides-with-llms-slidev-and-roughjs/</id>
+        <link href="https://svrnm.com/blog/creating-interactive-slides-with-llms-slidev-and-roughjs/"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Near-Earth Asteroid 2026 TB3 Provides Valuable Insight into Close Approaches]]></title>
-        <id>https://www.astrophyzix.com/2026/10/asteroid-2026-TB3.html</id>
-        <link href="https://www.astrophyzix.com/2026/10/asteroid-2026-TB3.html"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Couple was swatted 55 times in 2 years over a post about Norm Macdonald]]></title>
-        <id>https://www.cbc.ca/lite/story/9.7370118</id>
-        <link href="https://www.cbc.ca/lite/story/9.7370118"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gdelt: Real-time database of global human society for open research]]></title>
-        <id>https://gdeltproject.org/</id>
-        <link href="https://gdeltproject.org/"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boston Dynamics Appoints Rohit Prasad as Chief Executive Officer]]></title>
-        <id>https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/</id>
-        <link href="https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Zizians [video]]]></title>
-        <id>https://www.youtube.com/watch?v=C0HYotaCvcg</id>
-        <link href="https://www.youtube.com/watch?v=C0HYotaCvcg"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: TerrainSR – fast, realistic heightmap upscaling model]]></title>
-        <id>https://huggingface.co/joe-gibbs/terrainsr</id>
-        <link href="https://huggingface.co/joe-gibbs/terrainsr"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Olmo-core 3: Open, scalable training infrastructure for large MoEs]]></title>
-        <id>https://allenai.org/blog/olmocore3</id>
-        <link href="https://allenai.org/blog/olmocore3"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How do you handle client feedback and revisions on website projects?]]></title>
-        <id>https://news.ycombinator.com/item?id=49987630</id>
-        <link href="https://news.ycombinator.com/item?id=49987630"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can VLMs recognize famous videos from just their colors?]]></title>
-        <id>https://loganbolton.github.io/blog/videocolorbench/</id>
-        <link href="https://loganbolton.github.io/blog/videocolorbench/"/>
+        <title type="html"><![CDATA[Show HN: Vim-like, hyper-efficient, LLM power tool – 20-80k tokens not 350k+]]></title>
+        <id>https://easiest.ai/</id>
+        <link href="https://easiest.ai/"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
@@ -204,9 +162,128 @@
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Vim-like, hyper-efficient, LLM power tool – 20-80k tokens not 350k+]]></title>
-        <id>https://easiest.ai/</id>
-        <link href="https://easiest.ai/"/>
+        <title type="html"><![CDATA[Can VLMs recognize famous videos from just their colors?]]></title>
+        <id>https://loganbolton.github.io/blog/videocolorbench/</id>
+        <link href="https://loganbolton.github.io/blog/videocolorbench/"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do you handle client feedback and revisions on website projects?]]></title>
+        <id>https://news.ycombinator.com/item?id=49987630</id>
+        <link href="https://news.ycombinator.com/item?id=49987630"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Olmo-core 3: Open, scalable training infrastructure for large MoEs]]></title>
+        <id>https://allenai.org/blog/olmocore3</id>
+        <link href="https://allenai.org/blog/olmocore3"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: TerrainSR – fast, realistic heightmap upscaling model]]></title>
+        <id>https://huggingface.co/joe-gibbs/terrainsr</id>
+        <link href="https://huggingface.co/joe-gibbs/terrainsr"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Zizians [video]]]></title>
+        <id>https://www.youtube.com/watch?v=C0HYotaCvcg</id>
+        <link href="https://www.youtube.com/watch?v=C0HYotaCvcg"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boston Dynamics Appoints Rohit Prasad as Chief Executive Officer]]></title>
+        <id>https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/</id>
+        <link href="https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gdelt: Real-time database of global human society for open research]]></title>
+        <id>https://gdeltproject.org/</id>
+        <link href="https://gdeltproject.org/"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Couple was swatted 55 times in 2 years over a post about Norm Macdonald]]></title>
+        <id>https://www.cbc.ca/lite/story/9.7370118</id>
+        <link href="https://www.cbc.ca/lite/story/9.7370118"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Near-Earth Asteroid 2026 TB3 Provides Valuable Insight into Close Approaches]]></title>
+        <id>https://www.astrophyzix.com/2026/10/asteroid-2026-TB3.html</id>
+        <link href="https://www.astrophyzix.com/2026/10/asteroid-2026-TB3.html"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: OpenPhoto – Photoshop Rebuilt in Rust]]></title>
+        <id>https://github.com/yuanzhixiang/openphoto</id>
+        <link href="https://github.com/yuanzhixiang/openphoto"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software developers are not okay [video]]]></title>
+        <id>https://www.youtube.com/watch?v=KsEpW03gxKg</id>
+        <link href="https://www.youtube.com/watch?v=KsEpW03gxKg"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IBM and Red Hat Find More Than 400 New Vulnerabilities in Popular Java Code]]></title>
+        <id>https://www.phoronix.com/news/IBM-Red-Hat-Java-400-Vulns</id>
+        <link href="https://www.phoronix.com/news/IBM-Red-Hat-Java-400-Vulns"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Do Grains Defy Gravity? [video]]]></title>
+        <id>https://www.youtube.com/watch?v=F2M2aRXI8lc</id>
+        <link href="https://www.youtube.com/watch?v=F2M2aRXI8lc"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeLLMAPI – One OpenAI-Compatible API for Multiple Free LLM Providers]]></title>
+        <id>https://github.com/tashfeenahmed/freellmapi</id>
+        <link href="https://github.com/tashfeenahmed/freellmapi"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI unleashes hundreds more math results upon a field in shock]]></title>
+        <id>https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/</id>
+        <link href="https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OMG's Meta-Object Facility]]></title>
+        <id>https://www.omg.org/mof/</id>
+        <link href="https://www.omg.org/mof/"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A cyberpunk HUD overlay for Discord in pure Vanilla JavaScript]]></title>
+        <id>https://github.com/Doomeec/discord-quest-hud</id>
+        <link href="https://github.com/Doomeec/discord-quest-hud"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Truth Firewall – Don't trust your coding agent when it says DONE]]></title>
+        <id>https://github.com/aldi949/truth-firewall</id>
+        <link href="https://github.com/aldi949/truth-firewall"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
@@ -274,20 +351,6 @@
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[datasette-atom 0.11a0]]></title>
-        <id>https://simonwillison.net/2026/Oct/6/datasette-atom/</id>
-        <link href="https://simonwillison.net/2026/Oct/6/datasette-atom/"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Parseable with Datasette for OpenTelemetry traces]]></title>
-        <id>https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/</id>
-        <link href="https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenAI “rogue” agent activities found on Wikimedia projects]]></title>
         <id>https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/</id>
         <link href="https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/"/>
@@ -295,72 +358,9 @@
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When Does External Guidance Help LLM Reasoning? A Bias-Variance Theory of Guidance-Augmented GRPO]]></title>
-        <id>https://arxiv.org/abs/2610.06861</id>
-        <link href="https://arxiv.org/abs/2610.06861"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparative review of hybrid forecasting models for short-term prediction of building thermal load]]></title>
-        <id>https://arxiv.org/abs/2610.06881</id>
-        <link href="https://arxiv.org/abs/2610.06881"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning When to Refine: Long-Horizon Reinforcement Learning for Budgeted Neural-Operator PDE Solvers]]></title>
-        <id>https://arxiv.org/abs/2610.06883</id>
-        <link href="https://arxiv.org/abs/2610.06883"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Event-Driven ML Pipeline Orchestration for Manufacturing: An AWS Industry Experience]]></title>
-        <id>https://arxiv.org/abs/2610.06890</id>
-        <link href="https://arxiv.org/abs/2610.06890"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning from Unreliable Trajectories: Adversarially-Robust Federated Q-Learning]]></title>
-        <id>https://arxiv.org/abs/2610.06918</id>
-        <link href="https://arxiv.org/abs/2610.06918"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AttSVD:Prompt-Adaptive Low-Rank KV Cache Compression via Attention-Guided SVD]]></title>
-        <id>https://arxiv.org/abs/2610.06927</id>
-        <link href="https://arxiv.org/abs/2610.06927"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QiYao-I: A Manifold Based Foundation Model for Irregular Multivariate Time Series Forecasting]]></title>
-        <id>https://arxiv.org/abs/2610.06936</id>
-        <link href="https://arxiv.org/abs/2610.06936"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning to Decide, Not to Reason: Parameter-Efficient Decision Operators via Low-Rank Activation Steering]]></title>
-        <id>https://arxiv.org/abs/2610.06950</id>
-        <link href="https://arxiv.org/abs/2610.06950"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uncertainty in Representation Learning on Knowledge Graphs]]></title>
-        <id>https://arxiv.org/abs/2610.06974</id>
-        <link href="https://arxiv.org/abs/2610.06974"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Information-Theoretic Evaluation Framework for Benchmark and Model Diagnosis in Knowledge Tracing]]></title>
-        <id>https://arxiv.org/abs/2610.06988</id>
-        <link href="https://arxiv.org/abs/2610.06988"/>
+        <title type="html"><![CDATA[Using Parseable with Datasette for OpenTelemetry traces]]></title>
+        <id>https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/</id>
+        <link href="https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>

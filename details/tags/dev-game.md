@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-07 15:03:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-07 18:04:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 游戏开发
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-10-07-How-to-Choose-Between-CSS,-GSAP,-Motion-and-Three.js-for-Website-Animation](https://dev.to/jyotipathak__/how-to-choose-between-css-gsap-motion-and-threejs-for-website-animation-43na) 
 - [2026-10-04-How-to-Generate-Interactive-Three.js-3D-Web-Scenes-with-Zero-Build-Setup](https://dev.to/andmd555/how-to-generate-interactive-threejs-3d-web-scenes-with-zero-build-setup-4g8n) 
 - [2026-10-03-How-I-drew-a-4D-tesseract-in-Three.js](https://dev.to/jonasjavier/how-i-drew-a-4d-tesseract-in-threejs-1npc) 
 - [2026-09-28-What-I-learned-building-a-3D-browser-RTS-with-three.js-and-no-build-step](https://dev.to/webgamerush/what-i-learned-building-a-3d-browser-rts-with-threejs-and-no-build-step-1a31) 
