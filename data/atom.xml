@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-07T04:02:53.729Z</updated>
+    <updated>2026-10-07T07:03:24.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -71,65 +71,72 @@
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Vim-like, hyper-efficient, LLM power tool – 20-80k tokens not 350k+]]></title>
-        <id>https://easiest.ai/</id>
-        <link href="https://easiest.ai/"/>
+        <title type="html"><![CDATA[Show HN: Truth Firewall – Don't trust your coding agent when it says DONE]]></title>
+        <id>https://github.com/aldi949/truth-firewall</id>
+        <link href="https://github.com/aldi949/truth-firewall"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Open Challenge to GitHub Users: Test Das Architecture with Meta Muse Sentinel]]></title>
-        <id>https://zenodo.org/records/23201404</id>
-        <link href="https://zenodo.org/records/23201404"/>
+        <title type="html"><![CDATA[A cyberpunk HUD overlay for Discord in pure Vanilla JavaScript]]></title>
+        <id>https://github.com/Doomeec/discord-quest-hud</id>
+        <link href="https://github.com/Doomeec/discord-quest-hud"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can VLMs recognize famous videos from just their colors?]]></title>
-        <id>https://loganbolton.github.io/blog/videocolorbench/</id>
-        <link href="https://loganbolton.github.io/blog/videocolorbench/"/>
+        <title type="html"><![CDATA[OMG's Meta-Object Facility]]></title>
+        <id>https://www.omg.org/mof/</id>
+        <link href="https://www.omg.org/mof/"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How do you handle client feedback and revisions on website projects?]]></title>
-        <id>https://news.ycombinator.com/item?id=49987630</id>
-        <link href="https://news.ycombinator.com/item?id=49987630"/>
+        <title type="html"><![CDATA[OpenAI unleashes hundreds more math results upon a field in shock]]></title>
+        <id>https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/</id>
+        <link href="https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Olmo-core 3: Open, scalable training infrastructure for large MoEs]]></title>
-        <id>https://allenai.org/blog/olmocore3</id>
-        <link href="https://allenai.org/blog/olmocore3"/>
+        <title type="html"><![CDATA[FreeLLMAPI – One OpenAI-Compatible API for Multiple Free LLM Providers]]></title>
+        <id>https://github.com/tashfeenahmed/freellmapi</id>
+        <link href="https://github.com/tashfeenahmed/freellmapi"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: TerrainSR – fast, realistic heightmap upscaling model]]></title>
-        <id>https://huggingface.co/joe-gibbs/terrainsr</id>
-        <link href="https://huggingface.co/joe-gibbs/terrainsr"/>
+        <title type="html"><![CDATA[Why Do Grains Defy Gravity? [video]]]></title>
+        <id>https://www.youtube.com/watch?v=F2M2aRXI8lc</id>
+        <link href="https://www.youtube.com/watch?v=F2M2aRXI8lc"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Zizians [video]]]></title>
-        <id>https://www.youtube.com/watch?v=C0HYotaCvcg</id>
-        <link href="https://www.youtube.com/watch?v=C0HYotaCvcg"/>
+        <title type="html"><![CDATA[IBM and Red Hat Find More Than 400 New Vulnerabilities in Popular Java Code]]></title>
+        <id>https://www.phoronix.com/news/IBM-Red-Hat-Java-400-Vulns</id>
+        <link href="https://www.phoronix.com/news/IBM-Red-Hat-Java-400-Vulns"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boston Dynamics Appoints Rohit Prasad as Chief Executive Officer]]></title>
-        <id>https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/</id>
-        <link href="https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/"/>
+        <title type="html"><![CDATA[Software developers are not okay [video]]]></title>
+        <id>https://www.youtube.com/watch?v=KsEpW03gxKg</id>
+        <link href="https://www.youtube.com/watch?v=KsEpW03gxKg"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gdelt: Real-time database of global human society for open research]]></title>
-        <id>https://gdeltproject.org/</id>
-        <link href="https://gdeltproject.org/"/>
+        <title type="html"><![CDATA[Show HN: OpenPhoto – Photoshop Rebuilt in Rust]]></title>
+        <id>https://github.com/yuanzhixiang/openphoto</id>
+        <link href="https://github.com/yuanzhixiang/openphoto"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Near-Earth Asteroid 2026 TB3 Provides Valuable Insight into Close Approaches]]></title>
+        <id>https://www.astrophyzix.com/2026/10/asteroid-2026-TB3.html</id>
+        <link href="https://www.astrophyzix.com/2026/10/asteroid-2026-TB3.html"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
@@ -141,9 +148,65 @@
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Near-Earth Asteroid 2026 TB3 Provides Valuable Insight into Close Approaches]]></title>
-        <id>https://www.astrophyzix.com/2026/10/asteroid-2026-TB3.html</id>
-        <link href="https://www.astrophyzix.com/2026/10/asteroid-2026-TB3.html"/>
+        <title type="html"><![CDATA[Gdelt: Real-time database of global human society for open research]]></title>
+        <id>https://gdeltproject.org/</id>
+        <link href="https://gdeltproject.org/"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boston Dynamics Appoints Rohit Prasad as Chief Executive Officer]]></title>
+        <id>https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/</id>
+        <link href="https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Zizians [video]]]></title>
+        <id>https://www.youtube.com/watch?v=C0HYotaCvcg</id>
+        <link href="https://www.youtube.com/watch?v=C0HYotaCvcg"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: TerrainSR – fast, realistic heightmap upscaling model]]></title>
+        <id>https://huggingface.co/joe-gibbs/terrainsr</id>
+        <link href="https://huggingface.co/joe-gibbs/terrainsr"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Olmo-core 3: Open, scalable training infrastructure for large MoEs]]></title>
+        <id>https://allenai.org/blog/olmocore3</id>
+        <link href="https://allenai.org/blog/olmocore3"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do you handle client feedback and revisions on website projects?]]></title>
+        <id>https://news.ycombinator.com/item?id=49987630</id>
+        <link href="https://news.ycombinator.com/item?id=49987630"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can VLMs recognize famous videos from just their colors?]]></title>
+        <id>https://loganbolton.github.io/blog/videocolorbench/</id>
+        <link href="https://loganbolton.github.io/blog/videocolorbench/"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Open Challenge to GitHub Users: Test Das Architecture with Meta Muse Sentinel]]></title>
+        <id>https://zenodo.org/records/23201404</id>
+        <link href="https://zenodo.org/records/23201404"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Vim-like, hyper-efficient, LLM power tool – 20-80k tokens not 350k+]]></title>
+        <id>https://easiest.ai/</id>
+        <link href="https://easiest.ai/"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
@@ -211,9 +274,9 @@
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI “rogue” agent activities found on Wikimedia projects]]></title>
-        <id>https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/</id>
-        <link href="https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/"/>
+        <title type="html"><![CDATA[datasette-atom 0.11a0]]></title>
+        <id>https://simonwillison.net/2026/Oct/6/datasette-atom/</id>
+        <link href="https://simonwillison.net/2026/Oct/6/datasette-atom/"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
@@ -225,9 +288,9 @@
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[datasette-atom 0.11a0]]></title>
-        <id>https://simonwillison.net/2026/Oct/6/datasette-atom/</id>
-        <link href="https://simonwillison.net/2026/Oct/6/datasette-atom/"/>
+        <title type="html"><![CDATA[OpenAI “rogue” agent activities found on Wikimedia projects]]></title>
+        <id>https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/</id>
+        <link href="https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
@@ -298,69 +361,6 @@
         <title type="html"><![CDATA[An Information-Theoretic Evaluation Framework for Benchmark and Model Diagnosis in Knowledge Tracing]]></title>
         <id>https://arxiv.org/abs/2610.06988</id>
         <link href="https://arxiv.org/abs/2610.06988"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DART-ES: Difficulty-Aware Reweighting and Targeted Replay for Fine-Tuning LLMs with Evolution Strategies]]></title>
-        <id>https://arxiv.org/abs/2610.06993</id>
-        <link href="https://arxiv.org/abs/2610.06993"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mask-Guided KV Cache Eviction in Block Diffusion Language Models]]></title>
-        <id>https://arxiv.org/abs/2610.06996</id>
-        <link href="https://arxiv.org/abs/2610.06996"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skillful Data-Driven Subseasonal Soil Moisture Forecasting: Prospects and Limits for Flash Drought Prediction]]></title>
-        <id>https://arxiv.org/abs/2610.07060</id>
-        <link href="https://arxiv.org/abs/2610.07060"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Few-Shot Bioactivity Prediction with Meta-Learning under Assay Heterogeneity]]></title>
-        <id>https://arxiv.org/abs/2610.07079</id>
-        <link href="https://arxiv.org/abs/2610.07079"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Attention Does Not Explain the Peak: Temporal Reference vs. Forecast Output in Attention-Based Time-Series Forecasting]]></title>
-        <id>https://arxiv.org/abs/2610.07080</id>
-        <link href="https://arxiv.org/abs/2610.07080"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SchemaFill: Efficient LLM Tool Calling via Slot-Parallel Speculative Decoding]]></title>
-        <id>https://arxiv.org/abs/2610.07086</id>
-        <link href="https://arxiv.org/abs/2610.07086"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will the Judge Flip? Predicting Position-Sensitive LLM Judgments from Residual Stream Activations]]></title>
-        <id>https://arxiv.org/abs/2610.07115</id>
-        <link href="https://arxiv.org/abs/2610.07115"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLM-as-a-Judge: Evaluating an Open Contrastive Decision Model on Public Judge Benchmarks]]></title>
-        <id>https://arxiv.org/abs/2610.07177</id>
-        <link href="https://arxiv.org/abs/2610.07177"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning Scientific Exploration from Human Research Decision Trajectories]]></title>
-        <id>https://arxiv.org/abs/2610.07184</id>
-        <link href="https://arxiv.org/abs/2610.07184"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
