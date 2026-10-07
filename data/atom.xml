@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-07T00:02:29.230Z</updated>
+    <updated>2026-10-07T02:02:44.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Amazon’s last-gen Kindle Paperwhite is 30 percent off]]></title>
-        <id>https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale"/>
+        <title type="html"><![CDATA[Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say]]></title>
+        <id>https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy</id>
+        <link href="https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say]]></title>
-        <id>https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy</id>
-        <link href="https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy"/>
+        <title type="html"><![CDATA[Amazon’s last-gen Kindle Paperwhite is 30 percent off]]></title>
+        <id>https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
@@ -71,37 +71,51 @@
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Near-Earth Asteroid 2026 TB3 Provides Valuable Insight into Close Approaches]]></title>
+        <id>https://www.astrophyzix.com/2026/10/asteroid-2026-TB3.html</id>
+        <link href="https://www.astrophyzix.com/2026/10/asteroid-2026-TB3.html"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Couple was swatted 55 times in 2 years over a post about Norm Macdonald]]></title>
+        <id>https://www.cbc.ca/lite/story/9.7370118</id>
+        <link href="https://www.cbc.ca/lite/story/9.7370118"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gdelt: Real-time database of global human society for open research]]></title>
+        <id>https://gdeltproject.org/</id>
+        <link href="https://gdeltproject.org/"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boston Dynamics Appoints Rohit Prasad as Chief Executive Officer]]></title>
+        <id>https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/</id>
+        <link href="https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Zizians [video]]]></title>
+        <id>https://www.youtube.com/watch?v=C0HYotaCvcg</id>
+        <link href="https://www.youtube.com/watch?v=C0HYotaCvcg"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: TerrainSR – fast, realistic heightmap upscaling model]]></title>
+        <id>https://huggingface.co/joe-gibbs/terrainsr</id>
+        <link href="https://huggingface.co/joe-gibbs/terrainsr"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Atlassian and OpenAI expand partnership to turn enterprise knowledge into action]]></title>
         <id>https://openai.com/index/atlassian-partnership</id>
         <link href="https://openai.com/index/atlassian-partnership"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI Fixed Your Bug. It Kept the Lesson.]]></title>
-        <id>https://pub.towardsai.net/the-ai-fixed-your-bug-it-kept-the-lesson-373bad702e57?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-ai-fixed-your-bug-it-kept-the-lesson-373bad702e57?source=rss----98111c9905da---4"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why GPT Ditched Half the Transformer]]></title>
-        <id>https://pub.towardsai.net/why-gpt-ditched-half-the-transformer-bc8831076cf1?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-gpt-ditched-half-the-transformer-bc8831076cf1?source=rss----98111c9905da---4"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part XI — RDD vs DataFrame vs Dataset: Why Your “Type-Safe Refactor” Made Spark 3x Slower]]></title>
-        <id>https://pub.towardsai.net/part-xi-rdd-vs-dataframe-vs-dataset-why-your-type-safe-refactor-made-spark-3x-slower-99bdba6f7eaa?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/part-xi-rdd-vs-dataframe-vs-dataset-why-your-type-safe-refactor-made-spark-3x-slower-99bdba6f7eaa?source=rss----98111c9905da---4"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Obsidian + Ollama on My 24GB Mac: The Local LLM Setup I Wish I'd Had First]]></title>
-        <id>https://pub.towardsai.net/obsidian-ollama-on-my-24gb-mac-the-local-llm-setup-i-wish-id-had-first-cf49a40045d2?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/obsidian-ollama-on-my-24gb-mac-the-local-llm-setup-i-wish-id-had-first-cf49a40045d2?source=rss----98111c9905da---4"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
@@ -113,9 +127,30 @@
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using Parseable with Datasette for OpenTelemetry traces]]></title>
-        <id>https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/</id>
-        <link href="https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/"/>
+        <title type="html"><![CDATA[Obsidian + Ollama on My 24GB Mac: The Local LLM Setup I Wish I'd Had First]]></title>
+        <id>https://pub.towardsai.net/obsidian-ollama-on-my-24gb-mac-the-local-llm-setup-i-wish-id-had-first-cf49a40045d2?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/obsidian-ollama-on-my-24gb-mac-the-local-llm-setup-i-wish-id-had-first-cf49a40045d2?source=rss----98111c9905da---4"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part XI — RDD vs DataFrame vs Dataset: Why Your “Type-Safe Refactor” Made Spark 3x Slower]]></title>
+        <id>https://pub.towardsai.net/part-xi-rdd-vs-dataframe-vs-dataset-why-your-type-safe-refactor-made-spark-3x-slower-99bdba6f7eaa?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/part-xi-rdd-vs-dataframe-vs-dataset-why-your-type-safe-refactor-made-spark-3x-slower-99bdba6f7eaa?source=rss----98111c9905da---4"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why GPT Ditched Half the Transformer]]></title>
+        <id>https://pub.towardsai.net/why-gpt-ditched-half-the-transformer-bc8831076cf1?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-gpt-ditched-half-the-transformer-bc8831076cf1?source=rss----98111c9905da---4"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Fixed Your Bug. It Kept the Lesson.]]></title>
+        <id>https://pub.towardsai.net/the-ai-fixed-your-bug-it-kept-the-lesson-373bad702e57?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-ai-fixed-your-bug-it-kept-the-lesson-373bad702e57?source=rss----98111c9905da---4"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
@@ -127,6 +162,13 @@
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Using Parseable with Datasette for OpenTelemetry traces]]></title>
+        <id>https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/</id>
+        <link href="https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Building Git infrastructure for agent-scale development]]></title>
         <id>https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/</id>
         <link href="https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/"/>
@@ -134,93 +176,9 @@
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scraping App Store and Google Play reviews without an API key]]></title>
-        <id>https://dev.to/quiethand098/scraping-app-store-and-google-play-reviews-without-an-api-key-40kd</id>
-        <link href="https://dev.to/quiethand098/scraping-app-store-and-google-play-reviews-without-an-api-key-40kd"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to get real article URLs from Google News RSS (decoding the CBMi links)]]></title>
-        <id>https://dev.to/quiethand098/how-to-get-real-article-urls-from-google-news-rss-decoding-the-cbmi-links-e5j</id>
-        <link href="https://dev.to/quiethand098/how-to-get-real-article-urls-from-google-news-rss-decoding-the-cbmi-links-e5j"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Podcast Intro Generator]]></title>
-        <id>https://dev.to/voice_developer/how-to-build-a-podcast-intro-generator-4km1</id>
-        <link href="https://dev.to/voice_developer/how-to-build-a-podcast-intro-generator-4km1"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get a Company's EU VAT Number from Its Company Number: the Rules for 10 Countries (with Code)]]></title>
-        <id>https://dev.to/matiasmaquieira/get-a-companys-eu-vat-number-from-its-company-number-the-rules-for-10-countries-with-code-497f</id>
-        <link href="https://dev.to/matiasmaquieira/get-a-companys-eu-vat-number-from-its-company-number-the-rules-for-10-countries-with-code-497f"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A tiny DOM check for broken aria-describedby references]]></title>
-        <id>https://dev.to/cat_b6311d81e19dfa8/a-tiny-dom-check-for-broken-aria-describedby-references-5f42</id>
-        <link href="https://dev.to/cat_b6311d81e19dfa8/a-tiny-dom-check-for-broken-aria-describedby-references-5f42"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I turned my terminal game into an isometric world (plain SVG + Vue, no game engine)]]></title>
-        <id>https://dev.to/dockerlinux/i-turned-my-terminal-game-into-an-isometric-world-plain-svg-vue-no-game-engine-2pla</id>
-        <link href="https://dev.to/dockerlinux/i-turned-my-terminal-game-into-an-isometric-world-plain-svg-vue-no-game-engine-2pla"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue Vapor Mode: what it is and what changes in Vue 3.6]]></title>
-        <id>https://dev.to/codigoaoponto/vue-vapor-mode-what-it-is-and-what-changes-in-vue-36-2cmc</id>
-        <link href="https://dev.to/codigoaoponto/vue-vapor-mode-what-it-is-and-what-changes-in-vue-36-2cmc"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compressing 4K Video in the Browser: Replacing $20/mo Cloud SaaS with WebCodecs & WebGPU]]></title>
-        <id>https://dev.to/khaithisran/compressing-4k-video-in-the-browser-replacing-20mo-cloud-saas-with-webcodecs-webgpu-4od9</id>
-        <link href="https://dev.to/khaithisran/compressing-4k-video-in-the-browser-replacing-20mo-cloud-saas-with-webcodecs-webgpu-4od9"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful Web Development Resources: How to Build Faster Without Reinventing Everything]]></title>
-        <id>https://dev.to/praiseabel26/useful-web-development-resources-how-to-build-faster-without-reinventing-everything-1lb5</id>
-        <link href="https://dev.to/praiseabel26/useful-web-development-resources-how-to-build-faster-without-reinventing-everything-1lb5"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measuring Order Book vs AMM Share on the XRP Ledger]]></title>
-        <id>https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-1jd0</id>
-        <link href="https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-1jd0"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Syncing localStorage to a Server Without Losing Data: Merges, Revisions, and Account Switching]]></title>
-        <id>https://dev.to/andy2000/syncing-localstorage-to-a-server-without-losing-data-merges-revisions-and-account-switching-2944</id>
-        <link href="https://dev.to/andy2000/syncing-localstorage-to-a-server-without-losing-data-merges-revisions-and-account-switching-2944"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a Free Word Counter That Runs 100% in Your Browser — Here's What I Learned About Client-Side Text Analysis]]></title>
-        <id>https://dev.to/alamzebkhan/i-built-a-free-word-counter-that-runs-100-in-your-browser-heres-what-i-learned-about-399n</id>
-        <link href="https://dev.to/alamzebkhan/i-built-a-free-word-counter-that-runs-100-in-your-browser-heres-what-i-learned-about-399n"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Wordle Solver: Letter Frequency Analysis in JavaScript]]></title>
-        <id>https://dev.to/alamzebkhan/building-a-wordle-solver-letter-frequency-analysis-in-javascript-22np</id>
-        <link href="https://dev.to/alamzebkhan/building-a-wordle-solver-letter-frequency-analysis-in-javascript-22np"/>
+        <title type="html"><![CDATA[Stop Pushing Broken Code: Clean Git Hooks Without External Packages]]></title>
+        <id>https://dev.to/ramonsilvadev/stop-pushing-broken-code-clean-git-hooks-without-external-packages-20pb</id>
+        <link href="https://dev.to/ramonsilvadev/stop-pushing-broken-code-clean-git-hooks-without-external-packages-20pb"/>
         <updated>2026-10-06T16:00:00.000Z</updated>
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
@@ -232,51 +190,100 @@
         <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New leaks reveal more details about the Fitbit Edge including its price]]></title>
-        <id>https://www.theverge.com/tech/1005519/google-fitbit-edge-leak-fitness-tracker-price-features</id>
-        <link href="https://www.theverge.com/tech/1005519/google-fitbit-edge-leak-fitness-tracker-price-features"/>
-        <updated>2026-10-05T16:00:00.000Z</updated>
-        <published>2026-10-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Building a Wordle Solver: Letter Frequency Analysis in JavaScript]]></title>
+        <id>https://dev.to/alamzebkhan/building-a-wordle-solver-letter-frequency-analysis-in-javascript-22np</id>
+        <link href="https://dev.to/alamzebkhan/building-a-wordle-solver-letter-frequency-analysis-in-javascript-22np"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The wireless headphones that roll up into a Bluetooth speaker are now available]]></title>
-        <id>https://www.theverge.com/tech/1004860/tomorrow-doesnt-matter-tdm-neo-headphone-roll-up-bluetooth-speaker-us-availability</id>
-        <link href="https://www.theverge.com/tech/1004860/tomorrow-doesnt-matter-tdm-neo-headphone-roll-up-bluetooth-speaker-us-availability"/>
-        <updated>2026-10-05T16:00:00.000Z</updated>
-        <published>2026-10-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I Built a Free Word Counter That Runs 100% in Your Browser — Here's What I Learned About Client-Side Text Analysis]]></title>
+        <id>https://dev.to/alamzebkhan/i-built-a-free-word-counter-that-runs-100-in-your-browser-heres-what-i-learned-about-399n</id>
+        <link href="https://dev.to/alamzebkhan/i-built-a-free-word-counter-that-runs-100-in-your-browser-heres-what-i-learned-about-399n"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This remote-controlled wagon is silly but so very useful]]></title>
-        <id>https://www.theverge.com/tech/1004820/this-remote-controlled-wagon-is-silly-but-useful</id>
-        <link href="https://www.theverge.com/tech/1004820/this-remote-controlled-wagon-is-silly-but-useful"/>
-        <updated>2026-10-05T16:00:00.000Z</updated>
-        <published>2026-10-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Syncing localStorage to a Server Without Losing Data: Merges, Revisions, and Account Switching]]></title>
+        <id>https://dev.to/andy2000/syncing-localstorage-to-a-server-without-losing-data-merges-revisions-and-account-switching-2944</id>
+        <link href="https://dev.to/andy2000/syncing-localstorage-to-a-server-without-losing-data-merges-revisions-and-account-switching-2944"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports]]></title>
-        <id>https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports</id>
-        <link href="https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports"/>
-        <updated>2026-10-05T16:00:00.000Z</updated>
-        <published>2026-10-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Measuring Order Book vs AMM Share on the XRP Ledger]]></title>
+        <id>https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-1jd0</id>
+        <link href="https://dev.to/nyxagi/measuring-order-book-vs-amm-share-on-the-xrp-ledger-1jd0"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Matic is the first robovac to get an FCC ban waiver, not that it needs it]]></title>
-        <id>https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval</id>
-        <link href="https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval"/>
-        <updated>2026-10-05T16:00:00.000Z</updated>
-        <published>2026-10-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Useful Web Development Resources: How to Build Faster Without Reinventing Everything]]></title>
+        <id>https://dev.to/praiseabel26/useful-web-development-resources-how-to-build-faster-without-reinventing-everything-1lb5</id>
+        <link href="https://dev.to/praiseabel26/useful-web-development-resources-how-to-build-faster-without-reinventing-everything-1lb5"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This startup is issuing AI-generated acne prescriptions]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions"/>
-        <updated>2026-10-05T16:00:00.000Z</updated>
-        <published>2026-10-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Compressing 4K Video in the Browser: Replacing $20/mo Cloud SaaS with WebCodecs & WebGPU]]></title>
+        <id>https://dev.to/khaithisran/compressing-4k-video-in-the-browser-replacing-20mo-cloud-saas-with-webcodecs-webgpu-4od9</id>
+        <link href="https://dev.to/khaithisran/compressing-4k-video-in-the-browser-replacing-20mo-cloud-saas-with-webcodecs-webgpu-4od9"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hyundai CEO says only a ‘level playing field’ can minimize damage from China]]></title>
-        <id>https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share</id>
-        <link href="https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share"/>
+        <title type="html"><![CDATA[Vue Vapor Mode: what it is and what changes in Vue 3.6]]></title>
+        <id>https://dev.to/codigoaoponto/vue-vapor-mode-what-it-is-and-what-changes-in-vue-36-2cmc</id>
+        <link href="https://dev.to/codigoaoponto/vue-vapor-mode-what-it-is-and-what-changes-in-vue-36-2cmc"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I turned my terminal game into an isometric world (plain SVG + Vue, no game engine)]]></title>
+        <id>https://dev.to/dockerlinux/i-turned-my-terminal-game-into-an-isometric-world-plain-svg-vue-no-game-engine-2pla</id>
+        <link href="https://dev.to/dockerlinux/i-turned-my-terminal-game-into-an-isometric-world-plain-svg-vue-no-game-engine-2pla"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A tiny DOM check for broken aria-describedby references]]></title>
+        <id>https://dev.to/cat_b6311d81e19dfa8/a-tiny-dom-check-for-broken-aria-describedby-references-5f42</id>
+        <link href="https://dev.to/cat_b6311d81e19dfa8/a-tiny-dom-check-for-broken-aria-describedby-references-5f42"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get a Company's EU VAT Number from Its Company Number: the Rules for 10 Countries (with Code)]]></title>
+        <id>https://dev.to/matiasmaquieira/get-a-companys-eu-vat-number-from-its-company-number-the-rules-for-10-countries-with-code-497f</id>
+        <link href="https://dev.to/matiasmaquieira/get-a-companys-eu-vat-number-from-its-company-number-the-rules-for-10-countries-with-code-497f"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Podcast Intro Generator]]></title>
+        <id>https://dev.to/voice_developer/how-to-build-a-podcast-intro-generator-4km1</id>
+        <link href="https://dev.to/voice_developer/how-to-build-a-podcast-intro-generator-4km1"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get real article URLs from Google News RSS (decoding the CBMi links)]]></title>
+        <id>https://dev.to/quiethand098/how-to-get-real-article-urls-from-google-news-rss-decoding-the-cbmi-links-e5j</id>
+        <link href="https://dev.to/quiethand098/how-to-get-real-article-urls-from-google-news-rss-decoding-the-cbmi-links-e5j"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scraping App Store and Google Play reviews without an API key]]></title>
+        <id>https://dev.to/quiethand098/scraping-app-store-and-google-play-reviews-without-an-api-key-40kd</id>
+        <link href="https://dev.to/quiethand098/scraping-app-store-and-google-play-reviews-without-an-api-key-40kd"/>
+        <updated>2026-10-06T16:00:00.000Z</updated>
+        <published>2026-10-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The easiest Apple Watch to recommend is $50 off]]></title>
+        <id>https://www.theverge.com/gadgets/1002889/apple-watch-se-3-prime-day-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1002889/apple-watch-se-3-prime-day-deal-sale"/>
         <updated>2026-10-05T16:00:00.000Z</updated>
         <published>2026-10-05T16:00:00.000Z</published>
     </entry>
@@ -288,9 +295,51 @@
         <published>2026-10-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The easiest Apple Watch to recommend is $50 off]]></title>
-        <id>https://www.theverge.com/gadgets/1002889/apple-watch-se-3-prime-day-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1002889/apple-watch-se-3-prime-day-deal-sale"/>
+        <title type="html"><![CDATA[Hyundai CEO says only a ‘level playing field’ can minimize damage from China]]></title>
+        <id>https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share</id>
+        <link href="https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share"/>
+        <updated>2026-10-05T16:00:00.000Z</updated>
+        <published>2026-10-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This startup is issuing AI-generated acne prescriptions]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions"/>
+        <updated>2026-10-05T16:00:00.000Z</updated>
+        <published>2026-10-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Matic is the first robovac to get an FCC ban waiver, not that it needs it]]></title>
+        <id>https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval</id>
+        <link href="https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval"/>
+        <updated>2026-10-05T16:00:00.000Z</updated>
+        <published>2026-10-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports]]></title>
+        <id>https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports</id>
+        <link href="https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports"/>
+        <updated>2026-10-05T16:00:00.000Z</updated>
+        <published>2026-10-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This remote-controlled wagon is silly but so very useful]]></title>
+        <id>https://www.theverge.com/tech/1004820/this-remote-controlled-wagon-is-silly-but-useful</id>
+        <link href="https://www.theverge.com/tech/1004820/this-remote-controlled-wagon-is-silly-but-useful"/>
+        <updated>2026-10-05T16:00:00.000Z</updated>
+        <published>2026-10-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The wireless headphones that roll up into a Bluetooth speaker are now available]]></title>
+        <id>https://www.theverge.com/tech/1004860/tomorrow-doesnt-matter-tdm-neo-headphone-roll-up-bluetooth-speaker-us-availability</id>
+        <link href="https://www.theverge.com/tech/1004860/tomorrow-doesnt-matter-tdm-neo-headphone-roll-up-bluetooth-speaker-us-availability"/>
+        <updated>2026-10-05T16:00:00.000Z</updated>
+        <published>2026-10-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New leaks reveal more details about the Fitbit Edge including its price]]></title>
+        <id>https://www.theverge.com/tech/1005519/google-fitbit-edge-leak-fitness-tracker-price-features</id>
+        <link href="https://www.theverge.com/tech/1005519/google-fitbit-edge-leak-fitness-tracker-price-features"/>
         <updated>2026-10-05T16:00:00.000Z</updated>
         <published>2026-10-05T16:00:00.000Z</published>
     </entry>
@@ -312,55 +361,6 @@
         <title type="html"><![CDATA[The 13 Amazon Device Deals Actually Worth Snagging This Prime Day]]></title>
         <id>https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day-10-06-2026/</id>
         <link href="https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day-10-06-2026/"/>
-        <updated>2026-10-05T16:00:00.000Z</updated>
-        <published>2026-10-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Found the 16 Best Prime Day Tech and Gadget Deals (October 2026)]]></title>
-        <id>https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/</id>
-        <link href="https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/"/>
-        <updated>2026-10-05T16:00:00.000Z</updated>
-        <published>2026-10-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[80 Best Prime Day Deals We’re Shopping This October (2026)]]></title>
-        <id>https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/</id>
-        <link href="https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/"/>
-        <updated>2026-10-05T16:00:00.000Z</updated>
-        <published>2026-10-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk’s Exes Are the Most Damning Part of a Massive New Documentary]]></title>
-        <id>https://www.wired.com/story/elon-musks-exes-are-the-most-damning-part-of-a-massive-new-documentary/</id>
-        <link href="https://www.wired.com/story/elon-musks-exes-are-the-most-damning-part-of-a-massive-new-documentary/"/>
-        <updated>2026-10-05T16:00:00.000Z</updated>
-        <published>2026-10-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astronomers Confirm Discovery of the Youngest Known Exoplanet Ever]]></title>
-        <id>https://www.wired.com/story/astronomers-confirm-discovery-of-youngest-known-exoplanet-ever/</id>
-        <link href="https://www.wired.com/story/astronomers-confirm-discovery-of-youngest-known-exoplanet-ever/"/>
-        <updated>2026-10-05T16:00:00.000Z</updated>
-        <published>2026-10-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our Go-To Over-Ear Headphones Are 37% Off This Prime Day (2026)]]></title>
-        <id>https://www.wired.com/story/nothing-headphone-1-deal-prime-day-10-6-2026/</id>
-        <link href="https://www.wired.com/story/nothing-headphone-1-deal-prime-day-10-6-2026/"/>
-        <updated>2026-10-05T16:00:00.000Z</updated>
-        <published>2026-10-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GamerCard Review: A Flawed Pocket-Size Retro Handheld]]></title>
-        <id>https://www.wired.com/review/gamercard/</id>
-        <link href="https://www.wired.com/review/gamercard/"/>
-        <updated>2026-10-05T16:00:00.000Z</updated>
-        <published>2026-10-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bluesky wants to give you your own domain on the open web]]></title>
-        <id>https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/</id>
-        <link href="https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/"/>
         <updated>2026-10-05T16:00:00.000Z</updated>
         <published>2026-10-05T16:00:00.000Z</published>
     </entry>
