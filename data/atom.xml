@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-08T02:04:46.662Z</updated>
+    <updated>2026-10-08T04:03:49.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -85,23 +85,72 @@
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bill Wyman Took Up Metal Detecting After Worker Found a Medieval Jug at His Home]]></title>
-        <id>https://timesofindia.indiatimes.com/world/uk/rolling-stones-bassist-bill-wyman-took-up-metal-detecting-after-workers-found-a-medieval-jug-at-his-suffolk-home-his-searches-later-uncovered-more-than-200-roman-coins-and-a-previously-unknown-farmstead/articleshow/134769761.cms</id>
-        <link href="https://timesofindia.indiatimes.com/world/uk/rolling-stones-bassist-bill-wyman-took-up-metal-detecting-after-workers-found-a-medieval-jug-at-his-suffolk-home-his-searches-later-uncovered-more-than-200-roman-coins-and-a-previously-unknown-farmstead/articleshow/134769761.cms"/>
+        <title type="html"><![CDATA[Towards Efficient HPC Systems for Agents: Challenges and Opportunities]]></title>
+        <id>https://arxiv.org/abs/2609.38723</id>
+        <link href="https://arxiv.org/abs/2609.38723"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Imaging Science Visualizations]]></title>
-        <id>https://github.com/Voranto/Imaging-Science-Project</id>
-        <link href="https://github.com/Voranto/Imaging-Science-Project"/>
+        <title type="html"><![CDATA[The Science That Has Oil Companies Running Scared]]></title>
+        <id>https://www.nytimes.com/2026/10/06/opinion/oil-companies-supreme-court.html</id>
+        <link href="https://www.nytimes.com/2026/10/06/opinion/oil-companies-supreme-court.html"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Roast My IAM Policy – a threat score and a gentle roast for AWS IAM policies]]></title>
-        <id>https://www.roastmyiampolicy.com</id>
-        <link href="https://www.roastmyiampolicy.com"/>
+        <title type="html"><![CDATA[Show HN: A utility microservice for human trust]]></title>
+        <id>https://futex.rodmena.co.uk/</id>
+        <link href="https://futex.rodmena.co.uk/"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 3dfx Voodoo Turns 30 – interview with cofounder Ross Smith]]></title>
+        <id>https://www.club386.com/3dfx-voodoo-history-ross-smith-interview/</id>
+        <link href="https://www.club386.com/3dfx-voodoo-history-ross-smith-interview/"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A 100x faster* alternative to homebrew]]></title>
+        <id>https://github.com/zerobrewhq/zerobrew</id>
+        <link href="https://github.com/zerobrewhq/zerobrew"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Was the Human Gut Healthier in Ancient Times?]]></title>
+        <id>https://www.nytimes.com/2026/10/07/science/microbiome-evolution-hadza-tsimane.html</id>
+        <link href="https://www.nytimes.com/2026/10/07/science/microbiome-evolution-hadza-tsimane.html"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make717, Lancaster PA's First Makerspace]]></title>
+        <id>https://www.make717.org/</id>
+        <link href="https://www.make717.org/"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Musk, Jensen Huang, Lisa Su Awarded National Medal of Science]]></title>
+        <id>https://www.foxnews.com/politics/first-fox-elon-musk-heads-back-white-house-trump-marks-prestigious-first-presidency</id>
+        <link href="https://www.foxnews.com/politics/first-fox-elon-musk-heads-back-white-house-trump-marks-prestigious-first-presidency"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humanity's Last Problem]]></title>
+        <id>https://benhylak.substack.com/p/humanitys-last-problem</id>
+        <link href="https://benhylak.substack.com/p/humanitys-last-problem"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age]]></title>
+        <id>https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/</id>
+        <link href="https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
@@ -113,9 +162,23 @@
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age]]></title>
-        <id>https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/</id>
-        <link href="https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/"/>
+        <title type="html"><![CDATA[Roast My IAM Policy – a threat score and a gentle roast for AWS IAM policies]]></title>
+        <id>https://www.roastmyiampolicy.com</id>
+        <link href="https://www.roastmyiampolicy.com"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Imaging Science Visualizations]]></title>
+        <id>https://github.com/Voranto/Imaging-Science-Project</id>
+        <link href="https://github.com/Voranto/Imaging-Science-Project"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bill Wyman Took Up Metal Detecting After Worker Found a Medieval Jug at His Home]]></title>
+        <id>https://timesofindia.indiatimes.com/world/uk/rolling-stones-bassist-bill-wyman-took-up-metal-detecting-after-workers-found-a-medieval-jug-at-his-suffolk-home-his-searches-later-uncovered-more-than-200-roman-coins-and-a-previously-unknown-farmstead/articleshow/134769761.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/uk/rolling-stones-bassist-bill-wyman-took-up-metal-detecting-after-workers-found-a-medieval-jug-at-his-suffolk-home-his-searches-later-uncovered-more-than-200-roman-coins-and-a-previously-unknown-farmstead/articleshow/134769761.cms"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
@@ -155,225 +218,150 @@
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Secret protection must scale with software]]></title>
-        <id>https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/</id>
-        <link href="https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/"/>
+        <title type="html"><![CDATA[A Bayesian Mirror Architecture for Emergent Consciousness: Circular Hierarchies, Self-Manifolds, and Hybrid Event-Self Binding]]></title>
+        <id>https://arxiv.org/abs/2610.08792</id>
+        <link href="https://arxiv.org/abs/2610.08792"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-Neutralinojs v6.9 released!
-]]></title>
-        <id>
-https://neutralino.js.org/docs/release-notes/framework#v690
-</id>
-        <link href="
-https://neutralino.js.org/docs/release-notes/framework#v690
-"/>
+        <title type="html"><![CDATA[KVFetch: Temporal Prefetching for the Missing Half of KV Cache Compression]]></title>
+        <id>https://arxiv.org/abs/2610.08811</id>
+        <link href="https://arxiv.org/abs/2610.08811"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-Xec — the zx-style $ that also runs over SSH, Docker and Kubernetes
-]]></title>
-        <id>
-https://xec.sh/
-</id>
-        <link href="
-https://xec.sh/
-"/>
+        <title type="html"><![CDATA[DenoFlow: Flow Matching for SSVEP Denoising under Real Physiological Artifacts]]></title>
+        <id>https://arxiv.org/abs/2610.08817</id>
+        <link href="https://arxiv.org/abs/2610.08817"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[eslint/eslint]]></title>
-        <id>https://github.com/eslint/eslint</id>
-        <link href="https://github.com/eslint/eslint"/>
+        <title type="html"><![CDATA[Just for FUNS: LLM-Guided Spatio-Temporal Graph Node Generation for Forecasting Unobserved Node States]]></title>
+        <id>https://arxiv.org/abs/2610.08818</id>
+        <link href="https://arxiv.org/abs/2610.08818"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[liyupi/ai-guide]]></title>
-        <id>https://github.com/liyupi/ai-guide</id>
-        <link href="https://github.com/liyupi/ai-guide"/>
+        <title type="html"><![CDATA[HydroSphere: A Framework for Governed, Self-Healing Wastewater Infrastructure]]></title>
+        <id>https://arxiv.org/abs/2610.08819</id>
+        <link href="https://arxiv.org/abs/2610.08819"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Day 15: Learning JavaScript Splice, Spread, Rest, Fetch, Promises & Array Methods 🚀]]></title>
-        <id>https://dev.to/saravanan_cn_183fcba7cc7a/day-15-learning-javascript-splice-spread-rest-fetch-promises-array-methods-47bp</id>
-        <link href="https://dev.to/saravanan_cn_183fcba7cc7a/day-15-learning-javascript-splice-spread-rest-fetch-promises-array-methods-47bp"/>
+        <title type="html"><![CDATA[Task-Oriented Key-Layer KV Communication for Efficient Latent Multi-Agent Collaboration]]></title>
+        <id>https://arxiv.org/abs/2610.08820</id>
+        <link href="https://arxiv.org/abs/2610.08820"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[QR Codes Aren't Just URL Shortcuts]]></title>
-        <id>https://dev.to/mahavault/qr-codes-arent-just-url-shortcuts-334i</id>
-        <link href="https://dev.to/mahavault/qr-codes-arent-just-url-shortcuts-334i"/>
+        <title type="html"><![CDATA[A Vehicle-Integrated Approach to Digital Twin Deployment for Bridges Through Drive-By Sensing]]></title>
+        <id>https://arxiv.org/abs/2610.08822</id>
+        <link href="https://arxiv.org/abs/2610.08822"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Compiling FFmpeg to WebAssembly: Building a Zero-Backend Video & Audio Converter]]></title>
-        <id>https://dev.to/khaithisran/compiling-ffmpeg-to-webassembly-building-a-zero-backend-video-audio-converter-4e70</id>
-        <link href="https://dev.to/khaithisran/compiling-ffmpeg-to-webassembly-building-a-zero-backend-video-audio-converter-4e70"/>
+        <title type="html"><![CDATA[HCPN-GCN: Scaling Hierarchical Prototype Networks with Cone Geometry for Continual Graph Learning]]></title>
+        <id>https://arxiv.org/abs/2610.08823</id>
+        <link href="https://arxiv.org/abs/2610.08823"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Grocery Sim Where the Stock Only Exists on My Server]]></title>
-        <id>https://dev.to/levi_barron_4eda77451a8e9/i-built-a-grocery-sim-where-the-stock-only-exists-on-my-server-39me</id>
-        <link href="https://dev.to/levi_barron_4eda77451a8e9/i-built-a-grocery-sim-where-the-stock-only-exists-on-my-server-39me"/>
+        <title type="html"><![CDATA[Algorithmic Scratchpads and Curriculum Staging for Arithmetic Reasoning in Tiny Transformers]]></title>
+        <id>https://arxiv.org/abs/2610.09003</id>
+        <link href="https://arxiv.org/abs/2610.09003"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Merging PDFs in the browser with pdf-lib (no server upload)]]></title>
-        <id>https://dev.to/madhav_kumar_cc1d644398e0/merging-pdfs-in-the-browser-with-pdf-lib-no-server-upload-4a92</id>
-        <link href="https://dev.to/madhav_kumar_cc1d644398e0/merging-pdfs-in-the-browser-with-pdf-lib-no-server-upload-4a92"/>
+        <title type="html"><![CDATA[A Self-Pruning Transformer: Extreme KV-Cache Compression with Universal Attention]]></title>
+        <id>https://arxiv.org/abs/2610.09051</id>
+        <link href="https://arxiv.org/abs/2610.09051"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Limn Engine Is Getting a Performance Plugin That Might Change How You Think About Browser Games]]></title>
-        <id>https://dev.to/kehinde_owolabi_e2e54567a/limn-engine-is-getting-a-performance-plugin-that-might-change-how-you-think-about-browser-games-324n</id>
-        <link href="https://dev.to/kehinde_owolabi_e2e54567a/limn-engine-is-getting-a-performance-plugin-that-might-change-how-you-think-about-browser-games-324n"/>
+        <title type="html"><![CDATA[BeatFlow-ECG: Rectified Flow for ECG Reconstruction from Indirect Wearable Signals]]></title>
+        <id>https://arxiv.org/abs/2610.09052</id>
+        <link href="https://arxiv.org/abs/2610.09052"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a Chrome extension for screen recording with automatic mouse zoom]]></title>
-        <id>https://dev.to/carlos_dmoronc/i-built-a-chrome-extension-for-screen-recording-with-automatic-mouse-zoom-1hbh</id>
-        <link href="https://dev.to/carlos_dmoronc/i-built-a-chrome-extension-for-screen-recording-with-automatic-mouse-zoom-1hbh"/>
+        <title type="html"><![CDATA[Learning Cross-Model Activation Alignments with Explicit Many-to-Many Layer Maps]]></title>
+        <id>https://arxiv.org/abs/2610.09058</id>
+        <link href="https://arxiv.org/abs/2610.09058"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Converting numbers to Arabic words in JavaScript is harder than you think]]></title>
-        <id>https://dev.to/sakeden12/converting-numbers-to-arabic-words-in-javascript-is-harder-than-you-think-2fkh</id>
-        <link href="https://dev.to/sakeden12/converting-numbers-to-arabic-words-in-javascript-is-harder-than-you-think-2fkh"/>
+        <title type="html"><![CDATA[EDiS: Edge Disjoint Subgraph Sparsification Framework for Graph Neural Networks]]></title>
+        <id>https://arxiv.org/abs/2610.09059</id>
+        <link href="https://arxiv.org/abs/2610.09059"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TanStack React Router]]></title>
-        <id>https://dev.to/yuripeixinho/tanstack-react-router-ieg</id>
-        <link href="https://dev.to/yuripeixinho/tanstack-react-router-ieg"/>
+        <title type="html"><![CDATA[TAP: Efficient Long-Horizon Agent Pruning via Trajectory-Anchored Recovery]]></title>
+        <id>https://arxiv.org/abs/2610.09074</id>
+        <link href="https://arxiv.org/abs/2610.09074"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built an In-Browser, Zero-Upload PDF Merger & Converter Using WebAssembly and Canvas]]></title>
-        <id>https://dev.to/taqi_raza_92/how-i-built-an-in-browser-zero-upload-pdf-merger-converter-using-webassembly-and-canvas-1351</id>
-        <link href="https://dev.to/taqi_raza_92/how-i-built-an-in-browser-zero-upload-pdf-merger-converter-using-webassembly-and-canvas-1351"/>
+        <title type="html"><![CDATA[Are We Really Benchmarking Forecasting Models? The Impact of Preprocessing on Time Series Performance]]></title>
+        <id>https://arxiv.org/abs/2610.09096</id>
+        <link href="https://arxiv.org/abs/2610.09096"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ring’s first smart lock can be charged by turning a dial when the battery unexpectedly dies]]></title>
-        <id>https://www.theverge.com/tech/1005916/amazon-ring-smart-home-lock-dial-recharge-camera-security-pricing-availability</id>
-        <link href="https://www.theverge.com/tech/1005916/amazon-ring-smart-home-lock-dial-recharge-camera-security-pricing-availability"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Are Parameter-Efficient Fine-tuning Methods Really Different?]]></title>
+        <id>https://arxiv.org/abs/2610.09122</id>
+        <link href="https://arxiv.org/abs/2610.09122"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My cats hate to see this great upright carpet cleaner coming]]></title>
-        <id>https://www.theverge.com/gadgets/1006710/bissell-carpet-cleaning-prime-day-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1006710/bissell-carpet-cleaning-prime-day-deal-sale"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Domain-informed Adaptive Sampling for Generalizable PINNs in Metal Additive Manufacturing via Conditional Flow Matching]]></title>
+        <id>https://arxiv.org/abs/2610.09126</id>
+        <link href="https://arxiv.org/abs/2610.09126"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon uses its tracking data to guess whether shoppers have a flat butt and no friends]]></title>
-        <id>https://www.theverge.com/tech/1006712/amazon-about-you-shopping-data</id>
-        <link href="https://www.theverge.com/tech/1006712/amazon-about-you-shopping-data"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Directional Evidence Guided Search-Space Reduction for Exact DAG Learning]]></title>
+        <id>https://arxiv.org/abs/2610.09136</id>
+        <link href="https://arxiv.org/abs/2610.09136"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon’s last-gen Kindle Paperwhite is 30 percent off]]></title>
-        <id>https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
+        <title type="html"><![CDATA[LayerRoPE: Dynamic Depth-wise Magnitude & Angular Superposition]]></title>
+        <id>https://arxiv.org/abs/2610.09179</id>
+        <link href="https://arxiv.org/abs/2610.09179"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say]]></title>
-        <id>https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy</id>
-        <link href="https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Patient, Place, Prior (P$^3$): What Counts as Personalization in Medical World Models?]]></title>
+        <id>https://arxiv.org/abs/2610.09194</id>
+        <link href="https://arxiv.org/abs/2610.09194"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[At $1,279, Google’s Xreal Aura will go head-to-head with Meta’s VR Glasses]]></title>
-        <id>https://www.theverge.com/news/1006207/google-xreal-aura-glasses-price-release-date-preorder</id>
-        <link href="https://www.theverge.com/news/1006207/google-xreal-aura-glasses-price-release-date-preorder"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Next Great Read Might Be Certified ‘Organic’]]></title>
-        <id>https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/</id>
-        <link href="https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[117 Best Prime Day Deals We’re Shopping This October (2026)]]></title>
-        <id>https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/</id>
-        <link href="https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 13 Amazon Device Deals Actually Worth Snagging This Prime Day (2026)]]></title>
-        <id>https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day-10-07-2026/</id>
-        <link href="https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day-10-07-2026/"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Prime Day Digital Wall Calendar Deals: Skylight, Everblog, Apolosign (2026)]]></title>
-        <id>https://www.wired.com/story/prime-day-digital-wall-calendar-deals-10-06-2026/</id>
-        <link href="https://www.wired.com/story/prime-day-digital-wall-calendar-deals-10-06-2026/"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers]]></title>
-        <id>https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/</id>
-        <link href="https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Probably Aren’t Going to Get the Plague]]></title>
-        <id>https://www.wired.com/story/what-we-know-about-plague-russia/</id>
-        <link href="https://www.wired.com/story/what-we-know-about-plague-russia/"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Startup Has a Plan to Make Water From Air Using Data Centers’ Waste Heat]]></title>
-        <id>https://www.wired.com/story/startup-atoco-makes-water-from-air-using-data-centers/</id>
-        <link href="https://www.wired.com/story/startup-atoco-makes-water-from-air-using-data-centers/"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Mysterious Nonprofit Run by SpaceXAI’s Top Lawyer Is Paying the Salaries of Government Workers]]></title>
-        <id>https://www.wired.com/story/mysterious-nonprofit-spacexai-national-design-studio-elon-musk-doge/</id>
-        <link href="https://www.wired.com/story/mysterious-nonprofit-spacexai-national-design-studio-elon-musk-doge/"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Digger’ is a Box Office Flop. It Might Be the Most Relevant Film of the Year]]></title>
-        <id>https://www.wired.com/story/digger-is-a-box-office-flop-it-might-be-the-most-relevant-film-of-the-year/</id>
-        <link href="https://www.wired.com/story/digger-is-a-box-office-flop-it-might-be-the-most-relevant-film-of-the-year/"/>
-        <updated>2026-10-06T16:00:00.000Z</updated>
-        <published>2026-10-06T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Efficient Best-of-N policy evaluation for inference-time alignment]]></title>
+        <id>https://arxiv.org/abs/2610.09250</id>
+        <link href="https://arxiv.org/abs/2610.09250"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
     </entry>
 </feed>
