@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-08T10:04:09.728Z</updated>
+    <updated>2026-10-08T13:03:06.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Joe Rogan and Spotify renew massive podcast deal]]></title>
+        <id>https://www.theverge.com/entertainment/1007725/joe-rogan-spotify-podcast-deal</id>
+        <link href="https://www.theverge.com/entertainment/1007725/joe-rogan-spotify-podcast-deal"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[It appears .agent and .agi are about to be the hot new domains]]></title>
         <id>https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi</id>
@@ -78,16 +85,9 @@
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta’s Muse launches on iPad just a month after its mobile debut]]></title>
-        <id>https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/</id>
-        <link href="https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT is getting a lot more visual, with the launch of a new interface]]></title>
-        <id>https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/</id>
-        <link href="https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"/>
+        <title type="html"><![CDATA[Last call to volunteer at TechCrunch Founder Summit 2026]]></title>
+        <id>https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026/</id>
+        <link href="https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
@@ -99,163 +99,93 @@
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: SVG Spark – 10 client-side SVG design and dev tools]]></title>
-        <id>https://svg-spark.vercel.app/</id>
-        <link href="https://svg-spark.vercel.app/"/>
+        <title type="html"><![CDATA[ChatGPT is getting a lot more visual, with the launch of a new interface]]></title>
+        <id>https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/</id>
+        <link href="https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Join the Show – plan a trip that catches several live concerts]]></title>
-        <id>https://jointhe.show/</id>
-        <link href="https://jointhe.show/"/>
+        <title type="html"><![CDATA[Meta’s Muse launches on iPad just a month after its mobile debut]]></title>
+        <id>https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/</id>
+        <link href="https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SingPost launches trial of digital stamps]]></title>
-        <id>https://www.channelnewsasia.com/singapore/singpost-digital-stamp-postage-trial-launch-6441321</id>
-        <link href="https://www.channelnewsasia.com/singapore/singpost-digital-stamp-postage-trial-launch-6441321"/>
+        <title type="html"><![CDATA[Show HN: Leafovers "vibe coded" promo video]]></title>
+        <id>https://www.youtube.com/watch?v=o8565m3eTok</id>
+        <link href="https://www.youtube.com/watch?v=o8565m3eTok"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A unique piece of Internet history: A RFC1149 packet on auction at Christie's]]></title>
-        <id>https://bsdly.blogspot.com/2026/10/a-unique-piece-of-internet-history.html</id>
-        <link href="https://bsdly.blogspot.com/2026/10/a-unique-piece-of-internet-history.html"/>
+        <title type="html"><![CDATA[Skipping Stones – Git history with the agent conversations behind each commit]]></title>
+        <id>https://skipping-stones.dev/</id>
+        <link href="https://skipping-stones.dev/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Tide, simple self-hosted video meetings. URL is a demo anon deployment]]></title>
-        <id>https://demo.tide.convex.works/</id>
-        <link href="https://demo.tide.convex.works/"/>
+        <title type="html"><![CDATA[China is ramping up spy recruitment across the US – and threatening families]]></title>
+        <id>https://nypost.com/2026/10/07/us-news/wanying-zhang-is-one-of-a-growing-number-of-chinese-spies-in-us/</id>
+        <link href="https://nypost.com/2026/10/07/us-news/wanying-zhang-is-one-of-a-growing-number-of-chinese-spies-in-us/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scientists get a new clue to the origin of solar wind 'switchbacks']]></title>
-        <id>https://www.theregister.com/science/2026/10/08/scientists-get-a-new-clue-to-the-origin-of-solar-wind-switchbacks/5301644</id>
-        <link href="https://www.theregister.com/science/2026/10/08/scientists-get-a-new-clue-to-the-origin-of-solar-wind-switchbacks/5301644"/>
+        <title type="html"><![CDATA[All code will converge on Rust]]></title>
+        <id>https://mainmatter.com/blog/2026/10/08/all-code-will-converge-on-rust/</id>
+        <link href="https://mainmatter.com/blog/2026/10/08/all-code-will-converge-on-rust/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Towards Efficient HPC Systems for Agents: Challenges and Opportunities]]></title>
-        <id>https://arxiv.org/abs/2609.38723</id>
-        <link href="https://arxiv.org/abs/2609.38723"/>
+        <title type="html"><![CDATA[Solo Developer Rebuilds Adobe Creative Suite in Rust Using Claude]]></title>
+        <id>https://www.tomshardware.com/software/video-editing-graphic-design/solo-developer-rebuilds-adobe-creative-suite-in-rust-using-claude-releases-it-free-to-all-targets-100-percent-parity-in-one-month-despite-piracy-claims-and-safety-warnings</id>
+        <link href="https://www.tomshardware.com/software/video-editing-graphic-design/solo-developer-rebuilds-adobe-creative-suite-in-rust-using-claude-releases-it-free-to-all-targets-100-percent-parity-in-one-month-despite-piracy-claims-and-safety-warnings"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Science That Has Oil Companies Running Scared]]></title>
-        <id>https://www.nytimes.com/2026/10/06/opinion/oil-companies-supreme-court.html</id>
-        <link href="https://www.nytimes.com/2026/10/06/opinion/oil-companies-supreme-court.html"/>
+        <title type="html"><![CDATA[Show HN: ScreenCI – Tutorial videos as E2E tests, written by your coding agent]]></title>
+        <id>https://screenci.com/</id>
+        <link href="https://screenci.com/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: A utility microservice for human trust]]></title>
-        <id>https://futex.rodmena.co.uk/</id>
-        <link href="https://futex.rodmena.co.uk/"/>
+        <title type="html"><![CDATA[Extract charts and diagrams as vectors from PDF to SVG]]></title>
+        <id>https://misha.brukman.net/blog/2025/11/extract-vectors-from-pdf-to-svg/</id>
+        <link href="https://misha.brukman.net/blog/2025/11/extract-vectors-from-pdf-to-svg/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 3dfx Voodoo Turns 30 – interview with cofounder Ross Smith]]></title>
-        <id>https://www.club386.com/3dfx-voodoo-history-ross-smith-interview/</id>
-        <link href="https://www.club386.com/3dfx-voodoo-history-ross-smith-interview/"/>
+        <title type="html"><![CDATA[Tensorlake is compromised using mini Shai Hulud]]></title>
+        <id>https://safedep.io/tensorlake-npm-compromise-mini-shai-hulud/</id>
+        <link href="https://safedep.io/tensorlake-npm-compromise-mini-shai-hulud/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A 100x faster* alternative to homebrew]]></title>
-        <id>https://github.com/zerobrewhq/zerobrew</id>
-        <link href="https://github.com/zerobrewhq/zerobrew"/>
+        <title type="html"><![CDATA[Show HN: BerryDB – Open-source macOS database client written in Swift and AppKit]]></title>
+        <id>https://github.com/berry-apps/berrydb-desktop</id>
+        <link href="https://github.com/berry-apps/berrydb-desktop"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Was the Human Gut Healthier in Ancient Times?]]></title>
-        <id>https://www.nytimes.com/2026/10/07/science/microbiome-evolution-hadza-tsimane.html</id>
-        <link href="https://www.nytimes.com/2026/10/07/science/microbiome-evolution-hadza-tsimane.html"/>
+        <title type="html"><![CDATA[Mellum2.1 Gets to Work: A Fast Open Model for Coding Agents]]></title>
+        <id>https://blog.jetbrains.com/ai/2026/10/mellum2-1-gets-to-work-a-fast-open-model-for-coding-agents/</id>
+        <link href="https://blog.jetbrains.com/ai/2026/10/mellum2-1-gets-to-work-a-fast-open-model-for-coding-agents/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Make717, Lancaster PA's First Makerspace]]></title>
-        <id>https://www.make717.org/</id>
-        <link href="https://www.make717.org/"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Musk, Jensen Huang, Lisa Su Awarded National Medal of Science]]></title>
-        <id>https://www.foxnews.com/politics/first-fox-elon-musk-heads-back-white-house-trump-marks-prestigious-first-presidency</id>
-        <link href="https://www.foxnews.com/politics/first-fox-elon-musk-heads-back-white-house-trump-marks-prestigious-first-presidency"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humanity's Last Problem]]></title>
-        <id>https://benhylak.substack.com/p/humanitys-last-problem</id>
-        <link href="https://benhylak.substack.com/p/humanitys-last-problem"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age]]></title>
-        <id>https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/</id>
-        <link href="https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zuckerberg bought Waterford castle for more than €51M]]></title>
-        <id>https://www.rte.ie/news/munster/2026/1007/1594475-strancally-castle-waterford/</id>
-        <link href="https://www.rte.ie/news/munster/2026/1007/1594475-strancally-castle-waterford/"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roast My IAM Policy – a threat score and a gentle roast for AWS IAM policies]]></title>
-        <id>https://www.roastmyiampolicy.com</id>
-        <link href="https://www.roastmyiampolicy.com"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Imaging Science Visualizations]]></title>
-        <id>https://github.com/Voranto/Imaging-Science-Project</id>
-        <link href="https://github.com/Voranto/Imaging-Science-Project"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bill Wyman Took Up Metal Detecting After Worker Found a Medieval Jug at His Home]]></title>
-        <id>https://timesofindia.indiatimes.com/world/uk/rolling-stones-bassist-bill-wyman-took-up-metal-detecting-after-workers-found-a-medieval-jug-at-his-suffolk-home-his-searches-later-uncovered-more-than-200-roman-coins-and-a-previously-unknown-farmstead/articleshow/134769761.cms</id>
-        <link href="https://timesofindia.indiatimes.com/world/uk/rolling-stones-bassist-bill-wyman-took-up-metal-detecting-after-workers-found-a-medieval-jug-at-his-suffolk-home-his-searches-later-uncovered-more-than-200-roman-coins-and-a-previously-unknown-farmstead/articleshow/134769761.cms"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The review bottleneck: when AI writes faster than humans can check]]></title>
-        <id>https://loopsfinity.com/blog-ai-code-review-bottleneck</id>
-        <link href="https://loopsfinity.com/blog-ai-code-review-bottleneck"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wax Motors – A Full Understanding of Operation and Construction [video]]]></title>
-        <id>https://www.youtube.com/watch?v=sApyrDEXGAI</id>
-        <link href="https://www.youtube.com/watch?v=sApyrDEXGAI"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Longshots Losing 98% of Time Dominate Kalshi, Polymarket Trading]]></title>
-        <id>https://www.bloomberg.com/news/features/2026-10-07/longshots-losing-98-of-time-dominate-kalshi-polymarket-trading</id>
-        <link href="https://www.bloomberg.com/news/features/2026-10-07/longshots-losing-98-of-time-dominate-kalshi-polymarket-trading"/>
+        <title type="html"><![CDATA[How Musk, Thiel, and Altman Misread Science Fiction]]></title>
+        <id>https://www.theatlantic.com/books/2026/08/silicon-valley-science-fiction-jill-lepore-book-review/688467/</id>
+        <link href="https://www.theatlantic.com/books/2026/08/silicon-valley-science-fiction-jill-lepore-book-review/688467/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
@@ -267,65 +197,163 @@
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bringing AI Home: Why Regulated Enterprises Are Moving from Cloud GPUs to Local Blackwell Machines]]></title>
-        <id>https://pub.towardsai.net/bringing-ai-home-why-regulated-enterprises-are-moving-from-cloud-gpus-to-local-blackwell-machines-8d362a12e47a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/bringing-ai-home-why-regulated-enterprises-are-moving-from-cloud-gpus-to-local-blackwell-machines-8d362a12e47a?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Longshots Losing 98% of Time Dominate Kalshi, Polymarket Trading]]></title>
+        <id>https://www.bloomberg.com/news/features/2026-10-07/longshots-losing-98-of-time-dominate-kalshi-polymarket-trading</id>
+        <link href="https://www.bloomberg.com/news/features/2026-10-07/longshots-losing-98-of-time-dominate-kalshi-polymarket-trading"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10 GitHub Repositories That Will Make You Dangerous at AI Agents]]></title>
-        <id>https://pub.towardsai.net/10-github-repositories-that-will-make-you-dangerous-at-ai-agents-ff6e1b70e36a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/10-github-repositories-that-will-make-you-dangerous-at-ai-agents-ff6e1b70e36a?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Wax Motors – A Full Understanding of Operation and Construction [video]]]></title>
+        <id>https://www.youtube.com/watch?v=sApyrDEXGAI</id>
+        <link href="https://www.youtube.com/watch?v=sApyrDEXGAI"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chargeback Was Built for Servers. AI Agents Broke It]]></title>
-        <id>https://pub.towardsai.net/ai-agent-chargeback-shared-llm-spend-960fff461339?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/ai-agent-chargeback-shared-llm-spend-960fff461339?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The review bottleneck: when AI writes faster than humans can check]]></title>
+        <id>https://loopsfinity.com/blog-ai-code-review-bottleneck</id>
+        <link href="https://loopsfinity.com/blog-ai-code-review-bottleneck"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Copilot Dynamic Workflows: Put Your Agents on Rails]]></title>
-        <id>https://pub.towardsai.net/github-copilot-dynamic-workflows-deep-dive-76faed593c54?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/github-copilot-dynamic-workflows-deep-dive-76faed593c54?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Bill Wyman Took Up Metal Detecting After Worker Found a Medieval Jug at His Home]]></title>
+        <id>https://timesofindia.indiatimes.com/world/uk/rolling-stones-bassist-bill-wyman-took-up-metal-detecting-after-workers-found-a-medieval-jug-at-his-suffolk-home-his-searches-later-uncovered-more-than-200-roman-coins-and-a-previously-unknown-farmstead/articleshow/134769761.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/uk/rolling-stones-bassist-bill-wyman-took-up-metal-detecting-after-workers-found-a-medieval-jug-at-his-suffolk-home-his-searches-later-uncovered-more-than-200-roman-coins-and-a-previously-unknown-farmstead/articleshow/134769761.cms"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Observability in Production: A Practical Guide to Monitoring LLM Applications and AI Agents]]></title>
-        <id>https://pub.towardsai.net/ai-observability-in-production-a-practical-guide-to-monitoring-llm-applications-and-ai-agents-136ee745ba90?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/ai-observability-in-production-a-practical-guide-to-monitoring-llm-applications-and-ai-agents-136ee745ba90?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Imaging Science Visualizations]]></title>
+        <id>https://github.com/Voranto/Imaging-Science-Project</id>
+        <link href="https://github.com/Voranto/Imaging-Science-Project"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One Normal Plugin that Can Get You an Upper Hand]]></title>
-        <id>https://pub.towardsai.net/one-normal-plugin-that-can-get-you-an-upper-hand-821c711d57bc?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/one-normal-plugin-that-can-get-you-an-upper-hand-821c711d57bc?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Roast My IAM Policy – a threat score and a gentle roast for AWS IAM policies]]></title>
+        <id>https://www.roastmyiampolicy.com</id>
+        <link href="https://www.roastmyiampolicy.com"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My Private Claude Code Reviewer Knows My Team’s Unwritten Rules]]></title>
-        <id>https://pub.towardsai.net/my-private-claude-code-reviewer-knows-my-teams-unwritten-rules-1602a77d10bd?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/my-private-claude-code-reviewer-knows-my-teams-unwritten-rules-1602a77d10bd?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Zuckerberg bought Waterford castle for more than €51M]]></title>
+        <id>https://www.rte.ie/news/munster/2026/1007/1594475-strancally-castle-waterford/</id>
+        <link href="https://www.rte.ie/news/munster/2026/1007/1594475-strancally-castle-waterford/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Transformer Didn’t Really Change. Almost Everything Inside It Did.]]></title>
-        <id>https://pub.towardsai.net/the-transformer-didnt-really-change-almost-everything-inside-it-did-31142d08a30a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-transformer-didnt-really-change-almost-everything-inside-it-did-31142d08a30a?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age]]></title>
+        <id>https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/</id>
+        <link href="https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-6.1 Sol Async Tool Calling: Keep Agents Useful While a Human Decides]]></title>
-        <id>https://pub.towardsai.net/gpt-6-1-sol-async-tool-calling-keep-agents-useful-while-a-human-decides-24c1c58b971a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/gpt-6-1-sol-async-tool-calling-keep-agents-useful-while-a-human-decides-24c1c58b971a?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Humanity's Last Problem]]></title>
+        <id>https://benhylak.substack.com/p/humanitys-last-problem</id>
+        <link href="https://benhylak.substack.com/p/humanitys-last-problem"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Musk, Jensen Huang, Lisa Su Awarded National Medal of Science]]></title>
+        <id>https://www.foxnews.com/politics/first-fox-elon-musk-heads-back-white-house-trump-marks-prestigious-first-presidency</id>
+        <link href="https://www.foxnews.com/politics/first-fox-elon-musk-heads-back-white-house-trump-marks-prestigious-first-presidency"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make717, Lancaster PA's First Makerspace]]></title>
+        <id>https://www.make717.org/</id>
+        <link href="https://www.make717.org/"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Was the Human Gut Healthier in Ancient Times?]]></title>
+        <id>https://www.nytimes.com/2026/10/07/science/microbiome-evolution-hadza-tsimane.html</id>
+        <link href="https://www.nytimes.com/2026/10/07/science/microbiome-evolution-hadza-tsimane.html"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A 100x faster* alternative to homebrew]]></title>
+        <id>https://github.com/zerobrewhq/zerobrew</id>
+        <link href="https://github.com/zerobrewhq/zerobrew"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 3dfx Voodoo Turns 30 – interview with cofounder Ross Smith]]></title>
+        <id>https://www.club386.com/3dfx-voodoo-history-ross-smith-interview/</id>
+        <link href="https://www.club386.com/3dfx-voodoo-history-ross-smith-interview/"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A utility microservice for human trust]]></title>
+        <id>https://futex.rodmena.co.uk/</id>
+        <link href="https://futex.rodmena.co.uk/"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Science That Has Oil Companies Running Scared]]></title>
+        <id>https://www.nytimes.com/2026/10/06/opinion/oil-companies-supreme-court.html</id>
+        <link href="https://www.nytimes.com/2026/10/06/opinion/oil-companies-supreme-court.html"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards Efficient HPC Systems for Agents: Challenges and Opportunities]]></title>
+        <id>https://arxiv.org/abs/2609.38723</id>
+        <link href="https://arxiv.org/abs/2609.38723"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists get a new clue to the origin of solar wind 'switchbacks']]></title>
+        <id>https://www.theregister.com/science/2026/10/08/scientists-get-a-new-clue-to-the-origin-of-solar-wind-switchbacks/5301644</id>
+        <link href="https://www.theregister.com/science/2026/10/08/scientists-get-a-new-clue-to-the-origin-of-solar-wind-switchbacks/5301644"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Tide, simple self-hosted video meetings. URL is a demo anon deployment]]></title>
+        <id>https://demo.tide.convex.works/</id>
+        <link href="https://demo.tide.convex.works/"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A unique piece of Internet history: A RFC1149 packet on auction at Christie's]]></title>
+        <id>https://bsdly.blogspot.com/2026/10/a-unique-piece-of-internet-history.html</id>
+        <link href="https://bsdly.blogspot.com/2026/10/a-unique-piece-of-internet-history.html"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SingPost launches trial of digital stamps]]></title>
+        <id>https://www.channelnewsasia.com/singapore/singpost-digital-stamp-postage-trial-launch-6441321</id>
+        <link href="https://www.channelnewsasia.com/singapore/singpost-digital-stamp-postage-trial-launch-6441321"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Join the Show – plan a trip that catches several live concerts]]></title>
+        <id>https://jointhe.show/</id>
+        <link href="https://jointhe.show/"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: SVG Spark – 10 client-side SVG design and dev tools]]></title>
+        <id>https://svg-spark.vercel.app/</id>
+        <link href="https://svg-spark.vercel.app/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
@@ -333,34 +361,6 @@
         <title type="html"><![CDATA[Forecasting Demand for New Products]]></title>
         <id>https://pub.towardsai.net/forecasting-demand-for-new-products-5342cd058b98?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/forecasting-demand-for-new-products-5342cd058b98?source=rss----98111c9905da---4"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Bayesian Mirror Architecture for Emergent Consciousness: Circular Hierarchies, Self-Manifolds, and Hybrid Event-Self Binding]]></title>
-        <id>https://arxiv.org/abs/2610.08792</id>
-        <link href="https://arxiv.org/abs/2610.08792"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KVFetch: Temporal Prefetching for the Missing Half of KV Cache Compression]]></title>
-        <id>https://arxiv.org/abs/2610.08811</id>
-        <link href="https://arxiv.org/abs/2610.08811"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DenoFlow: Flow Matching for SSVEP Denoising under Real Physiological Artifacts]]></title>
-        <id>https://arxiv.org/abs/2610.08817</id>
-        <link href="https://arxiv.org/abs/2610.08817"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just for FUNS: LLM-Guided Spatio-Temporal Graph Node Generation for Forecasting Unobserved Node States]]></title>
-        <id>https://arxiv.org/abs/2610.08818</id>
-        <link href="https://arxiv.org/abs/2610.08818"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
