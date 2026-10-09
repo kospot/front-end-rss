@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-09T13:03:29.924Z</updated>
+    <updated>2026-10-09T15:04:24.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,9 +22,16 @@
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX announces plan to become a ‘major mobile carrier’]]></title>
-        <id>https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier</id>
-        <link href="https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier"/>
+        <title type="html"><![CDATA[Instinct was the buzziest AI agent around — can it survive Muse?]]></title>
+        <id>https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots</id>
+        <link href="https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta is banning TikTok ads across its platforms]]></title>
+        <id>https://www.theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban</id>
+        <link href="https://www.theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
@@ -32,6 +39,13 @@
         <title type="html"><![CDATA[ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside]]></title>
         <id>https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video</id>
         <link href="https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX announces plan to become a ‘major mobile carrier’]]></title>
+        <id>https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier</id>
+        <link href="https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
@@ -120,233 +134,142 @@
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA["They're Targeting Your Home Computer Now"- Loyal Moses [video]]]></title>
-        <id>https://www.youtube.com/watch?v=L1Gn3WChZjI</id>
-        <link href="https://www.youtube.com/watch?v=L1Gn3WChZjI"/>
+        <title type="html"><![CDATA[Beijing Will Not Pace the Frontier: China's Speed-First AI Safety Regime]]></title>
+        <id>https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier</id>
+        <link href="https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Voxlocal: A minimal voice agent written in Rust]]></title>
-        <id>https://samkhawase.com/blog/voxlocal-minimal-voice-agent/</id>
-        <link href="https://samkhawase.com/blog/voxlocal-minimal-voice-agent/"/>
+        <title type="html"><![CDATA[Moonswing: A Linux Desktop Environment Built in Flutter]]></title>
+        <id>https://github.com/miracle-wm-org/moonswing</id>
+        <link href="https://github.com/miracle-wm-org/moonswing"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Native Support for Rust on the GPU]]></title>
-        <id>https://lwn.net/Articles/1095731/</id>
-        <link href="https://lwn.net/Articles/1095731/"/>
+        <title type="html"><![CDATA[Show HN: Frapp – Open-source game giveaway and deal tracker in React Native]]></title>
+        <id>https://github.com/Brianali-codes/Frapp</id>
+        <link href="https://github.com/Brianali-codes/Frapp"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open-source ESP32-C3 DNS ad blocker supports over 500K domains without PSRAM]]></title>
-        <id>https://www.cnx-software.com/2026/10/09/open-source-esp32-c3-dns-ad-blocker-supports-up-to-over-500000-domains-without-psram/</id>
-        <link href="https://www.cnx-software.com/2026/10/09/open-source-esp32-c3-dns-ad-blocker-supports-up-to-over-500000-domains-without-psram/"/>
+        <title type="html"><![CDATA[Meatpupptry is far creepier than pure "AI" fakery]]></title>
+        <id>https://news.ycombinator.com/item?id=50021296</id>
+        <link href="https://news.ycombinator.com/item?id=50021296"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Narwhal – LLM serving that moves GPUs between prefill/decode in seconds]]></title>
-        <id>https://github.com/athrael-soju/Narwhal</id>
-        <link href="https://github.com/athrael-soju/Narwhal"/>
+        <title type="html"><![CDATA[Language Oriented Low Level Programming with Pille [video]]]></title>
+        <id>https://www.youtube.com/watch?v=aEJE5IimvyM</id>
+        <link href="https://www.youtube.com/watch?v=aEJE5IimvyM"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX announces plan to become a 'major mobile carrier']]></title>
-        <id>https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier</id>
-        <link href="https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier"/>
+        <title type="html"><![CDATA[PostVIA.online]]></title>
+        <id>https://postvia.online/en</id>
+        <link href="https://postvia.online/en"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The solar boom is rapidly transforming emerging economies]]></title>
-        <id>https://www.dw.com/en/emerging-economies-are-embracing-solar-power-and-skipping-fossil-fuels-much-faster-than-europe-or-the-us/a-79474847</id>
-        <link href="https://www.dw.com/en/emerging-economies-are-embracing-solar-power-and-skipping-fossil-fuels-much-faster-than-europe-or-the-us/a-79474847"/>
+        <title type="html"><![CDATA[Restore old family photos without a studio]]></title>
+        <id>https://zelf.co.za/guides/restore-old-family-photos</id>
+        <link href="https://zelf.co.za/guides/restore-old-family-photos"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Missing Map of the Sky]]></title>
-        <id>https://www.anthropic.com/research/the-missing-map-of-the-sky</id>
-        <link href="https://www.anthropic.com/research/the-missing-map-of-the-sky"/>
+        <title type="html"><![CDATA[The Physics of Cold EV Batteries]]></title>
+        <id>https://dominik.info/blog/physics-of-cold-ev-batteries</id>
+        <link href="https://dominik.info/blog/physics-of-cold-ev-batteries"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boro – Linux patch review and testing CLI with a multi-stage agentic workflow]]></title>
-        <id>https://github.com/nvidia/boro</id>
-        <link href="https://github.com/nvidia/boro"/>
+        <title type="html"><![CDATA[The PaperPhone Cluster: One Operator, 80K IPs, 43 Countries]]></title>
+        <id>https://www.crowdsec.net/blog/the-paperphone-cluster-one-operator-80k-ips-43-countries</id>
+        <link href="https://www.crowdsec.net/blog/the-paperphone-cluster-one-operator-80k-ips-43-countries"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA['Nothing About This Was Inevitable']]></title>
-        <id>https://www.theatlantic.com/technology/2026/10/ai-inevitability-trap-kevin-roose-book/688944/</id>
-        <link href="https://www.theatlantic.com/technology/2026/10/ai-inevitability-trap-kevin-roose-book/688944/"/>
+        <title type="html"><![CDATA[AI Age Manager, Budgeting AI Spending, 10x Revenue by 10x Code?]]></title>
+        <id>https://age-of-product.com/food-agile-thought-565-ai-age-manager/</id>
+        <link href="https://age-of-product.com/food-agile-thought-565-ai-age-manager/"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ditherto: Less color, more vibes. Image dithering for the browser, node, and CLI]]></title>
-        <id>https://vexlin.github.io/ditherto/</id>
-        <link href="https://vexlin.github.io/ditherto/"/>
+        <title type="html"><![CDATA[The Agent Experience (Ax) Practitioner Playbook]]></title>
+        <id>https://developer.microsoft.com/blog/introducing-the-agent-experience-ax-practitioner-playbook/</id>
+        <link href="https://developer.microsoft.com/blog/introducing-the-agent-experience-ax-practitioner-playbook/"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI Rolls Out Ultrafast Mode for GPT-6.1 Sol at Up to 8x Speed]]></title>
-        <id>https://community.openai.com/t/ultrafast-is-rolling-out-today-for-gpt-6-1-sol-in-the-api-codex-and-chatgpt-work/1404475</id>
-        <link href="https://community.openai.com/t/ultrafast-is-rolling-out-today-for-gpt-6-1-sol-in-the-api-codex-and-chatgpt-work/1404475"/>
+        <title type="html"><![CDATA[He Built Free, Open-Source Versions of Photoshop, Premiere, Lightroom with AI]]></title>
+        <id>https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/</id>
+        <link href="https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shai-Hulud worm makes jump to AI infrastructure with Tensorlake compromise]]></title>
-        <id>https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054</id>
-        <link href="https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054"/>
+        <title type="html"><![CDATA[Vibe Astronomy: Discovering Exoplanets]]></title>
+        <id>https://invertedpassion.substack.com/p/vibe-astronomy-discovering-exoplanets</id>
+        <link href="https://invertedpassion.substack.com/p/vibe-astronomy-discovering-exoplanets"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logo.66576a96.png (256×71)]]></title>
-        <id>https://labs.google/flow/tv/_next/static/media/logo.66576a96.png</id>
-        <link href="https://labs.google/flow/tv/_next/static/media/logo.66576a96.png"/>
+        <title type="html"><![CDATA[3D FPS game demo with photorealistic rendering, by Opus 5.5]]></title>
+        <id>https://github.com/cktang88/3d-fps</id>
+        <link href="https://github.com/cktang88/3d-fps"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Giving and taking credit in big tech companies]]></title>
-        <id>https://www.seangoedecke.com/giving-and-taking-credit/</id>
-        <link href="https://www.seangoedecke.com/giving-and-taking-credit/"/>
+        <title type="html"><![CDATA[Mastodon-compatible ActivityPub server in Python/Django]]></title>
+        <id>https://github.com/avaraline/incarnator</id>
+        <link href="https://github.com/avaraline/incarnator"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Disney will stream Super Bowl this year]]></title>
-        <id>https://variety.com/2026/tv/news/disney-plus-streaming-super-bowl-lxi-2027-1236904265/</id>
-        <link href="https://variety.com/2026/tv/news/disney-plus-streaming-super-bowl-lxi-2027-1236904265/"/>
+        <title type="html"><![CDATA["A Node.js project template that will not install Node with curl – sh]]></title>
+        <id>https://github.com/fulldecent/node.js-template</id>
+        <link href="https://github.com/fulldecent/node.js-template"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MapRoulette security incident – October 2026]]></title>
-        <id>https://community.openstreetmap.org/t/maproulette-security-incident-october-2026/148566</id>
-        <link href="https://community.openstreetmap.org/t/maproulette-security-incident-october-2026/148566"/>
+        <title type="html"><![CDATA[AI Economist, an installable agent skill for macro nowcasting]]></title>
+        <id>https://github.com/garroshub/ai-economist-skill</id>
+        <link href="https://github.com/garroshub/ai-economist-skill"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AHM Statement on OpenAI's October 6 Release of Mathematical Documents]]></title>
-        <id>https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/</id>
-        <link href="https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/"/>
+        <title type="html"><![CDATA[Automating Java API Integrations with Gemini CLI]]></title>
+        <id>https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313</id>
+        <link href="https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is society growing stupider? The clues are simple and repeated]]></title>
-        <id>https://www.washingtonpost.com/opinions/2026/10/07/culture-is-getting-simpler-that-should-worry-you/</id>
-        <link href="https://www.washingtonpost.com/opinions/2026/10/07/culture-is-getting-simpler-that-should-worry-you/"/>
+        <title type="html"><![CDATA[QuakePy: Set of tools for statistical analyses of earthquake catalogs]]></title>
+        <id>https://quake.ethz.ch/quakepy/</id>
+        <link href="https://quake.ethz.ch/quakepy/"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From 35 seconds to half a second: 70× faster dashboards in plain Postgres]]></title>
-        <id>https://foresite.dev/blog/postgres-daily-rollups</id>
-        <link href="https://foresite.dev/blog/postgres-daily-rollups"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bending the Curve of Discovery: AI in Science Today and Tomorrow]]></title>
-        <id>https://institute.deepmind.com/essays/bending-the-curve-of-discovery-ai-in-science-today-and-tomorrow/</id>
-        <link href="https://institute.deepmind.com/essays/bending-the-curve-of-discovery-ai-in-science-today-and-tomorrow/"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HBWM(Hook-Based Window Module)]]></title>
-        <id>https://github.com/GHisaque/HBWM</id>
-        <link href="https://github.com/GHisaque/HBWM"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PixieCitie]]></title>
-        <id>https://pixiecitie.com/app/</id>
-        <link href="https://pixiecitie.com/app/"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soviet Biological Weapons Program]]></title>
-        <id>https://en.wikipedia.org/wiki/Soviet_biological_weapons_program</id>
-        <link href="https://en.wikipedia.org/wiki/Soviet_biological_weapons_program"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI21 manages its GPU fleet with Kueue]]></title>
-        <id>https://www.ai21.com/blog/how-ai21-manages-its-gpu-fleet-with-kueue/</id>
-        <link href="https://www.ai21.com/blog/how-ai21-manages-its-gpu-fleet-with-kueue/"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shipping Container Sized Animal: Scientists are unsure how many exist]]></title>
-        <id>https://www.discoverwildlife.com/animal-facts/marine-animals/omuras-whale-feeding-raja-ampat</id>
-        <link href="https://www.discoverwildlife.com/animal-facts/marine-animals/omuras-whale-feeding-raja-ampat"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On abuse towards models and Anthropic's new usage policies]]></title>
-        <id>https://blog.pascalschuster.de/article/on-model-welfare-and-usage-policies</id>
-        <link href="https://blog.pascalschuster.de/article/on-model-welfare-and-usage-policies"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Self-Pruning Transformer: Extreme KV-Cache Compression w/Universal Attention]]></title>
-        <id>https://arxiv.org/abs/2610.09051</id>
-        <link href="https://arxiv.org/abs/2610.09051"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silicium – 702k req/s HTTP engine on AWS c6a.4xlarge]]></title>
-        <id>https://github.com/silicium369-spec/silicium-benchmarker</id>
-        <link href="https://github.com/silicium369-spec/silicium-benchmarker"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: LiteClient – Free, open-source API client for VS Code]]></title>
-        <id>https://liteclient.com/</id>
-        <link href="https://liteclient.com/"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gentoo Infrastructure Sponsors Wanted]]></title>
-        <id>https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html</id>
-        <link href="https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I gave four coding agents $100 budget to build a PDF editor]]></title>
-        <id>https://blog.nielstron.de/2026/10/08/the-remaining-shortcomings-of-coding-agents/</id>
-        <link href="https://blog.nielstron.de/2026/10/08/the-remaining-shortcomings-of-coding-agents/"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Massachusetts Doesn't Have a Public Database of Ethics Disclosures, He Made One]]></title>
-        <id>https://binj.news/2026/10/06/massachusetts-doesnt-have-a-public-database-of-ethics-disclosures-so-he-made-one/</id>
-        <link href="https://binj.news/2026/10/06/massachusetts-doesnt-have-a-public-database-of-ethics-disclosures-so-he-made-one/"/>
+        <title type="html"><![CDATA[Faster Python startup with lazy imports]]></title>
+        <id>https://lemire.me/blog/2026/10/09/faster-python-startup-with-lazy-imports/</id>
+        <link href="https://lemire.me/blog/2026/10/09/faster-python-startup-with-lazy-imports/"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
@@ -358,9 +281,86 @@
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Faster Python startup with lazy imports]]></title>
-        <id>https://lemire.me/blog/2026/10/09/faster-python-startup-with-lazy-imports/</id>
-        <link href="https://lemire.me/blog/2026/10/09/faster-python-startup-with-lazy-imports/"/>
+        <title type="html"><![CDATA[Massachusetts Doesn't Have a Public Database of Ethics Disclosures, He Made One]]></title>
+        <id>https://binj.news/2026/10/06/massachusetts-doesnt-have-a-public-database-of-ethics-disclosures-so-he-made-one/</id>
+        <link href="https://binj.news/2026/10/06/massachusetts-doesnt-have-a-public-database-of-ethics-disclosures-so-he-made-one/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I gave four coding agents $100 budget to build a PDF editor]]></title>
+        <id>https://blog.nielstron.de/2026/10/08/the-remaining-shortcomings-of-coding-agents/</id>
+        <link href="https://blog.nielstron.de/2026/10/08/the-remaining-shortcomings-of-coding-agents/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gentoo Infrastructure Sponsors Wanted]]></title>
+        <id>https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html</id>
+        <link href="https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: LiteClient – Free, open-source API client for VS Code]]></title>
+        <id>https://liteclient.com/</id>
+        <link href="https://liteclient.com/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silicium – 702k req/s HTTP engine on AWS c6a.4xlarge]]></title>
+        <id>https://github.com/silicium369-spec/silicium-benchmarker</id>
+        <link href="https://github.com/silicium369-spec/silicium-benchmarker"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Self-Pruning Transformer: Extreme KV-Cache Compression w/Universal Attention]]></title>
+        <id>https://arxiv.org/abs/2610.09051</id>
+        <link href="https://arxiv.org/abs/2610.09051"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On abuse towards models and Anthropic's new usage policies]]></title>
+        <id>https://blog.pascalschuster.de/article/on-model-welfare-and-usage-policies</id>
+        <link href="https://blog.pascalschuster.de/article/on-model-welfare-and-usage-policies"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shipping Container Sized Animal: Scientists are unsure how many exist]]></title>
+        <id>https://www.discoverwildlife.com/animal-facts/marine-animals/omuras-whale-feeding-raja-ampat</id>
+        <link href="https://www.discoverwildlife.com/animal-facts/marine-animals/omuras-whale-feeding-raja-ampat"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI21 manages its GPU fleet with Kueue]]></title>
+        <id>https://www.ai21.com/blog/how-ai21-manages-its-gpu-fleet-with-kueue/</id>
+        <link href="https://www.ai21.com/blog/how-ai21-manages-its-gpu-fleet-with-kueue/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soviet Biological Weapons Program]]></title>
+        <id>https://en.wikipedia.org/wiki/Soviet_biological_weapons_program</id>
+        <link href="https://en.wikipedia.org/wiki/Soviet_biological_weapons_program"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PixieCitie]]></title>
+        <id>https://pixiecitie.com/app/</id>
+        <link href="https://pixiecitie.com/app/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HBWM(Hook-Based Window Module)]]></title>
+        <id>https://github.com/GHisaque/HBWM</id>
+        <link href="https://github.com/GHisaque/HBWM"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
