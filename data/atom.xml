@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-08T22:01:18.637Z</updated>
+    <updated>2026-10-09T00:01:02.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,13 +15,6 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[SpaceX announces plan to become a ‘major mobile carrier’]]></title>
-        <id>https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier</id>
-        <link href="https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside]]></title>
         <id>https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video</id>
         <link href="https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video"/>
@@ -29,16 +22,9 @@
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[She Designed Meta’s New AI Logo. Then Came the Hate]]></title>
-        <id>https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/</id>
-        <link href="https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe]]></title>
-        <id>https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/</id>
-        <link href="https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/"/>
+        <title type="html"><![CDATA[SpaceX announces plan to become a ‘major mobile carrier’]]></title>
+        <id>https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier</id>
+        <link href="https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
@@ -50,23 +36,23 @@
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website]]></title>
-        <id>https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</id>
-        <link href="https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"/>
+        <title type="html"><![CDATA[Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe]]></title>
+        <id>https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/</id>
+        <link href="https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI’s revenue is reportedly $20 billion less than previously projected]]></title>
-        <id>https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/</id>
-        <link href="https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"/>
+        <title type="html"><![CDATA[She Designed Meta’s New AI Logo. Then Came the Hate]]></title>
+        <id>https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/</id>
+        <link href="https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI’s math solutions aren’t meeting the field’s standards yet]]></title>
-        <id>https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/</id>
-        <link href="https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/"/>
+        <title type="html"><![CDATA[President Trump awards Big Tech donors with nation’s highest science prizes]]></title>
+        <id>https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/</id>
+        <link href="https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
@@ -78,23 +64,79 @@
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HBWM(Hook-Based Window Module)]]></title>
-        <id>https://github.com/GHisaque/HBWM</id>
-        <link href="https://github.com/GHisaque/HBWM"/>
+        <title type="html"><![CDATA[OpenAI’s math solutions aren’t meeting the field’s standards yet]]></title>
+        <id>https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/</id>
+        <link href="https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PixieCitie]]></title>
-        <id>https://pixiecitie.com/app/</id>
-        <link href="https://pixiecitie.com/app/"/>
+        <title type="html"><![CDATA[OpenAI’s revenue is reportedly $20 billion less than previously projected]]></title>
+        <id>https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/</id>
+        <link href="https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Soviet Biological Weapons Program]]></title>
-        <id>https://en.wikipedia.org/wiki/Soviet_biological_weapons_program</id>
-        <link href="https://en.wikipedia.org/wiki/Soviet_biological_weapons_program"/>
+        <title type="html"><![CDATA[Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website]]></title>
+        <id>https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</id>
+        <link href="https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Massachusetts Doesn't Have a Public Database of Ethics Disclosures, He Made One]]></title>
+        <id>https://binj.news/2026/10/06/massachusetts-doesnt-have-a-public-database-of-ethics-disclosures-so-he-made-one/</id>
+        <link href="https://binj.news/2026/10/06/massachusetts-doesnt-have-a-public-database-of-ethics-disclosures-so-he-made-one/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I gave four coding agents $100 budget to build a PDF editor]]></title>
+        <id>https://blog.nielstron.de/2026/10/08/the-remaining-shortcomings-of-coding-agents/</id>
+        <link href="https://blog.nielstron.de/2026/10/08/the-remaining-shortcomings-of-coding-agents/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gentoo Infrastructure Sponsors Wanted]]></title>
+        <id>https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html</id>
+        <link href="https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: LiteClient – Free, open-source API client for VS Code]]></title>
+        <id>https://liteclient.com/</id>
+        <link href="https://liteclient.com/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silicium – 702k req/s HTTP engine on AWS c6a.4xlarge]]></title>
+        <id>https://github.com/silicium369-spec/silicium-benchmarker</id>
+        <link href="https://github.com/silicium369-spec/silicium-benchmarker"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Self-Pruning Transformer: Extreme KV-Cache Compression w/Universal Attention]]></title>
+        <id>https://arxiv.org/abs/2610.09051</id>
+        <link href="https://arxiv.org/abs/2610.09051"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On abuse towards models and Anthropic's new usage policies]]></title>
+        <id>https://blog.pascalschuster.de/article/on-model-welfare-and-usage-policies</id>
+        <link href="https://blog.pascalschuster.de/article/on-model-welfare-and-usage-policies"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shipping Container Sized Animal: Scientists are unsure how many exist]]></title>
+        <id>https://www.discoverwildlife.com/animal-facts/marine-animals/omuras-whale-feeding-raja-ampat</id>
+        <link href="https://www.discoverwildlife.com/animal-facts/marine-animals/omuras-whale-feeding-raja-ampat"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
@@ -106,6 +148,34 @@
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Soviet Biological Weapons Program]]></title>
+        <id>https://en.wikipedia.org/wiki/Soviet_biological_weapons_program</id>
+        <link href="https://en.wikipedia.org/wiki/Soviet_biological_weapons_program"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PixieCitie]]></title>
+        <id>https://pixiecitie.com/app/</id>
+        <link href="https://pixiecitie.com/app/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HBWM(Hook-Based Window Module)]]></title>
+        <id>https://github.com/GHisaque/HBWM</id>
+        <link href="https://github.com/GHisaque/HBWM"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Large Language Models Actually Work — Daily AI Post]]></title>
+        <id>https://pub.towardsai.net/how-large-language-models-actually-work-daily-ai-post-b15cdd5d4086?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-large-language-models-actually-work-daily-ai-post-b15cdd5d4086?source=rss----98111c9905da---4"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[XCQ0607/lxserver]]></title>
         <id>https://github.com/XCQ0607/lxserver</id>
         <link href="https://github.com/XCQ0607/lxserver"/>
@@ -113,30 +183,9 @@
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Tiny Calorie Calculator (and What the Numbers Taught Me)]]></title>
-        <id>https://dev.to/mikehassi96/i-built-a-tiny-calorie-calculator-and-what-the-numbers-taught-me-f4f</id>
-        <link href="https://dev.to/mikehassi96/i-built-a-tiny-calorie-calculator-and-what-the-numbers-taught-me-f4f"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sending trip places as a stamp sheet, with the whole story in the URL fragment]]></title>
-        <id>https://dev.to/arthur031221/sending-trip-places-as-a-stamp-sheet-with-the-whole-story-in-the-url-fragment-27jh</id>
-        <link href="https://dev.to/arthur031221/sending-trip-places-as-a-stamp-sheet-with-the-whole-story-in-the-url-fragment-27jh"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
-        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-19f5</id>
-        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-19f5"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your JavaScript App Is Losing Money: The Hidden Danger of Native Math]]></title>
-        <id>https://dev.to/programmingcentral/why-your-javascript-app-is-losing-money-the-hidden-danger-of-native-math-33fl</id>
-        <link href="https://dev.to/programmingcentral/why-your-javascript-app-is-losing-money-the-hidden-danger-of-native-math-33fl"/>
+        <title type="html"><![CDATA[Computing Eid, Rosh Hashanah and Lunar New Year dates in JavaScript with Intl calendars, and where it goes wrong]]></title>
+        <id>https://dev.to/upcoming_days_ff46630f5d5/computing-eid-rosh-hashanah-and-lunar-new-year-dates-in-javascript-with-intl-calendars-and-where-252p</id>
+        <link href="https://dev.to/upcoming_days_ff46630f5d5/computing-eid-rosh-hashanah-and-lunar-new-year-dates-in-javascript-with-intl-calendars-and-where-252p"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
@@ -148,30 +197,37 @@
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Joe Rogan and Spotify renew massive podcast deal]]></title>
-        <id>https://www.theverge.com/entertainment/1007725/joe-rogan-spotify-podcast-deal</id>
-        <link href="https://www.theverge.com/entertainment/1007725/joe-rogan-spotify-podcast-deal"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Why Your JavaScript App Is Losing Money: The Hidden Danger of Native Math]]></title>
+        <id>https://dev.to/programmingcentral/why-your-javascript-app-is-losing-money-the-hidden-danger-of-native-math-33fl</id>
+        <link href="https://dev.to/programmingcentral/why-your-javascript-app-is-losing-money-the-hidden-danger-of-native-math-33fl"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It appears .agent and .agi are about to be the hot new domains]]></title>
-        <id>https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi</id>
-        <link href="https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Query Every Token on the XRP Ledger With One Endpoint]]></title>
+        <id>https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-19f5</id>
+        <link href="https://dev.to/nyxagi/query-every-token-on-the-xrp-ledger-with-one-endpoint-19f5"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hands-on with Amazon&#8217;s Alexa Tablet 12 Pro and its wild new matte display ]]></title>
-        <id>https://www.theverge.com/tech/1007473/amazon-alexa-tablet-12-pro-nanomatte-hands-on</id>
-        <link href="https://www.theverge.com/tech/1007473/amazon-alexa-tablet-12-pro-nanomatte-hands-on"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Sending trip places as a stamp sheet, with the whole story in the URL fragment]]></title>
+        <id>https://dev.to/arthur031221/sending-trip-places-as-a-stamp-sheet-with-the-whole-story-in-the-url-fragment-27jh</id>
+        <link href="https://dev.to/arthur031221/sending-trip-places-as-a-stamp-sheet-with-the-whole-story-in-the-url-fragment-27jh"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GTA VI leaks continue with a lengthy (and very nude) gameplay video]]></title>
-        <id>https://www.theverge.com/games/1007770/gta-6-leaks-cyberleek-jason-lucia-naked</id>
-        <link href="https://www.theverge.com/games/1007770/gta-6-leaks-cyberleek-jason-lucia-naked"/>
+        <title type="html"><![CDATA[I Built a Tiny Calorie Calculator (and What the Numbers Taught Me)]]></title>
+        <id>https://dev.to/mikehassi96/i-built-a-tiny-calorie-calculator-and-what-the-numbers-taught-me-f4f</id>
+        <link href="https://dev.to/mikehassi96/i-built-a-tiny-calorie-calculator-and-what-the-numbers-taught-me-f4f"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atari is bringing back one of its earliest 8-bit home computers]]></title>
+        <id>https://www.theverge.com/tech/1007732/atari-console-800xl-basic-personal-computer-retro-preorder</id>
+        <link href="https://www.theverge.com/tech/1007732/atari-console-800xl-basic-personal-computer-retro-preorder"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
@@ -183,65 +239,30 @@
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Atari is bringing back one of its earliest 8-bit home computers]]></title>
-        <id>https://www.theverge.com/tech/1007732/atari-console-800xl-basic-personal-computer-retro-preorder</id>
-        <link href="https://www.theverge.com/tech/1007732/atari-console-800xl-basic-personal-computer-retro-preorder"/>
+        <title type="html"><![CDATA[GTA VI leaks continue with a lengthy (and very nude) gameplay video]]></title>
+        <id>https://www.theverge.com/games/1007770/gta-6-leaks-cyberleek-jason-lucia-naked</id>
+        <link href="https://www.theverge.com/games/1007770/gta-6-leaks-cyberleek-jason-lucia-naked"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Life Is Asymmetric. The Scientists Who Figured Out Why Won the 2026 Nobel Prize in Chemistry]]></title>
-        <id>https://www.wired.com/story/life-is-asymmetric-the-scientists-who-figured-out-why-won-the-2026-nobel-prize-in-chemistry/</id>
-        <link href="https://www.wired.com/story/life-is-asymmetric-the-scientists-who-figured-out-why-won-the-2026-nobel-prize-in-chemistry/"/>
+        <title type="html"><![CDATA[Hands-on with Amazon&#8217;s Alexa Tablet 12 Pro and its wild new matte display ]]></title>
+        <id>https://www.theverge.com/tech/1007473/amazon-alexa-tablet-12-pro-nanomatte-hands-on</id>
+        <link href="https://www.theverge.com/tech/1007473/amazon-alexa-tablet-12-pro-nanomatte-hands-on"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tropical Storm Isaias Set to Be First Atlantic Hurricane of 2026 Season]]></title>
-        <id>https://www.wired.com/story/tropical-storm-isaias-first-atlantic-hurricane-2026/</id>
-        <link href="https://www.wired.com/story/tropical-storm-isaias-first-atlantic-hurricane-2026/"/>
+        <title type="html"><![CDATA[It appears .agent and .agi are about to be the hot new domains]]></title>
+        <id>https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi</id>
+        <link href="https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Save Over $600 on Last-Minute Prime Day Mattress and Bedding Deals (2026)]]></title>
-        <id>https://www.wired.com/story/best-prime-day-mattress-deals-10-07-2026/</id>
-        <link href="https://www.wired.com/story/best-prime-day-mattress-deals-10-07-2026/"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out]]></title>
-        <id>https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/</id>
-        <link href="https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Science Behind the Nobel-Winning Technology That Controls Neurons With Light]]></title>
-        <id>https://www.wired.com/story/the-science-behind-the-nobel-winning-technology-that-controls-neurons-with-light/</id>
-        <link href="https://www.wired.com/story/the-science-behind-the-nobel-winning-technology-that-controls-neurons-with-light/"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk’s America PAC Is Quietly Funding November’s Most Consequential Elections]]></title>
-        <id>https://www.wired.com/story/elon-musks-america-pac-is-quietly-funding-novembers-most-consequential-elections/</id>
-        <link href="https://www.wired.com/story/elon-musks-america-pac-is-quietly-funding-novembers-most-consequential-elections/"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[27 Best Prime Day Deals on Phone Accessories (2026)]]></title>
-        <id>https://www.wired.com/story/best-prime-day-mobile-accessories-deals-10-7-2026/</id>
-        <link href="https://www.wired.com/story/best-prime-day-mobile-accessories-deals-10-7-2026/"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Best Cheap Phones (2026), Tested and Reviewed]]></title>
-        <id>https://www.wired.com/story/best-cheap-phones/</id>
-        <link href="https://www.wired.com/story/best-cheap-phones/"/>
+        <title type="html"><![CDATA[Joe Rogan and Spotify renew massive podcast deal]]></title>
+        <id>https://www.theverge.com/entertainment/1007725/joe-rogan-spotify-podcast-deal</id>
+        <link href="https://www.theverge.com/entertainment/1007725/joe-rogan-spotify-podcast-deal"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
@@ -253,51 +274,58 @@
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers]]></title>
-        <id>https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/</id>
-        <link href="https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/"/>
+        <title type="html"><![CDATA[7 Best Cheap Phones (2026), Tested and Reviewed]]></title>
+        <id>https://www.wired.com/story/best-cheap-phones/</id>
+        <link href="https://www.wired.com/story/best-cheap-phones/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Last call to volunteer at TechCrunch Founder Summit 2026]]></title>
-        <id>https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026/</id>
-        <link href="https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026/"/>
+        <title type="html"><![CDATA[27 Best Prime Day Deals on Phone Accessories (2026)]]></title>
+        <id>https://www.wired.com/story/best-prime-day-mobile-accessories-deals-10-7-2026/</id>
+        <link href="https://www.wired.com/story/best-prime-day-mobile-accessories-deals-10-7-2026/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material]]></title>
-        <id>https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/</id>
-        <link href="https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/"/>
+        <title type="html"><![CDATA[Elon Musk’s America PAC Is Quietly Funding November’s Most Consequential Elections]]></title>
+        <id>https://www.wired.com/story/elon-musks-america-pac-is-quietly-funding-novembers-most-consequential-elections/</id>
+        <link href="https://www.wired.com/story/elon-musks-america-pac-is-quietly-funding-novembers-most-consequential-elections/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGPT is getting a lot more visual, with the launch of a new interface]]></title>
-        <id>https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/</id>
-        <link href="https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"/>
+        <title type="html"><![CDATA[The Science Behind the Nobel-Winning Technology That Controls Neurons With Light]]></title>
+        <id>https://www.wired.com/story/the-science-behind-the-nobel-winning-technology-that-controls-neurons-with-light/</id>
+        <link href="https://www.wired.com/story/the-science-behind-the-nobel-winning-technology-that-controls-neurons-with-light/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta’s Muse launches on iPad just a month after its mobile debut]]></title>
-        <id>https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/</id>
-        <link href="https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"/>
+        <title type="html"><![CDATA[These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out]]></title>
+        <id>https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/</id>
+        <link href="https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[China’s Manus raises over $500M in first funding round since split with Meta]]></title>
-        <id>https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/</id>
-        <link href="https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"/>
+        <title type="html"><![CDATA[Save Over $600 on Last-Minute Prime Day Mattress and Bedding Deals (2026)]]></title>
+        <id>https://www.wired.com/story/best-prime-day-mattress-deals-10-07-2026/</id>
+        <link href="https://www.wired.com/story/best-prime-day-mattress-deals-10-07-2026/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spotify is getting more serious about selling enterprise software]]></title>
-        <id>https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/</id>
-        <link href="https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/"/>
+        <title type="html"><![CDATA[Tropical Storm Isaias Set to Be First Atlantic Hurricane of 2026 Season]]></title>
+        <id>https://www.wired.com/story/tropical-storm-isaias-first-atlantic-hurricane-2026/</id>
+        <link href="https://www.wired.com/story/tropical-storm-isaias-first-atlantic-hurricane-2026/"/>
+        <updated>2026-10-07T16:00:00.000Z</updated>
+        <published>2026-10-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Life Is Asymmetric. The Scientists Who Figured Out Why Won the 2026 Nobel Prize in Chemistry]]></title>
+        <id>https://www.wired.com/story/life-is-asymmetric-the-scientists-who-figured-out-why-won-the-2026-nobel-prize-in-chemistry/</id>
+        <link href="https://www.wired.com/story/life-is-asymmetric-the-scientists-who-figured-out-why-won-the-2026-nobel-prize-in-chemistry/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
@@ -309,58 +337,30 @@
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Leafovers "vibe coded" promo video]]></title>
-        <id>https://www.youtube.com/watch?v=o8565m3eTok</id>
-        <link href="https://www.youtube.com/watch?v=o8565m3eTok"/>
+        <title type="html"><![CDATA[Spotify is getting more serious about selling enterprise software]]></title>
+        <id>https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/</id>
+        <link href="https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Skipping Stones – Git history with the agent conversations behind each commit]]></title>
-        <id>https://skipping-stones.dev/</id>
-        <link href="https://skipping-stones.dev/"/>
+        <title type="html"><![CDATA[China’s Manus raises over $500M in first funding round since split with Meta]]></title>
+        <id>https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/</id>
+        <link href="https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[China is ramping up spy recruitment across the US – and threatening families]]></title>
-        <id>https://nypost.com/2026/10/07/us-news/wanying-zhang-is-one-of-a-growing-number-of-chinese-spies-in-us/</id>
-        <link href="https://nypost.com/2026/10/07/us-news/wanying-zhang-is-one-of-a-growing-number-of-chinese-spies-in-us/"/>
+        <title type="html"><![CDATA[Meta’s Muse launches on iPad just a month after its mobile debut]]></title>
+        <id>https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/</id>
+        <link href="https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[All code will converge on Rust]]></title>
-        <id>https://mainmatter.com/blog/2026/10/08/all-code-will-converge-on-rust/</id>
-        <link href="https://mainmatter.com/blog/2026/10/08/all-code-will-converge-on-rust/"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solo Developer Rebuilds Adobe Creative Suite in Rust Using Claude]]></title>
-        <id>https://www.tomshardware.com/software/video-editing-graphic-design/solo-developer-rebuilds-adobe-creative-suite-in-rust-using-claude-releases-it-free-to-all-targets-100-percent-parity-in-one-month-despite-piracy-claims-and-safety-warnings</id>
-        <link href="https://www.tomshardware.com/software/video-editing-graphic-design/solo-developer-rebuilds-adobe-creative-suite-in-rust-using-claude-releases-it-free-to-all-targets-100-percent-parity-in-one-month-despite-piracy-claims-and-safety-warnings"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: ScreenCI – Tutorial videos as E2E tests, written by your coding agent]]></title>
-        <id>https://screenci.com/</id>
-        <link href="https://screenci.com/"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extract charts and diagrams as vectors from PDF to SVG]]></title>
-        <id>https://misha.brukman.net/blog/2025/11/extract-vectors-from-pdf-to-svg/</id>
-        <link href="https://misha.brukman.net/blog/2025/11/extract-vectors-from-pdf-to-svg/"/>
-        <updated>2026-10-07T16:00:00.000Z</updated>
-        <published>2026-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tensorlake is compromised using mini Shai Hulud]]></title>
-        <id>https://safedep.io/tensorlake-npm-compromise-mini-shai-hulud/</id>
-        <link href="https://safedep.io/tensorlake-npm-compromise-mini-shai-hulud/"/>
+        <title type="html"><![CDATA[ChatGPT is getting a lot more visual, with the launch of a new interface]]></title>
+        <id>https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/</id>
+        <link href="https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"/>
         <updated>2026-10-07T16:00:00.000Z</updated>
         <published>2026-10-07T16:00:00.000Z</published>
     </entry>
