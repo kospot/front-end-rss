@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-09 12:02:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-09 15:03:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-10-09-Agency-offers-staff-two-years-pay-if-they-can-replace-themselves-with-AI](https://mumbrella.com.au/agency-offers-staff-two-years-pay-if-they-can-replace-themselves-with-ai-940294) 
 - [2026-10-07-South-African-bank,-FNB-launches-crypto-offering-built-on-top-of-VALR.com](https://mybroadband.co.za/news/banking/670880-fnb-launches-crypto-investments.html) 
 - [2026-09-18-Multiple-providers-offer-free-mystery-model,-Union-Alpha](https://tokenstead.ai/models/union-alpha) 
 - [2026-09-14-A-Vinyl-Bar-in-Shibuya-is-a-startup-offering-fun-music-apps-without-any-AI-prompting](https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/) 

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-09T04:02:09.953Z</updated>
+    <updated>2026-10-09T07:03:15.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -85,177 +85,37 @@
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D FPS game demo with photorealistic rendering, by Opus 5.5]]></title>
-        <id>https://github.com/cktang88/3d-fps</id>
-        <link href="https://github.com/cktang88/3d-fps"/>
+        <title type="html"><![CDATA[Ditherto: Less color, more vibes. Image dithering for the browser, node, and CLI]]></title>
+        <id>https://vexlin.github.io/ditherto/</id>
+        <link href="https://vexlin.github.io/ditherto/"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastodon-compatible ActivityPub server in Python/Django]]></title>
-        <id>https://github.com/avaraline/incarnator</id>
-        <link href="https://github.com/avaraline/incarnator"/>
+        <title type="html"><![CDATA[OpenAI Rolls Out Ultrafast Mode for GPT-6.1 Sol at Up to 8x Speed]]></title>
+        <id>https://community.openai.com/t/ultrafast-is-rolling-out-today-for-gpt-6-1-sol-in-the-api-codex-and-chatgpt-work/1404475</id>
+        <link href="https://community.openai.com/t/ultrafast-is-rolling-out-today-for-gpt-6-1-sol-in-the-api-codex-and-chatgpt-work/1404475"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA["A Node.js project template that will not install Node with curl – sh]]></title>
-        <id>https://github.com/fulldecent/node.js-template</id>
-        <link href="https://github.com/fulldecent/node.js-template"/>
+        <title type="html"><![CDATA[Shai-Hulud worm makes jump to AI infrastructure with Tensorlake compromise]]></title>
+        <id>https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054</id>
+        <link href="https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Economist, an installable agent skill for macro nowcasting]]></title>
-        <id>https://github.com/garroshub/ai-economist-skill</id>
-        <link href="https://github.com/garroshub/ai-economist-skill"/>
+        <title type="html"><![CDATA[Logo.66576a96.png (256×71)]]></title>
+        <id>https://labs.google/flow/tv/_next/static/media/logo.66576a96.png</id>
+        <link href="https://labs.google/flow/tv/_next/static/media/logo.66576a96.png"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Automating Java API Integrations with Gemini CLI]]></title>
-        <id>https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313</id>
-        <link href="https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QuakePy: Set of tools for statistical analyses of earthquake catalogs]]></title>
-        <id>https://quake.ethz.ch/quakepy/</id>
-        <link href="https://quake.ethz.ch/quakepy/"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faster Python startup with lazy imports]]></title>
-        <id>https://lemire.me/blog/2026/10/09/faster-python-startup-with-lazy-imports/</id>
-        <link href="https://lemire.me/blog/2026/10/09/faster-python-startup-with-lazy-imports/"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICE detainees used facility's video calling software to expose conditions inside]]></title>
-        <id>https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video</id>
-        <link href="https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Massachusetts Doesn't Have a Public Database of Ethics Disclosures, He Made One]]></title>
-        <id>https://binj.news/2026/10/06/massachusetts-doesnt-have-a-public-database-of-ethics-disclosures-so-he-made-one/</id>
-        <link href="https://binj.news/2026/10/06/massachusetts-doesnt-have-a-public-database-of-ethics-disclosures-so-he-made-one/"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I gave four coding agents $100 budget to build a PDF editor]]></title>
-        <id>https://blog.nielstron.de/2026/10/08/the-remaining-shortcomings-of-coding-agents/</id>
-        <link href="https://blog.nielstron.de/2026/10/08/the-remaining-shortcomings-of-coding-agents/"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gentoo Infrastructure Sponsors Wanted]]></title>
-        <id>https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html</id>
-        <link href="https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: LiteClient – Free, open-source API client for VS Code]]></title>
-        <id>https://liteclient.com/</id>
-        <link href="https://liteclient.com/"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silicium – 702k req/s HTTP engine on AWS c6a.4xlarge]]></title>
-        <id>https://github.com/silicium369-spec/silicium-benchmarker</id>
-        <link href="https://github.com/silicium369-spec/silicium-benchmarker"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Self-Pruning Transformer: Extreme KV-Cache Compression w/Universal Attention]]></title>
-        <id>https://arxiv.org/abs/2610.09051</id>
-        <link href="https://arxiv.org/abs/2610.09051"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On abuse towards models and Anthropic's new usage policies]]></title>
-        <id>https://blog.pascalschuster.de/article/on-model-welfare-and-usage-policies</id>
-        <link href="https://blog.pascalschuster.de/article/on-model-welfare-and-usage-policies"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shipping Container Sized Animal: Scientists are unsure how many exist]]></title>
-        <id>https://www.discoverwildlife.com/animal-facts/marine-animals/omuras-whale-feeding-raja-ampat</id>
-        <link href="https://www.discoverwildlife.com/animal-facts/marine-animals/omuras-whale-feeding-raja-ampat"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI21 manages its GPU fleet with Kueue]]></title>
-        <id>https://www.ai21.com/blog/how-ai21-manages-its-gpu-fleet-with-kueue/</id>
-        <link href="https://www.ai21.com/blog/how-ai21-manages-its-gpu-fleet-with-kueue/"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soviet Biological Weapons Program]]></title>
-        <id>https://en.wikipedia.org/wiki/Soviet_biological_weapons_program</id>
-        <link href="https://en.wikipedia.org/wiki/Soviet_biological_weapons_program"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PixieCitie]]></title>
-        <id>https://pixiecitie.com/app/</id>
-        <link href="https://pixiecitie.com/app/"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HBWM(Hook-Based Window Module)]]></title>
-        <id>https://github.com/GHisaque/HBWM</id>
-        <link href="https://github.com/GHisaque/HBWM"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bending the Curve of Discovery: AI in Science Today and Tomorrow]]></title>
-        <id>https://institute.deepmind.com/essays/bending-the-curve-of-discovery-ai-in-science-today-and-tomorrow/</id>
-        <link href="https://institute.deepmind.com/essays/bending-the-curve-of-discovery-ai-in-science-today-and-tomorrow/"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From 35 seconds to half a second: 70× faster dashboards in plain Postgres]]></title>
-        <id>https://foresite.dev/blog/postgres-daily-rollups</id>
-        <link href="https://foresite.dev/blog/postgres-daily-rollups"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is society growing stupider? The clues are simple and repeated]]></title>
-        <id>https://www.washingtonpost.com/opinions/2026/10/07/culture-is-getting-simpler-that-should-worry-you/</id>
-        <link href="https://www.washingtonpost.com/opinions/2026/10/07/culture-is-getting-simpler-that-should-worry-you/"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AHM Statement on OpenAI's October 6 Release of Mathematical Documents]]></title>
-        <id>https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/</id>
-        <link href="https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MapRoulette security incident – October 2026]]></title>
-        <id>https://community.openstreetmap.org/t/maproulette-security-incident-october-2026/148566</id>
-        <link href="https://community.openstreetmap.org/t/maproulette-security-incident-october-2026/148566"/>
+        <title type="html"><![CDATA[Giving and taking credit in big tech companies]]></title>
+        <id>https://www.seangoedecke.com/giving-and-taking-credit/</id>
+        <link href="https://www.seangoedecke.com/giving-and-taking-credit/"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
@@ -267,9 +127,177 @@
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jev AI for Developers: Build a Confidence-Gated Ticket Router in Python]]></title>
-        <id>https://pub.towardsai.net/jev-ai-for-developers-build-a-confidence-gated-ticket-router-in-python-95d7fd355ce2?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/jev-ai-for-developers-build-a-confidence-gated-ticket-router-in-python-95d7fd355ce2?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[MapRoulette security incident – October 2026]]></title>
+        <id>https://community.openstreetmap.org/t/maproulette-security-incident-october-2026/148566</id>
+        <link href="https://community.openstreetmap.org/t/maproulette-security-incident-october-2026/148566"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AHM Statement on OpenAI's October 6 Release of Mathematical Documents]]></title>
+        <id>https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/</id>
+        <link href="https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is society growing stupider? The clues are simple and repeated]]></title>
+        <id>https://www.washingtonpost.com/opinions/2026/10/07/culture-is-getting-simpler-that-should-worry-you/</id>
+        <link href="https://www.washingtonpost.com/opinions/2026/10/07/culture-is-getting-simpler-that-should-worry-you/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From 35 seconds to half a second: 70× faster dashboards in plain Postgres]]></title>
+        <id>https://foresite.dev/blog/postgres-daily-rollups</id>
+        <link href="https://foresite.dev/blog/postgres-daily-rollups"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bending the Curve of Discovery: AI in Science Today and Tomorrow]]></title>
+        <id>https://institute.deepmind.com/essays/bending-the-curve-of-discovery-ai-in-science-today-and-tomorrow/</id>
+        <link href="https://institute.deepmind.com/essays/bending-the-curve-of-discovery-ai-in-science-today-and-tomorrow/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HBWM(Hook-Based Window Module)]]></title>
+        <id>https://github.com/GHisaque/HBWM</id>
+        <link href="https://github.com/GHisaque/HBWM"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PixieCitie]]></title>
+        <id>https://pixiecitie.com/app/</id>
+        <link href="https://pixiecitie.com/app/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soviet Biological Weapons Program]]></title>
+        <id>https://en.wikipedia.org/wiki/Soviet_biological_weapons_program</id>
+        <link href="https://en.wikipedia.org/wiki/Soviet_biological_weapons_program"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI21 manages its GPU fleet with Kueue]]></title>
+        <id>https://www.ai21.com/blog/how-ai21-manages-its-gpu-fleet-with-kueue/</id>
+        <link href="https://www.ai21.com/blog/how-ai21-manages-its-gpu-fleet-with-kueue/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shipping Container Sized Animal: Scientists are unsure how many exist]]></title>
+        <id>https://www.discoverwildlife.com/animal-facts/marine-animals/omuras-whale-feeding-raja-ampat</id>
+        <link href="https://www.discoverwildlife.com/animal-facts/marine-animals/omuras-whale-feeding-raja-ampat"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On abuse towards models and Anthropic's new usage policies]]></title>
+        <id>https://blog.pascalschuster.de/article/on-model-welfare-and-usage-policies</id>
+        <link href="https://blog.pascalschuster.de/article/on-model-welfare-and-usage-policies"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Self-Pruning Transformer: Extreme KV-Cache Compression w/Universal Attention]]></title>
+        <id>https://arxiv.org/abs/2610.09051</id>
+        <link href="https://arxiv.org/abs/2610.09051"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silicium – 702k req/s HTTP engine on AWS c6a.4xlarge]]></title>
+        <id>https://github.com/silicium369-spec/silicium-benchmarker</id>
+        <link href="https://github.com/silicium369-spec/silicium-benchmarker"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: LiteClient – Free, open-source API client for VS Code]]></title>
+        <id>https://liteclient.com/</id>
+        <link href="https://liteclient.com/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gentoo Infrastructure Sponsors Wanted]]></title>
+        <id>https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html</id>
+        <link href="https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I gave four coding agents $100 budget to build a PDF editor]]></title>
+        <id>https://blog.nielstron.de/2026/10/08/the-remaining-shortcomings-of-coding-agents/</id>
+        <link href="https://blog.nielstron.de/2026/10/08/the-remaining-shortcomings-of-coding-agents/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Massachusetts Doesn't Have a Public Database of Ethics Disclosures, He Made One]]></title>
+        <id>https://binj.news/2026/10/06/massachusetts-doesnt-have-a-public-database-of-ethics-disclosures-so-he-made-one/</id>
+        <link href="https://binj.news/2026/10/06/massachusetts-doesnt-have-a-public-database-of-ethics-disclosures-so-he-made-one/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICE detainees used facility's video calling software to expose conditions inside]]></title>
+        <id>https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video</id>
+        <link href="https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faster Python startup with lazy imports]]></title>
+        <id>https://lemire.me/blog/2026/10/09/faster-python-startup-with-lazy-imports/</id>
+        <link href="https://lemire.me/blog/2026/10/09/faster-python-startup-with-lazy-imports/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QuakePy: Set of tools for statistical analyses of earthquake catalogs]]></title>
+        <id>https://quake.ethz.ch/quakepy/</id>
+        <link href="https://quake.ethz.ch/quakepy/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating Java API Integrations with Gemini CLI]]></title>
+        <id>https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313</id>
+        <link href="https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Economist, an installable agent skill for macro nowcasting]]></title>
+        <id>https://github.com/garroshub/ai-economist-skill</id>
+        <link href="https://github.com/garroshub/ai-economist-skill"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["A Node.js project template that will not install Node with curl – sh]]></title>
+        <id>https://github.com/fulldecent/node.js-template</id>
+        <link href="https://github.com/fulldecent/node.js-template"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastodon-compatible ActivityPub server in Python/Django]]></title>
+        <id>https://github.com/avaraline/incarnator</id>
+        <link href="https://github.com/avaraline/incarnator"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D FPS game demo with photorealistic rendering, by Opus 5.5]]></title>
+        <id>https://github.com/cktang88/3d-fps</id>
+        <link href="https://github.com/cktang88/3d-fps"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
@@ -277,6 +305,13 @@
         <title type="html"><![CDATA[How Large Language Models Actually Work — Daily AI Post]]></title>
         <id>https://pub.towardsai.net/how-large-language-models-actually-work-daily-ai-post-b15cdd5d4086?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/how-large-language-models-actually-work-daily-ai-post-b15cdd5d4086?source=rss----98111c9905da---4"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jev AI for Developers: Build a Confidence-Gated Ticket Router in Python]]></title>
+        <id>https://pub.towardsai.net/jev-ai-for-developers-build-a-confidence-gated-ticket-router-in-python-95d7fd355ce2?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/jev-ai-for-developers-build-a-confidence-gated-ticket-router-in-python-95d7fd355ce2?source=rss----98111c9905da---4"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
@@ -326,41 +361,6 @@
         <title type="html"><![CDATA[PXtal: Learning to Align Powder X-Ray Diffraction and Crystal Structures under Information Asymmetry across Modalities]]></title>
         <id>https://arxiv.org/abs/2610.10653</id>
         <link href="https://arxiv.org/abs/2610.10653"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Owls: Subliminal Learning Can Transfer Learned Capabilities and Backdoors]]></title>
-        <id>https://arxiv.org/abs/2610.10657</id>
-        <link href="https://arxiv.org/abs/2610.10657"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explaining the Saliency Map Sparsity of Adversarially-Trained Neural Networks]]></title>
-        <id>https://arxiv.org/abs/2610.10666</id>
-        <link href="https://arxiv.org/abs/2610.10666"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MotherTree: Meta-learning on synthetic data improves decision tree training]]></title>
-        <id>https://arxiv.org/abs/2610.10832</id>
-        <link href="https://arxiv.org/abs/2610.10832"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDFP: A first-principles approach to knowledge distillation in large language models]]></title>
-        <id>https://arxiv.org/abs/2610.10854</id>
-        <link href="https://arxiv.org/abs/2610.10854"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coefficient Calibration as Selection Pressure in Symbolic Regression]]></title>
-        <id>https://arxiv.org/abs/2610.10931</id>
-        <link href="https://arxiv.org/abs/2610.10931"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
