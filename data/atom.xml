@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-09T22:01:48.903Z</updated>
+    <updated>2026-10-10T00:02:11.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -57,9 +57,9 @@
         <published>2026-10-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Batteries are now cheaper than natural gas turbines used at many data centers]]></title>
-        <id>https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/</id>
-        <link href="https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/"/>
+        <title type="html"><![CDATA[Amazon and others are done keeping data center deals secret. Is it enough to build trust?]]></title>
+        <id>https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/</id>
+        <link href="https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/"/>
         <updated>2026-10-09T16:00:00.000Z</updated>
         <published>2026-10-09T16:00:00.000Z</published>
     </entry>
@@ -71,37 +71,51 @@
         <published>2026-10-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon and others are done keeping data center deals secret. Is it enough to build trust?]]></title>
-        <id>https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/</id>
-        <link href="https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/"/>
+        <title type="html"><![CDATA[Batteries are now cheaper than natural gas turbines used at many data centers]]></title>
+        <id>https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/</id>
+        <link href="https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/"/>
         <updated>2026-10-09T16:00:00.000Z</updated>
         <published>2026-10-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Client-Side Search From a Prebuilt JSON Index: Zero Dependencies, Zero Server Calls]]></title>
-        <id>https://dev.to/bryan_hamilton/client-side-search-from-a-prebuilt-json-index-zero-dependencies-zero-server-calls-4ed0</id>
-        <link href="https://dev.to/bryan_hamilton/client-side-search-from-a-prebuilt-json-index-zero-dependencies-zero-server-calls-4ed0"/>
+        <title type="html"><![CDATA[Deno is joining Cloudflare]]></title>
+        <id>https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/</id>
+        <link href="https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/"/>
         <updated>2026-10-09T16:00:00.000Z</updated>
         <published>2026-10-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blob in JavaScript: A Practical Deep Dive with Real-World Examples]]></title>
-        <id>https://dev.to/abanoubkerols/blob-in-javascript-a-practical-deep-dive-with-real-world-examples-3b6p</id>
-        <link href="https://dev.to/abanoubkerols/blob-in-javascript-a-practical-deep-dive-with-real-world-examples-3b6p"/>
+        <title type="html"><![CDATA[I ported Meta's MMS forced aligner to TypeScript: word-level timestamps in Node.js, 42% faster than Python]]></title>
+        <id>https://dev.to/arhamsayyed/i-ported-metas-mms-forced-aligner-to-typescript-word-level-timestamps-in-nodejs-42-faster-than-34c5</id>
+        <link href="https://dev.to/arhamsayyed/i-ported-metas-mms-forced-aligner-to-typescript-word-level-timestamps-in-nodejs-42-faster-than-34c5"/>
         <updated>2026-10-09T16:00:00.000Z</updated>
         <published>2026-10-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LinkedIn's Own JSON-LD Lists One of Satya Nadella's Three Schools]]></title>
-        <id>https://dev.to/nikita_iakovlev_415524c19/linkedins-own-json-ld-lists-one-of-satya-nadellas-three-schools-38cf</id>
-        <link href="https://dev.to/nikita_iakovlev_415524c19/linkedins-own-json-ld-lists-one-of-satya-nadellas-three-schools-38cf"/>
+        <title type="html"><![CDATA[Transcribing Video in the Browser Without Uploading the Film]]></title>
+        <id>https://dev.to/_d713d35749a9d64072798/transcribing-video-in-the-browser-without-uploading-the-film-5gif</id>
+        <link href="https://dev.to/_d713d35749a9d64072798/transcribing-video-in-the-browser-without-uploading-the-film-5gif"/>
         <updated>2026-10-09T16:00:00.000Z</updated>
         <published>2026-10-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discord role positions aren't unique: the tie that quietly breaks your role checks]]></title>
-        <id>https://dev.to/holyleth/discord-role-positions-arent-unique-the-tie-that-quietly-breaks-your-role-checks-3p8a</id>
-        <link href="https://dev.to/holyleth/discord-role-positions-arent-unique-the-tie-that-quietly-breaks-your-role-checks-3p8a"/>
+        <title type="html"><![CDATA[Engineering Real-Time Video Pronunciation Search: Subtitle Synchronization, Syllable Stress Parsing & Phonetic Alignment]]></title>
+        <id>https://dev.to/sayitvid/engineering-real-time-video-pronunciation-search-subtitle-synchronization-syllable-stress-parsing-b03</id>
+        <link href="https://dev.to/sayitvid/engineering-real-time-video-pronunciation-search-subtitle-synchronization-syllable-stress-parsing-b03"/>
+        <updated>2026-10-09T16:00:00.000Z</updated>
+        <published>2026-10-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 debugging checks for JSON, JWT, SQL, regex, timestamps and URLs]]></title>
+        <id>https://dev.to/aliaygor/6-debugging-checks-for-json-jwt-sql-regex-timestamps-and-urls-bhm</id>
+        <link href="https://dev.to/aliaygor/6-debugging-checks-for-json-jwt-sql-regex-timestamps-and-urls-bhm"/>
+        <updated>2026-10-09T16:00:00.000Z</updated>
+        <published>2026-10-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tested html2canvas, html-to-image and modern-screenshot on the Same Card]]></title>
+        <id>https://dev.to/accreditly/i-tested-html2canvas-html-to-image-and-modern-screenshot-on-the-same-card-4424</id>
+        <link href="https://dev.to/accreditly/i-tested-html2canvas-html-to-image-and-modern-screenshot-on-the-same-card-4424"/>
         <updated>2026-10-09T16:00:00.000Z</updated>
         <published>2026-10-09T16:00:00.000Z</published>
     </entry>
@@ -113,9 +127,30 @@
         <published>2026-10-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Tested html2canvas, html-to-image and modern-screenshot on the Same Card]]></title>
-        <id>https://dev.to/accreditly/i-tested-html2canvas-html-to-image-and-modern-screenshot-on-the-same-card-4424</id>
-        <link href="https://dev.to/accreditly/i-tested-html2canvas-html-to-image-and-modern-screenshot-on-the-same-card-4424"/>
+        <title type="html"><![CDATA[Discord role positions aren't unique: the tie that quietly breaks your role checks]]></title>
+        <id>https://dev.to/holyleth/discord-role-positions-arent-unique-the-tie-that-quietly-breaks-your-role-checks-3p8a</id>
+        <link href="https://dev.to/holyleth/discord-role-positions-arent-unique-the-tie-that-quietly-breaks-your-role-checks-3p8a"/>
+        <updated>2026-10-09T16:00:00.000Z</updated>
+        <published>2026-10-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LinkedIn's Own JSON-LD Lists One of Satya Nadella's Three Schools]]></title>
+        <id>https://dev.to/nikita_iakovlev_415524c19/linkedins-own-json-ld-lists-one-of-satya-nadellas-three-schools-38cf</id>
+        <link href="https://dev.to/nikita_iakovlev_415524c19/linkedins-own-json-ld-lists-one-of-satya-nadellas-three-schools-38cf"/>
+        <updated>2026-10-09T16:00:00.000Z</updated>
+        <published>2026-10-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blob in JavaScript: A Practical Deep Dive with Real-World Examples]]></title>
+        <id>https://dev.to/abanoubkerols/blob-in-javascript-a-practical-deep-dive-with-real-world-examples-3b6p</id>
+        <link href="https://dev.to/abanoubkerols/blob-in-javascript-a-practical-deep-dive-with-real-world-examples-3b6p"/>
+        <updated>2026-10-09T16:00:00.000Z</updated>
+        <published>2026-10-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Client-Side Search From a Prebuilt JSON Index: Zero Dependencies, Zero Server Calls]]></title>
+        <id>https://dev.to/bryan_hamilton/client-side-search-from-a-prebuilt-json-index-zero-dependencies-zero-server-calls-4ed0</id>
+        <link href="https://dev.to/bryan_hamilton/client-side-search-from-a-prebuilt-json-index-zero-dependencies-zero-server-calls-4ed0"/>
         <updated>2026-10-09T16:00:00.000Z</updated>
         <published>2026-10-09T16:00:00.000Z</published>
     </entry>
@@ -211,30 +246,9 @@
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss]]></title>
-        <id>https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/</id>
-        <link href="https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website]]></title>
-        <id>https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</id>
-        <link href="https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI’s revenue is reportedly $20 billion less than previously projected]]></title>
-        <id>https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/</id>
-        <link href="https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI’s math solutions aren’t meeting the field’s standards yet]]></title>
-        <id>https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/</id>
-        <link href="https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/"/>
+        <title type="html"><![CDATA[President Trump awards Big Tech donors with nation’s highest science prizes]]></title>
+        <id>https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/</id>
+        <link href="https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
@@ -246,9 +260,30 @@
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[President Trump awards Big Tech donors with nation’s highest science prizes]]></title>
-        <id>https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/</id>
-        <link href="https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/"/>
+        <title type="html"><![CDATA[OpenAI’s math solutions aren’t meeting the field’s standards yet]]></title>
+        <id>https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/</id>
+        <link href="https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI’s revenue is reportedly $20 billion less than previously projected]]></title>
+        <id>https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/</id>
+        <link href="https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website]]></title>
+        <id>https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</id>
+        <link href="https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/"/>
+        <updated>2026-10-08T16:00:00.000Z</updated>
+        <published>2026-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss]]></title>
+        <id>https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/</id>
+        <link href="https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
@@ -326,41 +361,6 @@
         <title type="html"><![CDATA[The Agent Experience (Ax) Practitioner Playbook]]></title>
         <id>https://developer.microsoft.com/blog/introducing-the-agent-experience-ax-practitioner-playbook/</id>
         <link href="https://developer.microsoft.com/blog/introducing-the-agent-experience-ax-practitioner-playbook/"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[He Built Free, Open-Source Versions of Photoshop, Premiere, Lightroom with AI]]></title>
-        <id>https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/</id>
-        <link href="https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vibe Astronomy: Discovering Exoplanets]]></title>
-        <id>https://invertedpassion.substack.com/p/vibe-astronomy-discovering-exoplanets</id>
-        <link href="https://invertedpassion.substack.com/p/vibe-astronomy-discovering-exoplanets"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D FPS game demo with photorealistic rendering, by Opus 5.5]]></title>
-        <id>https://github.com/cktang88/3d-fps</id>
-        <link href="https://github.com/cktang88/3d-fps"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastodon-compatible ActivityPub server in Python/Django]]></title>
-        <id>https://github.com/avaraline/incarnator</id>
-        <link href="https://github.com/avaraline/incarnator"/>
-        <updated>2026-10-08T16:00:00.000Z</updated>
-        <published>2026-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["A Node.js project template that will not install Node with curl – sh]]></title>
-        <id>https://github.com/fulldecent/node.js-template</id>
-        <link href="https://github.com/fulldecent/node.js-template"/>
         <updated>2026-10-08T16:00:00.000Z</updated>
         <published>2026-10-08T16:00:00.000Z</published>
     </entry>
