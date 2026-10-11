@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-11T00:01:56.176Z</updated>
+    <updated>2026-10-11T02:02:38.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -50,86 +50,44 @@
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Personal agents are not aligned with consumer long-term interests]]></title>
-        <id>https://twitter.com/BrendanFalk/status/2109068824293351774</id>
-        <link href="https://twitter.com/BrendanFalk/status/2109068824293351774"/>
+        <title type="html"><![CDATA[Give up kissing or sauce? I asked 10'000 people in 127 countries]]></title>
+        <id>https://huggingface.co/datasets/jasoncorkill/would-you-rather-kissing-vs-sauce</id>
+        <link href="https://huggingface.co/datasets/jasoncorkill/would-you-rather-kissing-vs-sauce"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Website Is Now Made in Swift]]></title>
-        <id>https://sindresorhus.com/blog/swift-website</id>
-        <link href="https://sindresorhus.com/blog/swift-website"/>
+        <title type="html"><![CDATA[A plastic once thought harmless may be fueling fatty liver disease]]></title>
+        <id>https://www.sciencedaily.com/releases/2026/10/261008102718.htm</id>
+        <link href="https://www.sciencedaily.com/releases/2026/10/261008102718.htm"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Aporium – A UMAP galaxy of 5800 philosophy excerpts in conversation]]></title>
-        <id>https://www.aporium.app/explore</id>
-        <link href="https://www.aporium.app/explore"/>
+        <title type="html"><![CDATA[The True Scale of the Original Trilogy [video]]]></title>
+        <id>https://www.youtube.com/watch?v=bvyhmpmxBWc</id>
+        <link href="https://www.youtube.com/watch?v=bvyhmpmxBWc"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Every US Electrical Outlet Explained [video]]]></title>
-        <id>https://www.youtube.com/watch?v=n_1wzYQwnts</id>
-        <link href="https://www.youtube.com/watch?v=n_1wzYQwnts"/>
+        <title type="html"><![CDATA[Show HN: An unofficial download picker for the ArtCraft Rust apps]]></title>
+        <id>https://craftsuite.net/</id>
+        <link href="https://craftsuite.net/"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DuckDB Runs Recursive CTEs Faster]]></title>
-        <id>https://duckdb.org/2026/08/25/how-duckdb-runs-recursive-ctes-faster</id>
-        <link href="https://duckdb.org/2026/08/25/how-duckdb-runs-recursive-ctes-faster"/>
+        <title type="html"><![CDATA[GMKtec EVO-X3 Mini-PC Review Looking at a 128GB AMD Local AI Box]]></title>
+        <id>https://www.servethehome.com/gmktec-evo-x3-mini-pc-review/</id>
+        <link href="https://www.servethehome.com/gmktec-evo-x3-mini-pc-review/"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Borel jet extensions via higher categories and homotopy type theory]]></title>
-        <id>https://higher-borel-jets.grok.me/</id>
-        <link href="https://higher-borel-jets.grok.me/"/>
-        <updated>2026-10-10T16:00:00.000Z</updated>
-        <published>2026-10-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Throw Alice and Bob into Sagittarius A*]]></title>
-        <id>https://github.com/steveking-gh/black-hole-lab</id>
-        <link href="https://github.com/steveking-gh/black-hole-lab"/>
-        <updated>2026-10-10T16:00:00.000Z</updated>
-        <published>2026-10-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One of 20M Videos]]></title>
-        <id>https://www.youtube.com/watch?v=tqlvdPLsWD4</id>
-        <link href="https://www.youtube.com/watch?v=tqlvdPLsWD4"/>
-        <updated>2026-10-10T16:00:00.000Z</updated>
-        <published>2026-10-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Duplicity and Photo and Video Manager]]></title>
-        <id>https://www.worm-app.com/https://www.dupepit.com/</id>
-        <link href="https://www.worm-app.com/https://www.dupepit.com/"/>
-        <updated>2026-10-10T16:00:00.000Z</updated>
-        <published>2026-10-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dbt enables data analysts and engineers to transform their data]]></title>
-        <id>https://github.com/dbt-labs/dbt</id>
-        <link href="https://github.com/dbt-labs/dbt"/>
-        <updated>2026-10-10T16:00:00.000Z</updated>
-        <published>2026-10-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alien Crash Site]]></title>
-        <id>https://www.aliencrashsite.org</id>
-        <link href="https://www.aliencrashsite.org"/>
-        <updated>2026-10-10T16:00:00.000Z</updated>
-        <published>2026-10-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High console prices push PlayStation and Xbox sales to new lows]]></title>
-        <id>https://www.polygon.com/game-console-sales-down-ai-component-crisis-ram/</id>
-        <link href="https://www.polygon.com/game-console-sales-down-ai-component-crisis-ram/"/>
+        <title type="html"><![CDATA[Genkit Dart 1.0: Build production-ready agentic apps with Dart and Flutter]]></title>
+        <id>https://flutter.dev/blog/announcing-genkit-dart-1-0</id>
+        <link href="https://flutter.dev/blog/announcing-genkit-dart-1-0"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
@@ -141,58 +99,93 @@
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Playbook] Zero Trust Architecture for MCP]]></title>
-        <id>https://pub.towardsai.net/playbook-zero-trust-architecture-for-mcp-f4196aaf00b0?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/playbook-zero-trust-architecture-for-mcp-f4196aaf00b0?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[High console prices push PlayStation and Xbox sales to new lows]]></title>
+        <id>https://www.polygon.com/game-console-sales-down-ai-component-crisis-ram/</id>
+        <link href="https://www.polygon.com/game-console-sales-down-ai-component-crisis-ram/"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Muse Code Wants Your Repo More Than Your Money]]></title>
-        <id>https://pub.towardsai.net/meta-muse-code-wants-your-repo-more-than-your-money-c11af8bf14f9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/meta-muse-code-wants-your-repo-more-than-your-money-c11af8bf14f9?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Alien Crash Site]]></title>
+        <id>https://www.aliencrashsite.org</id>
+        <link href="https://www.aliencrashsite.org"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Run MCP Servers Through Docker With Secrets in the Keychain]]></title>
-        <id>https://pub.towardsai.net/run-mcp-servers-through-docker-with-secrets-in-the-keychain-12bbd3fba048?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/run-mcp-servers-through-docker-with-secrets-in-the-keychain-12bbd3fba048?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Dbt enables data analysts and engineers to transform their data]]></title>
+        <id>https://github.com/dbt-labs/dbt</id>
+        <link href="https://github.com/dbt-labs/dbt"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Python Data Stack Quietly Rewrote Itself in 2026 (Here’s What to Actually Use)]]></title>
-        <id>https://pub.towardsai.net/the-python-data-stack-quietly-rewrote-itself-in-2026-heres-what-to-actually-use-4dca105f17bc?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-python-data-stack-quietly-rewrote-itself-in-2026-heres-what-to-actually-use-4dca105f17bc?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Duplicity and Photo and Video Manager]]></title>
+        <id>https://www.worm-app.com/https://www.dupepit.com/</id>
+        <link href="https://www.worm-app.com/https://www.dupepit.com/"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Tracked Every Cost-Cutting Trick AI Teams Used This Week. Here’s What Actually Works]]></title>
-        <id>https://pub.towardsai.net/i-tracked-every-cost-cutting-trick-ai-teams-used-this-week-heres-what-actually-works-9fb7405b732d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-tracked-every-cost-cutting-trick-ai-teams-used-this-week-heres-what-actually-works-9fb7405b732d?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[One of 20M Videos]]></title>
+        <id>https://www.youtube.com/watch?v=tqlvdPLsWD4</id>
+        <link href="https://www.youtube.com/watch?v=tqlvdPLsWD4"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Agent Memory After the Hype: What Jev-Mem, KnowledgeX and BlogWriter Taught Me About My Own Grep…]]></title>
-        <id>https://pub.towardsai.net/agent-memory-after-the-hype-what-jev-mem-knowledgex-and-blogwriter-taught-me-about-my-own-grep-5a021886fdb3?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/agent-memory-after-the-hype-what-jev-mem-knowledgex-and-blogwriter-taught-me-about-my-own-grep-5a021886fdb3?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Throw Alice and Bob into Sagittarius A*]]></title>
+        <id>https://github.com/steveking-gh/black-hole-lab</id>
+        <link href="https://github.com/steveking-gh/black-hole-lab"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-6.1 Sol Ultrafast: Build Coding Agent Workflows That Stay Fast and Steerable]]></title>
-        <id>https://pub.towardsai.net/gpt-6-1-sol-ultrafast-build-coding-agent-workflows-that-stay-fast-and-steerable-fd880a045b53?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/gpt-6-1-sol-ultrafast-build-coding-agent-workflows-that-stay-fast-and-steerable-fd880a045b53?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Borel jet extensions via higher categories and homotopy type theory]]></title>
+        <id>https://higher-borel-jets.grok.me/</id>
+        <link href="https://higher-borel-jets.grok.me/"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI Decisions API Rollout: Build Fast AI Routing Without Letting It Make the Final Call]]></title>
-        <id>https://pub.towardsai.net/openai-decisions-api-rollout-build-fast-ai-routing-without-letting-it-make-the-final-call-794da1adf83c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/openai-decisions-api-rollout-build-fast-ai-routing-without-letting-it-make-the-final-call-794da1adf83c?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[DuckDB Runs Recursive CTEs Faster]]></title>
+        <id>https://duckdb.org/2026/08/25/how-duckdb-runs-recursive-ctes-faster</id>
+        <link href="https://duckdb.org/2026/08/25/how-duckdb-runs-recursive-ctes-faster"/>
+        <updated>2026-10-10T16:00:00.000Z</updated>
+        <published>2026-10-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every US Electrical Outlet Explained [video]]]></title>
+        <id>https://www.youtube.com/watch?v=n_1wzYQwnts</id>
+        <link href="https://www.youtube.com/watch?v=n_1wzYQwnts"/>
+        <updated>2026-10-10T16:00:00.000Z</updated>
+        <published>2026-10-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Aporium – A UMAP galaxy of 5800 philosophy excerpts in conversation]]></title>
+        <id>https://www.aporium.app/explore</id>
+        <link href="https://www.aporium.app/explore"/>
+        <updated>2026-10-10T16:00:00.000Z</updated>
+        <published>2026-10-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Website Is Now Made in Swift]]></title>
+        <id>https://sindresorhus.com/blog/swift-website</id>
+        <link href="https://sindresorhus.com/blog/swift-website"/>
+        <updated>2026-10-10T16:00:00.000Z</updated>
+        <published>2026-10-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Personal agents are not aligned with consumer long-term interests]]></title>
+        <id>https://twitter.com/BrendanFalk/status/2109068824293351774</id>
+        <link href="https://twitter.com/BrendanFalk/status/2109068824293351774"/>
+        <updated>2026-10-10T16:00:00.000Z</updated>
+        <published>2026-10-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Context Bleed: Why LLMs Fail at Patient Privacy]]></title>
+        <id>https://pub.towardsai.net/the-context-bleed-why-llms-fail-at-patient-privacy-feb4af141d64?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-context-bleed-why-llms-fail-at-patient-privacy-feb4af141d64?source=rss----98111c9905da---4"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
@@ -204,93 +197,86 @@
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tenant Rollbacks: Feature Flags, Node.js Caching, and Fallback Defaults]]></title>
-        <id>https://dev.to/linusholm3764/tenant-rollbacks-feature-flags-nodejs-caching-and-fallback-defaults-1mjm</id>
-        <link href="https://dev.to/linusholm3764/tenant-rollbacks-feature-flags-nodejs-caching-and-fallback-defaults-1mjm"/>
+        <title type="html"><![CDATA[OpenAI Decisions API Rollout: Build Fast AI Routing Without Letting It Make the Final Call]]></title>
+        <id>https://pub.towardsai.net/openai-decisions-api-rollout-build-fast-ai-routing-without-letting-it-make-the-final-call-794da1adf83c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/openai-decisions-api-rollout-build-fast-ai-routing-without-letting-it-make-the-final-call-794da1adf83c?source=rss----98111c9905da---4"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Stopped Copy-Pasting Apps Script Code Into AI Chatbots]]></title>
-        <id>https://dev.to/mahrosh_ishere_10687b6a5/i-stopped-copy-pasting-apps-script-code-into-ai-chatbots-34cl</id>
-        <link href="https://dev.to/mahrosh_ishere_10687b6a5/i-stopped-copy-pasting-apps-script-code-into-ai-chatbots-34cl"/>
+        <title type="html"><![CDATA[GPT-6.1 Sol Ultrafast: Build Coding Agent Workflows That Stay Fast and Steerable]]></title>
+        <id>https://pub.towardsai.net/gpt-6-1-sol-ultrafast-build-coding-agent-workflows-that-stay-fast-and-steerable-fd880a045b53?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/gpt-6-1-sol-ultrafast-build-coding-agent-workflows-that-stay-fast-and-steerable-fd880a045b53?source=rss----98111c9905da---4"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TikTok Widget for Your Website: Single Embed or Updating Feed?]]></title>
-        <id>https://dev.to/krishan_vijayvargiya_d694/tiktok-widget-for-your-website-ach</id>
-        <link href="https://dev.to/krishan_vijayvargiya_d694/tiktok-widget-for-your-website-ach"/>
+        <title type="html"><![CDATA[Agent Memory After the Hype: What Jev-Mem, KnowledgeX and BlogWriter Taught Me About My Own Grep…]]></title>
+        <id>https://pub.towardsai.net/agent-memory-after-the-hype-what-jev-mem-knowledgex-and-blogwriter-taught-me-about-my-own-grep-5a021886fdb3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/agent-memory-after-the-hype-what-jev-mem-knowledgex-and-blogwriter-taught-me-about-my-own-grep-5a021886fdb3?source=rss----98111c9905da---4"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Plan an animated travel-map video with JavaScript]]></title>
-        <id>https://dev.to/albummap/plan-an-animated-travel-map-video-with-javascript-1p0e</id>
-        <link href="https://dev.to/albummap/plan-an-animated-travel-map-video-with-javascript-1p0e"/>
+        <title type="html"><![CDATA[I Tracked Every Cost-Cutting Trick AI Teams Used This Week. Here’s What Actually Works]]></title>
+        <id>https://pub.towardsai.net/i-tracked-every-cost-cutting-trick-ai-teams-used-this-week-heres-what-actually-works-9fb7405b732d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-tracked-every-cost-cutting-trick-ai-teams-used-this-week-heres-what-actually-works-9fb7405b732d?source=rss----98111c9905da---4"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create an AI Podcast Generator with ElevenLabs]]></title>
-        <id>https://dev.to/voice_developer/create-an-ai-podcast-generator-with-elevenlabs-4891</id>
-        <link href="https://dev.to/voice_developer/create-an-ai-podcast-generator-with-elevenlabs-4891"/>
+        <title type="html"><![CDATA[The Python Data Stack Quietly Rewrote Itself in 2026 (Here’s What to Actually Use)]]></title>
+        <id>https://pub.towardsai.net/the-python-data-stack-quietly-rewrote-itself-in-2026-heres-what-to-actually-use-4dca105f17bc?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-python-data-stack-quietly-rewrote-itself-in-2026-heres-what-to-actually-use-4dca105f17bc?source=rss----98111c9905da---4"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Safari gave my blank tab no URL. My security check read that as "not yours."]]></title>
-        <id>https://dev.to/achiya-automation/safari-gave-my-blank-tab-no-url-my-security-check-read-that-as-not-yours-p4d</id>
-        <link href="https://dev.to/achiya-automation/safari-gave-my-blank-tab-no-url-my-security-check-read-that-as-not-yours-p4d"/>
+        <title type="html"><![CDATA[Run MCP Servers Through Docker With Secrets in the Keychain]]></title>
+        <id>https://pub.towardsai.net/run-mcp-servers-through-docker-with-secrets-in-the-keychain-12bbd3fba048?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/run-mcp-servers-through-docker-with-secrets-in-the-keychain-12bbd3fba048?source=rss----98111c9905da---4"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Property Agent Error Tracking: Simple Frontend and Backend Trace Correlation Setup]]></title>
-        <id>https://dev.to/philemonshaw8453/property-agent-error-tracking-simple-frontend-and-backend-trace-correlation-setup-5f8j</id>
-        <link href="https://dev.to/philemonshaw8453/property-agent-error-tracking-simple-frontend-and-backend-trace-correlation-setup-5f8j"/>
+        <title type="html"><![CDATA[Meta Muse Code Wants Your Repo More Than Your Money]]></title>
+        <id>https://pub.towardsai.net/meta-muse-code-wants-your-repo-more-than-your-money-c11af8bf14f9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/meta-muse-code-wants-your-repo-more-than-your-money-c11af8bf14f9?source=rss----98111c9905da---4"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Effortless JPG to PPTX Conversion with Node.js REST API]]></title>
-        <id>https://dev.to/sherry_stevens/effortless-jpg-to-pptx-conversion-with-nodejs-rest-api-5aic</id>
-        <link href="https://dev.to/sherry_stevens/effortless-jpg-to-pptx-conversion-with-nodejs-rest-api-5aic"/>
+        <title type="html"><![CDATA[[Playbook] Zero Trust Architecture for MCP]]></title>
+        <id>https://pub.towardsai.net/playbook-zero-trust-architecture-for-mcp-f4196aaf00b0?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/playbook-zero-trust-architecture-for-mcp-f4196aaf00b0?source=rss----98111c9905da---4"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Relying on TypeScript Interfaces for Financial Data: Why Strict Runtime Schema Validation with Zod is Non-Negotiable]]></title>
-        <id>https://dev.to/programmingcentral/stop-relying-on-typescript-interfaces-for-financial-data-why-strict-runtime-schema-validation-with-aod</id>
-        <link href="https://dev.to/programmingcentral/stop-relying-on-typescript-interfaces-for-financial-data-why-strict-runtime-schema-validation-with-aod"/>
+        <title type="html"><![CDATA[Python 3.15.0 added to actions/python-versions]]></title>
+        <id>https://simonwillison.net/2026/Oct/10/python-actions/</id>
+        <link href="https://simonwillison.net/2026/Oct/10/python-actions/"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trustlines: Why XRPL Holder Counts Are Hard to Fake]]></title>
-        <id>https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-1p11</id>
-        <link href="https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-1p11"/>
+        <title type="html"><![CDATA[How to Get Your Current Location with JavaScript]]></title>
+        <id>https://dev.to/echoluoluo/how-to-get-your-current-location-with-javascript-5gl3</id>
+        <link href="https://dev.to/echoluoluo/how-to-get-your-current-location-with-javascript-5gl3"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[30 Practical JavaScript Regex Patterns With Examples and Tests]]></title>
-        <id>https://dev.to/shahzaibniazi/30-practical-javascript-regex-patterns-with-examples-and-tests-47f7</id>
-        <link href="https://dev.to/shahzaibniazi/30-practical-javascript-regex-patterns-with-examples-and-tests-47f7"/>
+        <title type="html"><![CDATA[Getting Started with the Ace Data Cloud TypeScript SDK]]></title>
+        <id>https://dev.to/germey/getting-started-with-the-ace-data-cloud-typescript-sdk-3gig</id>
+        <link href="https://dev.to/germey/getting-started-with-the-ace-data-cloud-typescript-sdk-3gig"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Character Counts in JavaScript: Code Units, Code Points, Graphemes, and UTF-8 Bytes]]></title>
-        <id>https://dev.to/neulketing/character-counts-in-javascript-code-units-code-points-graphemes-and-utf-8-bytes-beb</id>
-        <link href="https://dev.to/neulketing/character-counts-in-javascript-code-units-code-points-graphemes-and-utf-8-bytes-beb"/>
-        <updated>2026-10-10T16:00:00.000Z</updated>
-        <published>2026-10-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deno Has One Year Left. Node Won Without a Fight.]]></title>
-        <id>https://dev.to/alanwest/deno-has-one-year-left-node-won-without-a-fight-4jfp</id>
-        <link href="https://dev.to/alanwest/deno-has-one-year-left-node-won-without-a-fight-4jfp"/>
+        <title type="html"><![CDATA[Your JSON Parses. So Why Did One Value Disappear?]]></title>
+        <id>https://dev.to/chan_lebron_61e9204b0aa43/your-json-parses-so-why-did-one-value-disappear-11gp</id>
+        <link href="https://dev.to/chan_lebron_61e9204b0aa43/your-json-parses-so-why-did-one-value-disappear-11gp"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
@@ -302,66 +288,80 @@
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[K-pop star Sunmi loves Notion and ear cleaning videos]]></title>
-        <id>https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview</id>
-        <link href="https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview"/>
-        <updated>2026-10-09T16:00:00.000Z</updated>
-        <published>2026-10-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Deno Has One Year Left. Node Won Without a Fight.]]></title>
+        <id>https://dev.to/alanwest/deno-has-one-year-left-node-won-without-a-fight-4jfp</id>
+        <link href="https://dev.to/alanwest/deno-has-one-year-left-node-won-without-a-fight-4jfp"/>
+        <updated>2026-10-10T16:00:00.000Z</updated>
+        <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LG’s RGB LED TV is good for certain situations, but an OLED is better]]></title>
-        <id>https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review</id>
-        <link href="https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review"/>
-        <updated>2026-10-09T16:00:00.000Z</updated>
-        <published>2026-10-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Character Counts in JavaScript: Code Units, Code Points, Graphemes, and UTF-8 Bytes]]></title>
+        <id>https://dev.to/neulketing/character-counts-in-javascript-code-units-code-points-graphemes-and-utf-8-bytes-beb</id>
+        <link href="https://dev.to/neulketing/character-counts-in-javascript-code-units-code-points-graphemes-and-utf-8-bytes-beb"/>
+        <updated>2026-10-10T16:00:00.000Z</updated>
+        <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My brief romance with an AI bird feeder]]></title>
-        <id>https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too</id>
-        <link href="https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too"/>
-        <updated>2026-10-09T16:00:00.000Z</updated>
-        <published>2026-10-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[30 Practical JavaScript Regex Patterns With Examples and Tests]]></title>
+        <id>https://dev.to/shahzaibniazi/30-practical-javascript-regex-patterns-with-examples-and-tests-47f7</id>
+        <link href="https://dev.to/shahzaibniazi/30-practical-javascript-regex-patterns-with-examples-and-tests-47f7"/>
+        <updated>2026-10-10T16:00:00.000Z</updated>
+        <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft tries to spark new life into Windows]]></title>
-        <id>https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad</id>
-        <link href="https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad"/>
-        <updated>2026-10-09T16:00:00.000Z</updated>
-        <published>2026-10-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Trustlines: Why XRPL Holder Counts Are Hard to Fake]]></title>
+        <id>https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-1p11</id>
+        <link href="https://dev.to/nyxagi/trustlines-why-xrpl-holder-counts-are-hard-to-fake-1p11"/>
+        <updated>2026-10-10T16:00:00.000Z</updated>
+        <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google teases Fitbit Edge launch next week]]></title>
-        <id>https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week</id>
-        <link href="https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week"/>
-        <updated>2026-10-09T16:00:00.000Z</updated>
-        <published>2026-10-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Stop Relying on TypeScript Interfaces for Financial Data: Why Strict Runtime Schema Validation with Zod is Non-Negotiable]]></title>
+        <id>https://dev.to/programmingcentral/stop-relying-on-typescript-interfaces-for-financial-data-why-strict-runtime-schema-validation-with-aod</id>
+        <link href="https://dev.to/programmingcentral/stop-relying-on-typescript-interfaces-for-financial-data-why-strict-runtime-schema-validation-with-aod"/>
+        <updated>2026-10-10T16:00:00.000Z</updated>
+        <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nikon microscopic video competition winner disqualified for using generative AI]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai"/>
-        <updated>2026-10-09T16:00:00.000Z</updated>
-        <published>2026-10-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Effortless JPG to PPTX Conversion with Node.js REST API]]></title>
+        <id>https://dev.to/sherry_stevens/effortless-jpg-to-pptx-conversion-with-nodejs-rest-api-5aic</id>
+        <link href="https://dev.to/sherry_stevens/effortless-jpg-to-pptx-conversion-with-nodejs-rest-api-5aic"/>
+        <updated>2026-10-10T16:00:00.000Z</updated>
+        <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution]]></title>
-        <id>https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air</id>
-        <link href="https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air"/>
-        <updated>2026-10-09T16:00:00.000Z</updated>
-        <published>2026-10-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Property Agent Error Tracking: Simple Frontend and Backend Trace Correlation Setup]]></title>
+        <id>https://dev.to/philemonshaw8453/property-agent-error-tracking-simple-frontend-and-backend-trace-correlation-setup-5f8j</id>
+        <link href="https://dev.to/philemonshaw8453/property-agent-error-tracking-simple-frontend-and-backend-trace-correlation-setup-5f8j"/>
+        <updated>2026-10-10T16:00:00.000Z</updated>
+        <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ohio blogger found guilty of harassment for sending Shrek nude to senator]]></title>
-        <id>https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude</id>
-        <link href="https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude"/>
-        <updated>2026-10-09T16:00:00.000Z</updated>
-        <published>2026-10-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Safari gave my blank tab no URL. My security check read that as "not yours."]]></title>
+        <id>https://dev.to/achiya-automation/safari-gave-my-blank-tab-no-url-my-security-check-read-that-as-not-yours-p4d</id>
+        <link href="https://dev.to/achiya-automation/safari-gave-my-blank-tab-no-url-my-security-check-read-that-as-not-yours-p4d"/>
+        <updated>2026-10-10T16:00:00.000Z</updated>
+        <published>2026-10-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The director of Fjord takes the &#8216;risky position&#8217; of moderator]]></title>
-        <id>https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview</id>
-        <link href="https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview"/>
-        <updated>2026-10-09T16:00:00.000Z</updated>
-        <published>2026-10-09T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Create an AI Podcast Generator with ElevenLabs]]></title>
+        <id>https://dev.to/voice_developer/create-an-ai-podcast-generator-with-elevenlabs-4891</id>
+        <link href="https://dev.to/voice_developer/create-an-ai-podcast-generator-with-elevenlabs-4891"/>
+        <updated>2026-10-10T16:00:00.000Z</updated>
+        <published>2026-10-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plan an animated travel-map video with JavaScript]]></title>
+        <id>https://dev.to/albummap/plan-an-animated-travel-map-video-with-javascript-1p0e</id>
+        <link href="https://dev.to/albummap/plan-an-animated-travel-map-video-with-javascript-1p0e"/>
+        <updated>2026-10-10T16:00:00.000Z</updated>
+        <published>2026-10-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok Widget for Your Website: Single Embed or Updating Feed?]]></title>
+        <id>https://dev.to/krishan_vijayvargiya_d694/tiktok-widget-for-your-website-ach</id>
+        <link href="https://dev.to/krishan_vijayvargiya_d694/tiktok-widget-for-your-website-ach"/>
+        <updated>2026-10-10T16:00:00.000Z</updated>
+        <published>2026-10-10T16:00:00.000Z</published>
     </entry>
 </feed>
