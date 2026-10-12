@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-11T22:01:47.524Z</updated>
+    <updated>2026-10-12T00:02:04.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -78,30 +78,16 @@
         <published>2026-10-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JWT Authentication Explained: Theory, Security, and a Complete Node.js & Express Example]]></title>
-        <id>https://dev.to/abanoubkerols/jwt-authentication-explained-theory-security-and-a-complete-nodejs-express-example-264</id>
-        <link href="https://dev.to/abanoubkerols/jwt-authentication-explained-theory-security-and-a-complete-nodejs-express-example-264"/>
+        <title type="html"><![CDATA[Is your MT5 EA losing on its entries or its exits? A free report analyser]]></title>
+        <id>https://dev.to/hawkbtcommander/is-your-mt5-ea-losing-on-its-entries-or-its-exits-a-free-report-analyser-4de2</id>
+        <link href="https://dev.to/hawkbtcommander/is-your-mt5-ea-losing-on-its-entries-or-its-exits-a-free-report-analyser-4de2"/>
         <updated>2026-10-11T16:00:00.000Z</updated>
         <published>2026-10-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a REST API with Fairyfly and SQLite]]></title>
-        <id>https://dev.to/majid_01/build-a-rest-api-with-fairyfly-and-sqlite-mb0</id>
-        <link href="https://dev.to/majid_01/build-a-rest-api-with-fairyfly-and-sqlite-mb0"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Outside the Assertion: The Retry Budget a Pairing Hour Refused to Inline]]></title>
-        <id>https://dev.to/appjs_7055/outside-the-assertion-the-retry-budget-a-pairing-hour-refused-to-inline-16na</id>
-        <link href="https://dev.to/appjs_7055/outside-the-assertion-the-retry-budget-a-pairing-hour-refused-to-inline-16na"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(https://diamondexch.me/]]></title>
-        <id>https://dev.to/pushpa_ji_b7fc3dc06098d51/httpsdiamondexchme-33p1</id>
-        <link href="https://dev.to/pushpa_ji_b7fc3dc06098d51/httpsdiamondexchme-33p1"/>
+        <title type="html"><![CDATA[Stop Rewriting Browser Fingerprinting Logic in React: Meet "useFingerprint"]]></title>
+        <id>https://dev.to/senthilk979/stop-rewriting-browser-fingerprinting-logic-in-react-meet-usefingerprint-8fj</id>
+        <link href="https://dev.to/senthilk979/stop-rewriting-browser-fingerprinting-logic-in-react-meet-usefingerprint-8fj"/>
         <updated>2026-10-11T16:00:00.000Z</updated>
         <published>2026-10-11T16:00:00.000Z</published>
     </entry>
@@ -113,9 +99,30 @@
         <published>2026-10-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Rewriting Browser Fingerprinting Logic in React: Meet "useFingerprint"]]></title>
-        <id>https://dev.to/senthilk979/stop-rewriting-browser-fingerprinting-logic-in-react-meet-usefingerprint-8fj</id>
-        <link href="https://dev.to/senthilk979/stop-rewriting-browser-fingerprinting-logic-in-react-meet-usefingerprint-8fj"/>
+        <title type="html"><![CDATA[(https://diamondexch.me/]]></title>
+        <id>https://dev.to/pushpa_ji_b7fc3dc06098d51/httpsdiamondexchme-33p1</id>
+        <link href="https://dev.to/pushpa_ji_b7fc3dc06098d51/httpsdiamondexchme-33p1"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outside the Assertion: The Retry Budget a Pairing Hour Refused to Inline]]></title>
+        <id>https://dev.to/appjs_7055/outside-the-assertion-the-retry-budget-a-pairing-hour-refused-to-inline-16na</id>
+        <link href="https://dev.to/appjs_7055/outside-the-assertion-the-retry-budget-a-pairing-hour-refused-to-inline-16na"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a REST API with Fairyfly and SQLite]]></title>
+        <id>https://dev.to/majid_01/build-a-rest-api-with-fairyfly-and-sqlite-mb0</id>
+        <link href="https://dev.to/majid_01/build-a-rest-api-with-fairyfly-and-sqlite-mb0"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JWT Authentication Explained: Theory, Security, and a Complete Node.js & Express Example]]></title>
+        <id>https://dev.to/abanoubkerols/jwt-authentication-explained-theory-security-and-a-complete-nodejs-express-example-264</id>
+        <link href="https://dev.to/abanoubkerols/jwt-authentication-explained-theory-security-and-a-complete-nodejs-express-example-264"/>
         <updated>2026-10-11T16:00:00.000Z</updated>
         <published>2026-10-11T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Alien Crash Site]]></title>
         <id>https://www.aliencrashsite.org</id>
         <link href="https://www.aliencrashsite.org"/>
-        <updated>2026-10-10T16:00:00.000Z</updated>
-        <published>2026-10-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dbt enables data analysts and engineers to transform their data]]></title>
-        <id>https://github.com/dbt-labs/dbt</id>
-        <link href="https://github.com/dbt-labs/dbt"/>
         <updated>2026-10-10T16:00:00.000Z</updated>
         <published>2026-10-10T16:00:00.000Z</published>
     </entry>
