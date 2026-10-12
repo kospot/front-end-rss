@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-12T07:02:59.081Z</updated>
+    <updated>2026-10-12T10:02:10.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,23 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注]]></title>
+        <id>https://sspai.com/post/115242</id>
+        <link href="https://sspai.com/post/115242"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A college in Illinois tried to cancel its Flock contact and it refused]]></title>
         <id>https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras</id>
         <link href="https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kindle Aluminum Review (2026): Gorgeous, but Expensive]]></title>
+        <id>https://www.wired.com/review/kindle-aluminum-2026/</id>
+        <link href="https://www.wired.com/review/kindle-aluminum-2026/"/>
         <updated>2026-10-11T16:00:00.000Z</updated>
         <published>2026-10-11T16:00:00.000Z</published>
     </entry>
@@ -57,142 +71,51 @@
         <published>2026-10-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Engineer to of Girlie Pipeline]]></title>
-        <id>https://alexine.rip/the-engineer-to-of-girlie-pipeline.html</id>
-        <link href="https://alexine.rip/the-engineer-to-of-girlie-pipeline.html"/>
+        <title type="html"><![CDATA[Is PHP a Rusty Language?]]></title>
+        <id>https://tomasvotruba.com/blog/is-php-a-rusty-language</id>
+        <link href="https://tomasvotruba.com/blog/is-php-a-rusty-language"/>
         <updated>2026-10-11T16:00:00.000Z</updated>
         <published>2026-10-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: PS2 games statically recompiled to WebAssembly]]></title>
-        <id>https://github.com/snuri00/ps2-web-recomp</id>
-        <link href="https://github.com/snuri00/ps2-web-recomp"/>
+        <title type="html"><![CDATA[Mathematician Who Waited 50 Years for Proper Credit for Her Work Has Died]]></title>
+        <id>https://www.nytimes.com/2026/10/10/science/mary-tsingou-menzel-dead.html</id>
+        <link href="https://www.nytimes.com/2026/10/10/science/mary-tsingou-menzel-dead.html"/>
         <updated>2026-10-11T16:00:00.000Z</updated>
         <published>2026-10-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI-Built Torrent Site Looks Inside Downloads to Catch Fakes and Malware]]></title>
-        <id>https://torrentfreak.com/ai-built-torrent-site-looks-inside-downloads-to-catch-fakes-and-malware/</id>
-        <link href="https://torrentfreak.com/ai-built-torrent-site-looks-inside-downloads-to-catch-fakes-and-malware/"/>
+        <title type="html"><![CDATA[Show HN: NostrComments – comment threads on any URL, stored on public relays]]></title>
+        <id>https://github.com/briskness-byte/NostrComments</id>
+        <link href="https://github.com/briskness-byte/NostrComments"/>
         <updated>2026-10-11T16:00:00.000Z</updated>
         <published>2026-10-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Postgres isn't slow, your storage is]]></title>
-        <id>https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is</id>
-        <link href="https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is"/>
+        <title type="html"><![CDATA[New Apple TV 4K, HomeView, and HomePod Mini: 16 Details Just Leaked]]></title>
+        <id>https://www.macrumors.com/2026/10/11/apple-tv-4k-homeview-homepod-mini-2-leaks/</id>
+        <link href="https://www.macrumors.com/2026/10/11/apple-tv-4k-homeview-homepod-mini-2-leaks/"/>
         <updated>2026-10-11T16:00:00.000Z</updated>
         <published>2026-10-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A domain by any other name]]></title>
-        <id>https://kgolubic.com/posts/does-your-top-level-domain-matter/</id>
-        <link href="https://kgolubic.com/posts/does-your-top-level-domain-matter/"/>
+        <title type="html"><![CDATA[Gbos-VM: Run Googlebook OS in a GPU-Accelerated VM on Apple Silicon Macs]]></title>
+        <id>https://github.com/skylartaylor/gbos-vm</id>
+        <link href="https://github.com/skylartaylor/gbos-vm"/>
         <updated>2026-10-11T16:00:00.000Z</updated>
         <published>2026-10-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My favorite sci-fi books with character journeys you'll (probably) never forget]]></title>
-        <id>https://bookdna.com/best-books/sci-fi-character-journeys-youll-probably-never-for</id>
-        <link href="https://bookdna.com/best-books/sci-fi-character-journeys-youll-probably-never-for"/>
+        <title type="html"><![CDATA[Hetzner: The New GPU Server GEX63 for Professional AI Workloads]]></title>
+        <id>https://www.hetzner.com/_ray/pow</id>
+        <link href="https://www.hetzner.com/_ray/pow"/>
         <updated>2026-10-11T16:00:00.000Z</updated>
         <published>2026-10-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scalability but at What Cost? [video]]]></title>
-        <id>https://www.youtube.com/watch?v=gicykX-RxzU</id>
-        <link href="https://www.youtube.com/watch?v=gicykX-RxzU"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US lobbies allies to cut ties to anti-disinfo conf over panel critical of it]]></title>
-        <id>https://www.reuters.com/world/americas/us-lobbies-allies-cut-ties-anti-disinformation-conference-over-panel-critical-2026-10-07/</id>
-        <link href="https://www.reuters.com/world/americas/us-lobbies-allies-cut-ties-anti-disinformation-conference-over-panel-critical-2026-10-07/"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Privacy-First JSON Formatter which works on the browser]]></title>
-        <id>https://instantjsonformatter.com</id>
-        <link href="https://instantjsonformatter.com"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryptomining malware used poetry to infect more than 3,400 servers]]></title>
-        <id>https://www.tomshardware.com/tech-industry/cyber-security/cryptomining-malware-used-poetry-to-infect-more-than-3-400-servers-researchers-say-four-words-in-the-poellm-verse-changed-11-times-point-the-botnet-to-new-servers</id>
-        <link href="https://www.tomshardware.com/tech-industry/cyber-security/cryptomining-malware-used-poetry-to-infect-more-than-3-400-servers-researchers-say-four-words-in-the-poellm-verse-changed-11-times-point-the-botnet-to-new-servers"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: SwapBackdrop – reuse one cutout across video backgrounds and frames]]></title>
-        <id>https://swapbackdrop.com/</id>
-        <link href="https://swapbackdrop.com/"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codesmith's flagship open source project compromised, thousands at risk]]></title>
-        <id>https://www.deepwoodssec.com/research/reactime</id>
-        <link href="https://www.deepwoodssec.com/research/reactime"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fall To One (Math Song) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=9juhm97co1U</id>
-        <link href="https://www.youtube.com/watch?v=9juhm97co1U"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sysco Situation Just Got Worse [video]]]></title>
-        <id>https://www.youtube.com/shorts/SVm9M7Ag3lk</id>
-        <link href="https://www.youtube.com/shorts/SVm9M7Ag3lk"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: One link, one message – replace it by paying $1 more than the last]]></title>
-        <id>https://onelinkwins.com/</id>
-        <link href="https://onelinkwins.com/"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[But how to get to that European cloud?]]></title>
-        <id>https://berthub.eu/articles/posts/now-how-to-get-that-european-cloud/</id>
-        <link href="https://berthub.eu/articles/posts/now-how-to-get-that-european-cloud/"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Cachety – Watermark ID documents in the browser, nothing is uploaded]]></title>
-        <id>https://cachety.com</id>
-        <link href="https://cachety.com"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built an app to not forget therapy]]></title>
-        <id>https://mytherapynotes.co</id>
-        <link href="https://mytherapynotes.co"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gh-pull – A local GitHub PR dashboard using your existing CLI login]]></title>
-        <id>https://github.com/shiqicao/gh-pull</id>
-        <link href="https://github.com/shiqicao/gh-pull"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving "who said what" across conversations (IEEE SLT 2026)]]></title>
-        <id>https://arxiv.org/abs/2609.39344</id>
-        <link href="https://arxiv.org/abs/2609.39344"/>
+        <title type="html"><![CDATA[Crest – an Arc-inspired open-source browser for Mac]]></title>
+        <id>https://crestbrowser.com/</id>
+        <link href="https://crestbrowser.com/"/>
         <updated>2026-10-11T16:00:00.000Z</updated>
         <published>2026-10-11T16:00:00.000Z</published>
     </entry>
@@ -204,9 +127,142 @@
         <published>2026-10-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crest – an Arc-inspired open-source browser for Mac]]></title>
-        <id>https://crestbrowser.com/</id>
-        <link href="https://crestbrowser.com/"/>
+        <title type="html"><![CDATA[Solving "who said what" across conversations (IEEE SLT 2026)]]></title>
+        <id>https://arxiv.org/abs/2609.39344</id>
+        <link href="https://arxiv.org/abs/2609.39344"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gh-pull – A local GitHub PR dashboard using your existing CLI login]]></title>
+        <id>https://github.com/shiqicao/gh-pull</id>
+        <link href="https://github.com/shiqicao/gh-pull"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built an app to not forget therapy]]></title>
+        <id>https://mytherapynotes.co</id>
+        <link href="https://mytherapynotes.co"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Cachety – Watermark ID documents in the browser, nothing is uploaded]]></title>
+        <id>https://cachety.com</id>
+        <link href="https://cachety.com"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[But how to get to that European cloud?]]></title>
+        <id>https://berthub.eu/articles/posts/now-how-to-get-that-european-cloud/</id>
+        <link href="https://berthub.eu/articles/posts/now-how-to-get-that-european-cloud/"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: One link, one message – replace it by paying $1 more than the last]]></title>
+        <id>https://onelinkwins.com/</id>
+        <link href="https://onelinkwins.com/"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sysco Situation Just Got Worse [video]]]></title>
+        <id>https://www.youtube.com/shorts/SVm9M7Ag3lk</id>
+        <link href="https://www.youtube.com/shorts/SVm9M7Ag3lk"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fall To One (Math Song) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=9juhm97co1U</id>
+        <link href="https://www.youtube.com/watch?v=9juhm97co1U"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codesmith's flagship open source project compromised, thousands at risk]]></title>
+        <id>https://www.deepwoodssec.com/research/reactime</id>
+        <link href="https://www.deepwoodssec.com/research/reactime"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: SwapBackdrop – reuse one cutout across video backgrounds and frames]]></title>
+        <id>https://swapbackdrop.com/</id>
+        <link href="https://swapbackdrop.com/"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cryptomining malware used poetry to infect more than 3,400 servers]]></title>
+        <id>https://www.tomshardware.com/tech-industry/cyber-security/cryptomining-malware-used-poetry-to-infect-more-than-3-400-servers-researchers-say-four-words-in-the-poellm-verse-changed-11-times-point-the-botnet-to-new-servers</id>
+        <link href="https://www.tomshardware.com/tech-industry/cyber-security/cryptomining-malware-used-poetry-to-infect-more-than-3-400-servers-researchers-say-four-words-in-the-poellm-verse-changed-11-times-point-the-botnet-to-new-servers"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Privacy-First JSON Formatter which works on the browser]]></title>
+        <id>https://instantjsonformatter.com</id>
+        <link href="https://instantjsonformatter.com"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US lobbies allies to cut ties to anti-disinfo conf over panel critical of it]]></title>
+        <id>https://www.reuters.com/world/americas/us-lobbies-allies-cut-ties-anti-disinformation-conference-over-panel-critical-2026-10-07/</id>
+        <link href="https://www.reuters.com/world/americas/us-lobbies-allies-cut-ties-anti-disinformation-conference-over-panel-critical-2026-10-07/"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scalability but at What Cost? [video]]]></title>
+        <id>https://www.youtube.com/watch?v=gicykX-RxzU</id>
+        <link href="https://www.youtube.com/watch?v=gicykX-RxzU"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My favorite sci-fi books with character journeys you'll (probably) never forget]]></title>
+        <id>https://bookdna.com/best-books/sci-fi-character-journeys-youll-probably-never-for</id>
+        <link href="https://bookdna.com/best-books/sci-fi-character-journeys-youll-probably-never-for"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A domain by any other name]]></title>
+        <id>https://kgolubic.com/posts/does-your-top-level-domain-matter/</id>
+        <link href="https://kgolubic.com/posts/does-your-top-level-domain-matter/"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postgres isn't slow, your storage is]]></title>
+        <id>https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is</id>
+        <link href="https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-Built Torrent Site Looks Inside Downloads to Catch Fakes and Malware]]></title>
+        <id>https://torrentfreak.com/ai-built-torrent-site-looks-inside-downloads-to-catch-fakes-and-malware/</id>
+        <link href="https://torrentfreak.com/ai-built-torrent-site-looks-inside-downloads-to-catch-fakes-and-malware/"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: PS2 games statically recompiled to WebAssembly]]></title>
+        <id>https://github.com/snuri00/ps2-web-recomp</id>
+        <link href="https://github.com/snuri00/ps2-web-recomp"/>
+        <updated>2026-10-11T16:00:00.000Z</updated>
+        <published>2026-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Engineer to of Girlie Pipeline]]></title>
+        <id>https://alexine.rip/the-engineer-to-of-girlie-pipeline.html</id>
+        <link href="https://alexine.rip/the-engineer-to-of-girlie-pipeline.html"/>
         <updated>2026-10-11T16:00:00.000Z</updated>
         <published>2026-10-11T16:00:00.000Z</published>
     </entry>
@@ -305,62 +361,6 @@
         <title type="html"><![CDATA[A Categorical Atlas of Parameter-Efficient Fine-Tuning: Cones, Orbits, and Gauges]]></title>
         <id>https://arxiv.org/abs/2610.12728</id>
         <link href="https://arxiv.org/abs/2610.12728"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KITE: A Knowledge-Injected Temporal Encoder for Time-Series Event Forecasting]]></title>
-        <id>https://arxiv.org/abs/2610.12738</id>
-        <link href="https://arxiv.org/abs/2610.12738"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neural expectation-maximization and meta-models]]></title>
-        <id>https://arxiv.org/abs/2610.12741</id>
-        <link href="https://arxiv.org/abs/2610.12741"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Static Gradient Attribution Underperforms a Density-Matched Random Mask on Loss-Based Forgetting Within LoRA B-Matrix]]></title>
-        <id>https://arxiv.org/abs/2610.12744</id>
-        <link href="https://arxiv.org/abs/2610.12744"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NV-Tesseract-AD: Curriculum-Enhanced Conditional Diffusion for Multivariate Time-Series Anomaly Detection]]></title>
-        <id>https://arxiv.org/abs/2610.12754</id>
-        <link href="https://arxiv.org/abs/2610.12754"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta-Reflective Evolution Effectively Improves Production AI Systems]]></title>
-        <id>https://arxiv.org/abs/2610.12794</id>
-        <link href="https://arxiv.org/abs/2610.12794"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Expressive Power of Random-Feature MPNNs Across Graph Sizes]]></title>
-        <id>https://arxiv.org/abs/2610.12809</id>
-        <link href="https://arxiv.org/abs/2610.12809"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploying RDMA for Large-Scale Inference and Training Workloads]]></title>
-        <id>https://arxiv.org/abs/2610.12815</id>
-        <link href="https://arxiv.org/abs/2610.12815"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inverse Synthesis of Shock Time Series from Shock Response Spectra Using Ensembles of Conditional Variational Autoencoders]]></title>
-        <id>https://arxiv.org/abs/2610.12820</id>
-        <link href="https://arxiv.org/abs/2610.12820"/>
         <updated>2026-10-11T16:00:00.000Z</updated>
         <published>2026-10-11T16:00:00.000Z</published>
     </entry>
