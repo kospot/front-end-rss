@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-13T02:01:38.436Z</updated>
+    <updated>2026-10-13T04:02:29.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -113,23 +113,16 @@
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python Is Taking Over AI Agents. Here’s Why Developers Keep Choosing It]]></title>
-        <id>https://pub.towardsai.net/python-is-taking-over-ai-agents-heres-why-developers-keep-choosing-it-ac0285935e75?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/python-is-taking-over-ai-agents-heres-why-developers-keep-choosing-it-ac0285935e75?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Accelerating K-Means on Modern GPUs: An IO-Aware Approach via Flash-KMeans]]></title>
+        <id>https://pub.towardsai.net/accelerating-k-means-on-modern-gpus-an-io-aware-approach-via-flash-kmeans-98989ee2fd7b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/accelerating-k-means-on-modern-gpus-an-io-aware-approach-via-flash-kmeans-98989ee2fd7b?source=rss----98111c9905da---4"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Transform Any LLM into a Decision Model]]></title>
-        <id>https://pub.towardsai.net/transform-any-llm-into-a-decision-model-e2c164a20b29?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/transform-any-llm-into-a-decision-model-e2c164a20b29?source=rss----98111c9905da---4"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Day 28/100] LangGraph Checkpointing: Make Your Agent Survive a Restart]]></title>
-        <id>https://pub.towardsai.net/day-28-100-langgraph-checkpointing-make-your-agent-survive-a-restart-473a62cc4c66?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/day-28-100-langgraph-checkpointing-make-your-agent-survive-a-restart-473a62cc4c66?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[“Semantic Caching for Quant Prompts: Unlocking a 20 Percent Hit Rate in Market Valuation Queries”]]></title>
+        <id>https://pub.towardsai.net/semantic-caching-for-quant-prompts-unlocking-a-20-percent-hit-rate-in-market-valuation-queries-edc5a81acfde?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/semantic-caching-for-quant-prompts-unlocking-a-20-percent-hit-rate-in-market-valuation-queries-edc5a81acfde?source=rss----98111c9905da---4"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
@@ -141,9 +134,23 @@
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“Semantic Caching for Quant Prompts: Unlocking a 20 Percent Hit Rate in Market Valuation Queries”]]></title>
-        <id>https://pub.towardsai.net/semantic-caching-for-quant-prompts-unlocking-a-20-percent-hit-rate-in-market-valuation-queries-edc5a81acfde?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/semantic-caching-for-quant-prompts-unlocking-a-20-percent-hit-rate-in-market-valuation-queries-edc5a81acfde?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[[Day 28/100] LangGraph Checkpointing: Make Your Agent Survive a Restart]]></title>
+        <id>https://pub.towardsai.net/day-28-100-langgraph-checkpointing-make-your-agent-survive-a-restart-473a62cc4c66?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/day-28-100-langgraph-checkpointing-make-your-agent-survive-a-restart-473a62cc4c66?source=rss----98111c9905da---4"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transform Any LLM into a Decision Model]]></title>
+        <id>https://pub.towardsai.net/transform-any-llm-into-a-decision-model-e2c164a20b29?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/transform-any-llm-into-a-decision-model-e2c164a20b29?source=rss----98111c9905da---4"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Is Taking Over AI Agents. Here’s Why Developers Keep Choosing It]]></title>
+        <id>https://pub.towardsai.net/python-is-taking-over-ai-agents-heres-why-developers-keep-choosing-it-ac0285935e75?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/python-is-taking-over-ai-agents-heres-why-developers-keep-choosing-it-ac0285935e75?source=rss----98111c9905da---4"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
@@ -175,79 +182,58 @@ https://github.com/unadlib/mutative
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DSA Series: Add to Array-Form of Integer]]></title>
-        <id>https://dev.to/devcreed/dsa-series-add-to-array-form-of-integer-1i6d</id>
-        <link href="https://dev.to/devcreed/dsa-series-add-to-array-form-of-integer-1i6d"/>
+        <title type="html"><![CDATA[I Built a Zero-Backend Percentage Calculator: 5 Lessons]]></title>
+        <id>https://dev.to/bowentse/i-built-a-zero-backend-percentage-calculator-5-lessons-27e6</id>
+        <link href="https://dev.to/bowentse/i-built-a-zero-backend-percentage-calculator-5-lessons-27e6"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Review an Agent PR That Fetches Model-Named Docs URLs]]></title>
-        <id>https://dev.to/codejs_6920/review-an-agent-pr-that-fetches-model-named-docs-urls-38bb</id>
-        <link href="https://dev.to/codejs_6920/review-an-agent-pr-that-fetches-model-named-docs-urls-38bb"/>
+        <title type="html"><![CDATA[One speed number lied about our in-browser cutout. We published the distribution instead.]]></title>
+        <id>https://dev.to/szp2005/one-speed-number-lied-about-our-in-browser-cutout-we-published-the-distribution-instead-3151</id>
+        <link href="https://dev.to/szp2005/one-speed-number-lied-about-our-in-browser-cutout-we-published-the-distribution-instead-3151"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Pasting Production JWTs and Timestamps into Random Websites: Meet Castov (Web, CLI & VS Code)]]></title>
-        <id>https://dev.to/castov/stop-pasting-production-jwts-and-timestamps-into-random-websites-meet-castov-web-cli-vs-code-4k5d</id>
-        <link href="https://dev.to/castov/stop-pasting-production-jwts-and-timestamps-into-random-websites-meet-castov-web-cli-vs-code-4k5d"/>
+        <title type="html"><![CDATA[Reading npm compatibility results across Node.js, Bun and Deno]]></title>
+        <id>https://dev.to/siddiksawani/reading-npm-compatibility-results-across-nodejs-bun-and-deno-27ib</id>
+        <link href="https://dev.to/siddiksawani/reading-npm-compatibility-results-across-nodejs-bun-and-deno-27ib"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An open crypto-scam quiz in one HTML file: no build step, MIT code, CC BY 4.0 content]]></title>
-        <id>https://dev.to/cryptostrapon/an-open-crypto-scam-quiz-in-one-html-file-no-build-step-mit-code-cc-by-40-content-47d9</id>
-        <link href="https://dev.to/cryptostrapon/an-open-crypto-scam-quiz-in-one-html-file-no-build-step-mit-code-cc-by-40-content-47d9"/>
+        <title type="html"><![CDATA[React.js Best Practices: Writing Clean, Scalable, and Maintainable Components]]></title>
+        <id>https://dev.to/ansh_sheladiya/reactjs-best-practices-writing-clean-scalable-and-maintainable-components-36gc</id>
+        <link href="https://dev.to/ansh_sheladiya/reactjs-best-practices-writing-clean-scalable-and-maintainable-components-36gc"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kalshi's Market Titled 'HIGHEST Temperature SATX' Settles in Louisville]]></title>
-        <id>https://dev.to/nikita_iakovlev_415524c19/kalshis-market-titled-highest-temperature-satx-settles-in-louisville-22eh</id>
-        <link href="https://dev.to/nikita_iakovlev_415524c19/kalshis-market-titled-highest-temperature-satx-settles-in-louisville-22eh"/>
+        <title type="html"><![CDATA[Analyzing Post-Purchase Tracking Approaches for Shopify Stores]]></title>
+        <id>https://dev.to/sellermind/analyzing-post-purchase-tracking-approaches-for-shopify-stores-4a9c</id>
+        <link href="https://dev.to/sellermind/analyzing-post-purchase-tracking-approaches-for-shopify-stores-4a9c"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Editing audio in the browser without uploading it: how Tubidy.Mobile's tools work]]></title>
-        <id>https://dev.to/tubidymobile/editing-audio-in-the-browser-without-uploading-it-how-tubidymobiles-tools-work-1am5</id>
-        <link href="https://dev.to/tubidymobile/editing-audio-in-the-browser-without-uploading-it-how-tubidymobiles-tools-work-1am5"/>
+        <title type="html"><![CDATA[How I Built a Shopify Tracking Widget to Stop WISMO Emails]]></title>
+        <id>https://dev.to/sellermind/how-i-built-a-shopify-tracking-widget-to-stop-wismo-emails-2i1o</id>
+        <link href="https://dev.to/sellermind/how-i-built-a-shopify-tracking-widget-to-stop-wismo-emails-2i1o"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[30 Best Alternatives for Getting a Verified Alipay Account Online]]></title>
-        <id>https://dev.to/smmgetit10/30-best-alternatives-for-getting-a-verified-alipay-account-online-1bl4</id>
-        <link href="https://dev.to/smmgetit10/30-best-alternatives-for-getting-a-verified-alipay-account-online-1bl4"/>
+        <title type="html"><![CDATA[Reverse Engineering Etsy's Fee Structure in JavaScript]]></title>
+        <id>https://dev.to/sellermind/reverse-engineering-etsys-fee-structure-in-javascript-3927</id>
+        <link href="https://dev.to/sellermind/reverse-engineering-etsys-fee-structure-in-javascript-3927"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[streamix + React: An Explosive Mix for Modern State Management]]></title>
-        <id>https://dev.to/oleksii_shepel_3f635cea4d/streamix-react-an-explosive-mix-for-modern-state-management-5g3k</id>
-        <link href="https://dev.to/oleksii_shepel_3f635cea4d/streamix-react-an-explosive-mix-for-modern-state-management-5g3k"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing 3 New Japanese Market MCP Servers on the Official Registry]]></title>
-        <id>https://dev.to/atu_ino_ed473db24d76d234a/announcing-3-new-japanese-market-mcp-servers-on-the-official-registry-epm</id>
-        <link href="https://dev.to/atu_ino_ed473db24d76d234a/announcing-3-new-japanese-market-mcp-servers-on-the-official-registry-epm"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add AI Narration to Your Blog Posts]]></title>
-        <id>https://dev.to/voice_developer/how-to-add-ai-narration-to-your-blog-posts-51af</id>
-        <link href="https://dev.to/voice_developer/how-to-add-ai-narration-to-your-blog-posts-51af"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Validate X post URLs before requesting video metadata in JavaScript]]></title>
-        <id>https://dev.to/evanmercerdev/validate-x-post-urls-before-requesting-video-metadata-in-javascript-a32</id>
-        <link href="https://dev.to/evanmercerdev/validate-x-post-urls-before-requesting-video-metadata-in-javascript-a32"/>
+        <title type="html"><![CDATA[ToolForge: 32 Free, Privacy-First Offline Developer Tools for CSV & JSON]]></title>
+        <id>https://dev.to/babar_ali_d5e71677f607438/toolforge-32-free-privacy-first-offline-developer-tools-for-csv-json-3db1</id>
+        <link href="https://dev.to/babar_ali_d5e71677f607438/toolforge-32-free-privacy-first-offline-developer-tools-for-csv-json-3db1"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
@@ -259,9 +245,79 @@ https://github.com/unadlib/mutative
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ToolForge: 32 Free, Privacy-First Offline Developer Tools for CSV & JSON]]></title>
-        <id>https://dev.to/babar_ali_d5e71677f607438/toolforge-32-free-privacy-first-offline-developer-tools-for-csv-json-3db1</id>
-        <link href="https://dev.to/babar_ali_d5e71677f607438/toolforge-32-free-privacy-first-offline-developer-tools-for-csv-json-3db1"/>
+        <title type="html"><![CDATA[Validate X post URLs before requesting video metadata in JavaScript]]></title>
+        <id>https://dev.to/evanmercerdev/validate-x-post-urls-before-requesting-video-metadata-in-javascript-a32</id>
+        <link href="https://dev.to/evanmercerdev/validate-x-post-urls-before-requesting-video-metadata-in-javascript-a32"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add AI Narration to Your Blog Posts]]></title>
+        <id>https://dev.to/voice_developer/how-to-add-ai-narration-to-your-blog-posts-51af</id>
+        <link href="https://dev.to/voice_developer/how-to-add-ai-narration-to-your-blog-posts-51af"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing 3 New Japanese Market MCP Servers on the Official Registry]]></title>
+        <id>https://dev.to/atu_ino_ed473db24d76d234a/announcing-3-new-japanese-market-mcp-servers-on-the-official-registry-epm</id>
+        <link href="https://dev.to/atu_ino_ed473db24d76d234a/announcing-3-new-japanese-market-mcp-servers-on-the-official-registry-epm"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[streamix + React: An Explosive Mix for Modern State Management]]></title>
+        <id>https://dev.to/oleksii_shepel_3f635cea4d/streamix-react-an-explosive-mix-for-modern-state-management-5g3k</id>
+        <link href="https://dev.to/oleksii_shepel_3f635cea4d/streamix-react-an-explosive-mix-for-modern-state-management-5g3k"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30 Best Alternatives for Getting a Verified Alipay Account Online]]></title>
+        <id>https://dev.to/smmgetit10/30-best-alternatives-for-getting-a-verified-alipay-account-online-1bl4</id>
+        <link href="https://dev.to/smmgetit10/30-best-alternatives-for-getting-a-verified-alipay-account-online-1bl4"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Editing audio in the browser without uploading it: how Tubidy.Mobile's tools work]]></title>
+        <id>https://dev.to/tubidymobile/editing-audio-in-the-browser-without-uploading-it-how-tubidymobiles-tools-work-1am5</id>
+        <link href="https://dev.to/tubidymobile/editing-audio-in-the-browser-without-uploading-it-how-tubidymobiles-tools-work-1am5"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalshi's Market Titled 'HIGHEST Temperature SATX' Settles in Louisville]]></title>
+        <id>https://dev.to/nikita_iakovlev_415524c19/kalshis-market-titled-highest-temperature-satx-settles-in-louisville-22eh</id>
+        <link href="https://dev.to/nikita_iakovlev_415524c19/kalshis-market-titled-highest-temperature-satx-settles-in-louisville-22eh"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An open crypto-scam quiz in one HTML file: no build step, MIT code, CC BY 4.0 content]]></title>
+        <id>https://dev.to/cryptostrapon/an-open-crypto-scam-quiz-in-one-html-file-no-build-step-mit-code-cc-by-40-content-47d9</id>
+        <link href="https://dev.to/cryptostrapon/an-open-crypto-scam-quiz-in-one-html-file-no-build-step-mit-code-cc-by-40-content-47d9"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Pasting Production JWTs and Timestamps into Random Websites: Meet Castov (Web, CLI & VS Code)]]></title>
+        <id>https://dev.to/castov/stop-pasting-production-jwts-and-timestamps-into-random-websites-meet-castov-web-cli-vs-code-4k5d</id>
+        <link href="https://dev.to/castov/stop-pasting-production-jwts-and-timestamps-into-random-websites-meet-castov-web-cli-vs-code-4k5d"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review an Agent PR That Fetches Model-Named Docs URLs]]></title>
+        <id>https://dev.to/codejs_6920/review-an-agent-pr-that-fetches-model-named-docs-urls-38bb</id>
+        <link href="https://dev.to/codejs_6920/review-an-agent-pr-that-fetches-model-named-docs-urls-38bb"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DSA Series: Add to Array-Form of Integer]]></title>
+        <id>https://dev.to/devcreed/dsa-series-add-to-array-form-of-integer-1i6d</id>
+        <link href="https://dev.to/devcreed/dsa-series-add-to-array-form-of-integer-1i6d"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
@@ -311,62 +367,6 @@ https://github.com/unadlib/mutative
         <title type="html"><![CDATA[Google Fitbit Edge: Specs, Features, Price, Release Date]]></title>
         <id>https://www.wired.com/story/googles-fitbit-edge-debuts-a-replaceable-battery-and-brings-back-the-screen/</id>
         <link href="https://www.wired.com/story/googles-fitbit-edge-debuts-a-replaceable-battery-and-brings-back-the-screen/"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlterMe Review: Fitness Built Around My DNA]]></title>
-        <id>https://www.wired.com/review/alterme-fitness-and-wellness-program/</id>
-        <link href="https://www.wired.com/review/alterme-fitness-and-wellness-program/"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Far-Right Election Groups Are Now Targeting Nursing Homes]]></title>
-        <id>https://www.wired.com/story/republican-election-groups-are-now-targeting-nursing-homes/</id>
-        <link href="https://www.wired.com/story/republican-election-groups-are-now-targeting-nursing-homes/"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Gifts for the Techie in Your Life (2026)]]></title>
-        <id>https://www.wired.com/story/best-tech-gifts/</id>
-        <link href="https://www.wired.com/story/best-tech-gifts/"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kindle Aluminum Review (2026): Gorgeous, but Expensive]]></title>
-        <id>https://www.wired.com/review/kindle-aluminum-2026/</id>
-        <link href="https://www.wired.com/review/kindle-aluminum-2026/"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This AI startup says it can generate permit-ready blueprints in minutes]]></title>
-        <id>https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/</id>
-        <link href="https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch]]></title>
-        <id>https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/</id>
-        <link href="https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Plaud exec raises $26M for AI app that listens to you in the background]]></title>
-        <id>https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/</id>
-        <link href="https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will the HomeView be Apple’s first smart home success?]]></title>
-        <id>https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/</id>
-        <link href="https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/"/>
         <updated>2026-10-11T16:00:00.000Z</updated>
         <published>2026-10-11T16:00:00.000Z</published>
     </entry>
