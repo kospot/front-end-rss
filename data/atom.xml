@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-12T22:01:30.931Z</updated>
+    <updated>2026-10-13T00:02:35.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -85,9 +85,23 @@
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python Is Taking Over AI Agents. Here’s Why Developers Keep Choosing It]]></title>
-        <id>https://pub.towardsai.net/python-is-taking-over-ai-agents-heres-why-developers-keep-choosing-it-ac0285935e75?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/python-is-taking-over-ai-agents-heres-why-developers-keep-choosing-it-ac0285935e75?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[“Semantic Caching for Quant Prompts: Unlocking a 20 Percent Hit Rate in Market Valuation Queries”]]></title>
+        <id>https://pub.towardsai.net/semantic-caching-for-quant-prompts-unlocking-a-20-percent-hit-rate-in-market-valuation-queries-edc5a81acfde?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/semantic-caching-for-quant-prompts-unlocking-a-20-percent-hit-rate-in-market-valuation-queries-edc5a81acfde?source=rss----98111c9905da---4"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Microsoft-Decision-1: Fast AI for Real-Time Decisions]]></title>
+        <id>https://pub.towardsai.net/introducing-microsoft-decision-1-fast-ai-for-real-time-decisions-e6344144ad25?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/introducing-microsoft-decision-1-fast-ai-for-real-time-decisions-e6344144ad25?source=rss----98111c9905da---4"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Day 28/100] LangGraph Checkpointing: Make Your Agent Survive a Restart]]></title>
+        <id>https://pub.towardsai.net/day-28-100-langgraph-checkpointing-make-your-agent-survive-a-restart-473a62cc4c66?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/day-28-100-langgraph-checkpointing-make-your-agent-survive-a-restart-473a62cc4c66?source=rss----98111c9905da---4"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
@@ -99,9 +113,9 @@
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Day 28/100] LangGraph Checkpointing: Make Your Agent Survive a Restart]]></title>
-        <id>https://pub.towardsai.net/day-28-100-langgraph-checkpointing-make-your-agent-survive-a-restart-473a62cc4c66?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/day-28-100-langgraph-checkpointing-make-your-agent-survive-a-restart-473a62cc4c66?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Python Is Taking Over AI Agents. Here’s Why Developers Keep Choosing It]]></title>
+        <id>https://pub.towardsai.net/python-is-taking-over-ai-agents-heres-why-developers-keep-choosing-it-ac0285935e75?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/python-is-taking-over-ai-agents-heres-why-developers-keep-choosing-it-ac0285935e75?source=rss----98111c9905da---4"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
@@ -120,23 +134,57 @@
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An open crypto-scam quiz in one HTML file: no build step, MIT code, CC BY 4.0 content]]></title>
-        <id>https://dev.to/cryptostrapon/an-open-crypto-scam-quiz-in-one-html-file-no-build-step-mit-code-cc-by-40-content-47d9</id>
-        <link href="https://dev.to/cryptostrapon/an-open-crypto-scam-quiz-in-one-html-file-no-build-step-mit-code-cc-by-40-content-47d9"/>
+        <title type="html"><![CDATA[
+Mutative v2  - better immutability and faster immutable updates
+]]></title>
+        <id>
+https://github.com/unadlib/mutative
+</id>
+        <link href="
+https://github.com/unadlib/mutative
+"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kalshi's Market Titled 'HIGHEST Temperature SATX' Settles in Louisville]]></title>
-        <id>https://dev.to/nikita_iakovlev_415524c19/kalshis-market-titled-highest-temperature-satx-settles-in-louisville-22eh</id>
-        <link href="https://dev.to/nikita_iakovlev_415524c19/kalshis-market-titled-highest-temperature-satx-settles-in-louisville-22eh"/>
+        <title type="html"><![CDATA[ToolForge: 32 Free, Privacy-First Offline Developer Tools for CSV & JSON]]></title>
+        <id>https://dev.to/babar_ali_d5e71677f607438/toolforge-32-free-privacy-first-offline-developer-tools-for-csv-json-3db1</id>
+        <link href="https://dev.to/babar_ali_d5e71677f607438/toolforge-32-free-privacy-first-offline-developer-tools-for-csv-json-3db1"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Editing audio in the browser without uploading it: how Tubidy.Mobile's tools work]]></title>
-        <id>https://dev.to/tubidymobile/editing-audio-in-the-browser-without-uploading-it-how-tubidymobiles-tools-work-1am5</id>
-        <link href="https://dev.to/tubidymobile/editing-audio-in-the-browser-without-uploading-it-how-tubidymobiles-tools-work-1am5"/>
+        <title type="html"><![CDATA[Stop trusting vibes: how we built an eval harness for Expo's agent skills]]></title>
+        <id>https://dev.to/expo/stop-trusting-vibes-how-we-built-an-eval-harness-for-expos-agent-skills-395f</id>
+        <link href="https://dev.to/expo/stop-trusting-vibes-how-we-built-an-eval-harness-for-expos-agent-skills-395f"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Validate X post URLs before requesting video metadata in JavaScript]]></title>
+        <id>https://dev.to/evanmercerdev/validate-x-post-urls-before-requesting-video-metadata-in-javascript-a32</id>
+        <link href="https://dev.to/evanmercerdev/validate-x-post-urls-before-requesting-video-metadata-in-javascript-a32"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add AI Narration to Your Blog Posts]]></title>
+        <id>https://dev.to/voice_developer/how-to-add-ai-narration-to-your-blog-posts-51af</id>
+        <link href="https://dev.to/voice_developer/how-to-add-ai-narration-to-your-blog-posts-51af"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing 3 New Japanese Market MCP Servers on the Official Registry]]></title>
+        <id>https://dev.to/atu_ino_ed473db24d76d234a/announcing-3-new-japanese-market-mcp-servers-on-the-official-registry-epm</id>
+        <link href="https://dev.to/atu_ino_ed473db24d76d234a/announcing-3-new-japanese-market-mcp-servers-on-the-official-registry-epm"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[streamix + React: An Explosive Mix for Modern State Management]]></title>
+        <id>https://dev.to/oleksii_shepel_3f635cea4d/streamix-react-an-explosive-mix-for-modern-state-management-5g3k</id>
+        <link href="https://dev.to/oleksii_shepel_3f635cea4d/streamix-react-an-explosive-mix-for-modern-state-management-5g3k"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
@@ -148,9 +196,23 @@
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[streamix + React: An Explosive Mix for Modern State Management]]></title>
-        <id>https://dev.to/oleksii_shepel_3f635cea4d/streamix-react-an-explosive-mix-for-modern-state-management-5g3k</id>
-        <link href="https://dev.to/oleksii_shepel_3f635cea4d/streamix-react-an-explosive-mix-for-modern-state-management-5g3k"/>
+        <title type="html"><![CDATA[Editing audio in the browser without uploading it: how Tubidy.Mobile's tools work]]></title>
+        <id>https://dev.to/tubidymobile/editing-audio-in-the-browser-without-uploading-it-how-tubidymobiles-tools-work-1am5</id>
+        <link href="https://dev.to/tubidymobile/editing-audio-in-the-browser-without-uploading-it-how-tubidymobiles-tools-work-1am5"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalshi's Market Titled 'HIGHEST Temperature SATX' Settles in Louisville]]></title>
+        <id>https://dev.to/nikita_iakovlev_415524c19/kalshis-market-titled-highest-temperature-satx-settles-in-louisville-22eh</id>
+        <link href="https://dev.to/nikita_iakovlev_415524c19/kalshis-market-titled-highest-temperature-satx-settles-in-louisville-22eh"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An open crypto-scam quiz in one HTML file: no build step, MIT code, CC BY 4.0 content]]></title>
+        <id>https://dev.to/cryptostrapon/an-open-crypto-scam-quiz-in-one-html-file-no-build-step-mit-code-cc-by-40-content-47d9</id>
+        <link href="https://dev.to/cryptostrapon/an-open-crypto-scam-quiz-in-one-html-file-no-build-step-mit-code-cc-by-40-content-47d9"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
@@ -305,62 +367,6 @@
         <title type="html"><![CDATA[Christophe Laudamiel: Planted Memory, Cultivated Ethics, and Perfumery]]></title>
         <id>https://worldsensorium.com/plantings/</id>
         <link href="https://worldsensorium.com/plantings/"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Babel Life, possible lives hidden in Borges' Library of Babel]]></title>
-        <id>https://babel-life.netlify.app/</id>
-        <link href="https://babel-life.netlify.app/"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI less regulated than milk, Microsoft president says in warning over safety]]></title>
-        <id>https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules</id>
-        <link href="https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pivetta Opera Only X 240 kW Amplifier]]></title>
-        <id>https://www.monoandstereo.com/the-opera-only-x-240-kw-amplifier/</id>
-        <link href="https://www.monoandstereo.com/the-opera-only-x-240-kw-amplifier/"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When AI writes your code, DDD is more relevant]]></title>
-        <id>https://threedots.tech/post/ddd-and-ai-coding/</id>
-        <link href="https://threedots.tech/post/ddd-and-ai-coding/"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interview: Drew DeVault on an AI-free version of Vim]]></title>
-        <id>https://jasonpolak.substack.com/p/interview-drew-devault-on-an-ai-free</id>
-        <link href="https://jasonpolak.substack.com/p/interview-drew-devault-on-an-ai-free"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Engineer to of Girlie Pipeline]]></title>
-        <id>https://alexine.rip/the-engineer-to-of-girlie-pipeline.html</id>
-        <link href="https://alexine.rip/the-engineer-to-of-girlie-pipeline.html"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: PS2 games statically recompiled to WebAssembly]]></title>
-        <id>https://github.com/snuri00/ps2-web-recomp</id>
-        <link href="https://github.com/snuri00/ps2-web-recomp"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI-Built Torrent Site Looks Inside Downloads to Catch Fakes and Malware]]></title>
-        <id>https://torrentfreak.com/ai-built-torrent-site-looks-inside-downloads-to-catch-fakes-and-malware/</id>
-        <link href="https://torrentfreak.com/ai-built-torrent-site-looks-inside-downloads-to-catch-fakes-and-malware/"/>
         <updated>2026-10-11T16:00:00.000Z</updated>
         <published>2026-10-11T16:00:00.000Z</published>
     </entry>
