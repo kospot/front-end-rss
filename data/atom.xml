@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-13T10:02:16.058Z</updated>
+    <updated>2026-10-13T13:02:55.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -71,170 +71,51 @@
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[28 Miles and Counting: NASA's Perseverance Rover Sets a Mars Driving Record]]></title>
-        <id>https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html</id>
-        <link href="https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html"/>
+        <title type="html"><![CDATA[Show HN: VM Explorer – Self-hosted Linux web UI (free for standalone nodes)]]></title>
+        <id>https://vm-explorer.com/</id>
+        <link href="https://vm-explorer.com/"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Video game industry believes EU KIDS Act extinct small creators and old games]]></title>
-        <id>https://euobserver.com/241743/video-game-industry-believes-eu-kids-act-will-drive-small-creators-and-old-games-into-extinction/</id>
-        <link href="https://euobserver.com/241743/video-game-industry-believes-eu-kids-act-will-drive-small-creators-and-old-games-into-extinction/"/>
+        <title type="html"><![CDATA[Dimitri Fontaine: Zero-downtime Postgres upgrades with logical replication]]></title>
+        <id>https://tapoueh.org/blog/2026/10/zero-downtime-postgres-upgrades-with-logical-replication/</id>
+        <link href="https://tapoueh.org/blog/2026/10/zero-downtime-postgres-upgrades-with-logical-replication/"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Video Course to Second Brain]]></title>
-        <id>https://shramko.dev/blog/second-brain-from-video</id>
-        <link href="https://shramko.dev/blog/second-brain-from-video"/>
+        <title type="html"><![CDATA[Firefox 158 (Supported JPEG XL)]]></title>
+        <id>https://www.firefox.com/en-US/firefox/158.0/releasenotes/</id>
+        <link href="https://www.firefox.com/en-US/firefox/158.0/releasenotes/"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crossync – a super fast Rust concurrency library]]></title>
-        <id>https://github.com/sh1zen/crossync</id>
-        <link href="https://github.com/sh1zen/crossync"/>
+        <title type="html"><![CDATA[NASA's Perseverance Sets Off-World Record for Total Distance Driven]]></title>
+        <id>https://science.nasa.gov/blogs/perseverance-mars-rover/2026/10/12/nasas-perseverance-sets-off-world-record-for-total-distance-driven/</id>
+        <link href="https://science.nasa.gov/blogs/perseverance-mars-rover/2026/10/12/nasas-perseverance-sets-off-world-record-for-total-distance-driven/"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I just wanted a cheap film camera, so I stitched 28 web scrapers together]]></title>
-        <id>https://frankensurf.dev/blog/i-just-wanted-a-cheap-film-camera/</id>
-        <link href="https://frankensurf.dev/blog/i-just-wanted-a-cheap-film-camera/"/>
+        <title type="html"><![CDATA[Consortium Building Denmark–Germany Fehmarnbelt Tunnel Targeted by Cyberattack]]></title>
+        <id>https://nyheder.tv2.dk/live/samfund/2026-10-13-femern-byggeri-ramt-af-hackerangreb</id>
+        <link href="https://nyheder.tv2.dk/live/samfund/2026-10-13-femern-byggeri-ramt-af-hackerangreb"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SonicBoom – llama.cpp's own kernels, 14% faster decode via a graph compiler]]></title>
-        <id>https://github.com/hardenedlinux/sonicboom</id>
-        <link href="https://github.com/hardenedlinux/sonicboom"/>
+        <title type="html"><![CDATA[China is building AI data centers at speed as the US wrestles with the costs]]></title>
+        <id>https://mezha.net/eng/news/mezha-28304fbbe08e489bfe006d9c_china_is_building/</id>
+        <link href="https://mezha.net/eng/news/mezha-28304fbbe08e489bfe006d9c_china_is_building/"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitLab Released critical patch for CVSS 10.0 CVE]]></title>
-        <id>https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/</id>
-        <link href="https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulnerabilities in Danfoss Refrigeration Controllers]]></title>
-        <id>https://www.claroty.com/team82/research/freeze-the-controller-defrost-the-food-uncovering-vulnerabilities-in-danfoss-refrigeration-controllers</id>
-        <link href="https://www.claroty.com/team82/research/freeze-the-controller-defrost-the-food-uncovering-vulnerabilities-in-danfoss-refrigeration-controllers"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Science Explorer – Ranking/ analyzing science across the world]]></title>
-        <id>https://scienceexplorer.org/</id>
-        <link href="https://scienceexplorer.org/"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LittleJS is 2D and 3D now]]></title>
-        <id>https://frankforce.com/littlejs-is-2d-and-3d-now/</id>
-        <link href="https://frankforce.com/littlejs-is-2d-and-3d-now/"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Man dies after falling off roller coaster at Six Flags Over Georgia]]></title>
-        <id>https://www.cnn.com/2026/10/12/us/six-flags-roller-coaster-death-georgia</id>
-        <link href="https://www.cnn.com/2026/10/12/us/six-flags-roller-coaster-death-georgia"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jujutsu Has No "Create a Branch" Step, and That Made Git Branches Click]]></title>
-        <id>https://juju-chu.com/blog/rethinking-branch-with-jj</id>
-        <link href="https://juju-chu.com/blog/rethinking-branch-with-jj"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Skyloons pop the Balloons – Android arcade game built with Reactnative]]></title>
-        <id>https://play.google.com/store/apps/details?id=com.maniar.balloonpopquest&amp;hl=en_US</id>
-        <link href="https://play.google.com/store/apps/details?id=com.maniar.balloonpopquest&amp;hl=en_US"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vellum: A web engine in Minecraft for rendering modded GUIs]]></title>
-        <id>https://github.com/maxleiter/vellum</id>
-        <link href="https://github.com/maxleiter/vellum"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Python 3.15, goodbye 3.10, and now I can use 3.11]]></title>
-        <id>https://simonwillison.net/2026/Oct/12/python-3-15/</id>
-        <link href="https://simonwillison.net/2026/Oct/12/python-3-15/"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Just Started the Debt Spiral [video]]]></title>
-        <id>https://www.youtube.com/watch?v=g1kgEiP1v10</id>
-        <link href="https://www.youtube.com/watch?v=g1kgEiP1v10"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KnightOS was an interesting operating system]]></title>
-        <id>https://drewdevault.com/blog/KnightOS-was-interesting/</id>
-        <link href="https://drewdevault.com/blog/KnightOS-was-interesting/"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux enthusiasts see 10-second kernel compilation times on the horizon]]></title>
-        <id>https://www.tomshardware.com/software/linux/linux-enthusiasts-see-10-second-kernel-compilation-times-on-the-horizon-ai-assisted-patches-cut-build-times-by-nearly-a-third-without-a-ramdisk</id>
-        <link href="https://www.tomshardware.com/software/linux/linux-enthusiasts-see-10-second-kernel-compilation-times-on-the-horizon-ai-assisted-patches-cut-build-times-by-nearly-a-third-without-a-ramdisk"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Character.ai files for bankruptcy, agrees to sell some assets for $20M]]></title>
-        <id>https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/</id>
-        <link href="https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A slightly faster slimmer curl]]></title>
-        <id>https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/</id>
-        <link href="https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Denmark set to allow return of 'physical force' in school]]></title>
-        <id>https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html</id>
-        <link href="https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I measured what PDF compression costs, across 12 documents]]></title>
-        <id>https://pdftoolshq.com/pdf-compression-study/</id>
-        <link href="https://pdftoolshq.com/pdf-compression-study/"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tried making Strata-like work for Poolside Laguna S 2.1 Q3 moderate success]]></title>
-        <id>https://github.com/barretts/floatie/blob/main/performance/ATTEMPTS-AND-RESULTS.md</id>
-        <link href="https://github.com/barretts/floatie/blob/main/performance/ATTEMPTS-AND-RESULTS.md"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Centre for Cryptographic Trust Infrastructure (CCTI)]]></title>
-        <id>https://martin.kleppmann.com/2026/10/07/centre-for-cryptographic-trust-infrastructure.html</id>
-        <link href="https://martin.kleppmann.com/2026/10/07/centre-for-cryptographic-trust-infrastructure.html"/>
+        <title type="html"><![CDATA[Show HN: Calíope – a native database client for every Apple screen]]></title>
+        <id>https://caliope.org/</id>
+        <link href="https://caliope.org/"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
@@ -246,79 +127,65 @@
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An AI Agent Turned a Net $784K Into $5.3M of Debt. One Diff Catches It.]]></title>
-        <id>https://pub.towardsai.net/an-ai-agent-turned-a-net-784k-into-5-3m-of-debt-one-diff-catches-it-a41ca8b61732?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/an-ai-agent-turned-a-net-784k-into-5-3m-of-debt-one-diff-catches-it-a41ca8b61732?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The Centre for Cryptographic Trust Infrastructure (CCTI)]]></title>
+        <id>https://martin.kleppmann.com/2026/10/07/centre-for-cryptographic-trust-infrastructure.html</id>
+        <link href="https://martin.kleppmann.com/2026/10/07/centre-for-cryptographic-trust-infrastructure.html"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Fine-Tuned Laya to Solve an Important Problem in Scientometrics — With Claude Code]]></title>
-        <id>https://pub.towardsai.net/how-i-fine-tuned-laya-to-crack-scientometrics-quietest-open-problem-with-claude-code-a4b641434fb3?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-i-fine-tuned-laya-to-crack-scientometrics-quietest-open-problem-with-claude-code-a4b641434fb3?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Tried making Strata-like work for Poolside Laguna S 2.1 Q3 moderate success]]></title>
+        <id>https://github.com/barretts/floatie/blob/main/performance/ATTEMPTS-AND-RESULTS.md</id>
+        <link href="https://github.com/barretts/floatie/blob/main/performance/ATTEMPTS-AND-RESULTS.md"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Azure Document Intelligence or Content Understanding? Route by Document Type]]></title>
-        <id>https://pub.towardsai.net/azure-document-intelligence-vs-content-understanding-2026-cc87e1770ee6?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/azure-document-intelligence-vs-content-understanding-2026-cc87e1770ee6?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[I measured what PDF compression costs, across 12 documents]]></title>
+        <id>https://pdftoolshq.com/pdf-compression-study/</id>
+        <link href="https://pdftoolshq.com/pdf-compression-study/"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI-Native Tag Insights in SLR: Visualizing Patterns and Inconsistencies]]></title>
-        <id>https://pub.towardsai.net/ai-native-tag-insights-in-slr-visualizing-patterns-and-inconsistencies-b25b6b1f31db?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/ai-native-tag-insights-in-slr-visualizing-patterns-and-inconsistencies-b25b6b1f31db?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Denmark set to allow return of 'physical force' in school]]></title>
+        <id>https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html</id>
+        <link href="https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Daily Scrum Explained: Why Scrum Teams Meet Every Day and What a Scrum Master Really Does]]></title>
-        <id>https://pub.towardsai.net/daily-scrum-explained-why-scrum-teams-meet-every-day-and-what-a-scrum-master-really-does-de487a264c9c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/daily-scrum-explained-why-scrum-teams-meet-every-day-and-what-a-scrum-master-really-does-de487a264c9c?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[A slightly faster slimmer curl]]></title>
+        <id>https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/</id>
+        <link href="https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python Is Taking Over AI Agents. Here’s Why Developers Keep Choosing It]]></title>
-        <id>https://pub.towardsai.net/python-is-taking-over-ai-agents-heres-why-developers-keep-choosing-it-ac0285935e75?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/python-is-taking-over-ai-agents-heres-why-developers-keep-choosing-it-ac0285935e75?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Character.ai files for bankruptcy, agrees to sell some assets for $20M]]></title>
+        <id>https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/</id>
+        <link href="https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Transform Any LLM into a Decision Model]]></title>
-        <id>https://pub.towardsai.net/transform-any-llm-into-a-decision-model-e2c164a20b29?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/transform-any-llm-into-a-decision-model-e2c164a20b29?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Linux enthusiasts see 10-second kernel compilation times on the horizon]]></title>
+        <id>https://www.tomshardware.com/software/linux/linux-enthusiasts-see-10-second-kernel-compilation-times-on-the-horizon-ai-assisted-patches-cut-build-times-by-nearly-a-third-without-a-ramdisk</id>
+        <link href="https://www.tomshardware.com/software/linux/linux-enthusiasts-see-10-second-kernel-compilation-times-on-the-horizon-ai-assisted-patches-cut-build-times-by-nearly-a-third-without-a-ramdisk"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Day 28/100] LangGraph Checkpointing: Make Your Agent Survive a Restart]]></title>
-        <id>https://pub.towardsai.net/day-28-100-langgraph-checkpointing-make-your-agent-survive-a-restart-473a62cc4c66?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/day-28-100-langgraph-checkpointing-make-your-agent-survive-a-restart-473a62cc4c66?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[KnightOS was an interesting operating system]]></title>
+        <id>https://drewdevault.com/blog/KnightOS-was-interesting/</id>
+        <link href="https://drewdevault.com/blog/KnightOS-was-interesting/"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing Microsoft-Decision-1: Fast AI for Real-Time Decisions]]></title>
-        <id>https://pub.towardsai.net/introducing-microsoft-decision-1-fast-ai-for-real-time-decisions-e6344144ad25?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/introducing-microsoft-decision-1-fast-ai-for-real-time-decisions-e6344144ad25?source=rss----98111c9905da---4"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Semantic Caching for Quant Prompts: Unlocking a 20 Percent Hit Rate in Market Valuation Queries”]]></title>
-        <id>https://pub.towardsai.net/semantic-caching-for-quant-prompts-unlocking-a-20-percent-hit-rate-in-market-valuation-queries-edc5a81acfde?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/semantic-caching-for-quant-prompts-unlocking-a-20-percent-hit-rate-in-market-valuation-queries-edc5a81acfde?source=rss----98111c9905da---4"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerating K-Means on Modern GPUs: An IO-Aware Approach via Flash-KMeans]]></title>
-        <id>https://pub.towardsai.net/accelerating-k-means-on-modern-gpus-an-io-aware-approach-via-flash-kmeans-98989ee2fd7b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/accelerating-k-means-on-modern-gpus-an-io-aware-approach-via-flash-kmeans-98989ee2fd7b?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Trump Just Started the Debt Spiral [video]]]></title>
+        <id>https://www.youtube.com/watch?v=g1kgEiP1v10</id>
+        <link href="https://www.youtube.com/watch?v=g1kgEiP1v10"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
@@ -330,43 +197,170 @@
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Copilot app for Beginners: How to teach Copilot about your codebase]]></title>
-        <id>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/</id>
-        <link href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/"/>
+        <title type="html"><![CDATA[Vellum: A web engine in Minecraft for rendering modded GUIs]]></title>
+        <id>https://github.com/maxleiter/vellum</id>
+        <link href="https://github.com/maxleiter/vellum"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-Mutative v2  - better immutability and faster immutable updates
-]]></title>
-        <id>
-https://github.com/unadlib/mutative
-</id>
-        <link href="
-https://github.com/unadlib/mutative
-"/>
+        <title type="html"><![CDATA[Show HN: Skyloons pop the Balloons – Android arcade game built with Reactnative]]></title>
+        <id>https://play.google.com/store/apps/details?id=com.maniar.balloonpopquest&amp;hl=en_US</id>
+        <link href="https://play.google.com/store/apps/details?id=com.maniar.balloonpopquest&amp;hl=en_US"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deno's audit --fix flag found 13 vulnerabilities and fixed none of them]]></title>
-        <id>https://dev.to/alexgeorgiev17/denos-audit-fix-flag-found-13-vulnerabilities-and-fixed-none-of-them-c47</id>
-        <link href="https://dev.to/alexgeorgiev17/denos-audit-fix-flag-found-13-vulnerabilities-and-fixed-none-of-them-c47"/>
+        <title type="html"><![CDATA[Jujutsu Has No "Create a Branch" Step, and That Made Git Branches Click]]></title>
+        <id>https://juju-chu.com/blog/rethinking-branch-with-jj</id>
+        <link href="https://juju-chu.com/blog/rethinking-branch-with-jj"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building AgentSlash: Slicing AI Agents With Nothing But HTML5 Canvas and Vanilla JS]]></title>
-        <id>https://dev.to/instant_games/building-agentslash-slicing-ai-agents-with-nothing-but-html5-canvas-and-vanilla-js-195e</id>
-        <link href="https://dev.to/instant_games/building-agentslash-slicing-ai-agents-with-nothing-but-html5-canvas-and-vanilla-js-195e"/>
+        <title type="html"><![CDATA[Man dies after falling off roller coaster at Six Flags Over Georgia]]></title>
+        <id>https://www.cnn.com/2026/10/12/us/six-flags-roller-coaster-death-georgia</id>
+        <link href="https://www.cnn.com/2026/10/12/us/six-flags-roller-coaster-death-georgia"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React Performance Optimization: Practical Techniques for Faster Applications]]></title>
-        <id>https://dev.to/ansh_sheladiya/react-performance-optimization-practical-techniques-for-faster-applications-218a</id>
-        <link href="https://dev.to/ansh_sheladiya/react-performance-optimization-practical-techniques-for-faster-applications-218a"/>
+        <title type="html"><![CDATA[LittleJS is 2D and 3D now]]></title>
+        <id>https://frankforce.com/littlejs-is-2d-and-3d-now/</id>
+        <link href="https://frankforce.com/littlejs-is-2d-and-3d-now/"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Science Explorer – Ranking/ analyzing science across the world]]></title>
+        <id>https://scienceexplorer.org/</id>
+        <link href="https://scienceexplorer.org/"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnerabilities in Danfoss Refrigeration Controllers]]></title>
+        <id>https://www.claroty.com/team82/research/freeze-the-controller-defrost-the-food-uncovering-vulnerabilities-in-danfoss-refrigeration-controllers</id>
+        <link href="https://www.claroty.com/team82/research/freeze-the-controller-defrost-the-food-uncovering-vulnerabilities-in-danfoss-refrigeration-controllers"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitLab Released critical patch for CVSS 10.0 CVE]]></title>
+        <id>https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/</id>
+        <link href="https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SonicBoom – llama.cpp's own kernels, 14% faster decode via a graph compiler]]></title>
+        <id>https://github.com/hardenedlinux/sonicboom</id>
+        <link href="https://github.com/hardenedlinux/sonicboom"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I just wanted a cheap film camera, so I stitched 28 web scrapers together]]></title>
+        <id>https://frankensurf.dev/blog/i-just-wanted-a-cheap-film-camera/</id>
+        <link href="https://frankensurf.dev/blog/i-just-wanted-a-cheap-film-camera/"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crossync – a super fast Rust concurrency library]]></title>
+        <id>https://github.com/sh1zen/crossync</id>
+        <link href="https://github.com/sh1zen/crossync"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Video Course to Second Brain]]></title>
+        <id>https://shramko.dev/blog/second-brain-from-video</id>
+        <link href="https://shramko.dev/blog/second-brain-from-video"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video game industry believes EU KIDS Act extinct small creators and old games]]></title>
+        <id>https://euobserver.com/241743/video-game-industry-believes-eu-kids-act-will-drive-small-creators-and-old-games-into-extinction/</id>
+        <link href="https://euobserver.com/241743/video-game-industry-believes-eu-kids-act-will-drive-small-creators-and-old-games-into-extinction/"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[28 Miles and Counting: NASA's Perseverance Rover Sets a Mars Driving Record]]></title>
+        <id>https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html</id>
+        <link href="https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accelerating K-Means on Modern GPUs: An IO-Aware Approach via Flash-KMeans]]></title>
+        <id>https://pub.towardsai.net/accelerating-k-means-on-modern-gpus-an-io-aware-approach-via-flash-kmeans-98989ee2fd7b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/accelerating-k-means-on-modern-gpus-an-io-aware-approach-via-flash-kmeans-98989ee2fd7b?source=rss----98111c9905da---4"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Semantic Caching for Quant Prompts: Unlocking a 20 Percent Hit Rate in Market Valuation Queries”]]></title>
+        <id>https://pub.towardsai.net/semantic-caching-for-quant-prompts-unlocking-a-20-percent-hit-rate-in-market-valuation-queries-edc5a81acfde?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/semantic-caching-for-quant-prompts-unlocking-a-20-percent-hit-rate-in-market-valuation-queries-edc5a81acfde?source=rss----98111c9905da---4"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Microsoft-Decision-1: Fast AI for Real-Time Decisions]]></title>
+        <id>https://pub.towardsai.net/introducing-microsoft-decision-1-fast-ai-for-real-time-decisions-e6344144ad25?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/introducing-microsoft-decision-1-fast-ai-for-real-time-decisions-e6344144ad25?source=rss----98111c9905da---4"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Day 28/100] LangGraph Checkpointing: Make Your Agent Survive a Restart]]></title>
+        <id>https://pub.towardsai.net/day-28-100-langgraph-checkpointing-make-your-agent-survive-a-restart-473a62cc4c66?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/day-28-100-langgraph-checkpointing-make-your-agent-survive-a-restart-473a62cc4c66?source=rss----98111c9905da---4"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transform Any LLM into a Decision Model]]></title>
+        <id>https://pub.towardsai.net/transform-any-llm-into-a-decision-model-e2c164a20b29?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/transform-any-llm-into-a-decision-model-e2c164a20b29?source=rss----98111c9905da---4"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Is Taking Over AI Agents. Here’s Why Developers Keep Choosing It]]></title>
+        <id>https://pub.towardsai.net/python-is-taking-over-ai-agents-heres-why-developers-keep-choosing-it-ac0285935e75?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/python-is-taking-over-ai-agents-heres-why-developers-keep-choosing-it-ac0285935e75?source=rss----98111c9905da---4"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Scrum Explained: Why Scrum Teams Meet Every Day and What a Scrum Master Really Does]]></title>
+        <id>https://pub.towardsai.net/daily-scrum-explained-why-scrum-teams-meet-every-day-and-what-a-scrum-master-really-does-de487a264c9c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/daily-scrum-explained-why-scrum-teams-meet-every-day-and-what-a-scrum-master-really-does-de487a264c9c?source=rss----98111c9905da---4"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-Native Tag Insights in SLR: Visualizing Patterns and Inconsistencies]]></title>
+        <id>https://pub.towardsai.net/ai-native-tag-insights-in-slr-visualizing-patterns-and-inconsistencies-b25b6b1f31db?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ai-native-tag-insights-in-slr-visualizing-patterns-and-inconsistencies-b25b6b1f31db?source=rss----98111c9905da---4"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Document Intelligence or Content Understanding? Route by Document Type]]></title>
+        <id>https://pub.towardsai.net/azure-document-intelligence-vs-content-understanding-2026-cc87e1770ee6?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/azure-document-intelligence-vs-content-understanding-2026-cc87e1770ee6?source=rss----98111c9905da---4"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Fine-Tuned Laya to Solve an Important Problem in Scientometrics — With Claude Code]]></title>
+        <id>https://pub.towardsai.net/how-i-fine-tuned-laya-to-crack-scientometrics-quietest-open-problem-with-claude-code-a4b641434fb3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-i-fine-tuned-laya-to-crack-scientometrics-quietest-open-problem-with-claude-code-a4b641434fb3?source=rss----98111c9905da---4"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
