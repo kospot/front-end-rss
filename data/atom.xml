@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-13T00:02:35.667Z</updated>
+    <updated>2026-10-13T02:01:38.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[派早报：一加发布一加 16，Google 推出 Fitbit Edge 等]]></title>
+        <id>https://sspai.com/post/116033</id>
+        <link href="https://sspai.com/post/116033"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta has some Wonder Full new AI models ]]></title>
         <id>https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model</id>
@@ -43,37 +50,23 @@
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux enthusiasts see 10-second kernel compilation times on the horizon]]></title>
-        <id>https://www.tomshardware.com/software/linux/linux-enthusiasts-see-10-second-kernel-compilation-times-on-the-horizon-ai-assisted-patches-cut-build-times-by-nearly-a-third-without-a-ramdisk</id>
-        <link href="https://www.tomshardware.com/software/linux/linux-enthusiasts-see-10-second-kernel-compilation-times-on-the-horizon-ai-assisted-patches-cut-build-times-by-nearly-a-third-without-a-ramdisk"/>
+        <title type="html"><![CDATA[LittleJS is 2D and 3D now]]></title>
+        <id>https://frankforce.com/littlejs-is-2d-and-3d-now/</id>
+        <link href="https://frankforce.com/littlejs-is-2d-and-3d-now/"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KnightOS was an interesting operating system]]></title>
-        <id>https://drewdevault.com/blog/KnightOS-was-interesting/</id>
-        <link href="https://drewdevault.com/blog/KnightOS-was-interesting/"/>
+        <title type="html"><![CDATA[Man dies after falling off roller coaster at Six Flags Over Georgia]]></title>
+        <id>https://www.cnn.com/2026/10/12/us/six-flags-roller-coaster-death-georgia</id>
+        <link href="https://www.cnn.com/2026/10/12/us/six-flags-roller-coaster-death-georgia"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trump Just Started the Debt Spiral [video]]]></title>
-        <id>https://www.youtube.com/watch?v=g1kgEiP1v10</id>
-        <link href="https://www.youtube.com/watch?v=g1kgEiP1v10"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Python 3.15, goodbye 3.10, and now I can use 3.11]]></title>
-        <id>https://simonwillison.net/2026/Oct/12/python-3-15/</id>
-        <link href="https://simonwillison.net/2026/Oct/12/python-3-15/"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vellum: A web engine in Minecraft for rendering modded GUIs]]></title>
-        <id>https://github.com/maxleiter/vellum</id>
-        <link href="https://github.com/maxleiter/vellum"/>
+        <title type="html"><![CDATA[Jujutsu Has No "Create a Branch" Step, and That Made Git Branches Click]]></title>
+        <id>https://juju-chu.com/blog/rethinking-branch-with-jj</id>
+        <link href="https://juju-chu.com/blog/rethinking-branch-with-jj"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
@@ -85,23 +78,44 @@
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“Semantic Caching for Quant Prompts: Unlocking a 20 Percent Hit Rate in Market Valuation Queries”]]></title>
-        <id>https://pub.towardsai.net/semantic-caching-for-quant-prompts-unlocking-a-20-percent-hit-rate-in-market-valuation-queries-edc5a81acfde?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/semantic-caching-for-quant-prompts-unlocking-a-20-percent-hit-rate-in-market-valuation-queries-edc5a81acfde?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Vellum: A web engine in Minecraft for rendering modded GUIs]]></title>
+        <id>https://github.com/maxleiter/vellum</id>
+        <link href="https://github.com/maxleiter/vellum"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing Microsoft-Decision-1: Fast AI for Real-Time Decisions]]></title>
-        <id>https://pub.towardsai.net/introducing-microsoft-decision-1-fast-ai-for-real-time-decisions-e6344144ad25?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/introducing-microsoft-decision-1-fast-ai-for-real-time-decisions-e6344144ad25?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Hello Python 3.15, goodbye 3.10, and now I can use 3.11]]></title>
+        <id>https://simonwillison.net/2026/Oct/12/python-3-15/</id>
+        <link href="https://simonwillison.net/2026/Oct/12/python-3-15/"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Day 28/100] LangGraph Checkpointing: Make Your Agent Survive a Restart]]></title>
-        <id>https://pub.towardsai.net/day-28-100-langgraph-checkpointing-make-your-agent-survive-a-restart-473a62cc4c66?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/day-28-100-langgraph-checkpointing-make-your-agent-survive-a-restart-473a62cc4c66?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Trump Just Started the Debt Spiral [video]]]></title>
+        <id>https://www.youtube.com/watch?v=g1kgEiP1v10</id>
+        <link href="https://www.youtube.com/watch?v=g1kgEiP1v10"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KnightOS was an interesting operating system]]></title>
+        <id>https://drewdevault.com/blog/KnightOS-was-interesting/</id>
+        <link href="https://drewdevault.com/blog/KnightOS-was-interesting/"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux enthusiasts see 10-second kernel compilation times on the horizon]]></title>
+        <id>https://www.tomshardware.com/software/linux/linux-enthusiasts-see-10-second-kernel-compilation-times-on-the-horizon-ai-assisted-patches-cut-build-times-by-nearly-a-third-without-a-ramdisk</id>
+        <link href="https://www.tomshardware.com/software/linux/linux-enthusiasts-see-10-second-kernel-compilation-times-on-the-horizon-ai-assisted-patches-cut-build-times-by-nearly-a-third-without-a-ramdisk"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Is Taking Over AI Agents. Here’s Why Developers Keep Choosing It]]></title>
+        <id>https://pub.towardsai.net/python-is-taking-over-ai-agents-heres-why-developers-keep-choosing-it-ac0285935e75?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/python-is-taking-over-ai-agents-heres-why-developers-keep-choosing-it-ac0285935e75?source=rss----98111c9905da---4"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
@@ -113,9 +127,23 @@
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python Is Taking Over AI Agents. Here’s Why Developers Keep Choosing It]]></title>
-        <id>https://pub.towardsai.net/python-is-taking-over-ai-agents-heres-why-developers-keep-choosing-it-ac0285935e75?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/python-is-taking-over-ai-agents-heres-why-developers-keep-choosing-it-ac0285935e75?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[[Day 28/100] LangGraph Checkpointing: Make Your Agent Survive a Restart]]></title>
+        <id>https://pub.towardsai.net/day-28-100-langgraph-checkpointing-make-your-agent-survive-a-restart-473a62cc4c66?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/day-28-100-langgraph-checkpointing-make-your-agent-survive-a-restart-473a62cc4c66?source=rss----98111c9905da---4"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Microsoft-Decision-1: Fast AI for Real-Time Decisions]]></title>
+        <id>https://pub.towardsai.net/introducing-microsoft-decision-1-fast-ai-for-real-time-decisions-e6344144ad25?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/introducing-microsoft-decision-1-fast-ai-for-real-time-decisions-e6344144ad25?source=rss----98111c9905da---4"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Semantic Caching for Quant Prompts: Unlocking a 20 Percent Hit Rate in Market Valuation Queries”]]></title>
+        <id>https://pub.towardsai.net/semantic-caching-for-quant-prompts-unlocking-a-20-percent-hit-rate-in-market-valuation-queries-edc5a81acfde?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/semantic-caching-for-quant-prompts-unlocking-a-20-percent-hit-rate-in-market-valuation-queries-edc5a81acfde?source=rss----98111c9905da---4"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
@@ -147,58 +175,30 @@ https://github.com/unadlib/mutative
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ToolForge: 32 Free, Privacy-First Offline Developer Tools for CSV & JSON]]></title>
-        <id>https://dev.to/babar_ali_d5e71677f607438/toolforge-32-free-privacy-first-offline-developer-tools-for-csv-json-3db1</id>
-        <link href="https://dev.to/babar_ali_d5e71677f607438/toolforge-32-free-privacy-first-offline-developer-tools-for-csv-json-3db1"/>
+        <title type="html"><![CDATA[DSA Series: Add to Array-Form of Integer]]></title>
+        <id>https://dev.to/devcreed/dsa-series-add-to-array-form-of-integer-1i6d</id>
+        <link href="https://dev.to/devcreed/dsa-series-add-to-array-form-of-integer-1i6d"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop trusting vibes: how we built an eval harness for Expo's agent skills]]></title>
-        <id>https://dev.to/expo/stop-trusting-vibes-how-we-built-an-eval-harness-for-expos-agent-skills-395f</id>
-        <link href="https://dev.to/expo/stop-trusting-vibes-how-we-built-an-eval-harness-for-expos-agent-skills-395f"/>
+        <title type="html"><![CDATA[Review an Agent PR That Fetches Model-Named Docs URLs]]></title>
+        <id>https://dev.to/codejs_6920/review-an-agent-pr-that-fetches-model-named-docs-urls-38bb</id>
+        <link href="https://dev.to/codejs_6920/review-an-agent-pr-that-fetches-model-named-docs-urls-38bb"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Validate X post URLs before requesting video metadata in JavaScript]]></title>
-        <id>https://dev.to/evanmercerdev/validate-x-post-urls-before-requesting-video-metadata-in-javascript-a32</id>
-        <link href="https://dev.to/evanmercerdev/validate-x-post-urls-before-requesting-video-metadata-in-javascript-a32"/>
+        <title type="html"><![CDATA[Stop Pasting Production JWTs and Timestamps into Random Websites: Meet Castov (Web, CLI & VS Code)]]></title>
+        <id>https://dev.to/castov/stop-pasting-production-jwts-and-timestamps-into-random-websites-meet-castov-web-cli-vs-code-4k5d</id>
+        <link href="https://dev.to/castov/stop-pasting-production-jwts-and-timestamps-into-random-websites-meet-castov-web-cli-vs-code-4k5d"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Add AI Narration to Your Blog Posts]]></title>
-        <id>https://dev.to/voice_developer/how-to-add-ai-narration-to-your-blog-posts-51af</id>
-        <link href="https://dev.to/voice_developer/how-to-add-ai-narration-to-your-blog-posts-51af"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing 3 New Japanese Market MCP Servers on the Official Registry]]></title>
-        <id>https://dev.to/atu_ino_ed473db24d76d234a/announcing-3-new-japanese-market-mcp-servers-on-the-official-registry-epm</id>
-        <link href="https://dev.to/atu_ino_ed473db24d76d234a/announcing-3-new-japanese-market-mcp-servers-on-the-official-registry-epm"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[streamix + React: An Explosive Mix for Modern State Management]]></title>
-        <id>https://dev.to/oleksii_shepel_3f635cea4d/streamix-react-an-explosive-mix-for-modern-state-management-5g3k</id>
-        <link href="https://dev.to/oleksii_shepel_3f635cea4d/streamix-react-an-explosive-mix-for-modern-state-management-5g3k"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30 Best Alternatives for Getting a Verified Alipay Account Online]]></title>
-        <id>https://dev.to/smmgetit10/30-best-alternatives-for-getting-a-verified-alipay-account-online-1bl4</id>
-        <link href="https://dev.to/smmgetit10/30-best-alternatives-for-getting-a-verified-alipay-account-online-1bl4"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Editing audio in the browser without uploading it: how Tubidy.Mobile's tools work]]></title>
-        <id>https://dev.to/tubidymobile/editing-audio-in-the-browser-without-uploading-it-how-tubidymobiles-tools-work-1am5</id>
-        <link href="https://dev.to/tubidymobile/editing-audio-in-the-browser-without-uploading-it-how-tubidymobiles-tools-work-1am5"/>
+        <title type="html"><![CDATA[An open crypto-scam quiz in one HTML file: no build step, MIT code, CC BY 4.0 content]]></title>
+        <id>https://dev.to/cryptostrapon/an-open-crypto-scam-quiz-in-one-html-file-no-build-step-mit-code-cc-by-40-content-47d9</id>
+        <link href="https://dev.to/cryptostrapon/an-open-crypto-scam-quiz-in-one-html-file-no-build-step-mit-code-cc-by-40-content-47d9"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
@@ -210,9 +210,58 @@ https://github.com/unadlib/mutative
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An open crypto-scam quiz in one HTML file: no build step, MIT code, CC BY 4.0 content]]></title>
-        <id>https://dev.to/cryptostrapon/an-open-crypto-scam-quiz-in-one-html-file-no-build-step-mit-code-cc-by-40-content-47d9</id>
-        <link href="https://dev.to/cryptostrapon/an-open-crypto-scam-quiz-in-one-html-file-no-build-step-mit-code-cc-by-40-content-47d9"/>
+        <title type="html"><![CDATA[Editing audio in the browser without uploading it: how Tubidy.Mobile's tools work]]></title>
+        <id>https://dev.to/tubidymobile/editing-audio-in-the-browser-without-uploading-it-how-tubidymobiles-tools-work-1am5</id>
+        <link href="https://dev.to/tubidymobile/editing-audio-in-the-browser-without-uploading-it-how-tubidymobiles-tools-work-1am5"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30 Best Alternatives for Getting a Verified Alipay Account Online]]></title>
+        <id>https://dev.to/smmgetit10/30-best-alternatives-for-getting-a-verified-alipay-account-online-1bl4</id>
+        <link href="https://dev.to/smmgetit10/30-best-alternatives-for-getting-a-verified-alipay-account-online-1bl4"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[streamix + React: An Explosive Mix for Modern State Management]]></title>
+        <id>https://dev.to/oleksii_shepel_3f635cea4d/streamix-react-an-explosive-mix-for-modern-state-management-5g3k</id>
+        <link href="https://dev.to/oleksii_shepel_3f635cea4d/streamix-react-an-explosive-mix-for-modern-state-management-5g3k"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing 3 New Japanese Market MCP Servers on the Official Registry]]></title>
+        <id>https://dev.to/atu_ino_ed473db24d76d234a/announcing-3-new-japanese-market-mcp-servers-on-the-official-registry-epm</id>
+        <link href="https://dev.to/atu_ino_ed473db24d76d234a/announcing-3-new-japanese-market-mcp-servers-on-the-official-registry-epm"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add AI Narration to Your Blog Posts]]></title>
+        <id>https://dev.to/voice_developer/how-to-add-ai-narration-to-your-blog-posts-51af</id>
+        <link href="https://dev.to/voice_developer/how-to-add-ai-narration-to-your-blog-posts-51af"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Validate X post URLs before requesting video metadata in JavaScript]]></title>
+        <id>https://dev.to/evanmercerdev/validate-x-post-urls-before-requesting-video-metadata-in-javascript-a32</id>
+        <link href="https://dev.to/evanmercerdev/validate-x-post-urls-before-requesting-video-metadata-in-javascript-a32"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop trusting vibes: how we built an eval harness for Expo's agent skills]]></title>
+        <id>https://dev.to/expo/stop-trusting-vibes-how-we-built-an-eval-harness-for-expos-agent-skills-395f</id>
+        <link href="https://dev.to/expo/stop-trusting-vibes-how-we-built-an-eval-harness-for-expos-agent-skills-395f"/>
+        <updated>2026-10-12T16:00:00.000Z</updated>
+        <published>2026-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ToolForge: 32 Free, Privacy-First Offline Developer Tools for CSV & JSON]]></title>
+        <id>https://dev.to/babar_ali_d5e71677f607438/toolforge-32-free-privacy-first-offline-developer-tools-for-csv-json-3db1</id>
+        <link href="https://dev.to/babar_ali_d5e71677f607438/toolforge-32-free-privacy-first-offline-developer-tools-for-csv-json-3db1"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
@@ -318,55 +367,6 @@ https://github.com/unadlib/mutative
         <title type="html"><![CDATA[Will the HomeView be Apple’s first smart home success?]]></title>
         <id>https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/</id>
         <link href="https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know ]]></title>
-        <id>https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/</id>
-        <link href="https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can the AI industry persuade data center opponents by getting rid of NDAs?]]></title>
-        <id>https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/</id>
-        <link href="https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dawn Myers is making it easier to style, detangle, and care for curly hair]]></title>
-        <id>https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/</id>
-        <link href="https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know]]></title>
-        <id>https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/</id>
-        <link href="https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hug this cuddly toy, and hear the piercing scream of real AI data centers]]></title>
-        <id>https://www.designboom.com/art/cuddly-toy-piercing-scream-real-ai-data-centers-basura/</id>
-        <link href="https://www.designboom.com/art/cuddly-toy-piercing-scream-real-ai-data-centers-basura/"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devine Lu Linvega – Sailor and Designer [video]]]></title>
-        <id>https://www.youtube.com/watch?v=x8yKp1qdWh8</id>
-        <link href="https://www.youtube.com/watch?v=x8yKp1qdWh8"/>
-        <updated>2026-10-11T16:00:00.000Z</updated>
-        <published>2026-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christophe Laudamiel: Planted Memory, Cultivated Ethics, and Perfumery]]></title>
-        <id>https://worldsensorium.com/plantings/</id>
-        <link href="https://worldsensorium.com/plantings/"/>
         <updated>2026-10-11T16:00:00.000Z</updated>
         <published>2026-10-11T16:00:00.000Z</published>
     </entry>
