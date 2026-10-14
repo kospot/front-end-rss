@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-14T02:02:14.752Z</updated>
+    <updated>2026-10-14T04:02:49.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -127,51 +127,72 @@
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Physical Intelligence API Beta: Frontier Models for Every Robot]]></title>
-        <id>https://www.pi.website/blog/api-beta</id>
-        <link href="https://www.pi.website/blog/api-beta"/>
+        <title type="html"><![CDATA[BlazeZip – A fast, parallel, ZIP archiver for Windows, with a benchmark suite]]></title>
+        <id>https://github.com/marksmayo/blazezip</id>
+        <link href="https://github.com/marksmayo/blazezip"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nexus-Q: un motor open source de Rust para PQC]]></title>
-        <id>https://nexus-q.link/</id>
-        <link href="https://nexus-q.link/"/>
+        <title type="html"><![CDATA[Mano-P: Setting Up an On-Device GUI Agent Without Cloud Dependencies]]></title>
+        <id>https://github.com/Mininglamp-AI/Mano-P</id>
+        <link href="https://github.com/Mininglamp-AI/Mano-P"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digital Money, Cash, Silver, and Gold as of 2015]]></title>
-        <id>https://www.grandpappy.org/edigital.htm</id>
-        <link href="https://www.grandpappy.org/edigital.htm"/>
+        <title type="html"><![CDATA[Coinbase Built, Evaluated, and Post-Trained a Fraud Agent on Qwen3.5-9B]]></title>
+        <id>https://www.coinbase.com/en-gb/blog/part-one-how-coinbase-built-evaluated-and-post-trained-a-fraud-agent</id>
+        <link href="https://www.coinbase.com/en-gb/blog/part-one-how-coinbase-built-evaluated-and-post-trained-a-fraud-agent"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cornell Bans Fraternity Parties]]></title>
-        <id>https://www.nytimes.com/2026/10/13/nyregion/cornell-sexual-assault-fraternity-party-ban.html</id>
-        <link href="https://www.nytimes.com/2026/10/13/nyregion/cornell-sexual-assault-fraternity-party-ban.html"/>
+        <title type="html"><![CDATA[Ask HN: Is AI-written code less secure if you don't use Daybreak (or similar)]]></title>
+        <id>https://news.ycombinator.com/item?id=50082127</id>
+        <link href="https://news.ycombinator.com/item?id=50082127"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: UpDown – free multiplayer Markdown documents]]></title>
-        <id>https://updown.laravel.cloud/059a14a0-9113-4fad-a9db-e8ef2d2e830c</id>
-        <link href="https://updown.laravel.cloud/059a14a0-9113-4fad-a9db-e8ef2d2e830c"/>
+        <title type="html"><![CDATA[New York City's iconic horse-drawn carriages expected to take their last trot]]></title>
+        <id>https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban</id>
+        <link href="https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open source Scion – Anthropic's Git alternative in open source]]></title>
-        <id>https://github.com/tinyhumansai/openscion</id>
-        <link href="https://github.com/tinyhumansai/openscion"/>
+        <title type="html"><![CDATA[WebDAV-rfc4918 – WebDAV client for Python with an fsspec back end]]></title>
+        <id>https://github.com/manfred-kaiser/webdav-rfc4918</id>
+        <link href="https://github.com/manfred-kaiser/webdav-rfc4918"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chained Exploitation of Ivanti Connect Secure Zero-Days]]></title>
-        <id>https://www.volexity.com/blog/2026/10/13/a-series-of-unauthenticated-events-chained-exploitation-of-ivanti-connect-secure-zero-days/</id>
-        <link href="https://www.volexity.com/blog/2026/10/13/a-series-of-unauthenticated-events-chained-exploitation-of-ivanti-connect-secure-zero-days/"/>
+        <title type="html"><![CDATA[Webpage Copy-Protection is Impossible (and that's great)]]></title>
+        <id>https://danq.me/2026/10/13/webpage-copy-protection-is-impossible-and-thats-great/</id>
+        <link href="https://danq.me/2026/10/13/webpage-copy-protection-is-impossible-and-thats-great/"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[British Gaming Legends: Stories from an Iconic Era – The Retro Hour EP547]]></title>
+        <id>https://theretrohour.com/british-gaming-legends-stories-from-an-iconic-era-the-retro-hour-ep547/</id>
+        <link href="https://theretrohour.com/british-gaming-legends-stories-from-an-iconic-era-the-retro-hour-ep547/"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Heroes of Pea Island Life-Saving Station [video]]]></title>
+        <id>https://www.youtube.com/watch?v=OlZnHLmJAXA</id>
+        <link href="https://www.youtube.com/watch?v=OlZnHLmJAXA"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sid Meier's Alpha Centauri (WASM/WebPort)]]></title>
+        <id>https://alpha-centauri.online/</id>
+        <link href="https://alpha-centauri.online/"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
@@ -183,9 +204,51 @@
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sid Meier's Alpha Centauri (WASM/WebPort)]]></title>
-        <id>https://alpha-centauri.online/</id>
-        <link href="https://alpha-centauri.online/"/>
+        <title type="html"><![CDATA[Chained Exploitation of Ivanti Connect Secure Zero-Days]]></title>
+        <id>https://www.volexity.com/blog/2026/10/13/a-series-of-unauthenticated-events-chained-exploitation-of-ivanti-connect-secure-zero-days/</id>
+        <link href="https://www.volexity.com/blog/2026/10/13/a-series-of-unauthenticated-events-chained-exploitation-of-ivanti-connect-secure-zero-days/"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open source Scion – Anthropic's Git alternative in open source]]></title>
+        <id>https://github.com/tinyhumansai/openscion</id>
+        <link href="https://github.com/tinyhumansai/openscion"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: UpDown – free multiplayer Markdown documents]]></title>
+        <id>https://updown.laravel.cloud/059a14a0-9113-4fad-a9db-e8ef2d2e830c</id>
+        <link href="https://updown.laravel.cloud/059a14a0-9113-4fad-a9db-e8ef2d2e830c"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cornell Bans Fraternity Parties]]></title>
+        <id>https://www.nytimes.com/2026/10/13/nyregion/cornell-sexual-assault-fraternity-party-ban.html</id>
+        <link href="https://www.nytimes.com/2026/10/13/nyregion/cornell-sexual-assault-fraternity-party-ban.html"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Money, Cash, Silver, and Gold as of 2015]]></title>
+        <id>https://www.grandpappy.org/edigital.htm</id>
+        <link href="https://www.grandpappy.org/edigital.htm"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nexus-Q: un motor open source de Rust para PQC]]></title>
+        <id>https://nexus-q.link/</id>
+        <link href="https://nexus-q.link/"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physical Intelligence API Beta: Frontier Models for Every Robot]]></title>
+        <id>https://www.pi.website/blog/api-beta</id>
+        <link href="https://www.pi.website/blog/api-beta"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
@@ -218,72 +281,71 @@
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Free Privacy-First Web Utilities Every Developer Needs (100% Client-Side)]]></title>
-        <id>https://dev.to/moha_bazgra_20b8da15ac933/free-privacy-first-web-utilities-every-developer-needs-100-client-side-1abm</id>
-        <link href="https://dev.to/moha_bazgra_20b8da15ac933/free-privacy-first-web-utilities-every-developer-needs-100-client-side-1abm"/>
+        <title type="html"><![CDATA[
+Framework for building REST APIs for CRUD with models rather than code
+]]></title>
+        <id>
+https://github.com/evoluteur/evolutility-server-node
+</id>
+        <link href="
+https://github.com/evoluteur/evolutility-server-node
+"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your photo never leaves the browser — building a client-side face analysis app with MediaPipe]]></title>
-        <id>https://dev.to/_e4aae51541f4c5468758fb/your-photo-never-leaves-the-browser-building-a-client-side-face-analysis-app-with-mediapipe-4eka</id>
-        <link href="https://dev.to/_e4aae51541f4c5468758fb/your-photo-never-leaves-the-browser-building-a-client-side-face-analysis-app-with-mediapipe-4eka"/>
+        <title type="html"><![CDATA[Supercharging Your JavaScript Projects: A Deep Dive into TypeScript]]></title>
+        <id>https://dev.to/ukasha_mahir_84eeb71db239/supercharging-your-javascript-projects-a-deep-dive-into-typescript-40mg</id>
+        <link href="https://dev.to/ukasha_mahir_84eeb71db239/supercharging-your-javascript-projects-a-deep-dive-into-typescript-40mg"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Day 19: Using JSON.stringify() and JSON.parse() in My E-Commerce Project 🛒]]></title>
-        <id>https://dev.to/saravanan_cn_183fcba7cc7a/day-19-using-jsonstringify-and-jsonparse-in-my-e-commerce-project-c5o</id>
-        <link href="https://dev.to/saravanan_cn_183fcba7cc7a/day-19-using-jsonstringify-and-jsonparse-in-my-e-commerce-project-c5o"/>
+        <title type="html"><![CDATA[Mastering Modern JavaScript: From ES6 to Async Patterns]]></title>
+        <id>https://dev.to/ukasha_mahir_84eeb71db239/mastering-modern-javascript-from-es6-to-async-patterns-2k5m</id>
+        <link href="https://dev.to/ukasha_mahir_84eeb71db239/mastering-modern-javascript-from-es6-to-async-patterns-2k5m"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show Dev: Why I built a 100+ developer utilities suite that runs strictly in the browser]]></title>
-        <id>https://dev.to/geekecia/show-dev-why-i-built-a-100-developer-utilities-suite-that-runs-strictly-in-the-browser-5f8</id>
-        <link href="https://dev.to/geekecia/show-dev-why-i-built-a-100-developer-utilities-suite-that-runs-strictly-in-the-browser-5f8"/>
+        <title type="html"><![CDATA[Processing Binary Heavyweight Files Client-Side with WebAssembly & Web Workers]]></title>
+        <id>https://dev.to/iamsupm/processing-binary-heavyweight-files-client-side-with-webassembly-web-workers-c6c</id>
+        <link href="https://dev.to/iamsupm/processing-binary-heavyweight-files-client-side-with-webassembly-web-workers-c6c"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Generate Random UUIDs for Development and Testing]]></title>
-        <id>https://dev.to/sayeed_alam_8821ad86e1526/generate-random-uuids-for-development-and-testing-525d</id>
-        <link href="https://dev.to/sayeed_alam_8821ad86e1526/generate-random-uuids-for-development-and-testing-525d"/>
+        <title type="html"><![CDATA[Randomness in JavaScript — Why Math.random() Isn't Random Enough]]></title>
+        <id>https://dev.to/toolzip/randomness-in-javascript-why-mathrandom-isnt-random-enough-4gl1</id>
+        <link href="https://dev.to/toolzip/randomness-in-javascript-why-mathrandom-isnt-random-enough-4gl1"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering Regular Expressions: From Basics to Advanced Patterns]]></title>
-        <id>https://dev.to/ukasha_mahir_84eeb71db239/mastering-regular-expressions-from-basics-to-advanced-patterns-1cch</id>
-        <link href="https://dev.to/ukasha_mahir_84eeb71db239/mastering-regular-expressions-from-basics-to-advanced-patterns-1cch"/>
+        <title type="html"><![CDATA[React Server Components Guide: Architecture, Examples, and Best Practices]]></title>
+        <id>https://dev.to/ansh_sheladiya/react-server-components-guide-architecture-examples-and-best-practices-gj3</id>
+        <link href="https://dev.to/ansh_sheladiya/react-server-components-guide-architecture-examples-and-best-practices-gj3"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering TypeScript: From Zero to Hero in Modern Web Development]]></title>
-        <id>https://dev.to/ukasha_mahir_84eeb71db239/mastering-typescript-from-zero-to-hero-in-modern-web-development-13ii</id>
-        <link href="https://dev.to/ukasha_mahir_84eeb71db239/mastering-typescript-from-zero-to-hero-in-modern-web-development-13ii"/>
+        <title type="html"><![CDATA[Taming the Post-Purchase Black Hole: Building a Shopify Tracking Widget]]></title>
+        <id>https://dev.to/sellermind/taming-the-post-purchase-black-hole-building-a-shopify-tracking-widget-1eee</id>
+        <link href="https://dev.to/sellermind/taming-the-post-purchase-black-hole-building-a-shopify-tracking-widget-1eee"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I strip photo metadata without a server]]></title>
-        <id>https://dev.to/toolvero/how-i-strip-photo-metadata-without-a-server-dn0</id>
-        <link href="https://dev.to/toolvero/how-i-strip-photo-metadata-without-a-server-dn0"/>
+        <title type="html"><![CDATA[Rethinking the Post-Purchase Black Hole in Shopify E-commerce]]></title>
+        <id>https://dev.to/sellermind/rethinking-the-post-purchase-black-hole-in-shopify-e-commerce-3dil</id>
+        <link href="https://dev.to/sellermind/rethinking-the-post-purchase-black-hole-in-shopify-e-commerce-3dil"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unleashing Modern JavaScript: Tips, Tricks, and Real‑World Patterns]]></title>
-        <id>https://dev.to/ukasha_mahir_84eeb71db239/unleashing-modern-javascript-tips-tricks-and-real-world-patterns-5gmp</id>
-        <link href="https://dev.to/ukasha_mahir_84eeb71db239/unleashing-modern-javascript-tips-tricks-and-real-world-patterns-5gmp"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Browser-Based IRC Chat Works Without Java]]></title>
-        <id>https://dev.to/chatdeveloper/how-browser-based-irc-chat-works-without-java-51bf</id>
-        <link href="https://dev.to/chatdeveloper/how-browser-based-irc-chat-works-without-java-51bf"/>
+        <title type="html"><![CDATA[LangChainJS and Gemini 4 Argon: What's here and what's coming?]]></title>
+        <id>https://dev.to/gde/langchainjs-and-gemini-4-argon-whats-here-and-whats-coming-2kod</id>
+        <link href="https://dev.to/gde/langchainjs-and-gemini-4-argon-whats-here-and-whats-coming-2kod"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
@@ -295,73 +357,17 @@
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[派早报：一加发布一加 16，Google 推出 Fitbit Edge 等]]></title>
-        <id>https://sspai.com/post/116033</id>
-        <link href="https://sspai.com/post/116033"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
+        <title type="html"><![CDATA[How Browser-Based IRC Chat Works Without Java]]></title>
+        <id>https://dev.to/chatdeveloper/how-browser-based-irc-chat-works-without-java-51bf</id>
+        <link href="https://dev.to/chatdeveloper/how-browser-based-irc-chat-works-without-java-51bf"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DLSS 5 gets toned down for its Hogwarts Legacy debut next month]]></title>
-        <id>https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements</id>
-        <link href="https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discovery Plus is getting more expensive]]></title>
-        <id>https://www.theverge.com/streaming/1009994/discovery-plus-price-increase</id>
-        <link href="https://www.theverge.com/streaming/1009994/discovery-plus-price-increase"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch Apple’s reveal video for the HomeView]]></title>
-        <id>https://www.theverge.com/1008810/apple-homeview-reveal-video-watch</id>
-        <link href="https://www.theverge.com/1008810/apple-homeview-reveal-video-watch"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getty Images is going private after failed Shutterstock merger]]></title>
-        <id>https://www.theverge.com/business/1009893/getty-images-bankruptcy-private-plans-agreement</id>
-        <link href="https://www.theverge.com/business/1009893/getty-images-bankruptcy-private-plans-agreement"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The new Apple Home Collection includes a video doorbell, smart lock, and more]]></title>
-        <id>https://www.theverge.com/tech/1009680/apple-home-collection-doorbell-lock-camera-smart-home-announced</id>
-        <link href="https://www.theverge.com/tech/1009680/apple-home-collection-doorbell-lock-camera-smart-home-announced"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple launches HomeView, its first smart display for the home]]></title>
-        <id>https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look</id>
-        <link href="https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta has some Wonder Full new AI models ]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The ‘Godzilla Minus Zero’ Filmmakers Terrified Bystanders With Their Monster Sounds]]></title>
-        <id>https://www.wired.com/story/new-york-comic-con-panel/</id>
-        <link href="https://www.wired.com/story/new-york-comic-con-panel/"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Apple HomeView Is Like a Giant Apple Watch for the Home]]></title>
-        <id>https://www.wired.com/story/apple-homeview-smart-display/</id>
-        <link href="https://www.wired.com/story/apple-homeview-smart-display/"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Unleashing Modern JavaScript: Tips, Tricks, and Real‑World Patterns]]></title>
+        <id>https://dev.to/ukasha_mahir_84eeb71db239/unleashing-modern-javascript-tips-tricks-and-real-world-patterns-5gmp</id>
+        <link href="https://dev.to/ukasha_mahir_84eeb71db239/unleashing-modern-javascript-tips-tricks-and-real-world-patterns-5gmp"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
     </entry>
 </feed>
