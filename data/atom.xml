@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-14T04:02:49.390Z</updated>
+    <updated>2026-10-14T07:01:46.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -57,9 +57,30 @@
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 9 Best TV Shows to Stream This Month (October 2026)]]></title>
-        <id>https://www.wired.com/story/the-9-best-shows-to-stream-right-now/</id>
-        <link href="https://www.wired.com/story/the-9-best-shows-to-stream-right-now/"/>
+        <title type="html"><![CDATA[Vimeo Promo Codes and Discounts: Up to 40% Off This October 2026]]></title>
+        <id>https://www.wired.com/story/vimeo-promo-code/</id>
+        <link href="https://www.wired.com/story/vimeo-promo-code/"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corsair Discount Code: Up to 50% Off for October 2026]]></title>
+        <id>https://www.wired.com/story/corsair-coupon/</id>
+        <link href="https://www.wired.com/story/corsair-coupon/"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Castlery Promo Codes: 15% Off for October 2026]]></title>
+        <id>https://www.wired.com/story/castlery-promo-code/</id>
+        <link href="https://www.wired.com/story/castlery-promo-code/"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Walgreens Photo Coupons: Up to 70% Off This October]]></title>
+        <id>https://www.wired.com/story/walgreens-photo-coupon/</id>
+        <link href="https://www.wired.com/story/walgreens-photo-coupon/"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
@@ -67,6 +88,13 @@
         <title type="html"><![CDATA[Everyone Hates ‘Digger.’ It’s the Perfect Climate Movie]]></title>
         <id>https://www.wired.com/story/everyone-hates-digger-its-perfect-climate-movie/</id>
         <link href="https://www.wired.com/story/everyone-hates-digger-its-perfect-climate-movie/"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 9 Best TV Shows to Stream This Month (October 2026)]]></title>
+        <id>https://www.wired.com/story/the-9-best-shows-to-stream-right-now/</id>
+        <link href="https://www.wired.com/story/the-9-best-shows-to-stream-right-now/"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
@@ -294,79 +322,51 @@ https://github.com/evoluteur/evolutility-server-node
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Supercharging Your JavaScript Projects: A Deep Dive into TypeScript]]></title>
-        <id>https://dev.to/ukasha_mahir_84eeb71db239/supercharging-your-javascript-projects-a-deep-dive-into-typescript-40mg</id>
-        <link href="https://dev.to/ukasha_mahir_84eeb71db239/supercharging-your-javascript-projects-a-deep-dive-into-typescript-40mg"/>
+        <title type="html"><![CDATA[12 SEO Mistakes Developers Ship to Production (and How to Catch Them)]]></title>
+        <id>https://dev.to/andrei-seo/12-seo-mistakes-developers-ship-to-production-and-how-to-catch-them-125o</id>
+        <link href="https://dev.to/andrei-seo/12-seo-mistakes-developers-ship-to-production-and-how-to-catch-them-125o"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering Modern JavaScript: From ES6 to Async Patterns]]></title>
-        <id>https://dev.to/ukasha_mahir_84eeb71db239/mastering-modern-javascript-from-es6-to-async-patterns-2k5m</id>
-        <link href="https://dev.to/ukasha_mahir_84eeb71db239/mastering-modern-javascript-from-es6-to-async-patterns-2k5m"/>
+        <title type="html"><![CDATA[Ionify v0.1.38 Is Live: From Native Packages to a Verified Developer Experience]]></title>
+        <id>https://dev.to/khaledmsalem/ionify-v0138-is-live-from-native-packages-to-a-verified-developer-experience-l0b</id>
+        <link href="https://dev.to/khaledmsalem/ionify-v0138-is-live-from-native-packages-to-a-verified-developer-experience-l0b"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Processing Binary Heavyweight Files Client-Side with WebAssembly & Web Workers]]></title>
-        <id>https://dev.to/iamsupm/processing-binary-heavyweight-files-client-side-with-webassembly-web-workers-c6c</id>
-        <link href="https://dev.to/iamsupm/processing-binary-heavyweight-files-client-side-with-webassembly-web-workers-c6c"/>
+        <title type="html"><![CDATA[How to Tell Your Face Shape From a Selfie]]></title>
+        <id>https://dev.to/liubinpm/how-to-tell-your-face-shape-from-a-selfie-3aa8</id>
+        <link href="https://dev.to/liubinpm/how-to-tell-your-face-shape-from-a-selfie-3aa8"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Randomness in JavaScript — Why Math.random() Isn't Random Enough]]></title>
-        <id>https://dev.to/toolzip/randomness-in-javascript-why-mathrandom-isnt-random-enough-4gl1</id>
-        <link href="https://dev.to/toolzip/randomness-in-javascript-why-mathrandom-isnt-random-enough-4gl1"/>
+        <title type="html"><![CDATA[Building Reusable React Components: Best Practices, Examples, and Patterns]]></title>
+        <id>https://dev.to/ansh_sheladiya/building-reusable-react-components-best-practices-examples-and-patterns-48j0</id>
+        <link href="https://dev.to/ansh_sheladiya/building-reusable-react-components-best-practices-examples-and-patterns-48j0"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React Server Components Guide: Architecture, Examples, and Best Practices]]></title>
-        <id>https://dev.to/ansh_sheladiya/react-server-components-guide-architecture-examples-and-best-practices-gj3</id>
-        <link href="https://dev.to/ansh_sheladiya/react-server-components-guide-architecture-examples-and-best-practices-gj3"/>
+        <title type="html"><![CDATA[4 Best TypeScript Books to Read in 2026 - Beginner to Advanced]]></title>
+        <id>https://dev.to/sarahofai/4-best-typescript-books-to-read-in-2026-beginner-to-advanced-1nbo</id>
+        <link href="https://dev.to/sarahofai/4-best-typescript-books-to-read-in-2026-beginner-to-advanced-1nbo"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taming the Post-Purchase Black Hole: Building a Shopify Tracking Widget]]></title>
-        <id>https://dev.to/sellermind/taming-the-post-purchase-black-hole-building-a-shopify-tracking-widget-1eee</id>
-        <link href="https://dev.to/sellermind/taming-the-post-purchase-black-hole-building-a-shopify-tracking-widget-1eee"/>
+        <title type="html"><![CDATA[Angular SSR vs CSR vs SSG: Which Rendering Strategy Should You Choose?]]></title>
+        <id>https://dev.to/convergesol/angular-ssr-vs-csr-vs-ssg-which-rendering-strategy-should-you-choose-co8</id>
+        <link href="https://dev.to/convergesol/angular-ssr-vs-csr-vs-ssg-which-rendering-strategy-should-you-choose-co8"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rethinking the Post-Purchase Black Hole in Shopify E-commerce]]></title>
-        <id>https://dev.to/sellermind/rethinking-the-post-purchase-black-hole-in-shopify-e-commerce-3dil</id>
-        <link href="https://dev.to/sellermind/rethinking-the-post-purchase-black-hole-in-shopify-e-commerce-3dil"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LangChainJS and Gemini 4 Argon: What's here and what's coming?]]></title>
-        <id>https://dev.to/gde/langchainjs-and-gemini-4-argon-whats-here-and-whats-coming-2kod</id>
-        <link href="https://dev.to/gde/langchainjs-and-gemini-4-argon-whats-here-and-whats-coming-2kod"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CVE-2026-94545 Explained: What Happens When an OG-Image Generator Forgets to Escape]]></title>
-        <id>https://dev.to/guidance_white/cve-2026-94545-explained-what-happens-when-an-og-image-generator-forgets-to-escape-2eck</id>
-        <link href="https://dev.to/guidance_white/cve-2026-94545-explained-what-happens-when-an-og-image-generator-forgets-to-escape-2eck"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Browser-Based IRC Chat Works Without Java]]></title>
-        <id>https://dev.to/chatdeveloper/how-browser-based-irc-chat-works-without-java-51bf</id>
-        <link href="https://dev.to/chatdeveloper/how-browser-based-irc-chat-works-without-java-51bf"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unleashing Modern JavaScript: Tips, Tricks, and Real‑World Patterns]]></title>
-        <id>https://dev.to/ukasha_mahir_84eeb71db239/unleashing-modern-javascript-tips-tricks-and-real-world-patterns-5gmp</id>
-        <link href="https://dev.to/ukasha_mahir_84eeb71db239/unleashing-modern-javascript-tips-tricks-and-real-world-patterns-5gmp"/>
+        <title type="html"><![CDATA[You Installed a Library for Numbers PerformanceObserver Already Has.]]></title>
+        <id>https://dev.to/parsajiravand/you-installed-a-library-for-numbers-performanceobserver-already-has-1a78</id>
+        <link href="https://dev.to/parsajiravand/you-installed-a-library-for-numbers-performanceobserver-already-has-1a78"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
