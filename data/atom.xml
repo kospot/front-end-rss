@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-14T00:02:08.905Z</updated>
+    <updated>2026-10-14T02:02:14.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[派早报：Apple 发布 HomePod mini 2、HomeView 等新品]]></title>
+        <id>https://sspai.com/post/116138</id>
+        <link href="https://sspai.com/post/116138"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple’s HomeView ad is confusing to everyone except parents]]></title>
         <id>https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction</id>
@@ -64,37 +71,16 @@
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Science Corporation implants its vision-restoring chip in its first Stargardt disease patient]]></title>
-        <id>https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/</id>
-        <link href="https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"/>
+        <title type="html"><![CDATA[Justice Department says North Koreans have infiltrated dozens of U.S. companies]]></title>
+        <id>https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/</id>
+        <link href="https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt]]></title>
-        <id>https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/</id>
-        <link href="https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026]]></title>
-        <id>https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/</id>
-        <link href="https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field]]></title>
-        <id>https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/</id>
-        <link href="https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cambridge Heavy Industries has been quietly building a desktop fusion device]]></title>
-        <id>https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/</id>
-        <link href="https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/"/>
+        <title type="html"><![CDATA[Helix Carbon says it can make iron cheaper by recycling blast furnace pollution]]></title>
+        <id>https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/</id>
+        <link href="https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
@@ -106,9 +92,37 @@
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Helix Carbon says it can make iron cheaper by recycling blast furnace pollution]]></title>
-        <id>https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/</id>
-        <link href="https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/"/>
+        <title type="html"><![CDATA[Cambridge Heavy Industries has been quietly building a desktop fusion device]]></title>
+        <id>https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/</id>
+        <link href="https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field]]></title>
+        <id>https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/</id>
+        <link href="https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026]]></title>
+        <id>https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/</id>
+        <link href="https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt]]></title>
+        <id>https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/</id>
+        <link href="https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Science Corporation implants its vision-restoring chip in its first Stargardt disease patient]]></title>
+        <id>https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/</id>
+        <link href="https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
@@ -176,9 +190,9 @@
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The “Clear Scan” Hallucination: Why LLMs Cannot Be Trusted to Summarize Pathology]]></title>
-        <id>https://pub.towardsai.net/the-clear-scan-hallucination-why-llms-cannot-be-trusted-to-summarize-pathology-6d146153bf9b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-clear-scan-hallucination-why-llms-cannot-be-trusted-to-summarize-pathology-6d146153bf9b?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[What Karpathy’s 630-Line Script Does at Amazon Scale]]></title>
+        <id>https://pub.towardsai.net/what-karpathys-630-line-script-does-at-amazon-scale-4f9ed20d73b0?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/what-karpathys-630-line-script-does-at-amazon-scale-4f9ed20d73b0?source=rss----98111c9905da---4"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
@@ -190,6 +204,13 @@
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The “Clear Scan” Hallucination: Why LLMs Cannot Be Trusted to Summarize Pathology]]></title>
+        <id>https://pub.towardsai.net/the-clear-scan-hallucination-why-llms-cannot-be-trusted-to-summarize-pathology-6d146153bf9b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-clear-scan-hallucination-why-llms-cannot-be-trusted-to-summarize-pathology-6d146153bf9b?source=rss----98111c9905da---4"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GitHub’s model for secret detection: Finding more secrets with less noise]]></title>
         <id>https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/</id>
         <link href="https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/"/>
@@ -197,30 +218,44 @@
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CVE-2026-94545 Explained: What Happens When an OG-Image Generator Forgets to Escape]]></title>
-        <id>https://dev.to/guidance_white/cve-2026-94545-explained-what-happens-when-an-og-image-generator-forgets-to-escape-2eck</id>
-        <link href="https://dev.to/guidance_white/cve-2026-94545-explained-what-happens-when-an-og-image-generator-forgets-to-escape-2eck"/>
+        <title type="html"><![CDATA[Free Privacy-First Web Utilities Every Developer Needs (100% Client-Side)]]></title>
+        <id>https://dev.to/moha_bazgra_20b8da15ac933/free-privacy-first-web-utilities-every-developer-needs-100-client-side-1abm</id>
+        <link href="https://dev.to/moha_bazgra_20b8da15ac933/free-privacy-first-web-utilities-every-developer-needs-100-client-side-1abm"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Browser-Based IRC Chat Works Without Java]]></title>
-        <id>https://dev.to/chatdeveloper/how-browser-based-irc-chat-works-without-java-51bf</id>
-        <link href="https://dev.to/chatdeveloper/how-browser-based-irc-chat-works-without-java-51bf"/>
+        <title type="html"><![CDATA[Your photo never leaves the browser — building a client-side face analysis app with MediaPipe]]></title>
+        <id>https://dev.to/_e4aae51541f4c5468758fb/your-photo-never-leaves-the-browser-building-a-client-side-face-analysis-app-with-mediapipe-4eka</id>
+        <link href="https://dev.to/_e4aae51541f4c5468758fb/your-photo-never-leaves-the-browser-building-a-client-side-face-analysis-app-with-mediapipe-4eka"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unleashing Modern JavaScript: Tips, Tricks, and Real‑World Patterns]]></title>
-        <id>https://dev.to/ukasha_mahir_84eeb71db239/unleashing-modern-javascript-tips-tricks-and-real-world-patterns-5gmp</id>
-        <link href="https://dev.to/ukasha_mahir_84eeb71db239/unleashing-modern-javascript-tips-tricks-and-real-world-patterns-5gmp"/>
+        <title type="html"><![CDATA[Day 19: Using JSON.stringify() and JSON.parse() in My E-Commerce Project 🛒]]></title>
+        <id>https://dev.to/saravanan_cn_183fcba7cc7a/day-19-using-jsonstringify-and-jsonparse-in-my-e-commerce-project-c5o</id>
+        <link href="https://dev.to/saravanan_cn_183fcba7cc7a/day-19-using-jsonstringify-and-jsonparse-in-my-e-commerce-project-c5o"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I strip photo metadata without a server]]></title>
-        <id>https://dev.to/toolvero/how-i-strip-photo-metadata-without-a-server-dn0</id>
-        <link href="https://dev.to/toolvero/how-i-strip-photo-metadata-without-a-server-dn0"/>
+        <title type="html"><![CDATA[Show Dev: Why I built a 100+ developer utilities suite that runs strictly in the browser]]></title>
+        <id>https://dev.to/geekecia/show-dev-why-i-built-a-100-developer-utilities-suite-that-runs-strictly-in-the-browser-5f8</id>
+        <link href="https://dev.to/geekecia/show-dev-why-i-built-a-100-developer-utilities-suite-that-runs-strictly-in-the-browser-5f8"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generate Random UUIDs for Development and Testing]]></title>
+        <id>https://dev.to/sayeed_alam_8821ad86e1526/generate-random-uuids-for-development-and-testing-525d</id>
+        <link href="https://dev.to/sayeed_alam_8821ad86e1526/generate-random-uuids-for-development-and-testing-525d"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Regular Expressions: From Basics to Advanced Patterns]]></title>
+        <id>https://dev.to/ukasha_mahir_84eeb71db239/mastering-regular-expressions-from-basics-to-advanced-patterns-1cch</id>
+        <link href="https://dev.to/ukasha_mahir_84eeb71db239/mastering-regular-expressions-from-basics-to-advanced-patterns-1cch"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
@@ -232,9 +267,30 @@
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering Regular Expressions: From Basics to Advanced Patterns]]></title>
-        <id>https://dev.to/ukasha_mahir_84eeb71db239/mastering-regular-expressions-from-basics-to-advanced-patterns-1cch</id>
-        <link href="https://dev.to/ukasha_mahir_84eeb71db239/mastering-regular-expressions-from-basics-to-advanced-patterns-1cch"/>
+        <title type="html"><![CDATA[How I strip photo metadata without a server]]></title>
+        <id>https://dev.to/toolvero/how-i-strip-photo-metadata-without-a-server-dn0</id>
+        <link href="https://dev.to/toolvero/how-i-strip-photo-metadata-without-a-server-dn0"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unleashing Modern JavaScript: Tips, Tricks, and Real‑World Patterns]]></title>
+        <id>https://dev.to/ukasha_mahir_84eeb71db239/unleashing-modern-javascript-tips-tricks-and-real-world-patterns-5gmp</id>
+        <link href="https://dev.to/ukasha_mahir_84eeb71db239/unleashing-modern-javascript-tips-tricks-and-real-world-patterns-5gmp"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Browser-Based IRC Chat Works Without Java]]></title>
+        <id>https://dev.to/chatdeveloper/how-browser-based-irc-chat-works-without-java-51bf</id>
+        <link href="https://dev.to/chatdeveloper/how-browser-based-irc-chat-works-without-java-51bf"/>
+        <updated>2026-10-13T16:00:00.000Z</updated>
+        <published>2026-10-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-94545 Explained: What Happens When an OG-Image Generator Forgets to Escape]]></title>
+        <id>https://dev.to/guidance_white/cve-2026-94545-explained-what-happens-when-an-og-image-generator-forgets-to-escape-2eck</id>
+        <link href="https://dev.to/guidance_white/cve-2026-94545-explained-what-happens-when-an-og-image-generator-forgets-to-escape-2eck"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
@@ -305,62 +361,6 @@
         <title type="html"><![CDATA[The Apple HomeView Is Like a Giant Apple Watch for the Home]]></title>
         <id>https://www.wired.com/story/apple-homeview-smart-display/</id>
         <link href="https://www.wired.com/story/apple-homeview-smart-display/"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[40 Gifts Under $100 That Will Delight Any Tech Enthusiast (2026)]]></title>
-        <id>https://www.wired.com/gallery/best-gifts-under-100/</id>
-        <link href="https://www.wired.com/gallery/best-gifts-under-100/"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30 Best Tech Books to Gift in 2026: Biographies, Startup Histories, Exposés]]></title>
-        <id>https://www.wired.com/gallery/best-tech-books-to-gift/</id>
-        <link href="https://www.wired.com/gallery/best-tech-books-to-gift/"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wikipedians Believed AI Would Come and Go. They Were Wrong]]></title>
-        <id>https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/</id>
-        <link href="https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies]]></title>
-        <id>https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/</id>
-        <link href="https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ExpressVPN Coupons: 80% Off]]></title>
-        <id>https://www.wired.com/story/expressvpn-coupons/</id>
-        <link href="https://www.wired.com/story/expressvpn-coupons/"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muse Wonder Puts Meta Back at the AI Frontier]]></title>
-        <id>https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/</id>
-        <link href="https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine]]></title>
-        <id>https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/</id>
-        <link href="https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/"/>
-        <updated>2026-10-12T16:00:00.000Z</updated>
-        <published>2026-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Flock Actually Costs Cities Across the Country]]></title>
-        <id>https://www.wired.com/story/how-much-does-flock-actually-cost-cities/</id>
-        <link href="https://www.wired.com/story/how-much-does-flock-actually-cost-cities/"/>
         <updated>2026-10-12T16:00:00.000Z</updated>
         <published>2026-10-12T16:00:00.000Z</published>
     </entry>
