@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-14T22:01:55.399Z</updated>
+    <updated>2026-10-15T00:03:17.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[The best feature of Apple’s HomeView might be its simplicity]]></title>
-        <id>https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature</id>
-        <link href="https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As a TV enthusiast, I was hoping for more from the Apple TV 4K]]></title>
-        <id>https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features</id>
-        <link href="https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features"/>
+        <title type="html"><![CDATA[McKinsey is making job applicants spar with a fake AI client]]></title>
+        <id>https://www.theverge.com/news/1011654/mckinsey-ai-client-interview</id>
+        <link href="https://www.theverge.com/news/1011654/mckinsey-ai-client-interview"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
@@ -36,23 +29,23 @@
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[As a TV enthusiast, I was hoping for more from the Apple TV 4K]]></title>
+        <id>https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features</id>
+        <link href="https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The best feature of Apple’s HomeView might be its simplicity]]></title>
+        <id>https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature</id>
+        <link href="https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AI Came for Math. Now It’s Chasing the Rest of Science]]></title>
         <id>https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/</id>
         <link href="https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts]]></title>
-        <id>https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/</id>
-        <link href="https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers]]></title>
-        <id>https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/</id>
-        <link href="https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
@@ -64,58 +57,79 @@
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting into a Kubernetes Cluster with Nothing but SSH]]></title>
-        <id>https://fables-for-robots.ch/blog/getting-into-a-kubernetes-cluster-with-nothing-but-ssh/</id>
-        <link href="https://fables-for-robots.ch/blog/getting-into-a-kubernetes-cluster-with-nothing-but-ssh/"/>
+        <title type="html"><![CDATA[Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers]]></title>
+        <id>https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/</id>
+        <link href="https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The seven turn game that could not be solved [video]]]></title>
-        <id>https://www.youtube.com/watch?v=JimpN67Bu68</id>
-        <link href="https://www.youtube.com/watch?v=JimpN67Bu68"/>
+        <title type="html"><![CDATA[Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts]]></title>
+        <id>https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/</id>
+        <link href="https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anecdotal, but my iOS App got approved much faster with new assets]]></title>
-        <id>https://mainbrella.com/blog/ios-app-review-new-assets/</id>
-        <link href="https://mainbrella.com/blog/ios-app-review-new-assets/"/>
+        <title type="html"><![CDATA[One-Shot San Francisco Homeless Shooter from Y Combinator Alum]]></title>
+        <id>https://twitter.com/plbiojout/status/2110182960658018732</id>
+        <link href="https://twitter.com/plbiojout/status/2110182960658018732"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Volantis – Our $88M Series A: Demolishing the Memory Wall with Photonics]]></title>
-        <id>https://volantissemi.ai/news-insights/our-88m-series-a-demolishing-the-memory-wall-with-photonics-post</id>
-        <link href="https://volantissemi.ai/news-insights/our-88m-series-a-demolishing-the-memory-wall-with-photonics-post"/>
+        <title type="html"><![CDATA[YouTube Is Looking to Expand into Audiobooks]]></title>
+        <id>https://www.wsj.com/business/media/youtube-is-looking-to-expand-into-audiobooks-d28bd876</id>
+        <link href="https://www.wsj.com/business/media/youtube-is-looking-to-expand-into-audiobooks-d28bd876"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I let two Pi agents maintain my repositories. They invented their own work]]></title>
-        <id>https://leocavalcante.dev/en/deixei-dois-agentes-pi-mantendo-meus-repositorios/</id>
-        <link href="https://leocavalcante.dev/en/deixei-dois-agentes-pi-mantendo-meus-repositorios/"/>
+        <title type="html"><![CDATA[Custom server to revive neato bots]]></title>
+        <id>https://github.com/vacuula/vacuula</id>
+        <link href="https://github.com/vacuula/vacuula"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[All models have failed on this benchmark]]></title>
-        <id>https://chipagents.ai/research/build-a-chip-bench</id>
-        <link href="https://chipagents.ai/research/build-a-chip-bench"/>
+        <title type="html"><![CDATA[Sunsetting Decomp.dev]]></title>
+        <id>https://decomp.dev/</id>
+        <link href="https://decomp.dev/"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A definition of science]]></title>
-        <id>https://dpaletti.com/posts/science/</id>
-        <link href="https://dpaletti.com/posts/science/"/>
+        <title type="html"><![CDATA[Chaos ensues when AI interviewer meets AI interviewee]]></title>
+        <id>https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144</id>
+        <link href="https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Little Prince 3D game, built in 16 days with Opus 5.5]]></title>
-        <id>https://twitter.com/Saccc_c/status/2109962425512734739</id>
-        <link href="https://twitter.com/Saccc_c/status/2109962425512734739"/>
+        <title type="html"><![CDATA[Ben Affleck Sold His AI Company for $587M [video]]]></title>
+        <id>https://www.youtube.com/watch?v=MzXEWrT3Ld8</id>
+        <link href="https://www.youtube.com/watch?v=MzXEWrT3Ld8"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Games Launcher Preview]]></title>
+        <id>https://launcher.epicgames.com/</id>
+        <link href="https://launcher.epicgames.com/"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local Model Guide – Find what LLMs fit on your machine]]></title>
+        <id>https://localmodelguide.com/</id>
+        <link href="https://localmodelguide.com/"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1991 Federal Panel Blasted Vaccine Unavailability That Led to a Measles Epidemic]]></title>
+        <id>https://www.techdirt.com/2026/10/13/in-1991-federal-panel-blasts-vaccine-unavailability-that-led-to-a-measles-epidemic/</id>
+        <link href="https://www.techdirt.com/2026/10/13/in-1991-federal-panel-blasts-vaccine-unavailability-that-led-to-a-measles-epidemic/"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
@@ -127,30 +141,65 @@
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-6 Astra vs Claude Fable 5.1: Which One Actually Codes Better?]]></title>
-        <id>https://pub.towardsai.net/gpt-6-astra-vs-claude-fable-5-1-which-one-actually-codes-better-814b52f7e262?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/gpt-6-astra-vs-claude-fable-5-1-which-one-actually-codes-better-814b52f7e262?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The Little Prince 3D game, built in 16 days with Opus 5.5]]></title>
+        <id>https://twitter.com/Saccc_c/status/2109962425512734739</id>
+        <link href="https://twitter.com/Saccc_c/status/2109962425512734739"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Run Claude Code on Meta’s Muse Wonder, step by step]]></title>
-        <id>https://pub.towardsai.net/how-to-run-claude-code-on-metas-muse-wonder-step-by-step-41c4d9467433?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-to-run-claude-code-on-metas-muse-wonder-step-by-step-41c4d9467433?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[A definition of science]]></title>
+        <id>https://dpaletti.com/posts/science/</id>
+        <link href="https://dpaletti.com/posts/science/"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Spent a Week Confused About Vertex AI, So You Don’t Have To: A Learner’s Map to Google’s Gemini…]]></title>
-        <id>https://pub.towardsai.net/i-spent-a-week-confused-about-vertex-ai-so-you-dont-have-to-a-learner-s-map-to-google-s-gemini-cac83ad62351?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-spent-a-week-confused-about-vertex-ai-so-you-dont-have-to-a-learner-s-map-to-google-s-gemini-cac83ad62351?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[All models have failed on this benchmark]]></title>
+        <id>https://chipagents.ai/research/build-a-chip-bench</id>
+        <link href="https://chipagents.ai/research/build-a-chip-bench"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a RAG Evaluation Dataset From Documents]]></title>
-        <id>https://pub.towardsai.net/rag-evaluation-dataset-483751efa727?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/rag-evaluation-dataset-483751efa727?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[I let two Pi agents maintain my repositories. They invented their own work]]></title>
+        <id>https://leocavalcante.dev/en/deixei-dois-agentes-pi-mantendo-meus-repositorios/</id>
+        <link href="https://leocavalcante.dev/en/deixei-dois-agentes-pi-mantendo-meus-repositorios/"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volantis – Our $88M Series A: Demolishing the Memory Wall with Photonics]]></title>
+        <id>https://volantissemi.ai/news-insights/our-88m-series-a-demolishing-the-memory-wall-with-photonics-post</id>
+        <link href="https://volantissemi.ai/news-insights/our-88m-series-a-demolishing-the-memory-wall-with-photonics-post"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anecdotal, but my iOS App got approved much faster with new assets]]></title>
+        <id>https://mainbrella.com/blog/ios-app-review-new-assets/</id>
+        <link href="https://mainbrella.com/blog/ios-app-review-new-assets/"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The seven turn game that could not be solved [video]]]></title>
+        <id>https://www.youtube.com/watch?v=JimpN67Bu68</id>
+        <link href="https://www.youtube.com/watch?v=JimpN67Bu68"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting into a Kubernetes Cluster with Nothing but SSH]]></title>
+        <id>https://fables-for-robots.ch/blog/getting-into-a-kubernetes-cluster-with-nothing-but-ssh/</id>
+        <link href="https://fables-for-robots.ch/blog/getting-into-a-kubernetes-cluster-with-nothing-but-ssh/"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part XIV — Broadcast Variables: The Driver Bottleneck Nobody Profiles]]></title>
+        <id>https://pub.towardsai.net/part-xiv-broadcast-variables-the-driver-bottleneck-nobody-profiles-87189bb691ed?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/part-xiv-broadcast-variables-the-driver-bottleneck-nobody-profiles-87189bb691ed?source=rss----98111c9905da---4"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
@@ -162,6 +211,34 @@
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Build a RAG Evaluation Dataset From Documents]]></title>
+        <id>https://pub.towardsai.net/rag-evaluation-dataset-483751efa727?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/rag-evaluation-dataset-483751efa727?source=rss----98111c9905da---4"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Spent a Week Confused About Vertex AI, So You Don’t Have To: A Learner’s Map to Google’s Gemini…]]></title>
+        <id>https://pub.towardsai.net/i-spent-a-week-confused-about-vertex-ai-so-you-dont-have-to-a-learner-s-map-to-google-s-gemini-cac83ad62351?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-spent-a-week-confused-about-vertex-ai-so-you-dont-have-to-a-learner-s-map-to-google-s-gemini-cac83ad62351?source=rss----98111c9905da---4"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run Claude Code on Meta’s Muse Wonder, step by step]]></title>
+        <id>https://pub.towardsai.net/how-to-run-claude-code-on-metas-muse-wonder-step-by-step-41c4d9467433?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-run-claude-code-on-metas-muse-wonder-step-by-step-41c4d9467433?source=rss----98111c9905da---4"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-6 Astra vs Claude Fable 5.1: Which One Actually Codes Better?]]></title>
+        <id>https://pub.towardsai.net/gpt-6-astra-vs-claude-fable-5-1-which-one-actually-codes-better-814b52f7e262?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/gpt-6-astra-vs-claude-fable-5-1-which-one-actually-codes-better-814b52f7e262?source=rss----98111c9905da---4"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GitHub availability report: September 2026]]></title>
         <id>https://github.blog/news-insights/company-news/github-availability-report-september-2026/</id>
         <link href="https://github.blog/news-insights/company-news/github-availability-report-september-2026/"/>
@@ -169,72 +246,43 @@
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to read any Shopify store's product catalog with products.json (no API key)]]></title>
-        <id>https://dev.to/siftwright_data/how-to-read-any-shopify-stores-product-catalog-with-productsjson-no-api-key-40nl</id>
-        <link href="https://dev.to/siftwright_data/how-to-read-any-shopify-stores-product-catalog-with-productsjson-no-api-key-40nl"/>
+        <title type="html"><![CDATA[
+From 1,256ms to 96ms: Fixing INP in a Massive React Dropdown
+]]></title>
+        <id>
+https://dev.to/subito/from-1256ms-to-96ms-fixing-inp-in-a-massive-react-dropdown-16l7
+</id>
+        <link href="
+https://dev.to/subito/from-1256ms-to-96ms-fixing-inp-in-a-massive-react-dropdown-16l7
+"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Static to Dynamic: Building a Modern Web Experience with Web Components]]></title>
-        <id>https://dev.to/ukasha_mahir_84eeb71db239/from-static-to-dynamic-building-a-modern-web-experience-with-web-components-16pd</id>
-        <link href="https://dev.to/ukasha_mahir_84eeb71db239/from-static-to-dynamic-building-a-modern-web-experience-with-web-components-16pd"/>
+        <title type="html"><![CDATA[The Goroutine Awakens: Mastering Go Concurrency Like a Jedi]]></title>
+        <id>https://dev.to/timevolt/the-goroutine-awakens-mastering-go-concurrency-like-a-jedi-24h9</id>
+        <link href="https://dev.to/timevolt/the-goroutine-awakens-mastering-go-concurrency-like-a-jedi-24h9"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beyond JSX: Modern Patterns for Building Scalable React Apps]]></title>
-        <id>https://dev.to/ukasha_mahir_84eeb71db239/beyond-jsx-modern-patterns-for-building-scalable-react-apps-46h</id>
-        <link href="https://dev.to/ukasha_mahir_84eeb71db239/beyond-jsx-modern-patterns-for-building-scalable-react-apps-46h"/>
+        <title type="html"><![CDATA[My "three-tier" upload path had two tiers: presigned R2 PUTs, batch signing, and an endpoint nothing called]]></title>
+        <id>https://dev.to/kangchanghwan/my-three-tier-upload-path-had-two-tiers-presigned-r2-puts-batch-signing-and-an-endpoint-3i21</id>
+        <link href="https://dev.to/kangchanghwan/my-three-tier-upload-path-had-two-tiers-presigned-r2-puts-batch-signing-and-an-endpoint-3i21"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a three-expression robot face with HTML and JavaScript]]></title>
-        <id>https://dev.to/xemorysystems/build-a-three-expression-robot-face-with-html-and-javascript-4e1p</id>
-        <link href="https://dev.to/xemorysystems/build-a-three-expression-robot-face-with-html-and-javascript-4e1p"/>
+        <title type="html"><![CDATA[How to Verify and Inspect JWT Signatures in Browser Memory (Zero Server Uploads)]]></title>
+        <id>https://dev.to/vantorkit/how-to-verify-and-inspect-jwt-signatures-in-browser-memory-zero-server-uploads-3nj9</id>
+        <link href="https://dev.to/vantorkit/how-to-verify-and-inspect-jwt-signatures-in-browser-memory-zero-server-uploads-3nj9"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Trim MP4 Video Locally in Browser Without Re-encoding (Zero Uploads)]]></title>
-        <id>https://dev.to/vantorkit/how-to-trim-mp4-video-locally-in-browser-without-re-encoding-zero-uploads-25j6</id>
-        <link href="https://dev.to/vantorkit/how-to-trim-mp4-video-locally-in-browser-without-re-encoding-zero-uploads-25j6"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WAMR3D: A Native WebAssembly 3D Engine with a three.js-Style API and Its Own WebGPU Renderer]]></title>
-        <id>https://dev.to/aymen94/wamr3d-a-native-webassembly-3d-engine-with-a-threejs-style-api-and-its-own-webgpu-renderer-9ok</id>
-        <link href="https://dev.to/aymen94/wamr3d-a-native-webassembly-3d-engine-with-a-threejs-style-api-and-its-own-webgpu-renderer-9ok"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Managing Node Applications with PM2]]></title>
-        <id>https://dev.to/vultr/managing-node-applications-with-pm2-39dn</id>
-        <link href="https://dev.to/vultr/managing-node-applications-with-pm2-39dn"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Статичний каталог на Python і JavaScript: як порівнювати дані без хибних результатів]]></title>
-        <id>https://dev.to/racioteka/statichnii-katalogh-na-python-i-javascript-iak-porivniuvati-dani-biez-khibnikh-riezultativ-f5l</id>
-        <link href="https://dev.to/racioteka/statichnii-katalogh-na-python-i-javascript-iak-porivniuvati-dani-biez-khibnikh-riezultativ-f5l"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Catch "jane@gmial.com" at signup: email validation with typo suggestions]]></title>
-        <id>https://dev.to/olly_08beff75f1fe547dcb92/catch-janegmialcom-at-signup-email-validation-with-typo-suggestions-44b3</id>
-        <link href="https://dev.to/olly_08beff75f1fe547dcb92/catch-janegmialcom-at-signup-email-validation-with-typo-suggestions-44b3"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testing Like a Pro: From Unit Nuggets to Full‑Scale Integration]]></title>
-        <id>https://dev.to/ukasha_mahir_84eeb71db239/testing-like-a-pro-from-unit-nuggets-to-full-scale-integration-2l7e</id>
-        <link href="https://dev.to/ukasha_mahir_84eeb71db239/testing-like-a-pro-from-unit-nuggets-to-full-scale-integration-2l7e"/>
+        <title type="html"><![CDATA[npm ci Says package.json and package-lock.json Are Not in Sync: Causes, Fixes, and How pnpm and Yarn Compare]]></title>
+        <id>https://dev.to/libme/npm-ci-says-packagejson-and-package-lockjson-are-not-in-sync-causes-fixes-and-how-pnpm-and-161o</id>
+        <link href="https://dev.to/libme/npm-ci-says-packagejson-and-package-lockjson-are-not-in-sync-causes-fixes-and-how-pnpm-and-161o"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
@@ -246,121 +294,79 @@
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Testing Like a Pro: From Unit Nuggets to Full‑Scale Integration]]></title>
+        <id>https://dev.to/ukasha_mahir_84eeb71db239/testing-like-a-pro-from-unit-nuggets-to-full-scale-integration-2l7e</id>
+        <link href="https://dev.to/ukasha_mahir_84eeb71db239/testing-like-a-pro-from-unit-nuggets-to-full-scale-integration-2l7e"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Catch "jane@gmial.com" at signup: email validation with typo suggestions]]></title>
+        <id>https://dev.to/olly_08beff75f1fe547dcb92/catch-janegmialcom-at-signup-email-validation-with-typo-suggestions-44b3</id>
+        <link href="https://dev.to/olly_08beff75f1fe547dcb92/catch-janegmialcom-at-signup-email-validation-with-typo-suggestions-44b3"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Статичний каталог на Python і JavaScript: як порівнювати дані без хибних результатів]]></title>
+        <id>https://dev.to/racioteka/statichnii-katalogh-na-python-i-javascript-iak-porivniuvati-dani-biez-khibnikh-riezultativ-f5l</id>
+        <link href="https://dev.to/racioteka/statichnii-katalogh-na-python-i-javascript-iak-porivniuvati-dani-biez-khibnikh-riezultativ-f5l"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing Node Applications with PM2]]></title>
+        <id>https://dev.to/vultr/managing-node-applications-with-pm2-39dn</id>
+        <link href="https://dev.to/vultr/managing-node-applications-with-pm2-39dn"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WAMR3D: A Native WebAssembly 3D Engine with a three.js-Style API and Its Own WebGPU Renderer]]></title>
+        <id>https://dev.to/aymen94/wamr3d-a-native-webassembly-3d-engine-with-a-threejs-style-api-and-its-own-webgpu-renderer-9ok</id>
+        <link href="https://dev.to/aymen94/wamr3d-a-native-webassembly-3d-engine-with-a-threejs-style-api-and-its-own-webgpu-renderer-9ok"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Trim MP4 Video Locally in Browser Without Re-encoding (Zero Uploads)]]></title>
+        <id>https://dev.to/vantorkit/how-to-trim-mp4-video-locally-in-browser-without-re-encoding-zero-uploads-25j6</id>
+        <link href="https://dev.to/vantorkit/how-to-trim-mp4-video-locally-in-browser-without-re-encoding-zero-uploads-25j6"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a three-expression robot face with HTML and JavaScript]]></title>
+        <id>https://dev.to/xemorysystems/build-a-three-expression-robot-face-with-html-and-javascript-4e1p</id>
+        <link href="https://dev.to/xemorysystems/build-a-three-expression-robot-face-with-html-and-javascript-4e1p"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond JSX: Modern Patterns for Building Scalable React Apps]]></title>
+        <id>https://dev.to/ukasha_mahir_84eeb71db239/beyond-jsx-modern-patterns-for-building-scalable-react-apps-46h</id>
+        <link href="https://dev.to/ukasha_mahir_84eeb71db239/beyond-jsx-modern-patterns-for-building-scalable-react-apps-46h"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Static to Dynamic: Building a Modern Web Experience with Web Components]]></title>
+        <id>https://dev.to/ukasha_mahir_84eeb71db239/from-static-to-dynamic-building-a-modern-web-experience-with-web-components-16pd</id>
+        <link href="https://dev.to/ukasha_mahir_84eeb71db239/from-static-to-dynamic-building-a-modern-web-experience-with-web-components-16pd"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to read any Shopify store's product catalog with products.json (no API key)]]></title>
+        <id>https://dev.to/siftwright_data/how-to-read-any-shopify-stores-product-catalog-with-productsjson-no-api-key-40nl</id>
+        <link href="https://dev.to/siftwright_data/how-to-read-any-shopify-stores-product-catalog-with-productsjson-no-api-key-40nl"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[派早报：Apple 发布 HomePod mini 2、HomeView 等新品]]></title>
         <id>https://sspai.com/post/116138</id>
         <link href="https://sspai.com/post/116138"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting]]></title>
-        <id>https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability</id>
-        <link href="https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI employee arrested for allegedly planting a bug in a conference room]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It looks like Apple Music is getting a new icon]]></title>
-        <id>https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta</id>
-        <link href="https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rivian partner Mind Robotics hires Doug Field as president]]></title>
-        <id>https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple</id>
-        <link href="https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I don’t miss the camera on the Ray-Ban Meta Audio glasses]]></title>
-        <id>https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables</id>
-        <link href="https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple’s HomeView ad is confusing to everyone except parents]]></title>
-        <id>https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction</id>
-        <link href="https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$15 gets you Psychonauts 2, the latest Like a Dragon game, and more]]></title>
-        <id>https://www.theverge.com/gadgets/1011050/humble-choice-valve-index-borderlands-odyssey-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1011050/humble-choice-valve-index-borderlands-odyssey-deal-sale"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earth’s Condition Is ‘Serious and Getting Worse’ as Climate Change Intensifies]]></title>
-        <id>https://www.wired.com/story/climate-change-is-getting-worse-el-nino-looms/</id>
-        <link href="https://www.wired.com/story/climate-change-is-getting-worse-el-nino-looms/"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Formlabs Has a 3D Printer for Normies]]></title>
-        <id>https://www.wired.com/story/formlabs-has-a-3d-printer-for-normies/</id>
-        <link href="https://www.wired.com/story/formlabs-has-a-3d-printer-for-normies/"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Friend Has No Soul]]></title>
-        <id>https://www.wired.com/story/my-friend-has-no-soul/</id>
-        <link href="https://www.wired.com/story/my-friend-has-no-soul/"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breville Eye Q Toaster Review: Neat Sensors, but Less-Than-Perfect Toast]]></title>
-        <id>https://www.wired.com/review/breville-eye-q-toaster/</id>
-        <link href="https://www.wired.com/review/breville-eye-q-toaster/"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA]]></title>
-        <id>https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga/</id>
-        <link href="https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga/"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JackRabbit MG Cargo Bike Review (2026): Compact and Powerful]]></title>
-        <id>https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle/</id>
-        <link href="https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle/"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nothing Headphone (1) Pro Review: Studio Quality]]></title>
-        <id>https://www.wired.com/review/nothing-headphone-1-pro/</id>
-        <link href="https://www.wired.com/review/nothing-headphone-1-pro/"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vimeo Promo Codes and Discounts: Up to 40% Off This October 2026]]></title>
-        <id>https://www.wired.com/story/vimeo-promo-code/</id>
-        <link href="https://www.wired.com/story/vimeo-promo-code/"/>
-        <updated>2026-10-13T16:00:00.000Z</updated>
-        <published>2026-10-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corsair Discount Code: Up to 50% Off for October 2026]]></title>
-        <id>https://www.wired.com/story/corsair-coupon/</id>
-        <link href="https://www.wired.com/story/corsair-coupon/"/>
         <updated>2026-10-13T16:00:00.000Z</updated>
         <published>2026-10-13T16:00:00.000Z</published>
     </entry>
