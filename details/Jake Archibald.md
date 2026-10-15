@@ -1,7 +1,8 @@
-:alarm_clock: 更新时间: 2026-10-15 08:03:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-16 06:01:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Jake Archibald
 
 
 
 
+- [2026-10-15-JPEG-XL-vs-AVIF-for-web-use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/) 
