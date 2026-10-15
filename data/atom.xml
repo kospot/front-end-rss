@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-15T04:02:00.093Z</updated>
+    <updated>2026-10-15T07:03:24.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -78,219 +78,30 @@
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Link Is This Document]]></title>
-        <id>https://tinylittleoffice.com/#/v1/write/yXZZLbtNQFIbnXoVRJhAZp21gkgkqQkiRKlXQTkAM6sROuNSxg~008iyLYIIEm8tK~P5zbTdBaiPZvo_z~B9H_~dnX168vpzeX13Mpm~_2ucRzINSN654DOe1f_jQC_cQuzL5WVk~wXxlBM3L8lEcFFFz7RZzTQd63Y9EVBEI~Eg0ZuHD96bZ1rPJBMtoc9dwNvgGQzHon4wewo8wqNxDd9icl~yD83nWoO51TGxId_9oqpIYa_Cimi1PvFWD2XIWRvyNXt3idgS6zxaRvhbrTq7Y39vH8fBndDz8tYMLnBVDUQ0QHu2U8WWVggDrZYGE5g4JhPWmcwt8gCWxoYK6VTghZbvzm_dyC8UkXyBUV88CwegLdVzmDn1KpWi2RLXUNQQ3Hudlkkr8OGNwUziVjMfcTGSndx8Pv6Su1Dx1aXE8_O6MxuSbtSiiSbdr4uDK7h62IqQKwXfQqlQ7iMu~exp1Y4269Y0iKMXG8aogbg_aYjA9tdLwVS_CKiksxLMAIxN44tOigmoCS3uVuhrXbLOUPZYqGXZN0ePQGJZuE_JWBWUBfQFqMJ4VcfAmRiz2hs46M8Mfqvbi_8bYdxJcOznyp8~WyDtfd_OyUwSFc3uZ5BhL4tHeweJ5yTXR6WY5mytI11phXTpbiGR4lvGn9lgGy3ILqgTc0yMNHolvJZpQrH1OJZ7iUfKefvd3ZqmuwxOJo0ZA_FoNGLY2QHjIQiuxMYrfRvbLZOeeEAh6GHbMtmmlj4I4sVpBYgCLTLhYlmsUp2RwSTNRCsMfbt14oBlLLL2VBtYUNhf9dcpHnsxNd9hlkndn4Nn9DAoYr~fhgqHBxg6i1viqwqNoVms63~xWK8tNpcD5Fb_NWCJwK7c9Ww__0joi1R~afp7LpBJFulEPHRjCl5yBnCh9rAOSVq88hAlSJ1vVqwRNcmhdP5o6zw0NOzVDkhDe2oRpnUcQugUZJRLAy4Z5qA2zLXXjtNzD3FfJQnKbza6x1O3LboFg~DgEYDuLCcZzIQ7~AQ</id>
-        <link href="https://tinylittleoffice.com/#/v1/write/yXZZLbtNQFIbnXoVRJhAZp21gkgkqQkiRKlXQTkAM6sROuNSxg~008iyLYIIEm8tK~P5zbTdBaiPZvo_z~B9H_~dnX168vpzeX13Mpm~_2ucRzINSN654DOe1f_jQC_cQuzL5WVk~wXxlBM3L8lEcFFFz7RZzTQd63Y9EVBEI~Eg0ZuHD96bZ1rPJBMtoc9dwNvgGQzHon4wewo8wqNxDd9icl~yD83nWoO51TGxId_9oqpIYa_Cimi1PvFWD2XIWRvyNXt3idgS6zxaRvhbrTq7Y39vH8fBndDz8tYMLnBVDUQ0QHu2U8WWVggDrZYGE5g4JhPWmcwt8gCWxoYK6VTghZbvzm_dyC8UkXyBUV88CwegLdVzmDn1KpWi2RLXUNQQ3Hudlkkr8OGNwUziVjMfcTGSndx8Pv6Su1Dx1aXE8_O6MxuSbtSiiSbdr4uDK7h62IqQKwXfQqlQ7iMu~exp1Y4269Y0iKMXG8aogbg_aYjA9tdLwVS_CKiksxLMAIxN44tOigmoCS3uVuhrXbLOUPZYqGXZN0ePQGJZuE_JWBWUBfQFqMJ4VcfAmRiz2hs46M8Mfqvbi_8bYdxJcOznyp8~WyDtfd_OyUwSFc3uZ5BhL4tHeweJ5yTXR6WY5mytI11phXTpbiGR4lvGn9lgGy3ILqgTc0yMNHolvJZpQrH1OJZ7iUfKefvd3ZqmuwxOJo0ZA_FoNGLY2QHjIQiuxMYrfRvbLZOeeEAh6GHbMtmmlj4I4sVpBYgCLTLhYlmsUp2RwSTNRCsMfbt14oBlLLL2VBtYUNhf9dcpHnsxNd9hlkndn4Nn9DAoYr~fhgqHBxg6i1viqwqNoVms63~xWK8tNpcD5Fb_NWCJwK7c9Ww__0joi1R~afp7LpBJFulEPHRjCl5yBnCh9rAOSVq88hAlSJ1vVqwRNcmhdP5o6zw0NOzVDkhDe2oRpnUcQugUZJRLAy4Z5qA2zLXXjtNzD3FfJQnKbza6x1O3LboFg~DgEYDuLCcZzIQ7~AQ"/>
+        <title type="html"><![CDATA[Hinton: We're creating alien beings. I'm willing to be selfish and choose humans]]></title>
+        <id>https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech</id>
+        <link href="https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation]]></title>
-        <id>https://hazyresearch.stanford.edu/blog/2026-10-12-ncm</id>
-        <link href="https://hazyresearch.stanford.edu/blog/2026-10-12-ncm"/>
+        <title type="html"><![CDATA[China Has a Blueprint for the Future – 3D printing (additive manufacturing)]]></title>
+        <id>https://www.newsweek.com/china-has-a-blueprint-for-the-future-12570833</id>
+        <link href="https://www.newsweek.com/china-has-a-blueprint-for-the-future-12570833"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flock CEO: If you want a crime-free society, be ready to give up your privacy]]></title>
-        <id>https://www.neowin.net/news/flock-ceo-doubles-down-if-you-want-a-crime-free-society-be-ready-to-give-up-your-privacy/</id>
-        <link href="https://www.neowin.net/news/flock-ceo-doubles-down-if-you-want-a-crime-free-society-be-ready-to-give-up-your-privacy/"/>
+        <title type="html"><![CDATA[My first YouTube Video gained 3000 views in 48 hours, uploaded on my new channel]]></title>
+        <id>https://news.ycombinator.com/item?id=50100042</id>
+        <link href="https://news.ycombinator.com/item?id=50100042"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Can I tell my managers to skip the corporate bs and get to the point?]]></title>
-        <id>https://news.ycombinator.com/item?id=50098792</id>
-        <link href="https://news.ycombinator.com/item?id=50098792"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will big software companies (like Adobe) come together to curb AI?]]></title>
-        <id>https://news.ycombinator.com/item?id=50098712</id>
-        <link href="https://news.ycombinator.com/item?id=50098712"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCCN Guidelines]]></title>
-        <id>https://www.nccn.org/guidelines/category_1</id>
-        <link href="https://www.nccn.org/guidelines/category_1"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breadwire – Draw a schematic, get a breadboard]]></title>
-        <id>https://breadwire.vercel.app/</id>
-        <link href="https://breadwire.vercel.app/"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My friend's group chat just got roasted]]></title>
-        <id>https://magichour.ai</id>
-        <link href="https://magichour.ai"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One-Shot San Francisco Homeless Shooter from Y Combinator Alum]]></title>
-        <id>https://twitter.com/plbiojout/status/2110182960658018732</id>
-        <link href="https://twitter.com/plbiojout/status/2110182960658018732"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube Is Looking to Expand into Audiobooks]]></title>
-        <id>https://www.wsj.com/business/media/youtube-is-looking-to-expand-into-audiobooks-d28bd876</id>
-        <link href="https://www.wsj.com/business/media/youtube-is-looking-to-expand-into-audiobooks-d28bd876"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Custom server to revive neato bots]]></title>
-        <id>https://github.com/vacuula/vacuula</id>
-        <link href="https://github.com/vacuula/vacuula"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunsetting Decomp.dev]]></title>
-        <id>https://decomp.dev/</id>
-        <link href="https://decomp.dev/"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chaos ensues when AI interviewer meets AI interviewee]]></title>
-        <id>https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144</id>
-        <link href="https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ben Affleck Sold His AI Company for $587M [video]]]></title>
-        <id>https://www.youtube.com/watch?v=MzXEWrT3Ld8</id>
-        <link href="https://www.youtube.com/watch?v=MzXEWrT3Ld8"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Games Launcher Preview]]></title>
-        <id>https://launcher.epicgames.com/</id>
-        <link href="https://launcher.epicgames.com/"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local Model Guide – Find what LLMs fit on your machine]]></title>
-        <id>https://localmodelguide.com/</id>
-        <link href="https://localmodelguide.com/"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1991 Federal Panel Blasted Vaccine Unavailability That Led to a Measles Epidemic]]></title>
-        <id>https://www.techdirt.com/2026/10/13/in-1991-federal-panel-blasts-vaccine-unavailability-that-led-to-a-measles-epidemic/</id>
-        <link href="https://www.techdirt.com/2026/10/13/in-1991-federal-panel-blasts-vaccine-unavailability-that-led-to-a-measles-epidemic/"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Brilliance of Svante Arrhenius]]></title>
-        <id>https://climatephysics.substack.com/p/the-brilliance-of-svante-arrhenius</id>
-        <link href="https://climatephysics.substack.com/p/the-brilliance-of-svante-arrhenius"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Little Prince 3D game, built in 16 days with Opus 5.5]]></title>
-        <id>https://twitter.com/Saccc_c/status/2109962425512734739</id>
-        <link href="https://twitter.com/Saccc_c/status/2109962425512734739"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A definition of science]]></title>
-        <id>https://dpaletti.com/posts/science/</id>
-        <link href="https://dpaletti.com/posts/science/"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All models have failed on this benchmark]]></title>
-        <id>https://chipagents.ai/research/build-a-chip-bench</id>
-        <link href="https://chipagents.ai/research/build-a-chip-bench"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I let two Pi agents maintain my repositories. They invented their own work]]></title>
-        <id>https://leocavalcante.dev/en/deixei-dois-agentes-pi-mantendo-meus-repositorios/</id>
-        <link href="https://leocavalcante.dev/en/deixei-dois-agentes-pi-mantendo-meus-repositorios/"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Volantis – Our $88M Series A: Demolishing the Memory Wall with Photonics]]></title>
-        <id>https://volantissemi.ai/news-insights/our-88m-series-a-demolishing-the-memory-wall-with-photonics-post</id>
-        <link href="https://volantissemi.ai/news-insights/our-88m-series-a-demolishing-the-memory-wall-with-photonics-post"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anecdotal, but my iOS App got approved much faster with new assets]]></title>
-        <id>https://mainbrella.com/blog/ios-app-review-new-assets/</id>
-        <link href="https://mainbrella.com/blog/ios-app-review-new-assets/"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The seven turn game that could not be solved [video]]]></title>
-        <id>https://www.youtube.com/watch?v=JimpN67Bu68</id>
-        <link href="https://www.youtube.com/watch?v=JimpN67Bu68"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting into a Kubernetes Cluster with Nothing but SSH]]></title>
-        <id>https://fables-for-robots.ch/blog/getting-into-a-kubernetes-cluster-with-nothing-but-ssh/</id>
-        <link href="https://fables-for-robots.ch/blog/getting-into-a-kubernetes-cluster-with-nothing-but-ssh/"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's Make Video Games Like It's 1994]]></title>
-        <id>https://www.ciroduran.com/2026/10/game-maker-1994-i/</id>
-        <link href="https://www.ciroduran.com/2026/10/game-maker-1994-i/"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for stories: human–AI collaboration in recent mathematics]]></title>
-        <id>https://terrytao.wordpress.com/2026/10/14/call-for-stories-human-ai-collaboration-in-recent-mathematics/</id>
-        <link href="https://terrytao.wordpress.com/2026/10/14/call-for-stories-human-ai-collaboration-in-recent-mathematics/"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Single-server DDoS defense, no CDN – try to take it down]]></title>
-        <id>http://95.216.153.78</id>
-        <link href="http://95.216.153.78"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I'll Call You Later, an interactive 3D browser short film]]></title>
-        <id>https://film.jashtechno.com</id>
-        <link href="https://film.jashtechno.com"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lgit: Source Control for the AI Era]]></title>
-        <id>https://nicobrenner.github.io/lossy-git/</id>
-        <link href="https://nicobrenner.github.io/lossy-git/"/>
+        <title type="html"><![CDATA[DOJ announces charges in first nationwide tax fraud enforcement operation [video]]]></title>
+        <id>https://www.youtube.com/watch?v=s4sAQPXj0MU</id>
+        <link href="https://www.youtube.com/watch?v=s4sAQPXj0MU"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
@@ -302,9 +113,219 @@
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DOJ announces charges in first nationwide tax fraud enforcement operation [video]]]></title>
-        <id>https://www.youtube.com/watch?v=s4sAQPXj0MU</id>
-        <link href="https://www.youtube.com/watch?v=s4sAQPXj0MU"/>
+        <title type="html"><![CDATA[Lgit: Source Control for the AI Era]]></title>
+        <id>https://nicobrenner.github.io/lossy-git/</id>
+        <link href="https://nicobrenner.github.io/lossy-git/"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I'll Call You Later, an interactive 3D browser short film]]></title>
+        <id>https://film.jashtechno.com</id>
+        <link href="https://film.jashtechno.com"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Single-server DDoS defense, no CDN – try to take it down]]></title>
+        <id>http://95.216.153.78</id>
+        <link href="http://95.216.153.78"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for stories: human–AI collaboration in recent mathematics]]></title>
+        <id>https://terrytao.wordpress.com/2026/10/14/call-for-stories-human-ai-collaboration-in-recent-mathematics/</id>
+        <link href="https://terrytao.wordpress.com/2026/10/14/call-for-stories-human-ai-collaboration-in-recent-mathematics/"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let's Make Video Games Like It's 1994]]></title>
+        <id>https://www.ciroduran.com/2026/10/game-maker-1994-i/</id>
+        <link href="https://www.ciroduran.com/2026/10/game-maker-1994-i/"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting into a Kubernetes Cluster with Nothing but SSH]]></title>
+        <id>https://fables-for-robots.ch/blog/getting-into-a-kubernetes-cluster-with-nothing-but-ssh/</id>
+        <link href="https://fables-for-robots.ch/blog/getting-into-a-kubernetes-cluster-with-nothing-but-ssh/"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The seven turn game that could not be solved [video]]]></title>
+        <id>https://www.youtube.com/watch?v=JimpN67Bu68</id>
+        <link href="https://www.youtube.com/watch?v=JimpN67Bu68"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anecdotal, but my iOS App got approved much faster with new assets]]></title>
+        <id>https://mainbrella.com/blog/ios-app-review-new-assets/</id>
+        <link href="https://mainbrella.com/blog/ios-app-review-new-assets/"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volantis – Our $88M Series A: Demolishing the Memory Wall with Photonics]]></title>
+        <id>https://volantissemi.ai/news-insights/our-88m-series-a-demolishing-the-memory-wall-with-photonics-post</id>
+        <link href="https://volantissemi.ai/news-insights/our-88m-series-a-demolishing-the-memory-wall-with-photonics-post"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I let two Pi agents maintain my repositories. They invented their own work]]></title>
+        <id>https://leocavalcante.dev/en/deixei-dois-agentes-pi-mantendo-meus-repositorios/</id>
+        <link href="https://leocavalcante.dev/en/deixei-dois-agentes-pi-mantendo-meus-repositorios/"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All models have failed on this benchmark]]></title>
+        <id>https://chipagents.ai/research/build-a-chip-bench</id>
+        <link href="https://chipagents.ai/research/build-a-chip-bench"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A definition of science]]></title>
+        <id>https://dpaletti.com/posts/science/</id>
+        <link href="https://dpaletti.com/posts/science/"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Little Prince 3D game, built in 16 days with Opus 5.5]]></title>
+        <id>https://twitter.com/Saccc_c/status/2109962425512734739</id>
+        <link href="https://twitter.com/Saccc_c/status/2109962425512734739"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Brilliance of Svante Arrhenius]]></title>
+        <id>https://climatephysics.substack.com/p/the-brilliance-of-svante-arrhenius</id>
+        <link href="https://climatephysics.substack.com/p/the-brilliance-of-svante-arrhenius"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1991 Federal Panel Blasted Vaccine Unavailability That Led to a Measles Epidemic]]></title>
+        <id>https://www.techdirt.com/2026/10/13/in-1991-federal-panel-blasts-vaccine-unavailability-that-led-to-a-measles-epidemic/</id>
+        <link href="https://www.techdirt.com/2026/10/13/in-1991-federal-panel-blasts-vaccine-unavailability-that-led-to-a-measles-epidemic/"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local Model Guide – Find what LLMs fit on your machine]]></title>
+        <id>https://localmodelguide.com/</id>
+        <link href="https://localmodelguide.com/"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Games Launcher Preview]]></title>
+        <id>https://launcher.epicgames.com/</id>
+        <link href="https://launcher.epicgames.com/"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ben Affleck Sold His AI Company for $587M [video]]]></title>
+        <id>https://www.youtube.com/watch?v=MzXEWrT3Ld8</id>
+        <link href="https://www.youtube.com/watch?v=MzXEWrT3Ld8"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chaos ensues when AI interviewer meets AI interviewee]]></title>
+        <id>https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144</id>
+        <link href="https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunsetting Decomp.dev]]></title>
+        <id>https://decomp.dev/</id>
+        <link href="https://decomp.dev/"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custom server to revive neato bots]]></title>
+        <id>https://github.com/vacuula/vacuula</id>
+        <link href="https://github.com/vacuula/vacuula"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube Is Looking to Expand into Audiobooks]]></title>
+        <id>https://www.wsj.com/business/media/youtube-is-looking-to-expand-into-audiobooks-d28bd876</id>
+        <link href="https://www.wsj.com/business/media/youtube-is-looking-to-expand-into-audiobooks-d28bd876"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One-Shot San Francisco Homeless Shooter from Y Combinator Alum]]></title>
+        <id>https://twitter.com/plbiojout/status/2110182960658018732</id>
+        <link href="https://twitter.com/plbiojout/status/2110182960658018732"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My friend's group chat just got roasted]]></title>
+        <id>https://magichour.ai</id>
+        <link href="https://magichour.ai"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breadwire – Draw a schematic, get a breadboard]]></title>
+        <id>https://breadwire.vercel.app/</id>
+        <link href="https://breadwire.vercel.app/"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NCCN Guidelines]]></title>
+        <id>https://www.nccn.org/guidelines/category_1</id>
+        <link href="https://www.nccn.org/guidelines/category_1"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will big software companies (like Adobe) come together to curb AI?]]></title>
+        <id>https://news.ycombinator.com/item?id=50098712</id>
+        <link href="https://news.ycombinator.com/item?id=50098712"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Can I tell my managers to skip the corporate bs and get to the point?]]></title>
+        <id>https://news.ycombinator.com/item?id=50098792</id>
+        <link href="https://news.ycombinator.com/item?id=50098792"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flock CEO: If you want a crime-free society, be ready to give up your privacy]]></title>
+        <id>https://www.neowin.net/news/flock-ceo-doubles-down-if-you-want-a-crime-free-society-be-ready-to-give-up-your-privacy/</id>
+        <link href="https://www.neowin.net/news/flock-ceo-doubles-down-if-you-want-a-crime-free-society-be-ready-to-give-up-your-privacy/"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation]]></title>
+        <id>https://hazyresearch.stanford.edu/blog/2026-10-12-ncm</id>
+        <link href="https://hazyresearch.stanford.edu/blog/2026-10-12-ncm"/>
+        <updated>2026-10-14T16:00:00.000Z</updated>
+        <published>2026-10-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Link Is This Document]]></title>
+        <id>https://tinylittleoffice.com/#/v1/write/yXZZLbtNQFIbnXoVRJhAZp21gkgkqQkiRKlXQTkAM6sROuNSxg~008iyLYIIEm8tK~P5zbTdBaiPZvo_z~B9H_~dnX168vpzeX13Mpm~_2ucRzINSN654DOe1f_jQC_cQuzL5WVk~wXxlBM3L8lEcFFFz7RZzTQd63Y9EVBEI~Eg0ZuHD96bZ1rPJBMtoc9dwNvgGQzHon4wewo8wqNxDd9icl~yD83nWoO51TGxId_9oqpIYa_Cimi1PvFWD2XIWRvyNXt3idgS6zxaRvhbrTq7Y39vH8fBndDz8tYMLnBVDUQ0QHu2U8WWVggDrZYGE5g4JhPWmcwt8gCWxoYK6VTghZbvzm_dyC8UkXyBUV88CwegLdVzmDn1KpWi2RLXUNQQ3Hudlkkr8OGNwUziVjMfcTGSndx8Pv6Su1Dx1aXE8_O6MxuSbtSiiSbdr4uDK7h62IqQKwXfQqlQ7iMu~exp1Y4269Y0iKMXG8aogbg_aYjA9tdLwVS_CKiksxLMAIxN44tOigmoCS3uVuhrXbLOUPZYqGXZN0ePQGJZuE_JWBWUBfQFqMJ4VcfAmRiz2hs46M8Mfqvbi_8bYdxJcOznyp8~WyDtfd_OyUwSFc3uZ5BhL4tHeweJ5yTXR6WY5mytI11phXTpbiGR4lvGn9lgGy3ILqgTc0yMNHolvJZpQrH1OJZ7iUfKefvd3ZqmuwxOJo0ZA_FoNGLY2QHjIQiuxMYrfRvbLZOeeEAh6GHbMtmmlj4I4sVpBYgCLTLhYlmsUp2RwSTNRCsMfbt14oBlLLL2VBtYUNhf9dcpHnsxNd9hlkndn4Nn9DAoYr~fhgqHBxg6i1viqwqNoVms63~xWK8tNpcD5Fb_NWCJwK7c9Ww__0joi1R~afp7LpBJFulEPHRjCl5yBnCh9rAOSVq88hAlSJ1vVqwRNcmhdP5o6zw0NOzVDkhDe2oRpnUcQugUZJRLAy4Z5qA2zLXXjtNzD3FfJQnKbza6x1O3LboFg~DgEYDuLCcZzIQ7~AQ</id>
+        <link href="https://tinylittleoffice.com/#/v1/write/yXZZLbtNQFIbnXoVRJhAZp21gkgkqQkiRKlXQTkAM6sROuNSxg~008iyLYIIEm8tK~P5zbTdBaiPZvo_z~B9H_~dnX168vpzeX13Mpm~_2ucRzINSN654DOe1f_jQC_cQuzL5WVk~wXxlBM3L8lEcFFFz7RZzTQd63Y9EVBEI~Eg0ZuHD96bZ1rPJBMtoc9dwNvgGQzHon4wewo8wqNxDd9icl~yD83nWoO51TGxId_9oqpIYa_Cimi1PvFWD2XIWRvyNXt3idgS6zxaRvhbrTq7Y39vH8fBndDz8tYMLnBVDUQ0QHu2U8WWVggDrZYGE5g4JhPWmcwt8gCWxoYK6VTghZbvzm_dyC8UkXyBUV88CwegLdVzmDn1KpWi2RLXUNQQ3Hudlkkr8OGNwUziVjMfcTGSndx8Pv6Su1Dx1aXE8_O6MxuSbtSiiSbdr4uDK7h62IqQKwXfQqlQ7iMu~exp1Y4269Y0iKMXG8aogbg_aYjA9tdLwVS_CKiksxLMAIxN44tOigmoCS3uVuhrXbLOUPZYqGXZN0ePQGJZuE_JWBWUBfQFqMJ4VcfAmRiz2hs46M8Mfqvbi_8bYdxJcOznyp8~WyDtfd_OyUwSFc3uZ5BhL4tHeweJ5yTXR6WY5mytI11phXTpbiGR4lvGn9lgGy3ILqgTc0yMNHolvJZpQrH1OJZ7iUfKefvd3ZqmuwxOJo0ZA_FoNGLY2QHjIQiuxMYrfRvbLZOeeEAh6GHbMtmmlj4I4sVpBYgCLTLhYlmsUp2RwSTNRCsMfbt14oBlLLL2VBtYUNhf9dcpHnsxNd9hlkndn4Nn9DAoYr~fhgqHBxg6i1viqwqNoVms63~xWK8tNpcD5Fb_NWCJwK7c9Ww__0joi1R~afp7LpBJFulEPHRjCl5yBnCh9rAOSVq88hAlSJ1vVqwRNcmhdP5o6zw0NOzVDkhDe2oRpnUcQugUZJRLAy4Z5qA2zLXXjtNzD3FfJQnKbza6x1O3LboFg~DgEYDuLCcZzIQ7~AQ"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[Agent Identity Assurance — A Foundational Element for Trustworthy AI Adoption in Enterprise]]></title>
         <id>https://pub.towardsai.net/agent-identity-assurance-a-foundational-element-for-trustworthy-ai-adoption-in-enterprise-c42a1140e326?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/agent-identity-assurance-a-foundational-element-for-trustworthy-ai-adoption-in-enterprise-c42a1140e326?source=rss----98111c9905da---4"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part XIV — Broadcast Variables: The Driver Bottleneck Nobody Profiles]]></title>
-        <id>https://pub.towardsai.net/part-xiv-broadcast-variables-the-driver-bottleneck-nobody-profiles-87189bb691ed?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/part-xiv-broadcast-variables-the-driver-bottleneck-nobody-profiles-87189bb691ed?source=rss----98111c9905da---4"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lotus: Learning to Understand Time-series by Learning to Forecast]]></title>
-        <id>https://arxiv.org/abs/2610.18877</id>
-        <link href="https://arxiv.org/abs/2610.18877"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inverse Reasoning Models for Efficient Post-Training and Verification from Answer-Only Data]]></title>
-        <id>https://arxiv.org/abs/2610.18878</id>
-        <link href="https://arxiv.org/abs/2610.18878"/>
         <updated>2026-10-14T16:00:00.000Z</updated>
         <published>2026-10-14T16:00:00.000Z</published>
     </entry>
