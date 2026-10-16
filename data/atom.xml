@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-16T00:02:41.450Z</updated>
+    <updated>2026-10-16T02:03:24.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,30 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Steam can now show game achievements in separate ‘sets’]]></title>
-        <id>https://www.theverge.com/games/1012541/valve-steam-achievement-sets</id>
-        <link href="https://www.theverge.com/games/1012541/valve-steam-achievement-sets"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT can peek at your Chrome tabs now]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch]]></title>
-        <id>https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled</id>
-        <link href="https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alienware’s latest 34-inch QD-OLED gaming monitor is $50 off]]></title>
-        <id>https://www.theverge.com/gadgets/1012134/alienware-34-ultrawide-qd-oled-belkin-screen-skinz-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1012134/alienware-34-ultrawide-qd-oled-belkin-screen-skinz-deal-sale"/>
+        <title type="html"><![CDATA[Trump posts AI-edited photo to brag about White House restoration work]]></title>
+        <id>https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column</id>
+        <link href="https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
@@ -50,9 +29,30 @@
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trump posts AI-edited photo to brag about White House restoration work]]></title>
-        <id>https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column</id>
-        <link href="https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column"/>
+        <title type="html"><![CDATA[Alienware’s latest 34-inch QD-OLED gaming monitor is $50 off]]></title>
+        <id>https://www.theverge.com/gadgets/1012134/alienware-34-ultrawide-qd-oled-belkin-screen-skinz-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1012134/alienware-34-ultrawide-qd-oled-belkin-screen-skinz-deal-sale"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch]]></title>
+        <id>https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled</id>
+        <link href="https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT can peek at your Chrome tabs now]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam can now show game achievements in separate ‘sets’]]></title>
+        <id>https://www.theverge.com/games/1012541/valve-steam-achievement-sets</id>
+        <link href="https://www.theverge.com/games/1012541/valve-steam-achievement-sets"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
@@ -85,44 +85,9 @@
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems]]></title>
-        <id>https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/</id>
-        <link href="https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16]]></title>
-        <id>https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/</id>
-        <link href="https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more]]></title>
-        <id>https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/</id>
-        <link href="https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bluesky wants to make it easier to buy, sell, and fundraise on the network]]></title>
-        <id>https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/</id>
-        <link href="https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps]]></title>
-        <id>https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/</id>
-        <link href="https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta launches an open-weight AI model that runs on Macs]]></title>
-        <id>https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/</id>
-        <link href="https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"/>
+        <title type="html"><![CDATA[Tesla reveals SpaceX-powered Roadster that flies and falls with style]]></title>
+        <id>https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/</id>
+        <link href="https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
@@ -134,30 +99,93 @@
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: How did Call of Duty fix "update requires restart"?]]></title>
-        <id>https://news.ycombinator.com/item?id=50110857</id>
-        <link href="https://news.ycombinator.com/item?id=50110857"/>
+        <title type="html"><![CDATA[Meta launches an open-weight AI model that runs on Macs]]></title>
+        <id>https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/</id>
+        <link href="https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Byakugan Scan – fast macOS OCR by keeping screen capture in memory]]></title>
-        <id>https://github.com/halcyon-past/byakugan-scan</id>
-        <link href="https://github.com/halcyon-past/byakugan-scan"/>
+        <title type="html"><![CDATA[Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps]]></title>
+        <id>https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/</id>
+        <link href="https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Verifiers First, Rubrics Second]]></title>
-        <id>https://rlafuente.com/posts/2026-10-11-agent-evals-4-verifiers-first-rubrics-second.html</id>
-        <link href="https://rlafuente.com/posts/2026-10-11-agent-evals-4-verifiers-first-rubrics-second.html"/>
+        <title type="html"><![CDATA[Bluesky wants to make it easier to buy, sell, and fundraise on the network]]></title>
+        <id>https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/</id>
+        <link href="https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Neon Ships Neon Realtime with Postgres Live Queries]]></title>
-        <id>https://neon.com/blog/neon-now-has-realtime</id>
-        <link href="https://neon.com/blog/neon-now-has-realtime"/>
+        <title type="html"><![CDATA[Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more]]></title>
+        <id>https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/</id>
+        <link href="https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16]]></title>
+        <id>https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/</id>
+        <link href="https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems]]></title>
+        <id>https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/</id>
+        <link href="https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing Chromium Development at Google and Igalia]]></title>
+        <id>https://lwn.net/Articles/1094721/</id>
+        <link href="https://lwn.net/Articles/1094721/"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mark Zuckerberg Video Deposition, New Mexico vs. Facebook (October 2026)]]></title>
+        <id>https://www.youtube.com/watch?v=C7UC2ie0XIE</id>
+        <link href="https://www.youtube.com/watch?v=C7UC2ie0XIE"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lightpanda headless browser written in Zig]]></title>
+        <id>https://lightpanda.io</id>
+        <link href="https://lightpanda.io"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reliable GPU compute for large training and inference jobs]]></title>
+        <id>https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a</id>
+        <link href="https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complete Step-by-Step Guide to Fix Chrome-error://chromewebdata/]]></title>
+        <id>https://www.glorycloud.com/blog/chrome-info.chromewebdata/</id>
+        <link href="https://www.glorycloud.com/blog/chrome-info.chromewebdata/"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 1.99.1]]></title>
+        <id>https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/</id>
+        <link href="https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: Google Argon on a Pro subscription is worthless]]></title>
+        <id>https://news.ycombinator.com/item?id=50112559</id>
+        <link href="https://news.ycombinator.com/item?id=50112559"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
@@ -169,23 +197,44 @@
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An AI Handoff Can Finish Successfully and Still Promise Too Early]]></title>
-        <id>https://pub.towardsai.net/an-ai-handoff-can-finish-successfully-and-still-promise-too-early-5bb13465abae?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/an-ai-handoff-can-finish-successfully-and-still-promise-too-early-5bb13465abae?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Neon Ships Neon Realtime with Postgres Live Queries]]></title>
+        <id>https://neon.com/blog/neon-now-has-realtime</id>
+        <link href="https://neon.com/blog/neon-now-has-realtime"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Should this prompt leave your laptop?]]></title>
-        <id>https://pub.towardsai.net/should-this-prompt-leave-your-laptop-e6a718eca992?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/should-this-prompt-leave-your-laptop-e6a718eca992?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Verifiers First, Rubrics Second]]></title>
+        <id>https://rlafuente.com/posts/2026-10-11-agent-evals-4-verifiers-first-rubrics-second.html</id>
+        <link href="https://rlafuente.com/posts/2026-10-11-agent-evals-4-verifiers-first-rubrics-second.html"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You’re Already Using AI But Are You Actually AI-Ready? 10 Skills to Master]]></title>
-        <id>https://pub.towardsai.net/youre-already-using-ai-but-are-you-actually-ai-ready-10-skills-to-master-a748a1ee3309?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/youre-already-using-ai-but-are-you-actually-ai-ready-10-skills-to-master-a748a1ee3309?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Byakugan Scan – fast macOS OCR by keeping screen capture in memory]]></title>
+        <id>https://github.com/halcyon-past/byakugan-scan</id>
+        <link href="https://github.com/halcyon-past/byakugan-scan"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: How did Call of Duty fix "update requires restart"?]]></title>
+        <id>https://news.ycombinator.com/item?id=50110857</id>
+        <link href="https://news.ycombinator.com/item?id=50110857"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Dots vs Meta Muse: Everything You Need to Know About the Next Wave of AI Agents -Daily AI…]]></title>
+        <id>https://pub.towardsai.net/openai-dots-vs-meta-muse-everything-you-need-to-know-about-the-next-wave-of-ai-agents-daily-ai-b03ae06951ee?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/openai-dots-vs-meta-muse-everything-you-need-to-know-about-the-next-wave-of-ai-agents-daily-ai-b03ae06951ee?source=rss----98111c9905da---4"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lessons Learned from Designing Enterprise AI Enablement Program Across Organizations]]></title>
+        <id>https://pub.towardsai.net/lessons-learned-from-designing-enterprise-ai-enablement-program-across-organizations-f23c9f7c443b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/lessons-learned-from-designing-enterprise-ai-enablement-program-across-organizations-f23c9f7c443b?source=rss----98111c9905da---4"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
@@ -197,9 +246,23 @@
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lessons Learned from Designing Enterprise AI Enablement Program Across Organizations]]></title>
-        <id>https://pub.towardsai.net/lessons-learned-from-designing-enterprise-ai-enablement-program-across-organizations-f23c9f7c443b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/lessons-learned-from-designing-enterprise-ai-enablement-program-across-organizations-f23c9f7c443b?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[You’re Already Using AI But Are You Actually AI-Ready? 10 Skills to Master]]></title>
+        <id>https://pub.towardsai.net/youre-already-using-ai-but-are-you-actually-ai-ready-10-skills-to-master-a748a1ee3309?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/youre-already-using-ai-but-are-you-actually-ai-ready-10-skills-to-master-a748a1ee3309?source=rss----98111c9905da---4"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should this prompt leave your laptop?]]></title>
+        <id>https://pub.towardsai.net/should-this-prompt-leave-your-laptop-e6a718eca992?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/should-this-prompt-leave-your-laptop-e6a718eca992?source=rss----98111c9905da---4"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An AI Handoff Can Finish Successfully and Still Promise Too Early]]></title>
+        <id>https://pub.towardsai.net/an-ai-handoff-can-finish-successfully-and-still-promise-too-early-5bb13465abae?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/an-ai-handoff-can-finish-successfully-and-still-promise-too-early-5bb13465abae?source=rss----98111c9905da---4"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
@@ -231,72 +294,58 @@ https://netil.medium.com/billboard-js-4-1-0-live-resizing-configurable-subchart-
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How AI Coding Agents Cheat on Your Unit Tests (and How We Catch Them with Zero Telemetry)]]></title>
-        <id>https://dev.to/nari_ab/how-ai-coding-agents-cheat-on-your-unit-tests-and-how-we-catch-them-with-zero-telemetry-4465</id>
-        <link href="https://dev.to/nari_ab/how-ai-coding-agents-cheat-on-your-unit-tests-and-how-we-catch-them-with-zero-telemetry-4465"/>
+        <title type="html"><![CDATA[科技爱好者周刊（第 415 期）：3D 版《看不见的城市》]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Math Behind Weighted Grades, in Next.js]]></title>
-        <id>https://dev.to/quickgradecalc/the-math-behind-weighted-grades-in-nextjs-3j05</id>
-        <link href="https://dev.to/quickgradecalc/the-math-behind-weighted-grades-in-nextjs-3j05"/>
+        <title type="html"><![CDATA[Your Ad-Targeting Pipeline Is Leaking Spyware Vectors]]></title>
+        <id>https://dev.to/robust_true_try/your-ad-targeting-pipeline-is-leaking-spyware-vectors-24fe</id>
+        <link href="https://dev.to/robust_true_try/your-ad-targeting-pipeline-is-leaking-spyware-vectors-24fe"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What I Learned Building Two Firefox Extensions from Scratch]]></title>
-        <id>https://dev.to/weatherclockdash/what-i-learned-building-two-firefox-extensions-from-scratch-nhl</id>
-        <link href="https://dev.to/weatherclockdash/what-i-learned-building-two-firefox-extensions-from-scratch-nhl"/>
+        <title type="html"><![CDATA[SSR vs. CSR vs. SSG: How Netflix Cut Time-to-Interactive by 50% by Shipping Less JavaScript]]></title>
+        <id>https://dev.to/ciphemic_academia_3dad1a0/ssr-vs-csr-vs-ssg-how-netflix-cut-time-to-interactive-by-50-by-shipping-less-javascript-4op9</id>
+        <link href="https://dev.to/ciphemic_academia_3dad1a0/ssr-vs-csr-vs-ssg-how-netflix-cut-time-to-interactive-by-50-by-shipping-less-javascript-4op9"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Retry-Safe API Calls in Node.js: Idempotency Keys, Backoff and 429s]]></title>
-        <id>https://dev.to/api_hiver/retry-safe-api-calls-in-nodejs-idempotency-keys-backoff-and-429s-50pc</id>
-        <link href="https://dev.to/api_hiver/retry-safe-api-calls-in-nodejs-idempotency-keys-backoff-and-429s-50pc"/>
+        <title type="html"><![CDATA[How to Improve INP in WordPress (2026 Guide)]]></title>
+        <id>https://dev.to/wpspeedaudits/how-to-improve-inp-in-wordpress-2026-guide-3p3</id>
+        <link href="https://dev.to/wpspeedaudits/how-to-improve-inp-in-wordpress-2026-guide-3p3"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The "small" 1% fee that costs $215,000 (with JS you can run)]]></title>
-        <id>https://dev.to/ghostdev_7e2a1dd0d19f7016/the-small-1-fee-that-costs-215000-with-js-you-can-run-2nn6</id>
-        <link href="https://dev.to/ghostdev_7e2a1dd0d19f7016/the-small-1-fee-that-costs-215000-with-js-you-can-run-2nn6"/>
+        <title type="html"><![CDATA[Model a multi-view JavaScript workspace around stable IDs]]></title>
+        <id>https://dev.to/giacomo_galdzicki_00811df/model-a-multi-view-javascript-workspace-around-stable-ids-218g</id>
+        <link href="https://dev.to/giacomo_galdzicki_00811df/model-a-multi-view-javascript-workspace-around-stable-ids-218g"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vitest 4 to 5 on a 3,000-file test suite: what the upgrade bought us]]></title>
-        <id>https://dev.to/vousmeevoyez/vitest-4-to-5-on-a-3000-file-test-suite-what-the-upgrade-bought-us-246j</id>
-        <link href="https://dev.to/vousmeevoyez/vitest-4-to-5-on-a-3000-file-test-suite-what-the-upgrade-bought-us-246j"/>
+        <title type="html"><![CDATA[I built 100+ free browser tools so people stop uploading private files to cloud servers]]></title>
+        <id>https://dev.to/supertoolkit/i-built-100-free-browser-tools-so-people-stop-uploading-private-files-to-cloud-servers-5dj5</id>
+        <link href="https://dev.to/supertoolkit/i-built-100-free-browser-tools-so-people-stop-uploading-private-files-to-cloud-servers-5dj5"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nove classi per un pulsante: la mia piccola UI per canvas (e perché le voglio bene)]]></title>
-        <id>https://dev.to/antonioprosperi2svg/nove-classi-per-un-pulsante-la-mia-piccola-ui-per-canvas-e-perche-le-voglio-bene-115f</id>
-        <link href="https://dev.to/antonioprosperi2svg/nove-classi-per-un-pulsante-la-mia-piccola-ui-per-canvas-e-perche-le-voglio-bene-115f"/>
+        <title type="html"><![CDATA[TipTools: Por que e como construímos +100 ferramentas para devs 100% client-side]]></title>
+        <id>https://dev.to/geekecia/tiptools-por-que-e-como-construimos-100-ferramentas-para-devs-100-client-side-5hmk</id>
+        <link href="https://dev.to/geekecia/tiptools-por-que-e-como-construimos-100-ferramentas-para-devs-100-client-side-5hmk"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Localizing Nested JSON Locale Files Without Losing Structure]]></title>
-        <id>https://dev.to/olly_08beff75f1fe547dcb92/localizing-nested-json-locale-files-without-losing-structure-3flg</id>
-        <link href="https://dev.to/olly_08beff75f1fe547dcb92/localizing-nested-json-locale-files-without-losing-structure-3flg"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live Sports Odds APIs: WebSocket vs REST, Latency and In-Play Feeds]]></title>
-        <id>https://dev.to/sportsapis/live-sports-odds-apis-websocket-vs-rest-latency-and-in-play-feeds-3n0k</id>
-        <link href="https://dev.to/sportsapis/live-sports-odds-apis-websocket-vs-rest-latency-and-in-play-feeds-3n0k"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The One-Line Package That Broke create-react-app]]></title>
-        <id>https://dev.to/am_issath/the-one-line-package-that-broke-create-react-app-geg</id>
-        <link href="https://dev.to/am_issath/the-one-line-package-that-broke-create-react-app-geg"/>
+        <title type="html"><![CDATA[Keep an import receipt beside the file fingerprint]]></title>
+        <id>https://dev.to/agprolabs/keep-an-import-receipt-beside-the-file-fingerprint-p7j</id>
+        <link href="https://dev.to/agprolabs/keep-an-import-receipt-beside-the-file-fingerprint-p7j"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
@@ -308,66 +357,17 @@ https://netil.medium.com/billboard-js-4-1-0-live-resizing-configurable-subchart-
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等]]></title>
-        <id>https://sspai.com/post/116193</id>
-        <link href="https://sspai.com/post/116193"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
+        <title type="html"><![CDATA[The One-Line Package That Broke create-react-app]]></title>
+        <id>https://dev.to/am_issath/the-one-line-package-that-broke-create-react-app-geg</id>
+        <link href="https://dev.to/am_issath/the-one-line-package-that-broke-create-react-app-geg"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft’s new Photos app combines your PC, OneDrive, and iCloud galleries]]></title>
-        <id>https://www.theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud</id>
-        <link href="https://www.theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[McKinsey is making job applicants spar with a fake AI client]]></title>
-        <id>https://www.theverge.com/news/1011654/mckinsey-ai-client-interview</id>
-        <link href="https://www.theverge.com/news/1011654/mckinsey-ai-client-interview"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple&#8217;s new HomeView smart display is $10 cheaper at Amazon]]></title>
-        <id>https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As a TV enthusiast, I was hoping for more from the Apple TV 4K]]></title>
-        <id>https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features</id>
-        <link href="https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The best feature of Apple’s HomeView might be its simplicity]]></title>
-        <id>https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature</id>
-        <link href="https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked]]></title>
-        <id>https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab</id>
-        <link href="https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ledger’s new hardware wallet is an Android phone without the phone]]></title>
-        <id>https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android</id>
-        <link href="https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artemis III Scientist Shares What to Expect From NASA’s Next Lunar Mission]]></title>
-        <id>https://www.wired.com/story/artemis-iii-scientist-shares-what-to-expect-from-nasas-next-lunar-mission/</id>
-        <link href="https://www.wired.com/story/artemis-iii-scientist-shares-what-to-expect-from-nasas-next-lunar-mission/"/>
-        <updated>2026-10-14T16:00:00.000Z</updated>
-        <published>2026-10-14T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Live Sports Odds APIs: WebSocket vs REST, Latency and In-Play Feeds]]></title>
+        <id>https://dev.to/sportsapis/live-sports-odds-apis-websocket-vs-rest-latency-and-in-play-feeds-3n0k</id>
+        <link href="https://dev.to/sportsapis/live-sports-odds-apis-websocket-vs-rest-latency-and-in-play-feeds-3n0k"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
     </entry>
 </feed>
