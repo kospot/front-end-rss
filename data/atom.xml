@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-16T15:04:41.977Z</updated>
+    <updated>2026-10-16T22:02:47.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,65 +15,170 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Meta’s new terms may allow it to train AI on news sites for free]]></title>
-        <id>https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers</id>
-        <link href="https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"/>
+        <title type="html"><![CDATA[Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds]]></title>
+        <id>https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/</id>
+        <link href="https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Razer Barracuda V2 Pro Review: A Gaming Headset for the Office]]></title>
+        <id>https://www.wired.com/review/razer-barracuda-v2-pro/</id>
+        <link href="https://www.wired.com/review/razer-barracuda-v2-pro/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tressfecta wants to make hair braiding a less arduous task for hairstylists]]></title>
+        <id>https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/</id>
+        <link href="https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder]]></title>
+        <id>https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/</id>
+        <link href="https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quake VR: Unleashed Update 1.1 Active Ragdolls [video]]]></title>
+        <id>https://www.youtube.com/watch?v=IbiYMLne-E4</id>
+        <link href="https://www.youtube.com/watch?v=IbiYMLne-E4"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dispatch: Strategic Git Platform for the Agentic Era]]></title>
+        <id>https://github.com/gshaheen/dispatch</id>
+        <link href="https://github.com/gshaheen/dispatch"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Extended Random a Malicious NSA Plot?]]></title>
+        <id>https://sockpuppet.org/blog/2015/08/04/is-extended-random-malicious/</id>
+        <link href="https://sockpuppet.org/blog/2015/08/04/is-extended-random-malicious/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does a Grassroots Digital Community Become Cultural Heritage?]]></title>
+        <id>https://andrzej.lichnerowicz.pl/en/blog/2026/10/demoscene-x-unesco/</id>
+        <link href="https://andrzej.lichnerowicz.pl/en/blog/2026/10/demoscene-x-unesco/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Agents, Smaller Gains: What Agensh, MAST and the Google Study Say About Your Orchestrator]]></title>
+        <id>https://pub.towardsai.net/more-agents-smaller-gains-what-agensh-mast-and-the-google-study-say-about-your-orchestrator-411be9c77062?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/more-agents-smaller-gains-what-agensh-mast-and-the-google-study-say-about-your-orchestrator-411be9c77062?source=rss----98111c9905da---4"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What a 6.4 Percent Error Rate in a Benchmark’s Answer Key Taught Me About Trusting Agent Memory…]]></title>
+        <id>https://pub.towardsai.net/what-a-6-4-percent-error-rate-in-a-benchmarks-answer-key-taught-me-about-trusting-agent-memory-58415a8a8842?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/what-a-6-4-percent-error-rate-in-a-benchmarks-answer-key-taught-me-about-trusting-agent-memory-58415a8a8842?source=rss----98111c9905da---4"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I’d Answer “Design a RAG System” in an Interview (and the Boxes I’d Refuse to Draw First)]]></title>
+        <id>https://pub.towardsai.net/how-id-answer-design-a-rag-system-in-an-interview-and-the-boxes-i-d-refuse-to-draw-first-501e38ca5dc3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-id-answer-design-a-rag-system-in-an-interview-and-the-boxes-i-d-refuse-to-draw-first-501e38ca5dc3?source=rss----98111c9905da---4"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top MCP Servers in 2026: A Production Guide to the Ones That Actually Hold Up]]></title>
+        <id>https://pub.towardsai.net/top-mcp-servers-in-2026-a-production-guide-to-the-ones-that-actually-hold-up-6d40880e9ba2?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/top-mcp-servers-in-2026-a-production-guide-to-the-ones-that-actually-hold-up-6d40880e9ba2?source=rss----98111c9905da---4"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kunchenguid/lavish-axi]]></title>
+        <id>https://github.com/kunchenguid/lavish-axi</id>
+        <link href="https://github.com/kunchenguid/lavish-axi"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using ElevenLabs in Electron Desktop Apps]]></title>
+        <id>https://dev.to/voice_developer/using-elevenlabs-in-electron-desktop-apps-3f40</id>
+        <link href="https://dev.to/voice_developer/using-elevenlabs-in-electron-desktop-apps-3f40"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Marketing Metrics Made Simple: A Practical Guide to Advertising Calculators]]></title>
+        <id>https://dev.to/ad_calculatorhub_c1c46fb3/digital-marketing-metrics-made-simple-a-practical-guide-to-advertising-calculators-4opa</id>
+        <link href="https://dev.to/ad_calculatorhub_c1c46fb3/digital-marketing-metrics-made-simple-a-practical-guide-to-advertising-calculators-4opa"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPTV and Streaming: How to Choose the Right Setup for Your Devices]]></title>
+        <id>https://dev.to/zenovia_media_ae6ff6131fd/iptv-and-streaming-how-to-choose-the-right-setup-for-your-devices-333c</id>
+        <link href="https://dev.to/zenovia_media_ae6ff6131fd/iptv-and-streaming-how-to-choose-the-right-setup-for-your-devices-333c"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a candlestick chart engine on raw Canvas2D (no chart library)]]></title>
+        <id>https://dev.to/hacikan39622p/building-a-candlestick-chart-engine-on-raw-canvas2d-no-chart-library-34a2</id>
+        <link href="https://dev.to/hacikan39622p/building-a-candlestick-chart-engine-on-raw-canvas2d-no-chart-library-34a2"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a web page can stream multi-GB local files to a Chromecast without uploading them]]></title>
+        <id>https://dev.to/olly_08beff75f1fe547dcb92/how-a-web-page-can-stream-multi-gb-local-files-to-a-chromecast-without-uploading-them-27ip</id>
+        <link href="https://dev.to/olly_08beff75f1fe547dcb92/how-a-web-page-can-stream-multi-gb-local-files-to-a-chromecast-without-uploading-them-27ip"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What changed in this Electron update? Diffing two app.asar builds without running either]]></title>
+        <id>https://dev.to/taventix/what-changed-in-this-electron-update-diffing-two-appasar-builds-without-running-either-422d</id>
+        <link href="https://dev.to/taventix/what-changed-in-this-electron-update-diffing-two-appasar-builds-without-running-either-422d"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Frontend Plus NodeJS Backend Error Capture for Tenant Cohort Incident Reconstruction]]></title>
+        <id>https://dev.to/ethanbrooks1486/react-frontend-plus-nodejs-backend-error-capture-for-tenant-cohort-incident-reconstruction-j00</id>
+        <link href="https://dev.to/ethanbrooks1486/react-frontend-plus-nodejs-backend-error-capture-for-tenant-cohort-incident-reconstruction-j00"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built my own roadmap. The first thing it found was that my SR latch didn't work.]]></title>
+        <id>https://dev.to/den0011/i-built-my-own-roadmap-the-first-thing-it-found-was-that-my-sr-latch-didnt-work-2gnk</id>
+        <link href="https://dev.to/den0011/i-built-my-own-roadmap-the-first-thing-it-found-was-that-my-sr-latch-didnt-work-2gnk"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buy Verified Nextdoor Accounts - Boost Local Engagement]]></title>
+        <id>https://dev.to/usatop_citystore_073ced60/buy-verified-nextdoor-accounts-boost-local-engagement-dme</id>
+        <link href="https://dev.to/usatop_citystore_073ced60/buy-verified-nextdoor-accounts-boost-local-engagement-dme"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple&#8217;s HomeView has an app problem]]></title>
+        <id>https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast</id>
+        <link href="https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This stretchy MagSafe storage pouch gives your phone a sizable trunk]]></title>
-        <id>https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage</id>
-        <link href="https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam can now show game achievements in separate ‘sets’]]></title>
-        <id>https://www.theverge.com/games/1012541/valve-steam-achievement-sets</id>
-        <link href="https://www.theverge.com/games/1012541/valve-steam-achievement-sets"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT can peek at your Chrome tabs now]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch]]></title>
-        <id>https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled</id>
-        <link href="https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alienware’s latest 34-inch QD-OLED gaming monitor is $50 off]]></title>
-        <id>https://www.theverge.com/gadgets/1012134/alienware-34-ultrawide-qd-oled-belkin-screen-skinz-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1012134/alienware-34-ultrawide-qd-oled-belkin-screen-skinz-deal-sale"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta and Apple team up to make Muse AI models run better on Macs]]></title>
-        <id>https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx</id>
-        <link href="https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump posts AI-edited photo to brag about White House restoration work]]></title>
-        <id>https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column</id>
-        <link href="https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surface Laptop Ultra review: a different kind of MacBook Pro]]></title>
-        <id>https://www.theverge.com/tech/1012628/microsoft-surface-laptop-ultra-review</id>
-        <link href="https://www.theverge.com/tech/1012628/microsoft-surface-laptop-ultra-review"/>
+        <title type="html"><![CDATA[Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades]]></title>
+        <id>https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus</id>
+        <link href="https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
@@ -85,58 +190,93 @@
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jabra Enhance Select M3 Review (2026): A Big Price for Small Wins]]></title>
-        <id>https://www.wired.com/review/review-jabra-enhance-select-m3/</id>
-        <link href="https://www.wired.com/review/review-jabra-enhance-select-m3/"/>
+        <title type="html"><![CDATA[Surface Laptop Ultra review: a different kind of MacBook Pro]]></title>
+        <id>https://www.theverge.com/tech/1012628/microsoft-surface-laptop-ultra-review</id>
+        <link href="https://www.theverge.com/tech/1012628/microsoft-surface-laptop-ultra-review"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The New Fan’s Guide to the Unreal World of Nathan Fielder]]></title>
-        <id>https://www.wired.com/story/the-new-fans-guide-to-the-unreal-world-of-nathan-fielder/</id>
-        <link href="https://www.wired.com/story/the-new-fans-guide-to-the-unreal-world-of-nathan-fielder/"/>
+        <title type="html"><![CDATA[Trump posts AI-edited photo to brag about White House restoration work]]></title>
+        <id>https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column</id>
+        <link href="https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Egypt’s Climate-Resilient ‘Super Corals’ Are Starting to Feel the Heat]]></title>
-        <id>https://www.wired.com/story/egypts-climate-resilient-super-corals-are-starting-to-feel-the-heat/</id>
-        <link href="https://www.wired.com/story/egypts-climate-resilient-super-corals-are-starting-to-feel-the-heat/"/>
+        <title type="html"><![CDATA[Meta and Apple team up to make Muse AI models run better on Macs]]></title>
+        <id>https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx</id>
+        <link href="https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Tesla Roadster 2 Is Here—and It Flies]]></title>
-        <id>https://www.wired.com/story/tesla-roadster-2-launch/</id>
-        <link href="https://www.wired.com/story/tesla-roadster-2-launch/"/>
+        <title type="html"><![CDATA[Alienware’s latest 34-inch QD-OLED gaming monitor is $50 off]]></title>
+        <id>https://www.theverge.com/gadgets/1012134/alienware-34-ultrawide-qd-oled-belkin-screen-skinz-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1012134/alienware-34-ultrawide-qd-oled-belkin-screen-skinz-deal-sale"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Hacks Leave a Mess That AI Companies Aren’t Paying For]]></title>
-        <id>https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/</id>
-        <link href="https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/"/>
+        <title type="html"><![CDATA[Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch]]></title>
+        <id>https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled</id>
+        <link href="https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM]]></title>
-        <id>https://www.wired.com/story/white-house-press-secretary-katie-zacharia-was-an-affiliate-marketer-for-a-fitness-mlm/</id>
-        <link href="https://www.wired.com/story/white-house-press-secretary-katie-zacharia-was-an-affiliate-marketer-for-a-fitness-mlm/"/>
+        <title type="html"><![CDATA[ChatGPT can peek at your Chrome tabs now]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Upgrade Your Thermostat for Winter With This Ecobee Deal for $120]]></title>
-        <id>https://www.wired.com/story/ecobee-fall-sale-2026/</id>
-        <link href="https://www.wired.com/story/ecobee-fall-sale-2026/"/>
+        <title type="html"><![CDATA[Steam can now show game achievements in separate ‘sets’]]></title>
+        <id>https://www.theverge.com/games/1012541/valve-steam-achievement-sets</id>
+        <link href="https://www.theverge.com/games/1012541/valve-steam-achievement-sets"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView]]></title>
-        <id>https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/</id>
-        <link href="https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/"/>
+        <title type="html"><![CDATA[This stretchy MagSafe storage pouch gives your phone a sizable trunk]]></title>
+        <id>https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage</id>
+        <link href="https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta’s new terms may allow it to train AI on news sites for free]]></title>
+        <id>https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers</id>
+        <link href="https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’]]></title>
+        <id>https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/</id>
+        <link href="https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Surface Laptop Ultra Review: The First Real AI PC]]></title>
+        <id>https://www.wired.com/review/microsoft-surface-laptop-ultra/</id>
+        <link href="https://www.wired.com/review/microsoft-surface-laptop-ultra/"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWOL Vision Aetherion Max RGB Laser UST Projector Review: A Top Buy]]></title>
+        <id>https://www.wired.com/review/review-awol-vision-aetherion-max-rgb-laser-ust-projector/</id>
+        <link href="https://www.wired.com/review/review-awol-vision-aetherion-max-rgb-laser-ust-projector/"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Digital Wall Calendar (2026): Skylight, Everblog, Greenlight]]></title>
+        <id>https://www.wired.com/story/are-digital-wall-calendars-worth-it/</id>
+        <link href="https://www.wired.com/story/are-digital-wall-calendars-worth-it/"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
@@ -148,51 +288,72 @@
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tesla reveals SpaceX-powered Roadster that flies and falls with style]]></title>
-        <id>https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/</id>
-        <link href="https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/"/>
+        <title type="html"><![CDATA[We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView]]></title>
+        <id>https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/</id>
+        <link href="https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon devices chief Panos Panay on the importance of failure and bouncing back from it ]]></title>
-        <id>https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/</id>
-        <link href="https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/"/>
+        <title type="html"><![CDATA[Upgrade Your Thermostat for Winter With This Ecobee Deal for $120]]></title>
+        <id>https://www.wired.com/story/ecobee-fall-sale-2026/</id>
+        <link href="https://www.wired.com/story/ecobee-fall-sale-2026/"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta launches an open-weight AI model that runs on Macs]]></title>
-        <id>https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/</id>
-        <link href="https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"/>
+        <title type="html"><![CDATA[White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM]]></title>
+        <id>https://www.wired.com/story/white-house-press-secretary-katie-zacharia-was-an-affiliate-marketer-for-a-fitness-mlm/</id>
+        <link href="https://www.wired.com/story/white-house-press-secretary-katie-zacharia-was-an-affiliate-marketer-for-a-fitness-mlm/"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps]]></title>
-        <id>https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/</id>
-        <link href="https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/"/>
+        <title type="html"><![CDATA[AI Hacks Leave a Mess That AI Companies Aren’t Paying For]]></title>
+        <id>https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/</id>
+        <link href="https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bluesky wants to make it easier to buy, sell, and fundraise on the network]]></title>
-        <id>https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/</id>
-        <link href="https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/"/>
+        <title type="html"><![CDATA[The Tesla Roadster 2 Is Here—and It Flies]]></title>
+        <id>https://www.wired.com/story/tesla-roadster-2-launch/</id>
+        <link href="https://www.wired.com/story/tesla-roadster-2-launch/"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more]]></title>
-        <id>https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/</id>
-        <link href="https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/"/>
+        <title type="html"><![CDATA[Egypt’s Climate-Resilient ‘Super Corals’ Are Starting to Feel the Heat]]></title>
+        <id>https://www.wired.com/story/egypts-climate-resilient-super-corals-are-starting-to-feel-the-heat/</id>
+        <link href="https://www.wired.com/story/egypts-climate-resilient-super-corals-are-starting-to-feel-the-heat/"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16]]></title>
-        <id>https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/</id>
-        <link href="https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/"/>
+        <title type="html"><![CDATA[The New Fan’s Guide to the Unreal World of Nathan Fielder]]></title>
+        <id>https://www.wired.com/story/the-new-fans-guide-to-the-unreal-world-of-nathan-fielder/</id>
+        <link href="https://www.wired.com/story/the-new-fans-guide-to-the-unreal-world-of-nathan-fielder/"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jabra Enhance Select M3 Review (2026): A Big Price for Small Wins]]></title>
+        <id>https://www.wired.com/review/review-jabra-enhance-select-m3/</id>
+        <link href="https://www.wired.com/review/review-jabra-enhance-select-m3/"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jev is Vercel’s fastest-adopted AI model ever]]></title>
+        <id>https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/</id>
+        <link href="https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"/>
+        <updated>2026-10-15T16:00:00.000Z</updated>
+        <published>2026-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles]]></title>
+        <id>https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/</id>
+        <link href="https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
@@ -200,167 +361,6 @@
         <title type="html"><![CDATA[And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems]]></title>
         <id>https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/</id>
         <link href="https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the Loss of Starshield Revealed]]></title>
-        <id>https://www.theatlantic.com/international/2026/10/starshield-ukraine-military-technology-vulnerability/689035/</id>
-        <link href="https://www.theatlantic.com/international/2026/10/starshield-ukraine-military-technology-vulnerability/689035/"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT Dot Review: Your Chief of Staff Is Still an Intern]]></title>
-        <id>https://metedata.substack.com/p/chatgpt-dot-review-your-chief-of</id>
-        <link href="https://metedata.substack.com/p/chatgpt-dot-review-your-chief-of"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upcoming deprecation of selected GitHub Copilot models in mid-November]]></title>
-        <id>https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november/</id>
-        <link href="https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november/"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Influential Podcaster in Silicon Valley. We're Getting AI Wrong]]></title>
-        <id>https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html</id>
-        <link href="https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The most dangerous jobs in movies [video]]]></title>
-        <id>https://stephenfollows.com/p/the-most-dangerous-jobs-in-movies</id>
-        <link href="https://stephenfollows.com/p/the-most-dangerous-jobs-in-movies"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India has more Restrictive Labor Law than Germany]]></title>
-        <id>https://marginalrevolution.com/marginalrevolution/2026/10/india-has-more-restrictive-labor-law-than-germany.html</id>
-        <link href="https://marginalrevolution.com/marginalrevolution/2026/10/india-has-more-restrictive-labor-law-than-germany.html"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lotti – Your memories, only on your devices, end-to-end encrypted]]></title>
-        <id>https://github.com/matthiasn/lotti</id>
-        <link href="https://github.com/matthiasn/lotti"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A music video made end to end by Claude Code, full production repo]]></title>
-        <id>https://github.com/mortenbrudvik/always-allow</id>
-        <link href="https://github.com/mortenbrudvik/always-allow"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I turned my brain MRI into an interactive 3D model you can explore]]></title>
-        <id>https://volodymyrsmirnov.github.io/brain/</id>
-        <link href="https://volodymyrsmirnov.github.io/brain/"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Order to limit Starshield for Ukraine came from inside White House, sources say]]></title>
-        <id>https://www.yahoo.com/news/articles/exclusive-order-limit-starshield-ukraine-230733575.html</id>
-        <link href="https://www.yahoo.com/news/articles/exclusive-order-limit-starshield-ukraine-230733575.html"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Lobby Domains: Find Domains with Chrome's On-Device AI]]></title>
-        <id>https://lobby.domains/</id>
-        <link href="https://lobby.domains/"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3DCodeVerse]]></title>
-        <id>https://3dcodeverse.com/</id>
-        <link href="https://3dcodeverse.com/"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoreWeave Founders Shield Fortunes with $3.3B Stock Sales]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-10-15/coreweave-founders-shield-fortunes-with-3-3-billion-stock-sales</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-10-15/coreweave-founders-shield-fortunes-with-3-3-billion-stock-sales"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Major AI Copyright Ruling Lawyer Explains [video]]]></title>
-        <id>https://www.youtube.com/watch?v=SJCw54PUdXg</id>
-        <link href="https://www.youtube.com/watch?v=SJCw54PUdXg"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$24,000 AI experiment ports TypeScript compiler to Rust]]></title>
-        <id>https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409</id>
-        <link href="https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: How did Call of Duty fix "update requires restart"?]]></title>
-        <id>https://news.ycombinator.com/item?id=50110857</id>
-        <link href="https://news.ycombinator.com/item?id=50110857"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Byakugan Scan – fast macOS OCR by keeping screen capture in memory]]></title>
-        <id>https://github.com/halcyon-past/byakugan-scan</id>
-        <link href="https://github.com/halcyon-past/byakugan-scan"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verifiers First, Rubrics Second]]></title>
-        <id>https://rlafuente.com/posts/2026-10-11-agent-evals-4-verifiers-first-rubrics-second.html</id>
-        <link href="https://rlafuente.com/posts/2026-10-11-agent-evals-4-verifiers-first-rubrics-second.html"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neon Ships Neon Realtime with Postgres Live Queries]]></title>
-        <id>https://neon.com/blog/neon-now-has-realtime</id>
-        <link href="https://neon.com/blog/neon-now-has-realtime"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We fired the frontier model from two AI pipelines. Here are the receipts]]></title>
-        <id>https://seldon-ai.com/blog/we-fired-the-frontier-model</id>
-        <link href="https://seldon-ai.com/blog/we-fired-the-frontier-model"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tell HN: Google Argon on a Pro subscription is worthless]]></title>
-        <id>https://news.ycombinator.com/item?id=50112559</id>
-        <link href="https://news.ycombinator.com/item?id=50112559"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust 1.99.1]]></title>
-        <id>https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/</id>
-        <link href="https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complete Step-by-Step Guide to Fix Chrome-error://chromewebdata/]]></title>
-        <id>https://www.glorycloud.com/blog/chrome-info.chromewebdata/</id>
-        <link href="https://www.glorycloud.com/blog/chrome-info.chromewebdata/"/>
         <updated>2026-10-15T16:00:00.000Z</updated>
         <published>2026-10-15T16:00:00.000Z</published>
     </entry>
