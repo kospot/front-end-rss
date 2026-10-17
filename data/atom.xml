@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-17T02:05:03.028Z</updated>
+    <updated>2026-10-17T04:04:24.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,13 +29,6 @@
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tressfecta wants to make hair braiding a less arduous task for hairstylists]]></title>
-        <id>https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/</id>
-        <link href="https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder]]></title>
         <id>https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/</id>
         <link href="https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/"/>
@@ -43,100 +36,65 @@
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Overlooked brown fat in our bodies linked to wide range of health benefits]]></title>
-        <id>https://www.nature.com/articles/d41586-026-03302-w</id>
-        <link href="https://www.nature.com/articles/d41586-026-03302-w"/>
+        <title type="html"><![CDATA[Tressfecta wants to make hair braiding a less arduous task for hairstylists]]></title>
+        <id>https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/</id>
+        <link href="https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Claude Code since the last update "Held message from another session"]]></title>
-        <id>https://news.ycombinator.com/item?id=50127073</id>
-        <link href="https://news.ycombinator.com/item?id=50127073"/>
+        <title type="html"><![CDATA[AI engineers became hot property. Now they're targets for seduction]]></title>
+        <id>https://economictimes.indiatimes.com/ai/ai-insights/ai-engineers-became-hot-property-now-theyre-targets-for-seduction/articleshow/134998519.cms?from=mdr</id>
+        <link href="https://economictimes.indiatimes.com/ai/ai-insights/ai-engineers-became-hot-property-now-theyre-targets-for-seduction/articleshow/134998519.cms?from=mdr"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Matrix Gradients, Without the Pain]]></title>
-        <id>https://alexwang.ai/posts/derivatives-and-gradients/</id>
-        <link href="https://alexwang.ai/posts/derivatives-and-gradients/"/>
+        <title type="html"><![CDATA[Show HN: I deployed a Prolog WAF on a free-tier GCP instance with only 1 GB RAM]]></title>
+        <id>https://prologwaf.site/</id>
+        <link href="https://prologwaf.site/"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Data Layer Is Where AI Goes to Die]]></title>
-        <id>https://www.druhindhavala.com/ai-governance/the-data-layer-is-where-ai-goes-to-die/</id>
-        <link href="https://www.druhindhavala.com/ai-governance/the-data-layer-is-where-ai-goes-to-die/"/>
+        <title type="html"><![CDATA[Alef Aeronautics Flying Car [video]]]></title>
+        <id>https://www.youtube.com/watch?v=stmWapR3CWY</id>
+        <link href="https://www.youtube.com/watch?v=stmWapR3CWY"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anyone using residential proxies with AdsPower? Looking for recommendations]]></title>
-        <id>https://hideproxy.io/</id>
-        <link href="https://hideproxy.io/"/>
+        <title type="html"><![CDATA[ZLIB-TURBO: Zlib, faster, and byte for byte the same]]></title>
+        <id>https://github.com/icodywu/zlib-turbo</id>
+        <link href="https://github.com/icodywu/zlib-turbo"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Plex Media Server Unauth RCE Exploit]]></title>
-        <id>https://twitter.com/zm_0x/status/2111138023543108005</id>
-        <link href="https://twitter.com/zm_0x/status/2111138023543108005"/>
+        <title type="html"><![CDATA[Paper Instruments: Open-source frontier models for knowledge work]]></title>
+        <id>https://www.paperinstruments.com</id>
+        <link href="https://www.paperinstruments.com"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Morpholog Documentation]]></title>
-        <id>https://deepwiki.com/jordan-dimov/morpholog/</id>
-        <link href="https://deepwiki.com/jordan-dimov/morpholog/"/>
+        <title type="html"><![CDATA[Single Button, Handheld Gaming Console]]></title>
+        <id>https://hackaday.com/2026/10/14/single-button-handheld-gaming-console/</id>
+        <link href="https://hackaday.com/2026/10/14/single-button-handheld-gaming-console/"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quake VR: Unleashed Update 1.1 Active Ragdolls [video]]]></title>
-        <id>https://www.youtube.com/watch?v=IbiYMLne-E4</id>
-        <link href="https://www.youtube.com/watch?v=IbiYMLne-E4"/>
+        <title type="html"><![CDATA[Computer Memory Is a Lie]]></title>
+        <id>https://hackaday.com/2026/10/12/your-computer-memory-is-a-lie/</id>
+        <link href="https://hackaday.com/2026/10/12/your-computer-memory-is-a-lie/"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dispatch: Strategic Git Platform for the Agentic Era]]></title>
-        <id>https://github.com/gshaheen/dispatch</id>
-        <link href="https://github.com/gshaheen/dispatch"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Extended Random a Malicious NSA Plot?]]></title>
-        <id>https://sockpuppet.org/blog/2015/08/04/is-extended-random-malicious/</id>
-        <link href="https://sockpuppet.org/blog/2015/08/04/is-extended-random-malicious/"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does a Grassroots Digital Community Become Cultural Heritage?]]></title>
-        <id>https://andrzej.lichnerowicz.pl/en/blog/2026/10/demoscene-x-unesco/</id>
-        <link href="https://andrzej.lichnerowicz.pl/en/blog/2026/10/demoscene-x-unesco/"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intelligent UI needs a new HTML]]></title>
-        <id>https://www.openui.com/blog/intelligent-ui-needs-a-new-html</id>
-        <link href="https://www.openui.com/blog/intelligent-ui-needs-a-new-html"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brax Wink. The most private mobile phone. Modular. Open source]]></title>
-        <id>https://braxtech.net/products/wink</id>
-        <link href="https://braxtech.net/products/wink"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video Demos Through Personal Agents]]></title>
-        <id>https://shipcast.up.railway.app</id>
-        <link href="https://shipcast.up.railway.app"/>
+        <title type="html"><![CDATA[Dam Removals Are Bringing Fish Back Across the Northeastern United States]]></title>
+        <id>https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/</id>
+        <link href="https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
@@ -148,9 +106,100 @@
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dam Removals Are Bringing Fish Back Across the Northeastern United States]]></title>
-        <id>https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/</id>
-        <link href="https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/"/>
+        <title type="html"><![CDATA[Video Demos Through Personal Agents]]></title>
+        <id>https://shipcast.up.railway.app</id>
+        <link href="https://shipcast.up.railway.app"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brax Wink. The most private mobile phone. Modular. Open source]]></title>
+        <id>https://braxtech.net/products/wink</id>
+        <link href="https://braxtech.net/products/wink"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intelligent UI needs a new HTML]]></title>
+        <id>https://www.openui.com/blog/intelligent-ui-needs-a-new-html</id>
+        <link href="https://www.openui.com/blog/intelligent-ui-needs-a-new-html"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does a Grassroots Digital Community Become Cultural Heritage?]]></title>
+        <id>https://andrzej.lichnerowicz.pl/en/blog/2026/10/demoscene-x-unesco/</id>
+        <link href="https://andrzej.lichnerowicz.pl/en/blog/2026/10/demoscene-x-unesco/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Extended Random a Malicious NSA Plot?]]></title>
+        <id>https://sockpuppet.org/blog/2015/08/04/is-extended-random-malicious/</id>
+        <link href="https://sockpuppet.org/blog/2015/08/04/is-extended-random-malicious/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dispatch: Strategic Git Platform for the Agentic Era]]></title>
+        <id>https://github.com/gshaheen/dispatch</id>
+        <link href="https://github.com/gshaheen/dispatch"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quake VR: Unleashed Update 1.1 Active Ragdolls [video]]]></title>
+        <id>https://www.youtube.com/watch?v=IbiYMLne-E4</id>
+        <link href="https://www.youtube.com/watch?v=IbiYMLne-E4"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morpholog Documentation]]></title>
+        <id>https://deepwiki.com/jordan-dimov/morpholog/</id>
+        <link href="https://deepwiki.com/jordan-dimov/morpholog/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plex Media Server Unauth RCE Exploit]]></title>
+        <id>https://twitter.com/zm_0x/status/2111138023543108005</id>
+        <link href="https://twitter.com/zm_0x/status/2111138023543108005"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anyone using residential proxies with AdsPower? Looking for recommendations]]></title>
+        <id>https://hideproxy.io/</id>
+        <link href="https://hideproxy.io/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Data Layer Is Where AI Goes to Die]]></title>
+        <id>https://www.druhindhavala.com/ai-governance/the-data-layer-is-where-ai-goes-to-die/</id>
+        <link href="https://www.druhindhavala.com/ai-governance/the-data-layer-is-where-ai-goes-to-die/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matrix Gradients, Without the Pain]]></title>
+        <id>https://alexwang.ai/posts/derivatives-and-gradients/</id>
+        <link href="https://alexwang.ai/posts/derivatives-and-gradients/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Claude Code since the last update "Held message from another session"]]></title>
+        <id>https://news.ycombinator.com/item?id=50127073</id>
+        <link href="https://news.ycombinator.com/item?id=50127073"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overlooked brown fat in our bodies linked to wide range of health benefits]]></title>
+        <id>https://www.nature.com/articles/d41586-026-03302-w</id>
+        <link href="https://www.nature.com/articles/d41586-026-03302-w"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
@@ -204,142 +253,51 @@
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Calculate US Take-Home Pay in JavaScript (2026 Tax Brackets)]]></title>
-        <id>https://dev.to/tanzeel_abbas_1288a9e8d4c/how-to-calculate-us-take-home-pay-in-javascript-2026-tax-brackets-1jf3</id>
-        <link href="https://dev.to/tanzeel_abbas_1288a9e8d4c/how-to-calculate-us-take-home-pay-in-javascript-2026-tax-brackets-1jf3"/>
+        <title type="html"><![CDATA[eval() in a straitjacket: running user JavaScript under a strict CSP]]></title>
+        <id>https://dev.to/murraylr/eval-in-a-straitjacket-running-user-javascript-under-a-strict-csp-3dhp</id>
+        <link href="https://dev.to/murraylr/eval-in-a-straitjacket-running-user-javascript-under-a-strict-csp-3dhp"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JS Reverse Engineering Case Study #3 — Reconstructing Request-Header Signatures]]></title>
-        <id>https://dev.to/fxxx/js-reverse-engineering-case-study-3-reconstructing-request-header-signatures-1c7i</id>
-        <link href="https://dev.to/fxxx/js-reverse-engineering-case-study-3-reconstructing-request-header-signatures-1c7i"/>
+        <title type="html"><![CDATA[Compare building a modern React CRUD application with REST versus GraphQL. Understand query shapes, state mutations, and implementation patterns]]></title>
+        <id>https://dev.to/nileslabs/compare-building-a-modern-react-crud-application-with-rest-versus-graphql-understand-query-shapes-omo</id>
+        <link href="https://dev.to/nileslabs/compare-building-a-modern-react-crud-application-with-rest-versus-graphql-understand-query-shapes-omo"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JS Reverse Engineering Case Study #2 — Reconstructing code / timestamp (a Fixed-Salt MD5 Signature)]]></title>
-        <id>https://dev.to/fxxx/js-reverse-engineering-case-study-2-reconstructing-code-timestamp-a-fixed-salt-md5-signature-4f9</id>
-        <link href="https://dev.to/fxxx/js-reverse-engineering-case-study-2-reconstructing-code-timestamp-a-fixed-salt-md5-signature-4f9"/>
+        <title type="html"><![CDATA[I Built a Zero-Backend Markdown Previewer in 40 Lines of JS]]></title>
+        <id>https://dev.to/bowentse/i-built-a-zero-backend-markdown-previewer-in-40-lines-of-js-4l0e</id>
+        <link href="https://dev.to/bowentse/i-built-a-zero-backend-markdown-previewer-in-40-lines-of-js-4l0e"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Format, Validate and Minify JSON]]></title>
-        <id>https://dev.to/shuai_wang_2cc568efc73821/how-to-format-validate-and-minify-json-2ohj</id>
-        <link href="https://dev.to/shuai_wang_2cc568efc73821/how-to-format-validate-and-minify-json-2ohj"/>
+        <title type="html"><![CDATA[Building a Real-Time Quant Trading Terminal in the Browser (Without React Frame Drops)]]></title>
+        <id>https://dev.to/khalidabdullahh/building-a-real-time-quant-trading-terminal-in-the-browser-without-react-frame-drops-3eca</id>
+        <link href="https://dev.to/khalidabdullahh/building-a-real-time-quant-trading-terminal-in-the-browser-without-react-frame-drops-3eca"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why 2048 Bet on No Engine and Vanilla JavaScript: The Weekend Web Page Behind a Viral Number Puzzle]]></title>
-        <id>https://dev.to/wlz/why-2048-bet-on-no-engine-and-vanilla-javascript-the-weekend-web-page-behind-a-viral-number-puzzle-4kdj</id>
-        <link href="https://dev.to/wlz/why-2048-bet-on-no-engine-and-vanilla-javascript-the-weekend-web-page-behind-a-viral-number-puzzle-4kdj"/>
+        <title type="html"><![CDATA[How to Get a Table Out of a PDF Without Uploading the File]]></title>
+        <id>https://dev.to/craig_george_4cd7d46650e4/how-to-get-a-table-out-of-a-pdf-without-uploading-the-file-204m</id>
+        <link href="https://dev.to/craig_george_4cd7d46650e4/how-to-get-a-table-out-of-a-pdf-without-uploading-the-file-204m"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Agent Converted the If/Else Chain to a Lookup Map and Dropped the Side Effect]]></title>
-        <id>https://dev.to/jeff_pdc/the-agent-converted-the-ifelse-chain-to-a-lookup-map-and-dropped-the-side-effect-3nk6</id>
-        <link href="https://dev.to/jeff_pdc/the-agent-converted-the-ifelse-chain-to-a-lookup-map-and-dropped-the-side-effect-3nk6"/>
+        <title type="html"><![CDATA[How I Built a Custom Shopify Tracking Widget to Reduce WISMO]]></title>
+        <id>https://dev.to/sellermind/how-i-built-a-custom-shopify-tracking-widget-to-reduce-wismo-3i2m</id>
+        <link href="https://dev.to/sellermind/how-i-built-a-custom-shopify-tracking-widget-to-reduce-wismo-3i2m"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How AIClaw 3.7.15 Makes Windows Updates Easier with an Installer]]></title>
-        <id>https://dev.to/chowyu12/how-aiclaw-3715-makes-windows-updates-easier-with-an-installer-4a8k</id>
-        <link href="https://dev.to/chowyu12/how-aiclaw-3715-makes-windows-updates-easier-with-an-installer-4a8k"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using ElevenLabs in Electron Desktop Apps]]></title>
-        <id>https://dev.to/voice_developer/using-elevenlabs-in-electron-desktop-apps-3f40</id>
-        <link href="https://dev.to/voice_developer/using-elevenlabs-in-electron-desktop-apps-3f40"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Marketing Metrics Made Simple: A Practical Guide to Advertising Calculators]]></title>
-        <id>https://dev.to/ad_calculatorhub_c1c46fb3/digital-marketing-metrics-made-simple-a-practical-guide-to-advertising-calculators-4opa</id>
-        <link href="https://dev.to/ad_calculatorhub_c1c46fb3/digital-marketing-metrics-made-simple-a-practical-guide-to-advertising-calculators-4opa"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IPTV and Streaming: How to Choose the Right Setup for Your Devices]]></title>
-        <id>https://dev.to/zenovia_media_ae6ff6131fd/iptv-and-streaming-how-to-choose-the-right-setup-for-your-devices-333c</id>
-        <link href="https://dev.to/zenovia_media_ae6ff6131fd/iptv-and-streaming-how-to-choose-the-right-setup-for-your-devices-333c"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a candlestick chart engine on raw Canvas2D (no chart library)]]></title>
-        <id>https://dev.to/hacikan39622p/building-a-candlestick-chart-engine-on-raw-canvas2d-no-chart-library-34a2</id>
-        <link href="https://dev.to/hacikan39622p/building-a-candlestick-chart-engine-on-raw-canvas2d-no-chart-library-34a2"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How a web page can stream multi-GB local files to a Chromecast without uploading them]]></title>
-        <id>https://dev.to/olly_08beff75f1fe547dcb92/how-a-web-page-can-stream-multi-gb-local-files-to-a-chromecast-without-uploading-them-27ip</id>
-        <link href="https://dev.to/olly_08beff75f1fe547dcb92/how-a-web-page-can-stream-multi-gb-local-files-to-a-chromecast-without-uploading-them-27ip"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What changed in this Electron update? Diffing two app.asar builds without running either]]></title>
-        <id>https://dev.to/taventix/what-changed-in-this-electron-update-diffing-two-appasar-builds-without-running-either-422d</id>
-        <link href="https://dev.to/taventix/what-changed-in-this-electron-update-diffing-two-appasar-builds-without-running-either-422d"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Frontend Plus NodeJS Backend Error Capture for Tenant Cohort Incident Reconstruction]]></title>
-        <id>https://dev.to/ethanbrooks1486/react-frontend-plus-nodejs-backend-error-capture-for-tenant-cohort-incident-reconstruction-j00</id>
-        <link href="https://dev.to/ethanbrooks1486/react-frontend-plus-nodejs-backend-error-capture-for-tenant-cohort-incident-reconstruction-j00"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built my own roadmap. The first thing it found was that my SR latch didn't work.]]></title>
-        <id>https://dev.to/den0011/i-built-my-own-roadmap-the-first-thing-it-found-was-that-my-sr-latch-didnt-work-2gnk</id>
-        <link href="https://dev.to/den0011/i-built-my-own-roadmap-the-first-thing-it-found-was-that-my-sr-latch-didnt-work-2gnk"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buy Verified Nextdoor Accounts - Boost Local Engagement]]></title>
-        <id>https://dev.to/usatop_citystore_073ced60/buy-verified-nextdoor-accounts-boost-local-engagement-dme</id>
-        <link href="https://dev.to/usatop_citystore_073ced60/buy-verified-nextdoor-accounts-boost-local-engagement-dme"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a Chrome Extension to Mine Autocomplete Search for Niche Analysis]]></title>
-        <id>https://dev.to/swindon/i-built-a-chrome-extension-to-mine-autocomplete-search-for-niche-analysis-440n</id>
-        <link href="https://dev.to/swindon/i-built-a-chrome-extension-to-mine-autocomplete-search-for-niche-analysis-440n"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can't get a Pexels API key? Switch to Pexafy in 10 minutes (Pexels photos included)]]></title>
-        <id>https://dev.to/marouane_tijani_3a7fc19a7/cant-get-a-pexels-api-key-switch-to-pexafy-in-10-minutes-pexels-photos-included-15ac</id>
-        <link href="https://dev.to/marouane_tijani_3a7fc19a7/cant-get-a-pexels-api-key-switch-to-pexafy-in-10-minutes-pexels-photos-included-15ac"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Agent Added an Await to a Synchronous Function. The Caller Didn't Notice.]]></title>
-        <id>https://dev.to/jeff_pdc/the-agent-added-an-await-to-a-synchronous-function-the-caller-didnt-notice-277e</id>
-        <link href="https://dev.to/jeff_pdc/the-agent-added-an-await-to-a-synchronous-function-the-caller-didnt-notice-277e"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LinkSwift: A Tool for Seamless Cloud File Downloads]]></title>
-        <id>https://dev.to/gittrending/linkswift-a-tool-for-seamless-cloud-file-downloads-4oph</id>
-        <link href="https://dev.to/gittrending/linkswift-a-tool-for-seamless-cloud-file-downloads-4oph"/>
+        <title type="html"><![CDATA[How I Automated My Shopify WISMO Tickets With a Custom Tracking Widget]]></title>
+        <id>https://dev.to/sellermind/how-i-automated-my-shopify-wismo-tickets-with-a-custom-tracking-widget-52hi</id>
+        <link href="https://dev.to/sellermind/how-i-automated-my-shopify-wismo-tickets-with-a-custom-tracking-widget-52hi"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
@@ -351,17 +309,59 @@
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta’s new terms may allow it to train AI on news sites for free]]></title>
-        <id>https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers</id>
-        <link href="https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
+        <title type="html"><![CDATA[LinkSwift: A Tool for Seamless Cloud File Downloads]]></title>
+        <id>https://dev.to/gittrending/linkswift-a-tool-for-seamless-cloud-file-downloads-4oph</id>
+        <link href="https://dev.to/gittrending/linkswift-a-tool-for-seamless-cloud-file-downloads-4oph"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This stretchy MagSafe storage pouch gives your phone a sizable trunk]]></title>
-        <id>https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage</id>
-        <link href="https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage"/>
-        <updated>2026-10-15T16:00:00.000Z</updated>
-        <published>2026-10-15T16:00:00.000Z</published>
+        <title type="html"><![CDATA[The Agent Added an Await to a Synchronous Function. The Caller Didn't Notice.]]></title>
+        <id>https://dev.to/jeff_pdc/the-agent-added-an-await-to-a-synchronous-function-the-caller-didnt-notice-277e</id>
+        <link href="https://dev.to/jeff_pdc/the-agent-added-an-await-to-a-synchronous-function-the-caller-didnt-notice-277e"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can't get a Pexels API key? Switch to Pexafy in 10 minutes (Pexels photos included)]]></title>
+        <id>https://dev.to/marouane_tijani_3a7fc19a7/cant-get-a-pexels-api-key-switch-to-pexafy-in-10-minutes-pexels-photos-included-15ac</id>
+        <link href="https://dev.to/marouane_tijani_3a7fc19a7/cant-get-a-pexels-api-key-switch-to-pexafy-in-10-minutes-pexels-photos-included-15ac"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a Chrome Extension to Mine Autocomplete Search for Niche Analysis]]></title>
+        <id>https://dev.to/swindon/i-built-a-chrome-extension-to-mine-autocomplete-search-for-niche-analysis-440n</id>
+        <link href="https://dev.to/swindon/i-built-a-chrome-extension-to-mine-autocomplete-search-for-niche-analysis-440n"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buy Verified Nextdoor Accounts - Boost Local Engagement]]></title>
+        <id>https://dev.to/usatop_citystore_073ced60/buy-verified-nextdoor-accounts-boost-local-engagement-dme</id>
+        <link href="https://dev.to/usatop_citystore_073ced60/buy-verified-nextdoor-accounts-boost-local-engagement-dme"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built my own roadmap. The first thing it found was that my SR latch didn't work.]]></title>
+        <id>https://dev.to/den0011/i-built-my-own-roadmap-the-first-thing-it-found-was-that-my-sr-latch-didnt-work-2gnk</id>
+        <link href="https://dev.to/den0011/i-built-my-own-roadmap-the-first-thing-it-found-was-that-my-sr-latch-didnt-work-2gnk"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Frontend Plus NodeJS Backend Error Capture for Tenant Cohort Incident Reconstruction]]></title>
+        <id>https://dev.to/ethanbrooks1486/react-frontend-plus-nodejs-backend-error-capture-for-tenant-cohort-incident-reconstruction-j00</id>
+        <link href="https://dev.to/ethanbrooks1486/react-frontend-plus-nodejs-backend-error-capture-for-tenant-cohort-incident-reconstruction-j00"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What changed in this Electron update? Diffing two app.asar builds without running either]]></title>
+        <id>https://dev.to/taventix/what-changed-in-this-electron-update-diffing-two-appasar-builds-without-running-either-422d</id>
+        <link href="https://dev.to/taventix/what-changed-in-this-electron-update-diffing-two-appasar-builds-without-running-either-422d"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
     </entry>
 </feed>
