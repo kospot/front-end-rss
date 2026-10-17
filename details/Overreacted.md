@@ -1,8 +1,7 @@
-:alarm_clock: 更新时间: 2026-10-17 18:05:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-18 06:01:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Overreacted
 
 
 
 
-- [2026-09-18-How-I-Vibed-a-Proof-of-Conway’s-Conjecture](https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/) 
