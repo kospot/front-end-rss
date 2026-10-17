@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-17T07:04:29.785Z</updated>
+    <updated>2026-10-17T10:05:21.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds]]></title>
-        <id>https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/</id>
-        <link href="https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/"/>
+        <title type="html"><![CDATA[被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？]]></title>
+        <id>https://sspai.com/post/104231</id>
+        <link href="https://sspai.com/post/104231"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microplastics React With Water, a New Study Says. That’s a Problem for Biology]]></title>
+        <id>https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology/</id>
+        <link href="https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology/"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
@@ -25,6 +32,13 @@
         <title type="html"><![CDATA[Razer Barracuda V2 Pro Review: A Gaming Headset for the Office]]></title>
         <id>https://www.wired.com/review/razer-barracuda-v2-pro/</id>
         <link href="https://www.wired.com/review/razer-barracuda-v2-pro/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds]]></title>
+        <id>https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/</id>
+        <link href="https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
@@ -43,149 +57,37 @@
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI engineers became hot property. Now they're targets for seduction]]></title>
-        <id>https://economictimes.indiatimes.com/ai/ai-insights/ai-engineers-became-hot-property-now-theyre-targets-for-seduction/articleshow/134998519.cms?from=mdr</id>
-        <link href="https://economictimes.indiatimes.com/ai/ai-insights/ai-engineers-became-hot-property-now-theyre-targets-for-seduction/articleshow/134998519.cms?from=mdr"/>
+        <title type="html"><![CDATA[Ask HN: What was your favourite thread in the last two weeks?]]></title>
+        <id>https://news.ycombinator.com/item?id=50129539</id>
+        <link href="https://news.ycombinator.com/item?id=50129539"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I deployed a Prolog WAF on a free-tier GCP instance with only 1 GB RAM]]></title>
-        <id>https://prologwaf.site/</id>
-        <link href="https://prologwaf.site/"/>
+        <title type="html"><![CDATA[Show HN: WGSL linter with Tint parity and a full suite of LSP niceties]]></title>
+        <id>https://github.com/elringus/wgsl-linter</id>
+        <link href="https://github.com/elringus/wgsl-linter"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alef Aeronautics Flying Car [video]]]></title>
-        <id>https://www.youtube.com/watch?v=stmWapR3CWY</id>
-        <link href="https://www.youtube.com/watch?v=stmWapR3CWY"/>
+        <title type="html"><![CDATA[Red Dead Redemption 2 – Part 1460 – Old PC [video]]]></title>
+        <id>https://www.youtube.com/watch?v=0OfHSE_mhaw</id>
+        <link href="https://www.youtube.com/watch?v=0OfHSE_mhaw"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ZLIB-TURBO: Zlib, faster, and byte for byte the same]]></title>
-        <id>https://github.com/icodywu/zlib-turbo</id>
-        <link href="https://github.com/icodywu/zlib-turbo"/>
+        <title type="html"><![CDATA[ThinkPad I9990303 Error Catch-22]]></title>
+        <id>https://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/</id>
+        <link href="https://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Paper Instruments: Open-source frontier models for knowledge work]]></title>
-        <id>https://www.paperinstruments.com</id>
-        <link href="https://www.paperinstruments.com"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Single Button, Handheld Gaming Console]]></title>
-        <id>https://hackaday.com/2026/10/14/single-button-handheld-gaming-console/</id>
-        <link href="https://hackaday.com/2026/10/14/single-button-handheld-gaming-console/"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computer Memory Is a Lie]]></title>
-        <id>https://hackaday.com/2026/10/12/your-computer-memory-is-a-lie/</id>
-        <link href="https://hackaday.com/2026/10/12/your-computer-memory-is-a-lie/"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dam Removals Are Bringing Fish Back Across the Northeastern United States]]></title>
-        <id>https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/</id>
-        <link href="https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta confirms smart glasses were recording without being activated]]></title>
-        <id>https://mashable.com/tech/meta-confirms-smart-glasses-recording-without-being-activated</id>
-        <link href="https://mashable.com/tech/meta-confirms-smart-glasses-recording-without-being-activated"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video Demos Through Personal Agents]]></title>
-        <id>https://shipcast.up.railway.app</id>
-        <link href="https://shipcast.up.railway.app"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brax Wink. The most private mobile phone. Modular. Open source]]></title>
-        <id>https://braxtech.net/products/wink</id>
-        <link href="https://braxtech.net/products/wink"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intelligent UI needs a new HTML]]></title>
-        <id>https://www.openui.com/blog/intelligent-ui-needs-a-new-html</id>
-        <link href="https://www.openui.com/blog/intelligent-ui-needs-a-new-html"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does a Grassroots Digital Community Become Cultural Heritage?]]></title>
-        <id>https://andrzej.lichnerowicz.pl/en/blog/2026/10/demoscene-x-unesco/</id>
-        <link href="https://andrzej.lichnerowicz.pl/en/blog/2026/10/demoscene-x-unesco/"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Extended Random a Malicious NSA Plot?]]></title>
-        <id>https://sockpuppet.org/blog/2015/08/04/is-extended-random-malicious/</id>
-        <link href="https://sockpuppet.org/blog/2015/08/04/is-extended-random-malicious/"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dispatch: Strategic Git Platform for the Agentic Era]]></title>
-        <id>https://github.com/gshaheen/dispatch</id>
-        <link href="https://github.com/gshaheen/dispatch"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quake VR: Unleashed Update 1.1 Active Ragdolls [video]]]></title>
-        <id>https://www.youtube.com/watch?v=IbiYMLne-E4</id>
-        <link href="https://www.youtube.com/watch?v=IbiYMLne-E4"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morpholog Documentation]]></title>
-        <id>https://deepwiki.com/jordan-dimov/morpholog/</id>
-        <link href="https://deepwiki.com/jordan-dimov/morpholog/"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plex Media Server Unauth RCE Exploit]]></title>
-        <id>https://twitter.com/zm_0x/status/2111138023543108005</id>
-        <link href="https://twitter.com/zm_0x/status/2111138023543108005"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anyone using residential proxies with AdsPower? Looking for recommendations]]></title>
-        <id>https://hideproxy.io/</id>
-        <link href="https://hideproxy.io/"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Data Layer Is Where AI Goes to Die]]></title>
-        <id>https://www.druhindhavala.com/ai-governance/the-data-layer-is-where-ai-goes-to-die/</id>
-        <link href="https://www.druhindhavala.com/ai-governance/the-data-layer-is-where-ai-goes-to-die/"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matrix Gradients, Without the Pain]]></title>
-        <id>https://alexwang.ai/posts/derivatives-and-gradients/</id>
-        <link href="https://alexwang.ai/posts/derivatives-and-gradients/"/>
+        <title type="html"><![CDATA[Overlooked brown fat in our bodies linked to wide range of health benefits]]></title>
+        <id>https://www.nature.com/articles/d41586-026-03302-w</id>
+        <link href="https://www.nature.com/articles/d41586-026-03302-w"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
@@ -197,9 +99,149 @@
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Overlooked brown fat in our bodies linked to wide range of health benefits]]></title>
-        <id>https://www.nature.com/articles/d41586-026-03302-w</id>
-        <link href="https://www.nature.com/articles/d41586-026-03302-w"/>
+        <title type="html"><![CDATA[Matrix Gradients, Without the Pain]]></title>
+        <id>https://alexwang.ai/posts/derivatives-and-gradients/</id>
+        <link href="https://alexwang.ai/posts/derivatives-and-gradients/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Data Layer Is Where AI Goes to Die]]></title>
+        <id>https://www.druhindhavala.com/ai-governance/the-data-layer-is-where-ai-goes-to-die/</id>
+        <link href="https://www.druhindhavala.com/ai-governance/the-data-layer-is-where-ai-goes-to-die/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anyone using residential proxies with AdsPower? Looking for recommendations]]></title>
+        <id>https://hideproxy.io/</id>
+        <link href="https://hideproxy.io/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plex Media Server Unauth RCE Exploit]]></title>
+        <id>https://twitter.com/zm_0x/status/2111138023543108005</id>
+        <link href="https://twitter.com/zm_0x/status/2111138023543108005"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morpholog Documentation]]></title>
+        <id>https://deepwiki.com/jordan-dimov/morpholog/</id>
+        <link href="https://deepwiki.com/jordan-dimov/morpholog/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quake VR: Unleashed Update 1.1 Active Ragdolls [video]]]></title>
+        <id>https://www.youtube.com/watch?v=IbiYMLne-E4</id>
+        <link href="https://www.youtube.com/watch?v=IbiYMLne-E4"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dispatch: Strategic Git Platform for the Agentic Era]]></title>
+        <id>https://github.com/gshaheen/dispatch</id>
+        <link href="https://github.com/gshaheen/dispatch"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Extended Random a Malicious NSA Plot?]]></title>
+        <id>https://sockpuppet.org/blog/2015/08/04/is-extended-random-malicious/</id>
+        <link href="https://sockpuppet.org/blog/2015/08/04/is-extended-random-malicious/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does a Grassroots Digital Community Become Cultural Heritage?]]></title>
+        <id>https://andrzej.lichnerowicz.pl/en/blog/2026/10/demoscene-x-unesco/</id>
+        <link href="https://andrzej.lichnerowicz.pl/en/blog/2026/10/demoscene-x-unesco/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intelligent UI needs a new HTML]]></title>
+        <id>https://www.openui.com/blog/intelligent-ui-needs-a-new-html</id>
+        <link href="https://www.openui.com/blog/intelligent-ui-needs-a-new-html"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brax Wink. The most private mobile phone. Modular. Open source]]></title>
+        <id>https://braxtech.net/products/wink</id>
+        <link href="https://braxtech.net/products/wink"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video Demos Through Personal Agents]]></title>
+        <id>https://shipcast.up.railway.app</id>
+        <link href="https://shipcast.up.railway.app"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta confirms smart glasses were recording without being activated]]></title>
+        <id>https://mashable.com/tech/meta-confirms-smart-glasses-recording-without-being-activated</id>
+        <link href="https://mashable.com/tech/meta-confirms-smart-glasses-recording-without-being-activated"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dam Removals Are Bringing Fish Back Across the Northeastern United States]]></title>
+        <id>https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/</id>
+        <link href="https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Memory Is a Lie]]></title>
+        <id>https://hackaday.com/2026/10/12/your-computer-memory-is-a-lie/</id>
+        <link href="https://hackaday.com/2026/10/12/your-computer-memory-is-a-lie/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single Button, Handheld Gaming Console]]></title>
+        <id>https://hackaday.com/2026/10/14/single-button-handheld-gaming-console/</id>
+        <link href="https://hackaday.com/2026/10/14/single-button-handheld-gaming-console/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paper Instruments: Open-source frontier models for knowledge work]]></title>
+        <id>https://www.paperinstruments.com</id>
+        <link href="https://www.paperinstruments.com"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZLIB-TURBO: Zlib, faster, and byte for byte the same]]></title>
+        <id>https://github.com/icodywu/zlib-turbo</id>
+        <link href="https://github.com/icodywu/zlib-turbo"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alef Aeronautics Flying Car [video]]]></title>
+        <id>https://www.youtube.com/watch?v=stmWapR3CWY</id>
+        <link href="https://www.youtube.com/watch?v=stmWapR3CWY"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I deployed a Prolog WAF on a free-tier GCP instance with only 1 GB RAM]]></title>
+        <id>https://prologwaf.site/</id>
+        <link href="https://prologwaf.site/"/>
+        <updated>2026-10-16T16:00:00.000Z</updated>
+        <published>2026-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI engineers became hot property. Now they're targets for seduction]]></title>
+        <id>https://economictimes.indiatimes.com/ai/ai-insights/ai-engineers-became-hot-property-now-theyre-targets-for-seduction/articleshow/134998519.cms?from=mdr</id>
+        <link href="https://economictimes.indiatimes.com/ai/ai-insights/ai-engineers-became-hot-property-now-theyre-targets-for-seduction/articleshow/134998519.cms?from=mdr"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
@@ -253,114 +295,72 @@
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 4 Caching Layers in Next.js App Router, in One Table]]></title>
-        <id>https://dev.to/jackson_s_33a25dbcc9fc24e/the-4-caching-layers-in-nextjs-app-router-in-one-table-38pn</id>
-        <link href="https://dev.to/jackson_s_33a25dbcc9fc24e/the-4-caching-layers-in-nextjs-app-router-in-one-table-38pn"/>
+        <title type="html"><![CDATA[Share an Audio Clip Straight to WhatsApp from a Web App: navigator.share() with Files, User Activation and Fallbacks]]></title>
+        <id>https://dev.to/abidali671/share-an-audio-clip-straight-to-whatsapp-from-a-web-app-navigatorshare-with-files-user-1lo4</id>
+        <link href="https://dev.to/abidali671/share-an-audio-clip-straight-to-whatsapp-from-a-web-app-navigatorshare-with-files-user-1lo4"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Run an LLM in the browser: WebGPU did 63 tokens/s, WASM did 1.6]]></title>
-        <id>https://dev.to/mattbusel/run-an-llm-in-the-browser-webgpu-did-63-tokenss-wasm-did-16-24ob</id>
-        <link href="https://dev.to/mattbusel/run-an-llm-in-the-browser-webgpu-did-63-tokenss-wasm-did-16-24ob"/>
+        <title type="html"><![CDATA[Why Your JSON Fails to Parse: Zero-Width Spaces Copied from ChatGPT]]></title>
+        <id>https://dev.to/brknbrkn/why-your-json-fails-to-parse-zero-width-spaces-copied-from-chatgpt-4p8k</id>
+        <link href="https://dev.to/brknbrkn/why-your-json-fails-to-parse-zero-width-spaces-copied-from-chatgpt-4p8k"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Pasting That escapeRegExp Helper. RegExp.escape() Is Built In]]></title>
-        <id>https://dev.to/iamprincejkc/stop-pasting-that-escaperegexp-helper-regexpescape-is-built-in-56hp</id>
-        <link href="https://dev.to/iamprincejkc/stop-pasting-that-escaperegexp-helper-regexpescape-is-built-in-56hp"/>
+        <title type="html"><![CDATA["1 item, 2 items, 5 items": plural forms in a React Native app with 15 languages]]></title>
+        <id>https://dev.to/wearton/1-item-2-items-5-items-plural-forms-in-a-react-native-app-with-15-languages-1l06</id>
+        <link href="https://dev.to/wearton/1-item-2-items-5-items-plural-forms-in-a-react-native-app-with-15-languages-1l06"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Talk2Invoice: Turn a Job Note Into a Client-Ready Draft With Open-Weight AI]]></title>
-        <id>https://dev.to/acceptedsoul_11/talk2invoice-turn-a-job-note-into-a-client-ready-draft-with-open-weight-ai-549n</id>
-        <link href="https://dev.to/acceptedsoul_11/talk2invoice-turn-a-job-note-into-a-client-ready-draft-with-open-weight-ai-549n"/>
+        <title type="html"><![CDATA[Why Are QR SaaS Startups Charging $45/Month for ISO/IEC 18004? The Browser Holds The Key.]]></title>
+        <id>https://dev.to/khaithisran/why-are-qr-saas-startups-charging-45month-for-isoiec-18004-the-browser-holds-the-key-4203</id>
+        <link href="https://dev.to/khaithisran/why-are-qr-saas-startups-charging-45month-for-isoiec-18004-the-browser-holds-the-key-4203"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CrUX Now Counts SPA Soft Navigations. 5 Things I'd Check Before Search Console Switches]]></title>
-        <id>https://dev.to/siteory/crux-now-counts-spa-soft-navigations-5-things-id-check-before-search-console-switches-2m7k</id>
-        <link href="https://dev.to/siteory/crux-now-counts-spa-soft-navigations-5-things-id-check-before-search-console-switches-2m7k"/>
+        <title type="html"><![CDATA[Which visits turn into calls? Track WhatsApp and phone clicks in GA4 (15-minute setup)]]></title>
+        <id>https://dev.to/nexcodestudio/which-visits-turn-into-calls-track-whatsapp-and-phone-clicks-in-ga4-15-minute-setup-240h</id>
+        <link href="https://dev.to/nexcodestudio/which-visits-turn-into-calls-track-whatsapp-and-phone-clicks-in-ga4-15-minute-setup-240h"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Watching the Windows clipboard from Node.js without polling]]></title>
-        <id>https://dev.to/ashwar_sadh_f7abe6f82c8e9/watching-the-windows-clipboard-from-nodejs-without-polling-3f5g</id>
-        <link href="https://dev.to/ashwar_sadh_f7abe6f82c8e9/watching-the-windows-clipboard-from-nodejs-without-polling-3f5g"/>
+        <title type="html"><![CDATA[My screenshots were smaller as PNG-8 than JPEG, and my photos were 3.8x bigger]]></title>
+        <id>https://dev.to/token111/my-screenshots-were-smaller-as-png-8-than-jpeg-and-my-photos-were-38x-bigger-11ee</id>
+        <link href="https://dev.to/token111/my-screenshots-were-smaller-as-png-8-than-jpeg-and-my-photos-were-38x-bigger-11ee"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built a Zero-Dependency PWA Expense Tracker with Pure HTML, CSS, and Vanilla JS published: true]]></title>
-        <id>https://dev.to/smarthisab/how-i-built-a-zero-dependency-pwa-expense-tracker-with-pure-html-css-and-vanilla-js-published-5doe</id>
-        <link href="https://dev.to/smarthisab/how-i-built-a-zero-dependency-pwa-expense-tracker-with-pure-html-css-and-vanilla-js-published-5doe"/>
+        <title type="html"><![CDATA[My upload pipeline turned every screenshot into JPEG. The text got noisy and the files were bigger than PNG-8]]></title>
+        <id>https://dev.to/shu_jing_915fa287b22539ad/my-upload-pipeline-turned-every-screenshot-into-jpeg-the-text-got-noisy-and-the-files-were-bigger-4nc4</id>
+        <link href="https://dev.to/shu_jing_915fa287b22539ad/my-upload-pipeline-turned-every-screenshot-into-jpeg-the-text-got-noisy-and-the-files-were-bigger-4nc4"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sanity Knowledge Bases]]></title>
-        <id>https://dev.to/codingcatdev/sanity-knowledge-bases-34o6</id>
-        <link href="https://dev.to/codingcatdev/sanity-knowledge-bases-34o6"/>
+        <title type="html"><![CDATA[My image compressor picked PNG-8 for screenshots and WebP 75 for photos, so I checked whether it was right]]></title>
+        <id>https://dev.to/yue_shu_c621a4a637f22396f/my-image-compressor-picked-png-8-for-screenshots-and-webp-75-for-photos-so-i-checked-whether-it-3lo8</id>
+        <link href="https://dev.to/yue_shu_c621a4a637f22396f/my-image-compressor-picked-png-8-for-screenshots-and-webp-75-for-photos-so-i-checked-whether-it-3lo8"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude Code Context Window Management in 2026: What Gets Included, What Gets Dropped, and How to Control It]]></title>
-        <id>https://dev.to/jsmanifest/claude-code-context-window-management-in-2026-what-gets-included-what-gets-dropped-and-how-to-26kh</id>
-        <link href="https://dev.to/jsmanifest/claude-code-context-window-management-in-2026-what-gets-included-what-gets-dropped-and-how-to-26kh"/>
+        <title type="html"><![CDATA[eval() in a straitjacket: running user JavaScript under a strict CSP]]></title>
+        <id>https://dev.to/murraylr/eval-in-a-straitjacket-running-user-javascript-under-a-strict-csp-3dhp</id>
+        <link href="https://dev.to/murraylr/eval-in-a-straitjacket-running-user-javascript-under-a-strict-csp-3dhp"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Calculate US Take-Home Pay in JavaScript (2026 Tax Brackets)]]></title>
-        <id>https://dev.to/tanzeel_abbas_1288a9e8d4c/how-to-calculate-us-take-home-pay-in-javascript-2026-tax-brackets-1jf3</id>
-        <link href="https://dev.to/tanzeel_abbas_1288a9e8d4c/how-to-calculate-us-take-home-pay-in-javascript-2026-tax-brackets-1jf3"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS Reverse Engineering Case Study #3 — Reconstructing Request-Header Signatures]]></title>
-        <id>https://dev.to/fxxx/js-reverse-engineering-case-study-3-reconstructing-request-header-signatures-1c7i</id>
-        <link href="https://dev.to/fxxx/js-reverse-engineering-case-study-3-reconstructing-request-header-signatures-1c7i"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS Reverse Engineering Case Study #2 — Reconstructing code / timestamp (a Fixed-Salt MD5 Signature)]]></title>
-        <id>https://dev.to/fxxx/js-reverse-engineering-case-study-2-reconstructing-code-timestamp-a-fixed-salt-md5-signature-4f9</id>
-        <link href="https://dev.to/fxxx/js-reverse-engineering-case-study-2-reconstructing-code-timestamp-a-fixed-salt-md5-signature-4f9"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Format, Validate and Minify JSON]]></title>
-        <id>https://dev.to/shuai_wang_2cc568efc73821/how-to-format-validate-and-minify-json-2ohj</id>
-        <link href="https://dev.to/shuai_wang_2cc568efc73821/how-to-format-validate-and-minify-json-2ohj"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why 2048 Bet on No Engine and Vanilla JavaScript: The Weekend Web Page Behind a Viral Number Puzzle]]></title>
-        <id>https://dev.to/wlz/why-2048-bet-on-no-engine-and-vanilla-javascript-the-weekend-web-page-behind-a-viral-number-puzzle-4kdj</id>
-        <link href="https://dev.to/wlz/why-2048-bet-on-no-engine-and-vanilla-javascript-the-weekend-web-page-behind-a-viral-number-puzzle-4kdj"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Agent Converted the If/Else Chain to a Lookup Map and Dropped the Side Effect]]></title>
-        <id>https://dev.to/jeff_pdc/the-agent-converted-the-ifelse-chain-to-a-lookup-map-and-dropped-the-side-effect-3nk6</id>
-        <link href="https://dev.to/jeff_pdc/the-agent-converted-the-ifelse-chain-to-a-lookup-map-and-dropped-the-side-effect-3nk6"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AIClaw 3.7.15 Makes Windows Updates Easier with an Installer]]></title>
-        <id>https://dev.to/chowyu12/how-aiclaw-3715-makes-windows-updates-easier-with-an-installer-4a8k</id>
-        <link href="https://dev.to/chowyu12/how-aiclaw-3715-makes-windows-updates-easier-with-an-installer-4a8k"/>
+        <title type="html"><![CDATA[Compare building a modern React CRUD application with REST versus GraphQL. Understand query shapes, state mutations, and implementation patterns]]></title>
+        <id>https://dev.to/nileslabs/compare-building-a-modern-react-crud-application-with-rest-versus-graphql-understand-query-shapes-omo</id>
+        <link href="https://dev.to/nileslabs/compare-building-a-modern-react-crud-application-with-rest-versus-graphql-understand-query-shapes-omo"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
