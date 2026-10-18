@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-18 06:01:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-18 08:02:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -9,8 +9,8 @@
 
 - [2026-10-09-5-Good-Choices-for-HTML-Containers](https://blog.master.dev/5-good-choices-for-html-containers/) 
 - [2026-10-14-How-I-strip-photo-metadata-without-a-server](https://dev.to/toolvero/how-i-strip-photo-metadata-without-a-server-dn0) 
-- [2026-10-13-Handle-HTML-error-pages-before-parsing-a-video-metadata-response](https://dev.to/evanmercerdev/handle-html-error-pages-before-parsing-a-video-metadata-response-1n3n) 
 - [2026-10-13-An-open-crypto-scam-quiz-in-one-HTML-file:-no-build-step,-MIT-code,-CC-BY-4.0-content](https://dev.to/cryptostrapon/an-open-crypto-scam-quiz-in-one-html-file-no-build-step-mit-code-cc-by-40-content-47d9) 
+- [2026-10-13-Handle-HTML-error-pages-before-parsing-a-video-metadata-response](https://dev.to/evanmercerdev/handle-html-error-pages-before-parsing-a-video-metadata-response-1n3n) 
 - [2026-10-12-I-built-a-3D-virtual-world-base-layer-—-building-a-3D-world-or-metaverse-on-top-of-it-gets-you-twice-the-return-for-half-the-work](https://dev.to/miduo100/i-built-a-3d-virtual-world-base-layer-building-a-3d-world-or-metaverse-on-top-of-it-gets-you-3lfe) 
 - [2026-10-11-Building-a-High-Precision-Chinese-Metaphysics-Engine-in-the-Browser:-Solar-Terms,-Midnight-Rollovers,-and-266-Edge-Cases](https://dev.to/fds2003/building-a-high-precision-chinese-metaphysics-engine-in-the-browser-solar-terms-midnight-1bc) 
 - [2026-10-10-I-Tested-html2canvas,-html-to-image-and-modern-screenshot-on-the-Same-Card](https://dev.to/accreditly/i-tested-html2canvas-html-to-image-and-modern-screenshot-on-the-same-card-4424) 
@@ -20,15 +20,15 @@
 - [2026-10-03-Built-a-meta-tags-generator-with-live-previews-across-7-platforms-not-just-raw-HTML-output](https://dev.to/vipul_singh_755a9075cfbdd/built-a-meta-tags-generator-with-live-previews-across-7-platforms-not-just-raw-html-output-14k3) 
 - [2026-10-02-A-tiny-HTML-proposal-with-two-switches-and-one-render-function](https://dev.to/plopino/a-tiny-html-proposal-with-two-switches-and-one-render-function-2gf5) 
 - [2026-10-01-Why-"Unexpected-token-&lt;"-means-your-API-returned-HTML](https://dev.to/sharpenlee/why-unexpected-token-means-your-api-returned-html-431o) 
-- [2026-09-30-human.html](https://dev.to/learn2027/humanhtml-11n9) 
 - [2026-09-30-What-is-Simple-HTML?](https://dev.to/sathishkumar_0506/what-is-simple-html-51hf) 
+- [2026-09-30-human.html](https://dev.to/learn2027/humanhtml-11n9) 
 - [2026-09-26-I-Built-Two-Free-Productivity-Tools-in-Pure-HTML-—-Here's-How-They-Work](https://dev.to/mou1z/i-built-two-free-productivity-tools-in-pure-html-heres-how-they-work-4em6) 
-- [2026-09-25-Building-a-live-network-operations-wall-in-one-HTML-file](https://dev.to/tonygoodchild/building-a-live-network-operations-wall-in-one-html-file-227h) 
 - [2026-09-25-How-to-Build-Your-First-HTML-Web-Page:-A-Beginner-Friendly-Step-by-Step-Guide](https://dev.to/okoye_ndidiamaka_5e3b7d30/how-to-build-your-first-html-web-page-a-beginner-friendly-step-by-step-guide-3nik) 
-- [2026-09-22-How-to-Build-a-Gantt-Chart-for-Web-Apps-with-DHTMLX](https://dev.to/plazarev/how-to-build-a-gantt-chart-for-web-apps-with-dhtmlx-307j) 
+- [2026-09-25-Building-a-live-network-operations-wall-in-one-HTML-file](https://dev.to/tonygoodchild/building-a-live-network-operations-wall-in-one-html-file-227h) 
 - [2026-09-22-Pinterest-CAPI-Requires-event_id.-Meta-Only-Warns-on-the-Same-Field.](https://dev.to/aleksuix/pinterest-capi-requires-eventid-meta-only-warns-on-the-same-field-3ek8) 
-- [2026-09-21-Adding-portable-review-comments-to-a-single-HTML-file](https://dev.to/devyuuun/adding-portable-review-comments-to-a-single-html-file-200f) 
+- [2026-09-22-How-to-Build-a-Gantt-Chart-for-Web-Apps-with-DHTMLX](https://dev.to/plazarev/how-to-build-a-gantt-chart-for-web-apps-with-dhtmlx-307j) 
 - [2026-09-21-Struggling-With-Web-Development?-Your-HTML-Fundamentals-May-Be-the-Problem](https://dev.to/okoye_ndidiamaka_5e3b7d30/struggling-with-web-development-your-html-fundamentals-may-be-the-problem-1fd2) 
+- [2026-09-21-Adding-portable-review-comments-to-a-single-HTML-file](https://dev.to/devyuuun/adding-portable-review-comments-to-a-single-html-file-200f) 
 - [2026-09-19-Scraping-Meta's-Ad-Library-Without-a-Browser:-the-200-OK-That-Means-Blocked](https://dev.to/nikita_iakovlev_415524c19/scraping-metas-ad-library-without-a-browser-the-200-ok-that-means-blocked-18og) 
 - [2026-10-01--Sacred-Geometry-Generator:-draw,-tune,-and-export-Vesica-Piscis,-Seed-of-Life,-Flower-of-Life,-Metatron's-Cube,-and-the-Golden-Spiral-as-SVG-](
 https://github.com/evoluteur/sacred-geometry
@@ -138,8 +138,8 @@ https://slicker.me/javascript/metaballs/metaballs-tutorial.htm
 - [2026-09-22-Meta’s-AI-agent-has-been-blocked-from-using-Amazon.com](https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/) 
 - [2026-09-22-Meta’s-Muse-is-outpacing-ChatGPT’s-early-mobile-launch](https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/) 
 - [2026-10-16-We-Got-Hot-and-Heavy-With-Meta’s-Muse—and-Baffled-by-Apple’s-HomeView](https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/) 
-- [2026-10-13-Muse-Wonder-Puts-Meta-Back-at-the-AI-Frontier](https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/) 
 - [2026-10-13-I-Got-My-Muse-AI-Agent-to-Sext-Me—and-Meta-Says-That’s-Totally-Fine](https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/) 
+- [2026-10-13-Muse-Wonder-Puts-Meta-Back-at-the-AI-Frontier](https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/) 
 - [2026-10-09-She-Designed-Meta’s-New-AI-Logo.-Then-Came-the-Hate](https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/) 
 - [2026-10-07-I-Put-on-Meta-and-Xreal’s-XR-Glasses.-Face-Computers-Are-Finally-Getting-Good](https://www.wired.com/story/weve-tried-meta-and-xreals-xr-glasses-is-there-a-winner/) 
 - [2026-10-04-Meta-Glasses-Nova-Gen-3-Review:-Not-Much-New](https://www.wired.com/review/meta-glasses-gen-3/) 
