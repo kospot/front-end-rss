@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-18T00:02:58.060Z</updated>
+    <updated>2026-10-18T02:03:44.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -57,30 +57,37 @@
         <published>2026-10-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Neoism – An open-source agent harness and native IDE in Rust]]></title>
-        <id>https://neoism.ai/</id>
-        <link href="https://neoism.ai/"/>
+        <title type="html"><![CDATA[Citizen Science Groups Grapple with the Rise of A.I. Slop]]></title>
+        <id>https://www.nytimes.com/2026/10/16/science/citizen-science-ai-slop.html</id>
+        <link href="https://www.nytimes.com/2026/10/16/science/citizen-science-ai-slop.html"/>
         <updated>2026-10-17T16:00:00.000Z</updated>
         <published>2026-10-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bun PR – Compile TypeScript to machine code ahead of time]]></title>
-        <id>https://github.com/oven-sh/bun/pull/45631</id>
-        <link href="https://github.com/oven-sh/bun/pull/45631"/>
+        <title type="html"><![CDATA[What will AI do to our jobs and our wages? [video]]]></title>
+        <id>https://www.youtube.com/watch?v=kAkpzlR7io8</id>
+        <link href="https://www.youtube.com/watch?v=kAkpzlR7io8"/>
         <updated>2026-10-17T16:00:00.000Z</updated>
         <published>2026-10-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[All of the new 2026 Kindles have user replaceable batteries]]></title>
-        <id>https://goodereader.com/blog/kindle/all-of-the-new-2026-kindles-have-user-replaceable-batteries</id>
-        <link href="https://goodereader.com/blog/kindle/all-of-the-new-2026-kindles-have-user-replaceable-batteries"/>
+        <title type="html"><![CDATA[Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day]]></title>
+        <id>https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day</id>
+        <link href="https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day"/>
         <updated>2026-10-17T16:00:00.000Z</updated>
         <published>2026-10-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: What Got You into Rust?]]></title>
-        <id>https://news.ycombinator.com/item?id=50135186</id>
-        <link href="https://news.ycombinator.com/item?id=50135186"/>
+        <title type="html"><![CDATA[KrypticKode007 – Embodied Cybernetic Sentience Core Engine]]></title>
+        <id>https://github.com/KrypticKode007/kryptic-agent</id>
+        <link href="https://github.com/KrypticKode007/kryptic-agent"/>
+        <updated>2026-10-17T16:00:00.000Z</updated>
+        <published>2026-10-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inline rendering with document.currentScript]]></title>
+        <id>https://leanrada.com/notes/inline-rendering-currentscript/</id>
+        <link href="https://leanrada.com/notes/inline-rendering-currentscript/"/>
         <updated>2026-10-17T16:00:00.000Z</updated>
         <published>2026-10-17T16:00:00.000Z</published>
     </entry>
@@ -92,9 +99,30 @@
         <published>2026-10-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inline rendering with document.currentScript]]></title>
-        <id>https://leanrada.com/notes/inline-rendering-currentscript/</id>
-        <link href="https://leanrada.com/notes/inline-rendering-currentscript/"/>
+        <title type="html"><![CDATA[Ask HN: What Got You into Rust?]]></title>
+        <id>https://news.ycombinator.com/item?id=50135186</id>
+        <link href="https://news.ycombinator.com/item?id=50135186"/>
+        <updated>2026-10-17T16:00:00.000Z</updated>
+        <published>2026-10-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All of the new 2026 Kindles have user replaceable batteries]]></title>
+        <id>https://goodereader.com/blog/kindle/all-of-the-new-2026-kindles-have-user-replaceable-batteries</id>
+        <link href="https://goodereader.com/blog/kindle/all-of-the-new-2026-kindles-have-user-replaceable-batteries"/>
+        <updated>2026-10-17T16:00:00.000Z</updated>
+        <published>2026-10-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bun PR – Compile TypeScript to machine code ahead of time]]></title>
+        <id>https://github.com/oven-sh/bun/pull/45631</id>
+        <link href="https://github.com/oven-sh/bun/pull/45631"/>
+        <updated>2026-10-17T16:00:00.000Z</updated>
+        <published>2026-10-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neoism – An open-source agent harness and native IDE in Rust]]></title>
+        <id>https://neoism.ai/</id>
+        <link href="https://neoism.ai/"/>
         <updated>2026-10-17T16:00:00.000Z</updated>
         <published>2026-10-17T16:00:00.000Z</published>
     </entry>
@@ -113,65 +141,37 @@
         <published>2026-10-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Using Random Card Numbers in Your Checkout Tests (Use These Instead)]]></title>
-        <id>https://dev.to/mondaytool/stop-using-random-card-numbers-in-your-checkout-tests-use-these-instead-3o0e</id>
-        <link href="https://dev.to/mondaytool/stop-using-random-card-numbers-in-your-checkout-tests-use-these-instead-3o0e"/>
+        <title type="html"><![CDATA[How to accept crypto payments in Node.js (Express) in 5 minutes]]></title>
+        <id>https://dev.to/cigalpay/how-to-accept-crypto-payments-in-nodejs-express-in-5-minutes-4516</id>
+        <link href="https://dev.to/cigalpay/how-to-accept-crypto-payments-in-nodejs-express-in-5-minutes-4516"/>
         <updated>2026-10-17T16:00:00.000Z</updated>
         <published>2026-10-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deno Deploy Is Shutting Down: Where to Move Your App, and How Big the Move Is]]></title>
-        <id>https://dev.to/moksh/deno-deploy-is-shutting-down-where-to-move-your-app-and-how-big-the-move-is-4nli</id>
-        <link href="https://dev.to/moksh/deno-deploy-is-shutting-down-where-to-move-your-app-and-how-big-the-move-is-4nli"/>
+        <title type="html"><![CDATA[JavaScript Debounce vs Throttle: Differences and Examples]]></title>
+        <id>https://dev.to/devtalk94/javascript-debounce-vs-throttle-differences-and-examples-3ca1</id>
+        <link href="https://dev.to/devtalk94/javascript-debounce-vs-throttle-differences-and-examples-3ca1"/>
         <updated>2026-10-17T16:00:00.000Z</updated>
         <published>2026-10-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pricing Rollout Build Log: Correlated Frontend and Backend Browser Fetch Logging]]></title>
-        <id>https://dev.to/peterparker8991/pricing-rollout-build-log-correlated-frontend-and-backend-browser-fetch-logging-4fcl</id>
-        <link href="https://dev.to/peterparker8991/pricing-rollout-build-log-correlated-frontend-and-backend-browser-fetch-logging-4fcl"/>
+        <title type="html"><![CDATA[How We Built a 100% In-Browser Image to Bead Pattern Generator (CIE Lab Color Matching & Zero-Cost Architecture)]]></title>
+        <id>https://dev.to/peacoke/how-we-built-a-100-in-browser-image-to-bead-pattern-generator-cie-lab-color-matching-zero-cost-3ggj</id>
+        <link href="https://dev.to/peacoke/how-we-built-a-100-in-browser-image-to-bead-pattern-generator-cie-lab-color-matching-zero-cost-3ggj"/>
         <updated>2026-10-17T16:00:00.000Z</updated>
         <published>2026-10-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Turning a 3D configurator into a real quote - price and lead time, not just a pretty model]]></title>
-        <id>https://dev.to/gronskideveloper/turning-a-3d-configurator-into-a-real-quote-price-and-lead-time-not-just-a-pretty-model-3pe0</id>
-        <link href="https://dev.to/gronskideveloper/turning-a-3d-configurator-into-a-real-quote-price-and-lead-time-not-just-a-pretty-model-3pe0"/>
+        <title type="html"><![CDATA[Why your generated Anki image occlusion cards import as plain cloze (and the one-line fix)]]></title>
+        <id>https://dev.to/lxhsoluto-star/why-your-generated-anki-image-occlusion-cards-import-as-plain-cloze-and-the-one-line-fix-3hj3</id>
+        <link href="https://dev.to/lxhsoluto-star/why-your-generated-anki-image-occlusion-cards-import-as-plain-cloze-and-the-one-line-fix-3hj3"/>
         <updated>2026-10-17T16:00:00.000Z</updated>
         <published>2026-10-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bulletproof FinTech: Building Type-Safe Stripe and Adyen Payment Gateways in TypeScript]]></title>
-        <id>https://dev.to/programmingcentral/bulletproof-fintech-building-type-safe-stripe-and-adyen-payment-gateways-in-typescript-4433</id>
-        <link href="https://dev.to/programmingcentral/bulletproof-fintech-building-type-safe-stripe-and-adyen-payment-gateways-in-typescript-4433"/>
-        <updated>2026-10-17T16:00:00.000Z</updated>
-        <published>2026-10-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We fetched 104 AI-built sites the way GPTBot does. 61% were empty.]]></title>
-        <id>https://dev.to/georgi_kalchev_85d01f7368/we-fetched-104-ai-built-sites-the-way-gptbot-does-61-were-empty-2om0</id>
-        <link href="https://dev.to/georgi_kalchev_85d01f7368/we-fetched-104-ai-built-sites-the-way-gptbot-does-61-were-empty-2om0"/>
-        <updated>2026-10-17T16:00:00.000Z</updated>
-        <published>2026-10-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is anyone still reading that thread? Check the author's last reply with 3 free APIs]]></title>
-        <id>https://dev.to/kevan3010/is-anyone-still-reading-that-thread-check-the-authors-last-reply-with-3-free-apis-44i5</id>
-        <link href="https://dev.to/kevan3010/is-anyone-still-reading-that-thread-check-the-authors-last-reply-with-3-free-apis-44i5"/>
-        <updated>2026-10-17T16:00:00.000Z</updated>
-        <published>2026-10-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Type-Safe Web Scraping for AI Agents: Integrating Firecrawl into a TypeScript Monorepo]]></title>
-        <id>https://dev.to/ryan_gallagher/type-safe-web-scraping-for-ai-agents-integrating-firecrawl-into-a-typescript-monorepo-17lg</id>
-        <link href="https://dev.to/ryan_gallagher/type-safe-web-scraping-for-ai-agents-integrating-firecrawl-into-a-typescript-monorepo-17lg"/>
-        <updated>2026-10-17T16:00:00.000Z</updated>
-        <published>2026-10-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM JSON output: one setting dropped valid JSON from 75% to 4%]]></title>
-        <id>https://dev.to/mattbusel/llm-json-output-one-setting-dropped-valid-json-from-75-to-4-1o12</id>
-        <link href="https://dev.to/mattbusel/llm-json-output-one-setting-dropped-valid-json-from-75-to-4-1o12"/>
+        <title type="html"><![CDATA[Stack, Heap e memória: por que isso ainda importa para quem programa em JavaScript?]]></title>
+        <id>https://dev.to/lucasharosa/stack-heap-e-memoria-por-que-isso-ainda-importa-para-quem-programa-em-javascript-h30</id>
+        <link href="https://dev.to/lucasharosa/stack-heap-e-memoria-por-que-isso-ainda-importa-para-quem-programa-em-javascript-h30"/>
         <updated>2026-10-17T16:00:00.000Z</updated>
         <published>2026-10-17T16:00:00.000Z</published>
     </entry>
@@ -183,9 +183,65 @@
         <published>2026-10-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stack, Heap e memória: por que isso ainda importa para quem programa em JavaScript?]]></title>
-        <id>https://dev.to/lucasharosa/stack-heap-e-memoria-por-que-isso-ainda-importa-para-quem-programa-em-javascript-h30</id>
-        <link href="https://dev.to/lucasharosa/stack-heap-e-memoria-por-que-isso-ainda-importa-para-quem-programa-em-javascript-h30"/>
+        <title type="html"><![CDATA[LLM JSON output: one setting dropped valid JSON from 75% to 4%]]></title>
+        <id>https://dev.to/mattbusel/llm-json-output-one-setting-dropped-valid-json-from-75-to-4-1o12</id>
+        <link href="https://dev.to/mattbusel/llm-json-output-one-setting-dropped-valid-json-from-75-to-4-1o12"/>
+        <updated>2026-10-17T16:00:00.000Z</updated>
+        <published>2026-10-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Type-Safe Web Scraping for AI Agents: Integrating Firecrawl into a TypeScript Monorepo]]></title>
+        <id>https://dev.to/ryan_gallagher/type-safe-web-scraping-for-ai-agents-integrating-firecrawl-into-a-typescript-monorepo-17lg</id>
+        <link href="https://dev.to/ryan_gallagher/type-safe-web-scraping-for-ai-agents-integrating-firecrawl-into-a-typescript-monorepo-17lg"/>
+        <updated>2026-10-17T16:00:00.000Z</updated>
+        <published>2026-10-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is anyone still reading that thread? Check the author's last reply with 3 free APIs]]></title>
+        <id>https://dev.to/kevan3010/is-anyone-still-reading-that-thread-check-the-authors-last-reply-with-3-free-apis-44i5</id>
+        <link href="https://dev.to/kevan3010/is-anyone-still-reading-that-thread-check-the-authors-last-reply-with-3-free-apis-44i5"/>
+        <updated>2026-10-17T16:00:00.000Z</updated>
+        <published>2026-10-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We fetched 104 AI-built sites the way GPTBot does. 61% were empty.]]></title>
+        <id>https://dev.to/georgi_kalchev_85d01f7368/we-fetched-104-ai-built-sites-the-way-gptbot-does-61-were-empty-2om0</id>
+        <link href="https://dev.to/georgi_kalchev_85d01f7368/we-fetched-104-ai-built-sites-the-way-gptbot-does-61-were-empty-2om0"/>
+        <updated>2026-10-17T16:00:00.000Z</updated>
+        <published>2026-10-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bulletproof FinTech: Building Type-Safe Stripe and Adyen Payment Gateways in TypeScript]]></title>
+        <id>https://dev.to/programmingcentral/bulletproof-fintech-building-type-safe-stripe-and-adyen-payment-gateways-in-typescript-4433</id>
+        <link href="https://dev.to/programmingcentral/bulletproof-fintech-building-type-safe-stripe-and-adyen-payment-gateways-in-typescript-4433"/>
+        <updated>2026-10-17T16:00:00.000Z</updated>
+        <published>2026-10-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turning a 3D configurator into a real quote - price and lead time, not just a pretty model]]></title>
+        <id>https://dev.to/gronskideveloper/turning-a-3d-configurator-into-a-real-quote-price-and-lead-time-not-just-a-pretty-model-3pe0</id>
+        <link href="https://dev.to/gronskideveloper/turning-a-3d-configurator-into-a-real-quote-price-and-lead-time-not-just-a-pretty-model-3pe0"/>
+        <updated>2026-10-17T16:00:00.000Z</updated>
+        <published>2026-10-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pricing Rollout Build Log: Correlated Frontend and Backend Browser Fetch Logging]]></title>
+        <id>https://dev.to/peterparker8991/pricing-rollout-build-log-correlated-frontend-and-backend-browser-fetch-logging-4fcl</id>
+        <link href="https://dev.to/peterparker8991/pricing-rollout-build-log-correlated-frontend-and-backend-browser-fetch-logging-4fcl"/>
+        <updated>2026-10-17T16:00:00.000Z</updated>
+        <published>2026-10-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno Deploy Is Shutting Down: Where to Move Your App, and How Big the Move Is]]></title>
+        <id>https://dev.to/moksh/deno-deploy-is-shutting-down-where-to-move-your-app-and-how-big-the-move-is-4nli</id>
+        <link href="https://dev.to/moksh/deno-deploy-is-shutting-down-where-to-move-your-app-and-how-big-the-move-is-4nli"/>
+        <updated>2026-10-17T16:00:00.000Z</updated>
+        <published>2026-10-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Using Random Card Numbers in Your Checkout Tests (Use These Instead)]]></title>
+        <id>https://dev.to/mondaytool/stop-using-random-card-numbers-in-your-checkout-tests-use-these-instead-3o0e</id>
+        <link href="https://dev.to/mondaytool/stop-using-random-card-numbers-in-your-checkout-tests-use-these-instead-3o0e"/>
         <updated>2026-10-17T16:00:00.000Z</updated>
         <published>2026-10-17T16:00:00.000Z</published>
     </entry>
@@ -267,100 +323,44 @@
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: How much are developers trusting LLMs to write prod code?]]></title>
-        <id>https://news.ycombinator.com/item?id=50130686</id>
-        <link href="https://news.ycombinator.com/item?id=50130686"/>
+        <title type="html"><![CDATA[Meta Opens Muse Spark's Weights with Strings Attached]]></title>
+        <id>https://ailately.com/articles/meta-muse-spark-open-weights</id>
+        <link href="https://ailately.com/articles/meta-muse-spark-open-weights"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LA restaurant group used $60k Dodgers bet to hedge playoff risk, Kalshi says]]></title>
-        <id>https://www.reuters.com/sports/la-restaurant-group-used-60000-dodgers-bet-hedge-playoff-risk-kalshi-says-2026-10-16/</id>
-        <link href="https://www.reuters.com/sports/la-restaurant-group-used-60000-dodgers-bet-hedge-playoff-risk-kalshi-says-2026-10-16/"/>
+        <title type="html"><![CDATA[ConvyCanvas – AI Tutor for Euclid's Elements]]></title>
+        <id>https://convycanvas.com/elements/reader/#euclid_i/prop_001</id>
+        <link href="https://convycanvas.com/elements/reader/#euclid_i/prop_001"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: A daily deduction puzzle where one hex on a nautical chart is a lie]]></title>
-        <id>https://cartographerslie.com</id>
-        <link href="https://cartographerslie.com"/>
+        <title type="html"><![CDATA[Retired UPenn professor arrested after blocking Uber Eats robots]]></title>
+        <id>https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/</id>
+        <link href="https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Molecular 'scissors' open path to new therapies]]></title>
-        <id>https://newsroom.uw.edu/news-releases/molecular-scissors-open-path-to-new-therapies</id>
-        <link href="https://newsroom.uw.edu/news-releases/molecular-scissors-open-path-to-new-therapies"/>
+        <title type="html"><![CDATA[Show HN: UAC-Less Sudo for Windows]]></title>
+        <id>https://github.com/parkovski/wsudo</id>
+        <link href="https://github.com/parkovski/wsudo"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Strip Digital Signatures from PDFs Before Feeding Them to AI (LinuxGuide)]]></title>
-        <id>https://medium.com/@GiovambattistaVieri/strip-digital-signatures-from-pdfs-before-feeding-them-to-ai-linux-guide-611a023f8d7e</id>
-        <link href="https://medium.com/@GiovambattistaVieri/strip-digital-signatures-from-pdfs-before-feeding-them-to-ai-linux-guide-611a023f8d7e"/>
+        <title type="html"><![CDATA[A free .si domain checker with real registry data and sales comps]]></title>
+        <id>https://worthly.si/</id>
+        <link href="https://worthly.si/"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Emmanuel Maignan's gnomonic catoptric astrolabe at Palazzo Spada (2024) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=gPQNDe8YNvo</id>
-        <link href="https://www.youtube.com/watch?v=gPQNDe8YNvo"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Regular Expressions: Now You Have Two Problems (2008)]]></title>
-        <id>https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/</id>
-        <link href="https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Animated step-by-step hints for any cryptic crossword clue]]></title>
-        <id>https://crypticinkling.co.uk</id>
-        <link href="https://crypticinkling.co.uk"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microplastics React with Water, a New Study Says. That's a Problem for Biology]]></title>
-        <id>https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology/</id>
-        <link href="https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology/"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Which Mac runs which LLM, and how fast]]></title>
-        <id>https://macyou.co/mac-llm-calculator</id>
-        <link href="https://macyou.co/mac-llm-calculator"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI engineers became hot property. Now they're targets for seduction]]></title>
-        <id>https://economictimes.indiatimes.com/ai/ai-insights/ai-engineers-became-hot-property-now-theyre-targets-for-seduction/articleshow/134998519.cms?from=mdr</id>
-        <link href="https://economictimes.indiatimes.com/ai/ai-insights/ai-engineers-became-hot-property-now-theyre-targets-for-seduction/articleshow/134998519.cms?from=mdr"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I deployed a Prolog WAF on a free-tier GCP instance with only 1 GB RAM]]></title>
-        <id>https://prologwaf.site/</id>
-        <link href="https://prologwaf.site/"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alef Aeronautics Flying Car [video]]]></title>
-        <id>https://www.youtube.com/watch?v=stmWapR3CWY</id>
-        <link href="https://www.youtube.com/watch?v=stmWapR3CWY"/>
-        <updated>2026-10-16T16:00:00.000Z</updated>
-        <published>2026-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZLIB-TURBO: Zlib, faster, and byte for byte the same]]></title>
-        <id>https://github.com/icodywu/zlib-turbo</id>
-        <link href="https://github.com/icodywu/zlib-turbo"/>
+        <title type="html"><![CDATA[Ask HN: What was your favourite thread in the last two weeks?]]></title>
+        <id>https://news.ycombinator.com/item?id=50129539</id>
+        <link href="https://news.ycombinator.com/item?id=50129539"/>
         <updated>2026-10-16T16:00:00.000Z</updated>
         <published>2026-10-16T16:00:00.000Z</published>
     </entry>
