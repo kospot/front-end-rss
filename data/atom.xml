@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-19T22:01:23.356Z</updated>
+    <updated>2026-10-20T00:02:35.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,9 +36,23 @@
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tenstorrent hits $6.2B valuation to scale open-weight AI chips]]></title>
-        <id>https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/</id>
-        <link href="https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"/>
+        <title type="html"><![CDATA[Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal]]></title>
+        <id>https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/</id>
+        <link href="https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"/>
+        <updated>2026-10-19T16:00:00.000Z</updated>
+        <published>2026-10-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says]]></title>
+        <id>https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/</id>
+        <link href="https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"/>
+        <updated>2026-10-19T16:00:00.000Z</updated>
+        <published>2026-10-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’]]></title>
+        <id>https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/</id>
+        <link href="https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
@@ -46,6 +60,13 @@
         <title type="html"><![CDATA[Amazon to fund 12 small nuclear reactors at former Indiana coal plant]]></title>
         <id>https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/</id>
         <link href="https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/"/>
+        <updated>2026-10-19T16:00:00.000Z</updated>
+        <published>2026-10-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tenstorrent hits $6.2B valuation to scale open-weight AI chips]]></title>
+        <id>https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/</id>
+        <link href="https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
@@ -120,16 +141,9 @@
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gaussian Splatting for Self-Driving Simulation, Built in Plain PyTorch on a Laptop GPU]]></title>
-        <id>https://pub.towardsai.net/gaussian-splatting-for-self-driving-simulation-built-in-plain-pytorch-on-a-laptop-gpu-49ed66a0d7c6?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/gaussian-splatting-for-self-driving-simulation-built-in-plain-pytorch-on-a-laptop-gpu-49ed66a0d7c6?source=rss----98111c9905da---4"/>
-        <updated>2026-10-19T16:00:00.000Z</updated>
-        <published>2026-10-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Batch Normalization Finally Explained: Why Deep Networks Stop Chasing a Moving Target]]></title>
-        <id>https://pub.towardsai.net/batch-normalization-finally-explained-why-deep-networks-stop-chasing-a-moving-target-ab0fa34bc8a0?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/batch-normalization-finally-explained-why-deep-networks-stop-chasing-a-moving-target-ab0fa34bc8a0?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[I Built a Code Search Engine With EmbeddingGemma 2 in 80 Lines of Python]]></title>
+        <id>https://pub.towardsai.net/i-built-a-code-search-engine-with-embeddinggemma-2-in-80-lines-of-python-1b2d5b5cbecc?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-built-a-code-search-engine-with-embeddinggemma-2-in-80-lines-of-python-1b2d5b5cbecc?source=rss----98111c9905da---4"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
@@ -141,6 +155,20 @@
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Batch Normalization Finally Explained: Why Deep Networks Stop Chasing a Moving Target]]></title>
+        <id>https://pub.towardsai.net/batch-normalization-finally-explained-why-deep-networks-stop-chasing-a-moving-target-ab0fa34bc8a0?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/batch-normalization-finally-explained-why-deep-networks-stop-chasing-a-moving-target-ab0fa34bc8a0?source=rss----98111c9905da---4"/>
+        <updated>2026-10-19T16:00:00.000Z</updated>
+        <published>2026-10-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gaussian Splatting for Self-Driving Simulation, Built in Plain PyTorch on a Laptop GPU]]></title>
+        <id>https://pub.towardsai.net/gaussian-splatting-for-self-driving-simulation-built-in-plain-pytorch-on-a-laptop-gpu-49ed66a0d7c6?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/gaussian-splatting-for-self-driving-simulation-built-in-plain-pytorch-on-a-laptop-gpu-49ed66a0d7c6?source=rss----98111c9905da---4"/>
+        <updated>2026-10-19T16:00:00.000Z</updated>
+        <published>2026-10-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to continue a GitHub Copilot app session in VS Code]]></title>
         <id>https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/</id>
         <link href="https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/"/>
@@ -148,23 +176,57 @@
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UK PAYE vs US Withholding: A Developer's Guide]]></title>
-        <id>https://dev.to/tanzeel_abbas_1288a9e8d4c/uk-paye-vs-us-withholding-a-developers-guide-3kld</id>
-        <link href="https://dev.to/tanzeel_abbas_1288a9e8d4c/uk-paye-vs-us-withholding-a-developers-guide-3kld"/>
+        <title type="html"><![CDATA[
+kafka-harbor: the Kafka layer every Node.js team rebuilds by hand, done once
+]]></title>
+        <id>
+https://dev.to/pinceladasdaweb/kafka-harbor-the-kafka-layer-every-nodejs-team-rebuilds-by-hand-done-once-35id
+</id>
+        <link href="
+https://dev.to/pinceladasdaweb/kafka-harbor-the-kafka-layer-every-nodejs-team-rebuilds-by-hand-done-once-35id
+"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create an Interactive Audio Story Generator]]></title>
-        <id>https://dev.to/voice_developer/create-an-interactive-audio-story-generator-eln</id>
-        <link href="https://dev.to/voice_developer/create-an-interactive-audio-story-generator-eln"/>
+        <title type="html"><![CDATA[Official exchange rates in Python without an API key (ECB, NBP, CNB, Bank of Canada, Norges Bank)]]></title>
+        <id>https://dev.to/rel8ble/official-exchange-rates-in-python-without-an-api-key-ecb-nbp-cnb-bank-of-canada-norges-bank-3kpe</id>
+        <link href="https://dev.to/rel8ble/official-exchange-rates-in-python-without-an-api-key-ecb-nbp-cnb-bank-of-canada-norges-bank-3kpe"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I used local open-weight AI to avoid three phantom GitHub bounties]]></title>
-        <id>https://dev.to/livasticvm1primary/i-used-local-open-weight-ai-to-avoid-three-phantom-github-bounties-3m06</id>
-        <link href="https://dev.to/livasticvm1primary/i-used-local-open-weight-ai-to-avoid-three-phantom-github-bounties-3m06"/>
+        <title type="html"><![CDATA[Building a no-code app builder out of small pure modules, and testing each one on its own]]></title>
+        <id>https://dev.to/nebosa_company_0edc92e18b/building-a-no-code-app-builder-out-of-small-pure-modules-and-testing-each-one-on-its-own-5aa3</id>
+        <link href="https://dev.to/nebosa_company_0edc92e18b/building-a-no-code-app-builder-out-of-small-pure-modules-and-testing-each-one-on-its-own-5aa3"/>
+        <updated>2026-10-19T16:00:00.000Z</updated>
+        <published>2026-10-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amoxi: Fast pages with very little JavaScript]]></title>
+        <id>https://dev.to/karawash-projects/amoxi-fast-pages-with-very-little-javascript-484</id>
+        <link href="https://dev.to/karawash-projects/amoxi-fast-pages-with-very-little-javascript-484"/>
+        <updated>2026-10-19T16:00:00.000Z</updated>
+        <published>2026-10-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before you pay a CSV x402 API: why HTTP 400 must come before 402]]></title>
+        <id>https://dev.to/livasticvm1primary/before-you-pay-a-csv-x402-api-why-http-400-must-come-before-402-220k</id>
+        <link href="https://dev.to/livasticvm1primary/before-you-pay-a-csv-x402-api-why-http-400-must-come-before-402-220k"/>
+        <updated>2026-10-19T16:00:00.000Z</updated>
+        <published>2026-10-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Client-Side Invoicing Engine & Statutory UK CIS Calculator in TypeScript]]></title>
+        <id>https://dev.to/sarmad_hussain_771d6c87fa/building-a-client-side-invoicing-engine-statutory-uk-cis-calculator-in-typescript-4kn5</id>
+        <link href="https://dev.to/sarmad_hussain_771d6c87fa/building-a-client-side-invoicing-engine-statutory-uk-cis-calculator-in-typescript-4kn5"/>
+        <updated>2026-10-19T16:00:00.000Z</updated>
+        <published>2026-10-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERR_REQUIRE_ESM in Node: Fix CommonJS/ESM Conflicts and Pick tsx, ts-node or tsup]]></title>
+        <id>https://dev.to/libme/errrequireesm-in-node-fix-commonjsesm-conflicts-and-pick-tsx-ts-node-or-tsup-16ih</id>
+        <link href="https://dev.to/libme/errrequireesm-in-node-fix-commonjsesm-conflicts-and-pick-tsx-ts-node-or-tsup-16ih"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
@@ -176,58 +238,30 @@
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Democrats think cracking down on AI could give them an edge]]></title>
-        <id>https://www.theverge.com/policy/1013113/democrats-ai-midterms</id>
-        <link href="https://www.theverge.com/policy/1013113/democrats-ai-midterms"/>
-        <updated>2026-10-18T16:00:00.000Z</updated>
-        <published>2026-10-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I used local open-weight AI to avoid three phantom GitHub bounties]]></title>
+        <id>https://dev.to/livasticvm1primary/i-used-local-open-weight-ai-to-avoid-three-phantom-github-bounties-3m06</id>
+        <link href="https://dev.to/livasticvm1primary/i-used-local-open-weight-ai-to-avoid-three-phantom-github-bounties-3m06"/>
+        <updated>2026-10-19T16:00:00.000Z</updated>
+        <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Maeving RM2 is high-style electric riding with a few compromises]]></title>
-        <id>https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs</id>
-        <link href="https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs"/>
-        <updated>2026-10-18T16:00:00.000Z</updated>
-        <published>2026-10-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Create an Interactive Audio Story Generator]]></title>
+        <id>https://dev.to/voice_developer/create-an-interactive-audio-story-generator-eln</id>
+        <link href="https://dev.to/voice_developer/create-an-interactive-audio-story-generator-eln"/>
+        <updated>2026-10-19T16:00:00.000Z</updated>
+        <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mister Organ is one of the most unsettling documentaries I’ve ever seen]]></title>
-        <id>https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review</id>
-        <link href="https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review"/>
-        <updated>2026-10-18T16:00:00.000Z</updated>
-        <published>2026-10-18T16:00:00.000Z</published>
+        <title type="html"><![CDATA[UK PAYE vs US Withholding: A Developer's Guide]]></title>
+        <id>https://dev.to/tanzeel_abbas_1288a9e8d4c/uk-paye-vs-us-withholding-a-developers-guide-3kld</id>
+        <link href="https://dev.to/tanzeel_abbas_1288a9e8d4c/uk-paye-vs-us-withholding-a-developers-guide-3kld"/>
+        <updated>2026-10-19T16:00:00.000Z</updated>
+        <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A woman was arrested in Philly for blocking a delivery robot]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot"/>
-        <updated>2026-10-18T16:00:00.000Z</updated>
-        <published>2026-10-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video game ownership bill introduced in Congress]]></title>
-        <id>https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act</id>
-        <link href="https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act"/>
-        <updated>2026-10-18T16:00:00.000Z</updated>
-        <published>2026-10-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wyze moved the screen on its new smart scale to the handle so it’s easier to read at eye level]]></title>
-        <id>https://www.theverge.com/tech/1013081/wyze-smart-scale-ultra-bodyscan-plus-handle-display</id>
-        <link href="https://www.theverge.com/tech/1013081/wyze-smart-scale-ultra-bodyscan-plus-handle-display"/>
-        <updated>2026-10-18T16:00:00.000Z</updated>
-        <published>2026-10-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s hard to imagine wireless headphones ever getting lighter than these]]></title>
-        <id>https://www.theverge.com/tech/1013635/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these</id>
-        <link href="https://www.theverge.com/tech/1013635/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these"/>
-        <updated>2026-10-18T16:00:00.000Z</updated>
-        <published>2026-10-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk promises to give one SpaceX share to every child in the US]]></title>
-        <id>https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children</id>
-        <link href="https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children"/>
+        <title type="html"><![CDATA[Apple’s last-gen Mac Mini with the M4 is $150 off]]></title>
+        <id>https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale"/>
         <updated>2026-10-18T16:00:00.000Z</updated>
         <published>2026-10-18T16:00:00.000Z</published>
     </entry>
@@ -239,9 +273,58 @@
         <published>2026-10-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple’s last-gen Mac Mini with the M4 is $150 off]]></title>
-        <id>https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale"/>
+        <title type="html"><![CDATA[Elon Musk promises to give one SpaceX share to every child in the US]]></title>
+        <id>https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children</id>
+        <link href="https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children"/>
+        <updated>2026-10-18T16:00:00.000Z</updated>
+        <published>2026-10-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s hard to imagine wireless headphones ever getting lighter than these]]></title>
+        <id>https://www.theverge.com/tech/1013635/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these</id>
+        <link href="https://www.theverge.com/tech/1013635/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these"/>
+        <updated>2026-10-18T16:00:00.000Z</updated>
+        <published>2026-10-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wyze moved the screen on its new smart scale to the handle so it’s easier to read at eye level]]></title>
+        <id>https://www.theverge.com/tech/1013081/wyze-smart-scale-ultra-bodyscan-plus-handle-display</id>
+        <link href="https://www.theverge.com/tech/1013081/wyze-smart-scale-ultra-bodyscan-plus-handle-display"/>
+        <updated>2026-10-18T16:00:00.000Z</updated>
+        <published>2026-10-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video game ownership bill introduced in Congress]]></title>
+        <id>https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act</id>
+        <link href="https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act"/>
+        <updated>2026-10-18T16:00:00.000Z</updated>
+        <published>2026-10-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A woman was arrested in Philly for blocking a delivery robot]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot"/>
+        <updated>2026-10-18T16:00:00.000Z</updated>
+        <published>2026-10-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mister Organ is one of the most unsettling documentaries I’ve ever seen]]></title>
+        <id>https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review</id>
+        <link href="https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review"/>
+        <updated>2026-10-18T16:00:00.000Z</updated>
+        <published>2026-10-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Maeving RM2 is high-style electric riding with a few compromises]]></title>
+        <id>https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs</id>
+        <link href="https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs"/>
+        <updated>2026-10-18T16:00:00.000Z</updated>
+        <published>2026-10-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Democrats think cracking down on AI could give them an edge]]></title>
+        <id>https://www.theverge.com/policy/1013113/democrats-ai-midterms</id>
+        <link href="https://www.theverge.com/policy/1013113/democrats-ai-midterms"/>
         <updated>2026-10-18T16:00:00.000Z</updated>
         <published>2026-10-18T16:00:00.000Z</published>
     </entry>
@@ -281,86 +364,9 @@
         <published>2026-10-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review]]></title>
-        <id>https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/</id>
-        <link href="https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/"/>
-        <updated>2026-10-18T16:00:00.000Z</updated>
-        <published>2026-10-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Musk pledges to give ‘every kid in America’ one of his SpaceX shares]]></title>
-        <id>https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/</id>
-        <link href="https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/"/>
-        <updated>2026-10-18T16:00:00.000Z</updated>
-        <published>2026-10-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’]]></title>
-        <id>https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/</id>
-        <link href="https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/"/>
-        <updated>2026-10-18T16:00:00.000Z</updated>
-        <published>2026-10-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market]]></title>
         <id>https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/</id>
         <link href="https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/"/>
-        <updated>2026-10-18T16:00:00.000Z</updated>
-        <published>2026-10-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plex2Shell: Unauthenticated RCE in Plex Media Server]]></title>
-        <id>https://zmain.info/blog/plex2shell</id>
-        <link href="https://zmain.info/blog/plex2shell"/>
-        <updated>2026-10-18T16:00:00.000Z</updated>
-        <published>2026-10-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starlink pushes back against EU-imposed restrictions on satellite telephony]]></title>
-        <id>https://www.lemonde.fr/en/economy/article/2026/07/01/starlink-pushes-back-against-eu-imposed-restrictions-on-satellite-telephony_6755058_19.html</id>
-        <link href="https://www.lemonde.fr/en/economy/article/2026/07/01/starlink-pushes-back-against-eu-imposed-restrictions-on-satellite-telephony_6755058_19.html"/>
-        <updated>2026-10-18T16:00:00.000Z</updated>
-        <published>2026-10-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Calendarpit – Local Google Calendar API and OAuth Server for Testing]]></title>
-        <id>https://github.com/iktakahiro/calendarpit</id>
-        <link href="https://github.com/iktakahiro/calendarpit"/>
-        <updated>2026-10-18T16:00:00.000Z</updated>
-        <published>2026-10-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OneMemory – self-hosted shared memory for all your AI agents (Docker one-liner)]]></title>
-        <id>https://github.com/calasdan-sketch/onememory</id>
-        <link href="https://github.com/calasdan-sketch/onememory"/>
-        <updated>2026-10-18T16:00:00.000Z</updated>
-        <published>2026-10-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding Interesting Papers in ACL Workshop Proceedings]]></title>
-        <id>https://www.juriopitz.com/2026/10/19/interesting-papers-in-workshops.html</id>
-        <link href="https://www.juriopitz.com/2026/10/19/interesting-papers-in-workshops.html"/>
-        <updated>2026-10-18T16:00:00.000Z</updated>
-        <published>2026-10-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Efficient Extraction for Effectful E-graphs]]></title>
-        <id>https://ztatlock.net/pubs/2026-oopsla-eggcc/</id>
-        <link href="https://ztatlock.net/pubs/2026-oopsla-eggcc/"/>
-        <updated>2026-10-18T16:00:00.000Z</updated>
-        <published>2026-10-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Unbanished – Modern cross platform and browser Rust engine for Banished]]></title>
-        <id>https://tanepiper.github.io/unbanished/</id>
-        <link href="https://tanepiper.github.io/unbanished/"/>
-        <updated>2026-10-18T16:00:00.000Z</updated>
-        <published>2026-10-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting my TOTP data out of Twilio's Authy app thanks to the GDPR]]></title>
-        <id>https://blog.tomayac.com/2026/10/17/getting-my-totp-data-out-of-twilios-authy-app-thanks-to-the-gdpr/</id>
-        <link href="https://blog.tomayac.com/2026/10/17/getting-my-totp-data-out-of-twilios-authy-app-thanks-to-the-gdpr/"/>
         <updated>2026-10-18T16:00:00.000Z</updated>
         <published>2026-10-18T16:00:00.000Z</published>
     </entry>
