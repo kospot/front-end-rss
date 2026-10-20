@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-20T13:03:48.177Z</updated>
+    <updated>2026-10-20T15:03:04.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,16 +29,9 @@
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Antigravity just halved the price of its drone — by swapping its headset for wristwatch control]]></title>
-        <id>https://www.theverge.com/tech/1014063/antigravity-a1-drone-follow-me-watch-ring-control</id>
-        <link href="https://www.theverge.com/tech/1014063/antigravity-a1-drone-follow-me-watch-ring-control"/>
-        <updated>2026-10-19T16:00:00.000Z</updated>
-        <published>2026-10-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify’s new podcast memberships let you pay for extra perks]]></title>
-        <id>https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch</id>
-        <link href="https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch"/>
+        <title type="html"><![CDATA[Baseus’ new security camera has a spotlight that tracks and follows moving targets]]></title>
+        <id>https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight</id>
+        <link href="https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
@@ -50,9 +43,16 @@
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Baseus’ new security camera has a spotlight that tracks and follows moving targets]]></title>
-        <id>https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight</id>
-        <link href="https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight"/>
+        <title type="html"><![CDATA[Spotify’s new podcast memberships let you pay for extra perks]]></title>
+        <id>https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch</id>
+        <link href="https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch"/>
+        <updated>2026-10-19T16:00:00.000Z</updated>
+        <published>2026-10-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antigravity just halved the price of its drone — by swapping its headset for wristwatch control]]></title>
+        <id>https://www.theverge.com/tech/1014063/antigravity-a1-drone-follow-me-watch-ring-control</id>
+        <link href="https://www.theverge.com/tech/1014063/antigravity-a1-drone-follow-me-watch-ring-control"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
@@ -120,37 +120,30 @@
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal]]></title>
-        <id>https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/</id>
-        <link href="https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"/>
+        <title type="html"><![CDATA[Figma co-founder Dylan Field thinks MCP is not a perfect protocol]]></title>
+        <id>https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/</id>
+        <link href="https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says]]></title>
-        <id>https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/</id>
-        <link href="https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"/>
+        <title type="html"><![CDATA[US orders federal agencies to remove China’s DeepSeek AI from their systems]]></title>
+        <id>https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/</id>
+        <link href="https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’]]></title>
-        <id>https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/</id>
-        <link href="https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"/>
+        <title type="html"><![CDATA[Spotify launches paid podcast memberships with perks beyond bonus content]]></title>
+        <id>https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/</id>
+        <link href="https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon to fund 12 small nuclear reactors at former Indiana coal plant]]></title>
-        <id>https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/</id>
-        <link href="https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/"/>
-        <updated>2026-10-19T16:00:00.000Z</updated>
-        <published>2026-10-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tenstorrent hits $6.2B valuation to scale open-weight AI chips]]></title>
-        <id>https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/</id>
-        <link href="https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"/>
+        <title type="html"><![CDATA[Yelp can now call on your behalf to check wait times at a restaurant]]></title>
+        <id>https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/</id>
+        <link href="https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
@@ -162,205 +155,212 @@
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Did-It-Actually: hooks that catch Claude Code hallucinations before they ship]]></title>
-        <id>https://98dkcc488b.gumroad.com/l/did-it-actually</id>
-        <link href="https://98dkcc488b.gumroad.com/l/did-it-actually"/>
+        <title type="html"><![CDATA[Tenstorrent hits $6.2B valuation to scale open-weight AI chips]]></title>
+        <id>https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/</id>
+        <link href="https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloudflare's Clairic pulls data from documents faster and cheaper than LLMs]]></title>
-        <id>https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/</id>
-        <link href="https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/"/>
+        <title type="html"><![CDATA[Amazon to fund 12 small nuclear reactors at former Indiana coal plant]]></title>
+        <id>https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/</id>
+        <link href="https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Documents Reveal Military Plan for Agentic AI That Hacks U.S. Adversaries]]></title>
-        <id>https://gizmodo.com/documents-reveal-military-plan-for-agentic-ai-that-hacks-u-s-adversaries-2000827957</id>
-        <link href="https://gizmodo.com/documents-reveal-military-plan-for-agentic-ai-that-hacks-u-s-adversaries-2000827957"/>
+        <title type="html"><![CDATA[Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’]]></title>
+        <id>https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/</id>
+        <link href="https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ESP-Mosaico means infinite possibilities to open source hardware [video]]]></title>
-        <id>https://www.youtube.com/watch?v=x-ubJL2b5kw</id>
-        <link href="https://www.youtube.com/watch?v=x-ubJL2b5kw"/>
+        <title type="html"><![CDATA[Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says]]></title>
+        <id>https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/</id>
+        <link href="https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Which companies build both their own model and their own harness for it]]></title>
-        <id>https://aicode.danvoronov.com/2026-10/20_11-32/</id>
-        <link href="https://aicode.danvoronov.com/2026-10/20_11-32/"/>
+        <title type="html"><![CDATA[Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal]]></title>
+        <id>https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/</id>
+        <link href="https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sóþspell is an LLM-guided walkthrough of any git repo]]></title>
-        <id>https://github.com/anthonyclarka2/sothspell</id>
-        <link href="https://github.com/anthonyclarka2/sothspell"/>
+        <title type="html"><![CDATA[why you should keep growing your coding skills [video]]]></title>
+        <id>https://www.youtube.com/watch?v=5KYCm0-OGL4</id>
+        <link href="https://www.youtube.com/watch?v=5KYCm0-OGL4"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NixOS is making me less afraid]]></title>
-        <id>https://entropicthoughts.com/nixos-is-making-me-less-afraid</id>
-        <link href="https://entropicthoughts.com/nixos-is-making-me-less-afraid"/>
+        <title type="html"><![CDATA[One GPU cluster across every cloud]]></title>
+        <id>https://getovercast.com</id>
+        <link href="https://getovercast.com"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Content Injection on Portfolio.metamask.io]]></title>
-        <id>https://kauz.gmbh/research/metamask-portfolio-phishing/</id>
-        <link href="https://kauz.gmbh/research/metamask-portfolio-phishing/"/>
+        <title type="html"><![CDATA[FastAPI-stream-lease – Limit concurrent SSE/LLM streams instead of req/min]]></title>
+        <id>https://github.com/agustin18/fastapi-stream-lease</id>
+        <link href="https://github.com/agustin18/fastapi-stream-lease"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vibecoding an LLVM TypeScript Compiler]]></title>
-        <id>https://news.ycombinator.com/item?id=50162270</id>
-        <link href="https://news.ycombinator.com/item?id=50162270"/>
+        <title type="html"><![CDATA[The NSAI Guide: Non-Stochastic AI Architecture and Execution]]></title>
+        <id>https://github.com/TheImmortalPython/the-nsai-guide</id>
+        <link href="https://github.com/TheImmortalPython/the-nsai-guide"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pikeru – a file picker with thumbnails, semantic search, and image viewer]]></title>
-        <id>https://github.com/dvhar/pikeru</id>
-        <link href="https://github.com/dvhar/pikeru"/>
+        <title type="html"><![CDATA[A third of MCP registry servers listed before late September don't respond]]></title>
+        <id>https://vouch.tools/research/mcp-census-2026-10</id>
+        <link href="https://vouch.tools/research/mcp-census-2026-10"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vite+ an excellent toolchain for AI agent development]]></title>
-        <id>https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en</id>
-        <link href="https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en"/>
+        <title type="html"><![CDATA[Show HN: Simulate 3D Plants in the Browser with Nodes]]></title>
+        <id>https://nodes.max-richter.dev/</id>
+        <link href="https://nodes.max-richter.dev/"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MicroG: Free-libre re-implementation of Google's proprietary Android user space]]></title>
-        <id>https://github.com/microg/GmsCore/wiki</id>
-        <link href="https://github.com/microg/GmsCore/wiki"/>
+        <title type="html"><![CDATA[Ask HN: Is charging for software a thing of the past?]]></title>
+        <id>https://news.ycombinator.com/item?id=50167159</id>
+        <link href="https://news.ycombinator.com/item?id=50167159"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EFF Launches Privacy Badger for Safari on macOS]]></title>
-        <id>https://www.eff.org/press/releases/eff-launches-privacy-badger-safari-macos</id>
-        <link href="https://www.eff.org/press/releases/eff-launches-privacy-badger-safari-macos"/>
+        <title type="html"><![CDATA[GitHub's new license gate can block merges. Roll it out carefully]]></title>
+        <id>https://code.geohack.top/post/github-open-source-license-compliance-rollout</id>
+        <link href="https://code.geohack.top/post/github-open-source-license-compliance-rollout"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Kubectl-skyline – View your Kubernetes cluster as a 3D city]]></title>
-        <id>https://github.com/zdk/kubectl-skyline</id>
-        <link href="https://github.com/zdk/kubectl-skyline"/>
+        <title type="html"><![CDATA[I Did This Without Your Knowledge]]></title>
+        <id>https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge</id>
+        <link href="https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenPCIE – FPGA Root Complex, OpenBackplane, EduBOS5 RISC-V, Co-SIM]]></title>
-        <id>https://github.com/chili-chips-ba/openPCIE</id>
-        <link href="https://github.com/chili-chips-ba/openPCIE"/>
+        <title type="html"><![CDATA[Amazon to fund 12 small nuclear reactors at former Indiana coal plant\]]></title>
+        <id>https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/</id>
+        <link href="https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Language of Public Transit [video]]]></title>
-        <id>https://www.youtube.com/watch?v=swcMC1Talk0</id>
-        <link href="https://www.youtube.com/watch?v=swcMC1Talk0"/>
+        <title type="html"><![CDATA[You can control this robot (for free)]]></title>
+        <id>https://www.youtube.com/watch?v=jorcg0Bx3Cw</id>
+        <link href="https://www.youtube.com/watch?v=jorcg0Bx3Cw"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Victoria Secret Video Generator – Turn a photo into a runway video]]></title>
-        <id>https://victoriasecretvideo.com/</id>
-        <link href="https://victoriasecretvideo.com/"/>
+        <title type="html"><![CDATA[Stateless Agents: How to make AI work for teams]]></title>
+        <id>https://busabase.com/blog/how-to-make-ai-work-for-teams</id>
+        <link href="https://busabase.com/blog/how-to-make-ai-work-for-teams"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Two Firefighters Died in Yosemite–For What?]]></title>
-        <id>https://www.theatlantic.com/science/2026/10/yosemite-fires/689069/</id>
-        <link href="https://www.theatlantic.com/science/2026/10/yosemite-fires/689069/"/>
+        <title type="html"><![CDATA[China's DeepSeek deep-sixed at all US federal civilian agencies]]></title>
+        <id>https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010</id>
+        <link href="https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New AI tool can predict cancer survival by a single patient selfie]]></title>
-        <id>https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie</id>
-        <link href="https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie"/>
+        <title type="html"><![CDATA[UK Defence Startups Are Being Denied Banking Services Under ESG Rules]]></title>
+        <id>https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules</id>
+        <link href="https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Privacy Layer for Frontier Models]]></title>
-        <id>https://privai-sandy.vercel.app/</id>
-        <link href="https://privai-sandy.vercel.app/"/>
+        <title type="html"><![CDATA[Everygen AI – AI Video, Image, Shorts and Ads Studio]]></title>
+        <id>https://www.everygens.com/</id>
+        <link href="https://www.everygens.com/"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ukrainian drone flies wounded soldier from front line]]></title>
-        <id>https://www.abc.net.au/news/2026-10-20/ukraine-airlifts-wounded-soldier-with-drone-in-world-first/107286436</id>
-        <link href="https://www.abc.net.au/news/2026-10-20/ukraine-airlifts-wounded-soldier-with-drone-in-world-first/107286436"/>
+        <title type="html"><![CDATA[Show HN: Don't Get Nerf'd by Document Processing]]></title>
+        <id>https://extract.nerfguard.com</id>
+        <link href="https://extract.nerfguard.com"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[America's new era of private science]]></title>
-        <id>https://www.economist.com/science-and-technology/2026/10/19/americas-new-era-of-private-science</id>
-        <link href="https://www.economist.com/science-and-technology/2026/10/19/americas-new-era-of-private-science"/>
+        <title type="html"><![CDATA[Cloudflare: There is a major outage on Zero Trust services]]></title>
+        <id>https://www.cloudflarestatus.com/incidents/0eqtn0khkz87</id>
+        <link href="https://www.cloudflarestatus.com/incidents/0eqtn0khkz87"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2026 is a year for the Rust compiler (and me)]]></title>
-        <id>https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/</id>
-        <link href="https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/"/>
+        <title type="html"><![CDATA[Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages]]></title>
+        <id>https://www.jhiblog.org/2026/10/19/clockwork-metaphors/</id>
+        <link href="https://www.jhiblog.org/2026/10/19/clockwork-metaphors/"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The United States of Israel [video]]]></title>
-        <id>https://www.youtube.com/watch?v=_ptPuYVfNUM</id>
-        <link href="https://www.youtube.com/watch?v=_ptPuYVfNUM"/>
+        <title type="html"><![CDATA[Alberta referendum: Province awaits results after delays on voting day]]></title>
+        <id>https://www.cbc.ca/news/canada/edmonton/livestory/alberta-referendum-results-live-updates-separatism-october-19-2026-9.7387777</id>
+        <link href="https://www.cbc.ca/news/canada/edmonton/livestory/alberta-referendum-results-live-updates-separatism-october-19-2026-9.7387777"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Any good technical podcasts to listen to while driving?]]></title>
-        <id>https://news.ycombinator.com/item?id=50158285</id>
-        <link href="https://news.ycombinator.com/item?id=50158285"/>
+        <title type="html"><![CDATA[Textideo Director – an AI video creation tool for scenes, shots]]></title>
+        <id>https://textideo.com/director</id>
+        <link href="https://textideo.com/director"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beginning of the Ende: A community fork of Deno]]></title>
-        <id>https://ende.sh/</id>
-        <link href="https://ende.sh/"/>
+        <title type="html"><![CDATA[Edward Snowden on Palestine and Sam Altman [video]]]></title>
+        <id>https://www.youtube.com/watch?v=zMG6aRZhIGE</id>
+        <link href="https://www.youtube.com/watch?v=zMG6aRZhIGE"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Guided Tour of Sketchpad]]></title>
-        <id>https://www.youtube.com/playlist?list=PLMogI9O83LiI</id>
-        <link href="https://www.youtube.com/playlist?list=PLMogI9O83LiI"/>
+        <title type="html"><![CDATA[Nathan Fielder and Lance Oppenheim on You Can See Everything [video]]]></title>
+        <id>https://www.youtube.com/watch?v=6gn0QeqYMr4</id>
+        <link href="https://www.youtube.com/watch?v=6gn0QeqYMr4"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Priest killed by falling crucifix during sermon on fragility of life]]></title>
-        <id>https://www.stuff.co.nz/world-news/361048424/priest-killed-falling-crucifix-during-sermon-fragility</id>
-        <link href="https://www.stuff.co.nz/world-news/361048424/priest-killed-falling-crucifix-during-sermon-fragility"/>
+        <title type="html"><![CDATA[Show HN: Gitwal – every open-source project mention on X, LinkedIn, Reddit, etc.]]></title>
+        <id>https://gitwal.com/mentions</id>
+        <link href="https://gitwal.com/mentions"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hetzner object storage outage since last 10 days in HEL data center]]></title>
-        <id>https://status.hetzner.com/incident/382ed0e5-f1c4-45ec-a7a3-326d3970d6b3</id>
-        <link href="https://status.hetzner.com/incident/382ed0e5-f1c4-45ec-a7a3-326d3970d6b3"/>
+        <title type="html"><![CDATA[Where Jev Fits in a Large-Scale Data Pipeline]]></title>
+        <id>https://trychannel3.com/blog/where-jev-fits</id>
+        <link href="https://trychannel3.com/blog/where-jev-fits"/>
+        <updated>2026-10-19T16:00:00.000Z</updated>
+        <published>2026-10-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schematic, Mask, and Die Shot of Intel's 4004 CPU]]></title>
+        <id>https://techav.net/post/145914161980/schematic-mask-and-die-shot-of-intels-4004-cpu</id>
+        <link href="https://techav.net/post/145914161980/schematic-mask-and-die-shot-of-intels-4004-cpu"/>
         <updated>2026-10-19T16:00:00.000Z</updated>
         <published>2026-10-19T16:00:00.000Z</published>
     </entry>
