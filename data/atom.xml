@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-21T02:04:34.867Z</updated>
+    <updated>2026-10-21T04:01:41.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -78,156 +78,44 @@
         <published>2026-10-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Video Game Reverse Engineering Community Shuts Down]]></title>
-        <id>https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/</id>
-        <link href="https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/"/>
+        <title type="html"><![CDATA[Setting Up SSH Keys on macOS with Touch ID]]></title>
+        <id>https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/</id>
+        <link href="https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/"/>
         <updated>2026-10-20T16:00:00.000Z</updated>
         <published>2026-10-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Litedeck – Agentless server management GUI over plain SSH]]></title>
-        <id>https://github.com/cpprhtn/LiteDeck</id>
-        <link href="https://github.com/cpprhtn/LiteDeck"/>
+        <title type="html"><![CDATA[Simple English Dictionary Firefox Add-On]]></title>
+        <id>https://addons.mozilla.org/en-US/firefox/addon/simple-english-dictionary/</id>
+        <link href="https://addons.mozilla.org/en-US/firefox/addon/simple-english-dictionary/"/>
         <updated>2026-10-20T16:00:00.000Z</updated>
         <published>2026-10-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I wish you didn't want to see Nathan Fielder's Elizabeth Holmes documentary]]></title>
-        <id>https://www.statnews.com/2026/10/20/elizabeth-holmes-superpower-authenticity-vs-truth-matt-herper-take/</id>
-        <link href="https://www.statnews.com/2026/10/20/elizabeth-holmes-superpower-authenticity-vs-truth-matt-herper-take/"/>
+        <title type="html"><![CDATA[Using Claude to reduce the attack surface of code]]></title>
+        <id>https://www.anthropic.com/research/attack-surface-reduction</id>
+        <link href="https://www.anthropic.com/research/attack-surface-reduction"/>
         <updated>2026-10-20T16:00:00.000Z</updated>
         <published>2026-10-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[T3 Code starting move to GitCafe]]></title>
-        <id>https://git.cafe/pingdotgg/t3code</id>
-        <link href="https://git.cafe/pingdotgg/t3code"/>
+        <title type="html"><![CDATA[The Best Monopoly Strategy, Tested on 300M Games [video]]]></title>
+        <id>https://www.youtube.com/watch?v=S_2eVAaw1UM</id>
+        <link href="https://www.youtube.com/watch?v=S_2eVAaw1UM"/>
         <updated>2026-10-20T16:00:00.000Z</updated>
         <published>2026-10-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Future of CSS]]></title>
-        <id>https://www.joshwcomeau.com/css/interop-2027/</id>
-        <link href="https://www.joshwcomeau.com/css/interop-2027/"/>
+        <title type="html"><![CDATA[Microkindness and the Science of Small Acts]]></title>
+        <id>https://hfh.fas.harvard.edu/post/microkindness</id>
+        <link href="https://hfh.fas.harvard.edu/post/microkindness"/>
         <updated>2026-10-20T16:00:00.000Z</updated>
         <published>2026-10-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub package firewall]]></title>
-        <id>https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview/</id>
-        <link href="https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview/"/>
-        <updated>2026-10-20T16:00:00.000Z</updated>
-        <published>2026-10-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indian CA's private keys compromised – one of them was the number '4']]></title>
-        <id>https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312</id>
-        <link href="https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312"/>
-        <updated>2026-10-20T16:00:00.000Z</updated>
-        <published>2026-10-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guarantee Ukraine's Ballot, Not Just Its Border]]></title>
-        <id>https://anattalife.substack.com/p/guarantee-ukraines-ballot-not-just</id>
-        <link href="https://anattalife.substack.com/p/guarantee-ukraines-ballot-not-just"/>
-        <updated>2026-10-20T16:00:00.000Z</updated>
-        <published>2026-10-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Unterm – A pure-Rust terminal for humans and AI agents]]></title>
-        <id>https://github.com/zhitongblog/unterm</id>
-        <link href="https://github.com/zhitongblog/unterm"/>
-        <updated>2026-10-20T16:00:00.000Z</updated>
-        <published>2026-10-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What you get is what you mean]]></title>
-        <id>https://duncanstephen.net/what-you-get-is-what-you-mean/</id>
-        <link href="https://duncanstephen.net/what-you-get-is-what-you-mean/"/>
-        <updated>2026-10-20T16:00:00.000Z</updated>
-        <published>2026-10-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: MCP Census – a live change feed for 48,797 MCP servers]]></title>
-        <id>https://mcpcensus.com/</id>
-        <link href="https://mcpcensus.com/"/>
-        <updated>2026-10-20T16:00:00.000Z</updated>
-        <published>2026-10-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonnet 5.5 wins when it comes to fast, cheap CAD iterations]]></title>
-        <id>https://www.partforge.ai/blog/default-model-sonnet-5-5</id>
-        <link href="https://www.partforge.ai/blog/default-model-sonnet-5-5"/>
-        <updated>2026-10-20T16:00:00.000Z</updated>
-        <published>2026-10-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earthfinder: 3D Model of the Solar System and Milky Way Pulled from NASA Data]]></title>
-        <id>https://earthfinder.netlify.app/</id>
-        <link href="https://earthfinder.netlify.app/"/>
-        <updated>2026-10-20T16:00:00.000Z</updated>
-        <published>2026-10-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One API for cloud servers across providers, every host benchmarked]]></title>
-        <id>https://www.nodepick.ai/</id>
-        <link href="https://www.nodepick.ai/"/>
-        <updated>2026-10-20T16:00:00.000Z</updated>
-        <published>2026-10-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bringing uv and ty together]]></title>
-        <id>https://astral.sh/blog/uv-ty-integration</id>
-        <link href="https://astral.sh/blog/uv-ty-integration"/>
-        <updated>2026-10-20T16:00:00.000Z</updated>
-        <published>2026-10-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pure PHP WebRTC+RTMP powering a Telegram webradio]]></title>
-        <id>https://twitter.com/DaniilGentili/status/2112635967597150323</id>
-        <link href="https://twitter.com/DaniilGentili/status/2112635967597150323"/>
-        <updated>2026-10-20T16:00:00.000Z</updated>
-        <published>2026-10-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js Wednesday, October 21, 2026 Security Releases]]></title>
-        <id>https://nodejs.org/en/blog/vulnerability/october-2026-security-releases</id>
-        <link href="https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"/>
-        <updated>2026-10-20T16:00:00.000Z</updated>
-        <published>2026-10-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upcoming Critical PHP Security Release (CVSSv4 score of 9.2)]]></title>
-        <id>https://www.php.net/index.php</id>
-        <link href="https://www.php.net/index.php"/>
-        <updated>2026-10-20T16:00:00.000Z</updated>
-        <published>2026-10-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do Not Trust, Continuously Verify (Your AI Agents)]]></title>
-        <id>https://altchan.org/sh/41</id>
-        <link href="https://altchan.org/sh/41"/>
-        <updated>2026-10-20T16:00:00.000Z</updated>
-        <published>2026-10-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A $168,000 Michael Jordan rookie card rocked the $15B card industry]]></title>
-        <id>https://www.businessinsider.com/anthony-curcio-trading-fraud-scandal-psa-2026-8</id>
-        <link href="https://www.businessinsider.com/anthony-curcio-trading-fraud-scandal-psa-2026-8"/>
-        <updated>2026-10-20T16:00:00.000Z</updated>
-        <published>2026-10-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MapleSpire – Open-source C4 architecture modelling, offline-first]]></title>
-        <id>https://maplespire.ca/en/</id>
-        <link href="https://maplespire.ca/en/"/>
-        <updated>2026-10-20T16:00:00.000Z</updated>
-        <published>2026-10-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Drop in a folder of HTML and get back a private URL]]></title>
-        <id>https://eze.page/</id>
-        <link href="https://eze.page/"/>
+        <title type="html"><![CDATA[Wolcott man pleads guilty to $1M cryptocurrency fraud]]></title>
+        <id>https://www.wtnh.com/news/connecticut/new-haven/wolcott-man-pleads-guilty-to-1m-cryptocurrency-fraud-scheme/</id>
+        <link href="https://www.wtnh.com/news/connecticut/new-haven/wolcott-man-pleads-guilty-to-1m-cryptocurrency-fraud-scheme/"/>
         <updated>2026-10-20T16:00:00.000Z</updated>
         <published>2026-10-20T16:00:00.000Z</published>
     </entry>
@@ -239,9 +127,156 @@
         <published>2026-10-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wolcott man pleads guilty to $1M cryptocurrency fraud]]></title>
-        <id>https://www.wtnh.com/news/connecticut/new-haven/wolcott-man-pleads-guilty-to-1m-cryptocurrency-fraud-scheme/</id>
-        <link href="https://www.wtnh.com/news/connecticut/new-haven/wolcott-man-pleads-guilty-to-1m-cryptocurrency-fraud-scheme/"/>
+        <title type="html"><![CDATA[Show HN: Drop in a folder of HTML and get back a private URL]]></title>
+        <id>https://eze.page/</id>
+        <link href="https://eze.page/"/>
+        <updated>2026-10-20T16:00:00.000Z</updated>
+        <published>2026-10-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MapleSpire – Open-source C4 architecture modelling, offline-first]]></title>
+        <id>https://maplespire.ca/en/</id>
+        <link href="https://maplespire.ca/en/"/>
+        <updated>2026-10-20T16:00:00.000Z</updated>
+        <published>2026-10-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A $168,000 Michael Jordan rookie card rocked the $15B card industry]]></title>
+        <id>https://www.businessinsider.com/anthony-curcio-trading-fraud-scandal-psa-2026-8</id>
+        <link href="https://www.businessinsider.com/anthony-curcio-trading-fraud-scandal-psa-2026-8"/>
+        <updated>2026-10-20T16:00:00.000Z</updated>
+        <published>2026-10-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do Not Trust, Continuously Verify (Your AI Agents)]]></title>
+        <id>https://altchan.org/sh/41</id>
+        <link href="https://altchan.org/sh/41"/>
+        <updated>2026-10-20T16:00:00.000Z</updated>
+        <published>2026-10-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upcoming Critical PHP Security Release (CVSSv4 score of 9.2)]]></title>
+        <id>https://www.php.net/index.php</id>
+        <link href="https://www.php.net/index.php"/>
+        <updated>2026-10-20T16:00:00.000Z</updated>
+        <published>2026-10-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js Wednesday, October 21, 2026 Security Releases]]></title>
+        <id>https://nodejs.org/en/blog/vulnerability/october-2026-security-releases</id>
+        <link href="https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"/>
+        <updated>2026-10-20T16:00:00.000Z</updated>
+        <published>2026-10-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pure PHP WebRTC+RTMP powering a Telegram webradio]]></title>
+        <id>https://twitter.com/DaniilGentili/status/2112635967597150323</id>
+        <link href="https://twitter.com/DaniilGentili/status/2112635967597150323"/>
+        <updated>2026-10-20T16:00:00.000Z</updated>
+        <published>2026-10-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bringing uv and ty together]]></title>
+        <id>https://astral.sh/blog/uv-ty-integration</id>
+        <link href="https://astral.sh/blog/uv-ty-integration"/>
+        <updated>2026-10-20T16:00:00.000Z</updated>
+        <published>2026-10-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One API for cloud servers across providers, every host benchmarked]]></title>
+        <id>https://www.nodepick.ai/</id>
+        <link href="https://www.nodepick.ai/"/>
+        <updated>2026-10-20T16:00:00.000Z</updated>
+        <published>2026-10-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Earthfinder: 3D Model of the Solar System and Milky Way Pulled from NASA Data]]></title>
+        <id>https://earthfinder.netlify.app/</id>
+        <link href="https://earthfinder.netlify.app/"/>
+        <updated>2026-10-20T16:00:00.000Z</updated>
+        <published>2026-10-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonnet 5.5 wins when it comes to fast, cheap CAD iterations]]></title>
+        <id>https://www.partforge.ai/blog/default-model-sonnet-5-5</id>
+        <link href="https://www.partforge.ai/blog/default-model-sonnet-5-5"/>
+        <updated>2026-10-20T16:00:00.000Z</updated>
+        <published>2026-10-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: MCP Census – a live change feed for 48,797 MCP servers]]></title>
+        <id>https://mcpcensus.com/</id>
+        <link href="https://mcpcensus.com/"/>
+        <updated>2026-10-20T16:00:00.000Z</updated>
+        <published>2026-10-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What you get is what you mean]]></title>
+        <id>https://duncanstephen.net/what-you-get-is-what-you-mean/</id>
+        <link href="https://duncanstephen.net/what-you-get-is-what-you-mean/"/>
+        <updated>2026-10-20T16:00:00.000Z</updated>
+        <published>2026-10-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Unterm – A pure-Rust terminal for humans and AI agents]]></title>
+        <id>https://github.com/zhitongblog/unterm</id>
+        <link href="https://github.com/zhitongblog/unterm"/>
+        <updated>2026-10-20T16:00:00.000Z</updated>
+        <published>2026-10-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guarantee Ukraine's Ballot, Not Just Its Border]]></title>
+        <id>https://anattalife.substack.com/p/guarantee-ukraines-ballot-not-just</id>
+        <link href="https://anattalife.substack.com/p/guarantee-ukraines-ballot-not-just"/>
+        <updated>2026-10-20T16:00:00.000Z</updated>
+        <published>2026-10-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indian CA's private keys compromised – one of them was the number '4']]></title>
+        <id>https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312</id>
+        <link href="https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312"/>
+        <updated>2026-10-20T16:00:00.000Z</updated>
+        <published>2026-10-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub package firewall]]></title>
+        <id>https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview/</id>
+        <link href="https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview/"/>
+        <updated>2026-10-20T16:00:00.000Z</updated>
+        <published>2026-10-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of CSS]]></title>
+        <id>https://www.joshwcomeau.com/css/interop-2027/</id>
+        <link href="https://www.joshwcomeau.com/css/interop-2027/"/>
+        <updated>2026-10-20T16:00:00.000Z</updated>
+        <published>2026-10-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T3 Code starting move to GitCafe]]></title>
+        <id>https://git.cafe/pingdotgg/t3code</id>
+        <link href="https://git.cafe/pingdotgg/t3code"/>
+        <updated>2026-10-20T16:00:00.000Z</updated>
+        <published>2026-10-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I wish you didn't want to see Nathan Fielder's Elizabeth Holmes documentary]]></title>
+        <id>https://www.statnews.com/2026/10/20/elizabeth-holmes-superpower-authenticity-vs-truth-matt-herper-take/</id>
+        <link href="https://www.statnews.com/2026/10/20/elizabeth-holmes-superpower-authenticity-vs-truth-matt-herper-take/"/>
+        <updated>2026-10-20T16:00:00.000Z</updated>
+        <published>2026-10-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Litedeck – Agentless server management GUI over plain SSH]]></title>
+        <id>https://github.com/cpprhtn/LiteDeck</id>
+        <link href="https://github.com/cpprhtn/LiteDeck"/>
+        <updated>2026-10-20T16:00:00.000Z</updated>
+        <published>2026-10-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video Game Reverse Engineering Community Shuts Down]]></title>
+        <id>https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/</id>
+        <link href="https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/"/>
         <updated>2026-10-20T16:00:00.000Z</updated>
         <published>2026-10-20T16:00:00.000Z</published>
     </entry>
@@ -281,104 +316,51 @@
         <published>2026-10-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Robotic therapy for stroke patients]]></title>
-        <id>https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/</id>
-        <link href="https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/"/>
+        <title type="html"><![CDATA[High-dimensional layer-state trajectories reveal the internal dynamics of transformer inference]]></title>
+        <id>https://arxiv.org/abs/2610.26866</id>
+        <link href="https://arxiv.org/abs/2610.26866"/>
         <updated>2026-10-20T16:00:00.000Z</updated>
         <published>2026-10-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A good TA: priceless]]></title>
-        <id>https://www.technologyreview.com/2026/10/20/1145291/a-good-ta-priceless/</id>
-        <link href="https://www.technologyreview.com/2026/10/20/1145291/a-good-ta-priceless/"/>
+        <title type="html"><![CDATA[Expert-Guided Rubrics as Dense Reward Signals for Reinforcement Learning in Non-Verifiable Domains]]></title>
+        <id>https://arxiv.org/abs/2610.26932</id>
+        <link href="https://arxiv.org/abs/2610.26932"/>
         <updated>2026-10-20T16:00:00.000Z</updated>
         <published>2026-10-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nebraska native explores galaxies far, far away]]></title>
-        <id>https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/</id>
-        <link href="https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/"/>
+        <title type="html"><![CDATA[Dynamic System Inspired Continuous Large Language Model for AI4Science Tasks]]></title>
+        <id>https://arxiv.org/abs/2610.26959</id>
+        <link href="https://arxiv.org/abs/2610.26959"/>
         <updated>2026-10-20T16:00:00.000Z</updated>
         <published>2026-10-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A champion for brain injury patients]]></title>
-        <id>https://www.technologyreview.com/2026/10/20/1145297/a-champion-for-brain-injury-patients/</id>
-        <link href="https://www.technologyreview.com/2026/10/20/1145297/a-champion-for-brain-injury-patients/"/>
+        <title type="html"><![CDATA[Transformers Learn Two Competing Sorting Algorithms, and Only One Length-Generalizes]]></title>
+        <id>https://arxiv.org/abs/2610.26974</id>
+        <link href="https://arxiv.org/abs/2610.26974"/>
         <updated>2026-10-20T16:00:00.000Z</updated>
         <published>2026-10-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A cleaner path to rare earth metals]]></title>
-        <id>https://www.technologyreview.com/2026/10/20/1145300/a-cleaner-path-to-rare-earth-metals/</id>
-        <link href="https://www.technologyreview.com/2026/10/20/1145300/a-cleaner-path-to-rare-earth-metals/"/>
+        <title type="html"><![CDATA[CoASFL: Coupled Consistency Optimization for Asynchronous Split Federated Learning]]></title>
+        <id>https://arxiv.org/abs/2610.26992</id>
+        <link href="https://arxiv.org/abs/2610.26992"/>
         <updated>2026-10-20T16:00:00.000Z</updated>
         <published>2026-10-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How 3 Java Champions are using GitHub Copilot for increased productivity]]></title>
-        <id>https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/</id>
-        <link href="https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/"/>
+        <title type="html"><![CDATA[CorteXforge: Scenario-Based RF Dataset Generation on Real Testbeds]]></title>
+        <id>https://arxiv.org/abs/2610.26999</id>
+        <link href="https://arxiv.org/abs/2610.26999"/>
         <updated>2026-10-20T16:00:00.000Z</updated>
         <published>2026-10-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-Draw a mandala with mirrored symmetry and export it as PNG or SVG.
-]]></title>
-        <id>
-https://github.com/evoluteur/mandala-maker
-</id>
-        <link href="
-https://github.com/evoluteur/mandala-maker
-"/>
-        <updated>2026-10-20T16:00:00.000Z</updated>
-        <published>2026-10-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[
-Vovk.ts – Turn Next.js route handlers into MCP tools and typed clients
-]]></title>
-        <id>
-https://vovk.dev
-</id>
-        <link href="
-https://vovk.dev
-"/>
-        <updated>2026-10-20T16:00:00.000Z</updated>
-        <published>2026-10-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[
-Full port of CossUI components to Svelte
-]]></title>
-        <id>
-https://cossui-svelte.com/
-</id>
-        <link href="
-https://cossui-svelte.com/
-"/>
-        <updated>2026-10-20T16:00:00.000Z</updated>
-        <published>2026-10-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FLUX 3 Max Keyframes Explained: 24 fps Frame Math, Validation Rules and a Node.js Helper]]></title>
-        <id>https://dev.to/super_lewis/flux-3-max-keyframes-explained-24-fps-frame-math-validation-rules-and-a-nodejs-helper-4pjm</id>
-        <link href="https://dev.to/super_lewis/flux-3-max-keyframes-explained-24-fps-frame-math-validation-rules-and-a-nodejs-helper-4pjm"/>
-        <updated>2026-10-20T16:00:00.000Z</updated>
-        <published>2026-10-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A delivery note is not a PNG validator: 16 small Node.js tests]]></title>
-        <id>https://dev.to/physicsai/a-delivery-note-is-not-a-png-validator-16-small-nodejs-tests-42oe</id>
-        <link href="https://dev.to/physicsai/a-delivery-note-is-not-a-png-validator-16-small-nodejs-tests-42oe"/>
-        <updated>2026-10-20T16:00:00.000Z</updated>
-        <published>2026-10-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get UK Companies House Data as JSON (Without Maintaining a Scraper)]]></title>
-        <id>https://dev.to/steadfetch/how-to-get-uk-companies-house-data-as-json-without-maintaining-a-scraper-7i2</id>
-        <link href="https://dev.to/steadfetch/how-to-get-uk-companies-house-data-as-json-without-maintaining-a-scraper-7i2"/>
+        <title type="html"><![CDATA[ORBIT: Autoregressive Time Series Generation via Next Frequency-Band Prediction]]></title>
+        <id>https://arxiv.org/abs/2610.27000</id>
+        <link href="https://arxiv.org/abs/2610.27000"/>
         <updated>2026-10-20T16:00:00.000Z</updated>
         <published>2026-10-20T16:00:00.000Z</published>
     </entry>
