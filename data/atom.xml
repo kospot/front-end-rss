@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-22T04:03:37.569Z</updated>
+    <updated>2026-10-22T07:05:42.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -127,65 +127,44 @@
         <published>2026-10-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Calculus by Coding in Python – Ed Pratowski (2025)]]></title>
-        <id>https://www.freecodecamp.org/news/learn-college-calculus-and-implement-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/learn-college-calculus-and-implement-with-python/"/>
+        <title type="html"><![CDATA[As Politicians Argue About China, US Patients Find Cutting-Edge Treatment There]]></title>
+        <id>https://kffhealthnews.org/health-industry/china-cancer-drugs-foreign-travel-pharma-biotech-fda-regulation-clinical-trials/</id>
+        <link href="https://kffhealthnews.org/health-industry/china-cancer-drugs-foreign-travel-pharma-biotech-fda-regulation-clinical-trials/"/>
         <updated>2026-10-21T16:00:00.000Z</updated>
         <published>2026-10-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I can't believe PowerShell is good]]></title>
-        <id>https://www.spacebar.news/powershell-is-actually-good/</id>
-        <link href="https://www.spacebar.news/powershell-is-actually-good/"/>
+        <title type="html"><![CDATA[Show HN: git-found, fixes "Repository not found" with multiple GitHub accounts]]></title>
+        <id>https://github.com/advaith334/git-found</id>
+        <link href="https://github.com/advaith334/git-found"/>
         <updated>2026-10-21T16:00:00.000Z</updated>
         <published>2026-10-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aulico: A TradingView Alternative]]></title>
-        <id>https://www.aulico.com/symbols/BTCUSDC</id>
-        <link href="https://www.aulico.com/symbols/BTCUSDC"/>
+        <title type="html"><![CDATA[Raycast Glaze]]></title>
+        <id>https://www.raycast.com/blog/meet-glaze</id>
+        <link href="https://www.raycast.com/blog/meet-glaze"/>
         <updated>2026-10-21T16:00:00.000Z</updated>
         <published>2026-10-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NPM is experiencing degraded package install and publishing]]></title>
-        <id>https://status.npmjs.org/incidents/xfp75s9j3bp8</id>
-        <link href="https://status.npmjs.org/incidents/xfp75s9j3bp8"/>
+        <title type="html"><![CDATA[Samsamelo – Silicon Valley selling trolley problem lies [no link]]]></title>
+        <id>https://news.ycombinator.com/item?id=50191899</id>
+        <link href="https://news.ycombinator.com/item?id=50191899"/>
         <updated>2026-10-21T16:00:00.000Z</updated>
         <published>2026-10-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I have an issue with what agets affirm, do you have too?]]></title>
-        <id>https://github.com/EmanueleCell4/elliot-mcp</id>
-        <link href="https://github.com/EmanueleCell4/elliot-mcp"/>
+        <title type="html"><![CDATA[It took me five years to write 200 lines of Python]]></title>
+        <id>https://ansipunk.me/blog/databasic/</id>
+        <link href="https://ansipunk.me/blog/databasic/"/>
         <updated>2026-10-21T16:00:00.000Z</updated>
         <published>2026-10-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: What is the advantage of PHP over C?]]></title>
-        <id>https://news.ycombinator.com/item?id=50190627</id>
-        <link href="https://news.ycombinator.com/item?id=50190627"/>
-        <updated>2026-10-21T16:00:00.000Z</updated>
-        <published>2026-10-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loco: The one-person framework for Rust]]></title>
-        <id>https://loco.rs/</id>
-        <link href="https://loco.rs/"/>
-        <updated>2026-10-21T16:00:00.000Z</updated>
-        <published>2026-10-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed]]></title>
-        <id>https://bloffy.co/en</id>
-        <link href="https://bloffy.co/en"/>
-        <updated>2026-10-21T16:00:00.000Z</updated>
-        <published>2026-10-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eMudhra Intermediate CA Compromise]]></title>
-        <id>https://simonwillison.net/2026/Oct/20/emudhra-certificates/</id>
-        <link href="https://simonwillison.net/2026/Oct/20/emudhra-certificates/"/>
+        <title type="html"><![CDATA[Huge Pages can improve Postgres performance]]></title>
+        <id>https://clickhouse.com/blog/huge-pages-clickhouse-managed-postgres</id>
+        <link href="https://clickhouse.com/blog/huge-pages-clickhouse-managed-postgres"/>
         <updated>2026-10-21T16:00:00.000Z</updated>
         <published>2026-10-21T16:00:00.000Z</published>
     </entry>
@@ -197,9 +176,93 @@
         <published>2026-10-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Software Engineer’s Guide to Agents]]></title>
-        <id>https://pub.towardsai.net/a-software-engineers-guide-to-agents-1a5db42649b6?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/a-software-engineers-guide-to-agents-1a5db42649b6?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[eMudhra Intermediate CA Compromise]]></title>
+        <id>https://simonwillison.net/2026/Oct/20/emudhra-certificates/</id>
+        <link href="https://simonwillison.net/2026/Oct/20/emudhra-certificates/"/>
+        <updated>2026-10-21T16:00:00.000Z</updated>
+        <published>2026-10-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed]]></title>
+        <id>https://bloffy.co/en</id>
+        <link href="https://bloffy.co/en"/>
+        <updated>2026-10-21T16:00:00.000Z</updated>
+        <published>2026-10-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loco: The one-person framework for Rust]]></title>
+        <id>https://loco.rs/</id>
+        <link href="https://loco.rs/"/>
+        <updated>2026-10-21T16:00:00.000Z</updated>
+        <published>2026-10-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: What is the advantage of PHP over C?]]></title>
+        <id>https://news.ycombinator.com/item?id=50190627</id>
+        <link href="https://news.ycombinator.com/item?id=50190627"/>
+        <updated>2026-10-21T16:00:00.000Z</updated>
+        <published>2026-10-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I have an issue with what agets affirm, do you have too?]]></title>
+        <id>https://github.com/EmanueleCell4/elliot-mcp</id>
+        <link href="https://github.com/EmanueleCell4/elliot-mcp"/>
+        <updated>2026-10-21T16:00:00.000Z</updated>
+        <published>2026-10-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NPM is experiencing degraded package install and publishing]]></title>
+        <id>https://status.npmjs.org/incidents/xfp75s9j3bp8</id>
+        <link href="https://status.npmjs.org/incidents/xfp75s9j3bp8"/>
+        <updated>2026-10-21T16:00:00.000Z</updated>
+        <published>2026-10-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aulico: A TradingView Alternative]]></title>
+        <id>https://www.aulico.com/symbols/BTCUSDC</id>
+        <link href="https://www.aulico.com/symbols/BTCUSDC"/>
+        <updated>2026-10-21T16:00:00.000Z</updated>
+        <published>2026-10-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I can't believe PowerShell is good]]></title>
+        <id>https://www.spacebar.news/powershell-is-actually-good/</id>
+        <link href="https://www.spacebar.news/powershell-is-actually-good/"/>
+        <updated>2026-10-21T16:00:00.000Z</updated>
+        <published>2026-10-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Calculus by Coding in Python – Ed Pratowski (2025)]]></title>
+        <id>https://www.freecodecamp.org/news/learn-college-calculus-and-implement-with-python/</id>
+        <link href="https://www.freecodecamp.org/news/learn-college-calculus-and-implement-with-python/"/>
+        <updated>2026-10-21T16:00:00.000Z</updated>
+        <published>2026-10-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Average Delivery Time Becomes Predictable Even When Individual Deliveries Are Not]]></title>
+        <id>https://pub.towardsai.net/why-your-average-delivery-time-becomes-predictable-even-when-individual-deliveries-are-not-d6e1aa9866cd?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-your-average-delivery-time-becomes-predictable-even-when-individual-deliveries-are-not-d6e1aa9866cd?source=rss----98111c9905da---4"/>
+        <updated>2026-10-21T16:00:00.000Z</updated>
+        <published>2026-10-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My 4GB GPU Kept Generating Black Images. Fixing It Led to a 2× Faster Stable Diffusion Setup.]]></title>
+        <id>https://pub.towardsai.net/my-4gb-gpu-kept-generating-black-images-fixing-it-led-to-a-2-faster-stable-diffusion-setup-d01be96aec56?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/my-4gb-gpu-kept-generating-black-images-fixing-it-led-to-a-2-faster-stable-diffusion-setup-d01be96aec56?source=rss----98111c9905da---4"/>
+        <updated>2026-10-21T16:00:00.000Z</updated>
+        <published>2026-10-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Local LLM Setup for a 16GB MacBook Air: How to Avoid Excessive Swap Memory]]></title>
+        <id>https://pub.towardsai.net/the-best-local-llm-setup-for-a-16gb-macbook-air-how-to-avoid-excessive-swap-memory-85bb4c1b7bd7?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-best-local-llm-setup-for-a-16gb-macbook-air-how-to-avoid-excessive-swap-memory-85bb4c1b7bd7?source=rss----98111c9905da---4"/>
+        <updated>2026-10-21T16:00:00.000Z</updated>
+        <published>2026-10-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Coding Costs in 2026: How to Set a Token Budget]]></title>
+        <id>https://pub.towardsai.net/ai-coding-costs-in-2026-how-to-set-a-token-budget-37d4afe851f9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ai-coding-costs-in-2026-how-to-set-a-token-budget-37d4afe851f9?source=rss----98111c9905da---4"/>
         <updated>2026-10-21T16:00:00.000Z</updated>
         <published>2026-10-21T16:00:00.000Z</published>
     </entry>
@@ -211,9 +274,9 @@
         <published>2026-10-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Coding Costs in 2026: How to Set a Token Budget]]></title>
-        <id>https://pub.towardsai.net/ai-coding-costs-in-2026-how-to-set-a-token-budget-37d4afe851f9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/ai-coding-costs-in-2026-how-to-set-a-token-budget-37d4afe851f9?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[A Software Engineer’s Guide to Agents]]></title>
+        <id>https://pub.towardsai.net/a-software-engineers-guide-to-agents-1a5db42649b6?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/a-software-engineers-guide-to-agents-1a5db42649b6?source=rss----98111c9905da---4"/>
         <updated>2026-10-21T16:00:00.000Z</updated>
         <published>2026-10-21T16:00:00.000Z</published>
     </entry>
@@ -298,69 +361,6 @@
         <title type="html"><![CDATA[Combating Catastrophic Forgetting in Continual Domain Adaptation via Knowledge Recasting]]></title>
         <id>https://arxiv.org/abs/2610.28892</id>
         <link href="https://arxiv.org/abs/2610.28892"/>
-        <updated>2026-10-21T16:00:00.000Z</updated>
-        <published>2026-10-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multi-Objective Protein Optimization via Modular Diffusion Steering]]></title>
-        <id>https://arxiv.org/abs/2610.28943</id>
-        <link href="https://arxiv.org/abs/2610.28943"/>
-        <updated>2026-10-21T16:00:00.000Z</updated>
-        <published>2026-10-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transformers as Generic Deep Neural Networks: Exact Compilation, the Cost of Removing Activation-Activation Products, and Multi-Agent Attention Clustering]]></title>
-        <id>https://arxiv.org/abs/2610.28958</id>
-        <link href="https://arxiv.org/abs/2610.28958"/>
-        <updated>2026-10-21T16:00:00.000Z</updated>
-        <published>2026-10-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Weather to Enhanced Weathering: Weather Foundation Models for Carbon Dioxide Removal at Operational Scale]]></title>
-        <id>https://arxiv.org/abs/2610.28973</id>
-        <link href="https://arxiv.org/abs/2610.28973"/>
-        <updated>2026-10-21T16:00:00.000Z</updated>
-        <published>2026-10-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does Orthogonalization Adapt to the Neural Network Hessian Structure? A Gradient Self Outer-Product Analysis at Initialization]]></title>
-        <id>https://arxiv.org/abs/2610.28975</id>
-        <link href="https://arxiv.org/abs/2610.28975"/>
-        <updated>2026-10-21T16:00:00.000Z</updated>
-        <published>2026-10-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking Time Series Tokenization from a Frequency Perspective]]></title>
-        <id>https://arxiv.org/abs/2610.28997</id>
-        <link href="https://arxiv.org/abs/2610.28997"/>
-        <updated>2026-10-21T16:00:00.000Z</updated>
-        <published>2026-10-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better Policies, Worse Verifier Audits]]></title>
-        <id>https://arxiv.org/abs/2610.29029</id>
-        <link href="https://arxiv.org/abs/2610.29029"/>
-        <updated>2026-10-21T16:00:00.000Z</updated>
-        <published>2026-10-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gate Initialisation versus Recurrent Dropout and Zoneout in Learning Long Dependencies: A Controlled Study of LSTM and GRU Networks on Synthetic Tasks]]></title>
-        <id>https://arxiv.org/abs/2610.29034</id>
-        <link href="https://arxiv.org/abs/2610.29034"/>
-        <updated>2026-10-21T16:00:00.000Z</updated>
-        <published>2026-10-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ART-MPG: Autoregressive R/T Manifold Path Guiding]]></title>
-        <id>https://arxiv.org/abs/2610.29049</id>
-        <link href="https://arxiv.org/abs/2610.29049"/>
-        <updated>2026-10-21T16:00:00.000Z</updated>
-        <published>2026-10-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Distilling Multi-Teacher Scoring Principles for Unsupervised Time Series Anomaly Detection]]></title>
-        <id>https://arxiv.org/abs/2610.29063</id>
-        <link href="https://arxiv.org/abs/2610.29063"/>
         <updated>2026-10-21T16:00:00.000Z</updated>
         <published>2026-10-21T16:00:00.000Z</published>
     </entry>
