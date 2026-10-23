@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-23T10:03:21.207Z</updated>
+    <updated>2026-10-23T13:04:30.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,16 +22,30 @@
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sure, let’s smoosh SpaceX and Tesla together, who cares]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari"/>
+        <title type="html"><![CDATA[TV OS frustrations are leading people to vibe-code]]></title>
+        <id>https://www.theverge.com/tech/1016116/vibe-coding-tv-os</id>
+        <link href="https://www.theverge.com/tech/1016116/vibe-coding-tv-os"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The FCC is beginning to block gadgets with ‘foreign surveillance chips’]]></title>
-        <id>https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole</id>
-        <link href="https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole"/>
+        <title type="html"><![CDATA[Netflix can’t fire its way out of this downward spiral]]></title>
+        <id>https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad</id>
+        <link href="https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brick’s new app blocker is designed for bedtime doomscrolling]]></title>
+        <id>https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch</id>
+        <link href="https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta&#8217;s AI could still scrape news sites, legal experts say]]></title>
+        <id>https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns</id>
+        <link href="https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
@@ -43,9 +57,16 @@
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta&#8217;s AI could still scrape news sites, legal experts say]]></title>
-        <id>https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns</id>
-        <link href="https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"/>
+        <title type="html"><![CDATA[The FCC is beginning to block gadgets with ‘foreign surveillance chips’]]></title>
+        <id>https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole</id>
+        <link href="https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sure, let’s smoosh SpaceX and Tesla together, who cares]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
@@ -120,233 +141,128 @@
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Would you let an AI agent fix things on your servers?]]></title>
-        <id>https://github.com/dyablohunter/warden</id>
-        <link href="https://github.com/dyablohunter/warden"/>
+        <title type="html"><![CDATA[Pghacker-MCP: pgsql-hackers mailing list and code history MCP server]]></title>
+        <id>https://pghacker-mcp.dev/</id>
+        <link href="https://pghacker-mcp.dev/"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getty Images Advances Financial Restructuring]]></title>
-        <id>https://investors.gettyimages.com/news-releases/news-release-details/getty-images-advances-financial-restructuring-strengthen-balance</id>
-        <link href="https://investors.gettyimages.com/news-releases/news-release-details/getty-images-advances-financial-restructuring-strengthen-balance"/>
+        <title type="html"><![CDATA[Review of "Misalignment in high-stakes settings" in Anthropic's Risk Report]]></title>
+        <id>https://metr.org/blog/2026-10-20-misalignment-risk-report-august-2026-review/</id>
+        <link href="https://metr.org/blog/2026-10-20-misalignment-risk-report-august-2026-review/"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Magnitude-7 earthquake hits Tibet, killing at least 16 destroying hundreds homes]]></title>
-        <id>https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet</id>
-        <link href="https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet"/>
+        <title type="html"><![CDATA[Copilot Code (Frontier)]]></title>
+        <id>https://learn.microsoft.com/en-us/copilot/code/</id>
+        <link href="https://learn.microsoft.com/en-us/copilot/code/"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Printed Photobioreactor [video]]]></title>
-        <id>https://www.youtube.com/watch?v=SLckTj_tJg4</id>
-        <link href="https://www.youtube.com/watch?v=SLckTj_tJg4"/>
+        <title type="html"><![CDATA[Disable Website/URL Comment Field in WordPress 2026]]></title>
+        <id>https://tim.cexx.org/?p=2165</id>
+        <link href="https://tim.cexx.org/?p=2165"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Keycloak: Unauthenticated account takeover via reset-credentials flow bypass]]></title>
-        <id>https://access.redhat.com/security/cve/cve-2026-18963</id>
-        <link href="https://access.redhat.com/security/cve/cve-2026-18963"/>
+        <title type="html"><![CDATA[In RSI, The Map is not the Territory]]></title>
+        <id>https://lambos.substack.com/p/in-rsi-the-map-is-not-the-territory</id>
+        <link href="https://lambos.substack.com/p/in-rsi-the-map-is-not-the-territory"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UUIDv7 doesn't have the properties you think it does]]></title>
-        <id>https://alexsci.com/blog/uuidv7-is-weird/</id>
-        <link href="https://alexsci.com/blog/uuidv7-is-weird/"/>
+        <title type="html"><![CDATA[Upstreaming Tyr: Rust, DRM, and the Linux Kernel]]></title>
+        <id>https://www.collabora.com/news-and-blog/blog/2026/10/21/upstreaming-tyr-rust-drm-and-the-linux-kernel/</id>
+        <link href="https://www.collabora.com/news-and-blog/blog/2026/10/21/upstreaming-tyr-rust-drm-and-the-linux-kernel/"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PHP situation 24h later [video]]]></title>
-        <id>https://www.youtube.com/watch?v=SP7y1h0laN0</id>
-        <link href="https://www.youtube.com/watch?v=SP7y1h0laN0"/>
+        <title type="html"><![CDATA[Linux 7.4 Workqueue Changes Bring a "10 to 100 Times Faster" Optimization]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.4-Workqueue</id>
+        <link href="https://www.phoronix.com/news/Linux-7.4-Workqueue"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The PHP exploit simply explained [video]]]></title>
-        <id>https://www.youtube.com/watch?v=JGZxVTpw3GU</id>
-        <link href="https://www.youtube.com/watch?v=JGZxVTpw3GU"/>
+        <title type="html"><![CDATA[Show HN: Which iOS apps fill iPhone Duo's inner display]]></title>
+        <id>https://fitsduo.com/</id>
+        <link href="https://fitsduo.com/"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Patching the Sony PS3 for RGB Scart When Playing DVDs and BluRay]]></title>
-        <id>https://github.com/WeebLabs/RGB-DVD-Patch-for-PS3</id>
-        <link href="https://github.com/WeebLabs/RGB-DVD-Patch-for-PS3"/>
+        <title type="html"><![CDATA[Kstreams-ts – Kafka Streams-style stateful processing for Node.js]]></title>
+        <id>https://github.com/biogin/kstreams-ts</id>
+        <link href="https://github.com/biogin/kstreams-ts"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FreeToolkit – 384 client-side dev utilities (regex, SQL, cron, cURL, more)]]></title>
-        <id>https://freetoolkit.dev/</id>
-        <link href="https://freetoolkit.dev/"/>
+        <title type="html"><![CDATA[Tutor app can now teach you from YouTube videos]]></title>
+        <id>https://github.com/demetrius-edelin/tutor</id>
+        <link href="https://github.com/demetrius-edelin/tutor"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: What LLM fits my GPU? – VRAM measured on real hardware for 117 models]]></title>
-        <id>https://quantized.uk/</id>
-        <link href="https://quantized.uk/"/>
+        <title type="html"><![CDATA[Show HN: A TypeScript remake of Chinese Paladin (1995), now in English]]></title>
+        <id>https://github.com/IllegalCreed/type-pal</id>
+        <link href="https://github.com/IllegalCreed/type-pal"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getty Images files for US bankruptcy, advances restructuring plan]]></title>
-        <id>https://www.reuters.com/legal/litigation/getty-images-files-us-bankruptcy-advances-restructuring-plan-2026-10-21/</id>
-        <link href="https://www.reuters.com/legal/litigation/getty-images-files-us-bankruptcy-advances-restructuring-plan-2026-10-21/"/>
+        <title type="html"><![CDATA[Running the Patched PHP 8.3.36 on Ubuntu 20.04 Servers with Docker]]></title>
+        <id>https://www.vincentschmalbach.com/running-patched-php-8-3-36-ubuntu-20-04-docker/</id>
+        <link href="https://www.vincentschmalbach.com/running-patched-php-8-3-36-ubuntu-20-04-docker/"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mapping the Northern Sky]]></title>
-        <id>https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/</id>
-        <link href="https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/"/>
+        <title type="html"><![CDATA[Show HN: Hlas-1: open-weight 3B params TTS with frontier performance]]></title>
+        <id>https://huggingface.co/cekal/hlas-1</id>
+        <link href="https://huggingface.co/cekal/hlas-1"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jank – The native Clojure dialect with seamless C++ interop]]></title>
-        <id>https://jank-lang.org/</id>
-        <link href="https://jank-lang.org/"/>
+        <title type="html"><![CDATA[LessMi – A Windows Rat in Python, Controlled Through Discord]]></title>
+        <id>https://github.com/MateAGYT/LessMi</id>
+        <link href="https://github.com/MateAGYT/LessMi"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[kirsch – A versatile bitmap font with an organic flair]]></title>
-        <id>https://github.com/molarmanful/kirsch</id>
-        <link href="https://github.com/molarmanful/kirsch"/>
+        <title type="html"><![CDATA[Monochrome – Mobile Browser for macOS]]></title>
+        <id>https://github.com/lucianmarin/monochrome</id>
+        <link href="https://github.com/lucianmarin/monochrome"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Docker Is Weird]]></title>
-        <id>https://codeandcake.dev/posts/2026-10-22-docker-is-weird</id>
-        <link href="https://codeandcake.dev/posts/2026-10-22-docker-is-weird"/>
+        <title type="html"><![CDATA[Fatequery – Cast BaZi, Zi Wei, or a hexagram, then read your question]]></title>
+        <id>https://www.fatequery.site/</id>
+        <link href="https://www.fatequery.site/"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Next Bottleneck in AI for Science]]></title>
-        <id>https://www.mixtureofexperts.co/p/the-next-bottleneck-in-ai-for-science</id>
-        <link href="https://www.mixtureofexperts.co/p/the-next-bottleneck-in-ai-for-science"/>
+        <title type="html"><![CDATA[Four Important AI Questions]]></title>
+        <id>https://freddiedeboer.substack.com/p/four-direct-reasonable-and-important</id>
+        <link href="https://freddiedeboer.substack.com/p/four-direct-reasonable-and-important"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub now uses a generic avatar instead of "Identicons" for new profiles]]></title>
-        <id>https://news.ycombinator.com/item?id=50202403</id>
-        <link href="https://news.ycombinator.com/item?id=50202403"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public-Interest Information in an AI-Intermediated Age]]></title>
-        <id>https://www.journalismfutures.org/three-layer-cake</id>
-        <link href="https://www.journalismfutures.org/three-layer-cake"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mitmproxy 12.3: eMudhra Edition]]></title>
-        <id>https://www.mitmproxy.org/posts/releases/mitmproxy-12.3/</id>
-        <link href="https://www.mitmproxy.org/posts/releases/mitmproxy-12.3/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Can't Let Big Tech Oligarchs Replace the Human Race [video]]]></title>
-        <id>https://www.youtube.com/watch?v=vjtMGKzyhNs</id>
-        <link href="https://www.youtube.com/watch?v=vjtMGKzyhNs"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claudopus vs. Astralisk]]></title>
-        <id>https://kbr.is-a.dev/claudopus-vs-astralisk/</id>
-        <link href="https://kbr.is-a.dev/claudopus-vs-astralisk/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta to Pay Zuckerberg's CA Wealth Tax]]></title>
-        <id>https://seekingalpha.com/news/4655678-meta-approves-class-c-share-structure-strikes-deal-to-retain-ceo-zuckerberg-in-california</id>
-        <link href="https://seekingalpha.com/news/4655678-meta-approves-class-c-share-structure-strikes-deal-to-retain-ceo-zuckerberg-in-california"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WindowINK – An offline-first, mobile-first digital signage solution]]></title>
-        <id>https://www.windowink.com/</id>
-        <link href="https://www.windowink.com/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[True Depth Makes Crossing Boundaries Safe from Confident Ignorance]]></title>
-        <id>https://civicpivot.blogspot.com/2026/10/anchored-generalism-what-depth-makes.html</id>
-        <link href="https://civicpivot.blogspot.com/2026/10/anchored-generalism-what-depth-makes.html"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memory Safe PHP]]></title>
-        <id>https://mbrock.github.io/filnix/php-on-filc/</id>
-        <link href="https://mbrock.github.io/filnix/php-on-filc/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peter Thiel breaks with Trump over Iran war: 'We should not have done it']]></title>
-        <id>https://www.politico.com/news/2026/10/21/peter-thiel-trump-iran-war-01131284</id>
-        <link href="https://www.politico.com/news/2026/10/21/peter-thiel-trump-iran-war-01131284"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A tale of two PHP remote vulnerabilities]]></title>
-        <id>https://calif.io/php2shell.x/</id>
-        <link href="https://calif.io/php2shell.x/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PointerCam, a screen recorder that zooms on clicks and writes guides]]></title>
-        <id>https://pointercam.com/</id>
-        <link href="https://pointercam.com/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP Ledger Fixes Lending Code Before the Feature Goes Live]]></title>
-        <id>https://coinmarketcap.com/community/post/380272949/</id>
-        <link href="https://coinmarketcap.com/community/post/380272949/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Keeps Getting Better. Why Is Its Writing Still So Bad?]]></title>
-        <id>https://greyenlightenment.com/2026/10/21/ai-keeps-getting-better-why-is-its-writing-still-so-bad/</id>
-        <link href="https://greyenlightenment.com/2026/10/21/ai-keeps-getting-better-why-is-its-writing-still-so-bad/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humming: Fast, Flexible Kernels for Quantized Inference]]></title>
-        <id>https://vllm.ai/blog/2026-10-21-humming</id>
-        <link href="https://vllm.ai/blog/2026-10-21-humming"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta's Hunt for AI Capital Strikes a Raw Nerve on Wall Street]]></title>
-        <id>https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601</id>
-        <link href="https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601"/>
+        <title type="html"><![CDATA[Reverse Engineered Onshape for MCP Server]]></title>
+        <id>https://github.com/godbrigero/onshape-native</id>
+        <link href="https://github.com/godbrigero/onshape-native"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
@@ -358,9 +274,93 @@
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reverse Engineered Onshape for MCP Server]]></title>
-        <id>https://github.com/godbrigero/onshape-native</id>
-        <link href="https://github.com/godbrigero/onshape-native"/>
+        <title type="html"><![CDATA[Meta's Hunt for AI Capital Strikes a Raw Nerve on Wall Street]]></title>
+        <id>https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601</id>
+        <link href="https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humming: Fast, Flexible Kernels for Quantized Inference]]></title>
+        <id>https://vllm.ai/blog/2026-10-21-humming</id>
+        <link href="https://vllm.ai/blog/2026-10-21-humming"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Keeps Getting Better. Why Is Its Writing Still So Bad?]]></title>
+        <id>https://greyenlightenment.com/2026/10/21/ai-keeps-getting-better-why-is-its-writing-still-so-bad/</id>
+        <link href="https://greyenlightenment.com/2026/10/21/ai-keeps-getting-better-why-is-its-writing-still-so-bad/"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XRP Ledger Fixes Lending Code Before the Feature Goes Live]]></title>
+        <id>https://coinmarketcap.com/community/post/380272949/</id>
+        <link href="https://coinmarketcap.com/community/post/380272949/"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PointerCam, a screen recorder that zooms on clicks and writes guides]]></title>
+        <id>https://pointercam.com/</id>
+        <link href="https://pointercam.com/"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A tale of two PHP remote vulnerabilities]]></title>
+        <id>https://calif.io/php2shell.x/</id>
+        <link href="https://calif.io/php2shell.x/"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peter Thiel breaks with Trump over Iran war: 'We should not have done it']]></title>
+        <id>https://www.politico.com/news/2026/10/21/peter-thiel-trump-iran-war-01131284</id>
+        <link href="https://www.politico.com/news/2026/10/21/peter-thiel-trump-iran-war-01131284"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memory Safe PHP]]></title>
+        <id>https://mbrock.github.io/filnix/php-on-filc/</id>
+        <link href="https://mbrock.github.io/filnix/php-on-filc/"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[True Depth Makes Crossing Boundaries Safe from Confident Ignorance]]></title>
+        <id>https://civicpivot.blogspot.com/2026/10/anchored-generalism-what-depth-makes.html</id>
+        <link href="https://civicpivot.blogspot.com/2026/10/anchored-generalism-what-depth-makes.html"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WindowINK – An offline-first, mobile-first digital signage solution]]></title>
+        <id>https://www.windowink.com/</id>
+        <link href="https://www.windowink.com/"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta to Pay Zuckerberg's CA Wealth Tax]]></title>
+        <id>https://seekingalpha.com/news/4655678-meta-approves-class-c-share-structure-strikes-deal-to-retain-ceo-zuckerberg-in-california</id>
+        <link href="https://seekingalpha.com/news/4655678-meta-approves-class-c-share-structure-strikes-deal-to-retain-ceo-zuckerberg-in-california"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claudopus vs. Astralisk]]></title>
+        <id>https://kbr.is-a.dev/claudopus-vs-astralisk/</id>
+        <link href="https://kbr.is-a.dev/claudopus-vs-astralisk/"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Can't Let Big Tech Oligarchs Replace the Human Race [video]]]></title>
+        <id>https://www.youtube.com/watch?v=vjtMGKzyhNs</id>
+        <link href="https://www.youtube.com/watch?v=vjtMGKzyhNs"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
