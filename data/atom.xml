@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-23T15:08:07.094Z</updated>
+    <updated>2026-10-23T22:01:05.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,65 +15,200 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Xbox’s first chief operating officer is out after just a few months]]></title>
+        <id>https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure</id>
+        <link href="https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI now trains its frontier AI models with no internet access]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abandoned Popcorn Time apps had to be disabled to prevent a zombie army]]></title>
+        <id>https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided</id>
+        <link href="https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Now Google says it might use your Gmail and Google Photos data to target ads]]></title>
+        <id>https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</id>
+        <link href="https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carta and NewView partner, hoping to entice more startups to let employees sell shares early]]></title>
+        <id>https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/</id>
+        <link href="https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026 ]]></title>
+        <id>https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/</id>
+        <link href="https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors]]></title>
+        <id>https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/</id>
+        <link href="https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ritmo: Type-safe ECS runtime for TypeScript]]></title>
+        <id>https://ritmo.typeonce.dev/</id>
+        <link href="https://ritmo.typeonce.dev/"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitter Lessoned in Automated Theorem Proving]]></title>
+        <id>https://essays.johnloeber.com/p/34-bitter-lessoned-in-automated-theorem</id>
+        <link href="https://essays.johnloeber.com/p/34-bitter-lessoned-in-automated-theorem"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Man's Pan Am 747 Replica [video]]]></title>
+        <id>https://www.youtube.com/watch?v=vAFwHGGfPz4</id>
+        <link href="https://www.youtube.com/watch?v=vAFwHGGfPz4"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Empirical agents with hard constraints, strict isolation and trusty protocols]]></title>
+        <id>https://qip.dev/essays/empirical-agents-with-hard-constraints-strict-isolation-trusty-protocols</id>
+        <link href="https://qip.dev/essays/empirical-agents-with-hard-constraints-strict-isolation-trusty-protocols"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I trained a 160M code model on one GPU and got 22.56% on HumanEval]]></title>
+        <id>https://jakubcwirlej.com/ai-dev/</id>
+        <link href="https://jakubcwirlej.com/ai-dev/"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proton hosts map of 300k Flock devices amid legal threats]]></title>
+        <id>https://cyberinsider.com/proton-flock-map/</id>
+        <link href="https://cyberinsider.com/proton-flock-map/"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: CAS-X – An input-dominant recursive filter (8.5x recovery acceleration)]]></title>
+        <id>https://news.ycombinator.com/item?id=50215667</id>
+        <link href="https://news.ycombinator.com/item?id=50215667"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: CAS-X – An input-dominant recursive filter (8.5x recovery acceleration)]]></title>
+        <id>https://news.ycombinator.com/item?id=50215652</id>
+        <link href="https://news.ycombinator.com/item?id=50215652"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node2Shell vuln affected Python too]]></title>
+        <id>https://opensourcemalware.com/blog/node2shell-affects-python</id>
+        <link href="https://opensourcemalware.com/blog/node2shell-affects-python"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP2Shell and the AI Exploit Race: A Defender’s Playbook for the Critical PHP Flaw]]></title>
+        <id>https://pub.towardsai.net/php2shell-and-the-ai-exploit-race-a-defenders-playbook-for-the-critical-php-flaw-14ccc834143c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/php2shell-and-the-ai-exploit-race-a-defenders-playbook-for-the-critical-php-flaw-14ccc834143c?source=rss----98111c9905da---4"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your AI Coding Agent Needs Boundaries, Not Just Better Prompts]]></title>
+        <id>https://pub.towardsai.net/your-ai-coding-agent-needs-boundaries-not-just-better-prompts-9372e0ec8012?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-ai-coding-agent-needs-boundaries-not-just-better-prompts-9372e0ec8012?source=rss----98111c9905da---4"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geliştirdiğimiz 24 Adet Yapay Zeka Chrome Eklentisi (Manifest V3) ve Web Platformlarımız Yayında! 🇹🇷🚀]]></title>
+        <id>https://dev.to/mert_canyldz_6227c76fc/gelistirdigimiz-24-adet-yapay-zeka-chrome-eklentisi-manifest-v3-ve-web-platformlarimiz-yayinda-1m31</id>
+        <link href="https://dev.to/mert_canyldz_6227c76fc/gelistirdigimiz-24-adet-yapay-zeka-chrome-eklentisi-manifest-v3-ve-web-platformlarimiz-yayinda-1m31"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tired of writing messy if/else checks and boilerplate in your Next.js API routes? 🤦‍♂️]]></title>
+        <id>https://dev.to/yuzia_9c190e7ee48ef50d8/tired-of-writing-messy-ifelse-checks-and-boilerplate-in-your-nextjs-api-routes-1nnd</id>
+        <link href="https://dev.to/yuzia_9c190e7ee48ef50d8/tired-of-writing-messy-ifelse-checks-and-boilerplate-in-your-nextjs-api-routes-1nnd"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immutable Audit Logging & Tamper-Evident Ledger Chains: Bulletproofing Financial Pipelines]]></title>
+        <id>https://dev.to/programmingcentral/immutable-audit-logging-tamper-evident-ledger-chains-bulletproofing-financial-pipelines-j43</id>
+        <link href="https://dev.to/programmingcentral/immutable-audit-logging-tamper-evident-ledger-chains-bulletproofing-financial-pipelines-j43"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[47-day TLS certificates are coming. Here's a single-file HTML tool to keep track of them]]></title>
+        <id>https://dev.to/marcosblg/47-day-tls-certificates-are-coming-heres-a-single-file-html-tool-to-keep-track-of-them-1jke</id>
+        <link href="https://dev.to/marcosblg/47-day-tls-certificates-are-coming-heres-a-single-file-html-tool-to-keep-track-of-them-1jke"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React 18 and Claude Code Animations Project]]></title>
+        <id>https://dev.to/dooaansari/react-18-and-claude-code-animations-project-4cj4</id>
+        <link href="https://dev.to/dooaansari/react-18-and-claude-code-animations-project-4cj4"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built native math formula support for Excalidraw. Type formulas directly and render live vector symbols on canvas without external apps or images.
+
+Open source on GitHub: https://github.com/sm-shafin-ahmad/excalidraw-math]]></title>
+        <id>https://dev.to/smshafinahmad/i-built-native-math-formula-support-for-excalidraw-type-formulas-directly-and-render-live-vector-3c7g</id>
+        <link href="https://dev.to/smshafinahmad/i-built-native-math-formula-support-for-excalidraw-type-formulas-directly-and-render-live-vector-3c7g"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Batch Optimize Images Like a Pro: CLI Guide for Web Performance]]></title>
+        <id>https://dev.to/lb1192176991lab/batch-optimize-images-like-a-pro-cli-guide-for-web-performance-9fa</id>
+        <link href="https://dev.to/lb1192176991lab/batch-optimize-images-like-a-pro-cli-guide-for-web-performance-9fa"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Weighted-Random Birth Simulator on an Open-Source Engine]]></title>
+        <id>https://dev.to/marcushuang/building-a-weighted-random-birth-simulator-on-an-open-source-engine-535f</id>
+        <link href="https://dev.to/marcushuang/building-a-weighted-random-birth-simulator-on-an-open-source-engine-535f"/>
+        <updated>2026-10-23T16:00:00.000Z</updated>
+        <published>2026-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验]]></title>
         <id>https://sspai.com/post/116398</id>
         <link href="https://sspai.com/post/116398"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta delays new business terms after publisher pushback on AI scraping]]></title>
-        <id>https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</id>
-        <link href="https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple revives the original iPod as an Apple Music easter egg]]></title>
-        <id>https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page</id>
-        <link href="https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sure, let’s smoosh SpaceX and Tesla together, who cares]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The FCC is beginning to block gadgets with ‘foreign surveillance chips’]]></title>
-        <id>https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole</id>
-        <link href="https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta turns Muse sharing back on]]></title>
-        <id>https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts</id>
-        <link href="https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta&#8217;s AI could still scrape news sites, legal experts say]]></title>
-        <id>https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns</id>
-        <link href="https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brick’s new app blocker is designed for bedtime doomscrolling]]></title>
-        <id>https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch</id>
-        <link href="https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix can’t fire its way out of this downward spiral]]></title>
-        <id>https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad</id>
-        <link href="https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
@@ -85,16 +220,93 @@
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Palmer Luckey Made a Genetically Modified Military Dog Startup]]></title>
-        <id>https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/</id>
-        <link href="https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/"/>
+        <title type="html"><![CDATA[Netflix can’t fire its way out of this downward spiral]]></title>
+        <id>https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad</id>
+        <link href="https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inside the Exclusive Nathan Fielder Interview]]></title>
-        <id>https://www.wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview/</id>
-        <link href="https://www.wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview/"/>
+        <title type="html"><![CDATA[Brick’s new app blocker is designed for bedtime doomscrolling]]></title>
+        <id>https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch</id>
+        <link href="https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta&#8217;s AI could still scrape news sites, legal experts say]]></title>
+        <id>https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns</id>
+        <link href="https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta turns Muse sharing back on]]></title>
+        <id>https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts</id>
+        <link href="https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The FCC is beginning to block gadgets with ‘foreign surveillance chips’]]></title>
+        <id>https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole</id>
+        <link href="https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sure, let’s smoosh SpaceX and Tesla together, who cares]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple revives the original iPod as an Apple Music easter egg]]></title>
+        <id>https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page</id>
+        <link href="https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta delays new business terms after publisher pushback on AI scraping]]></title>
+        <id>https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</id>
+        <link href="https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Many Billions Would It Take to Hold Meta Accountable?]]></title>
+        <id>https://www.wired.com/story/how-many-billions-would-it-take-to-hold-meta-accountable/</id>
+        <link href="https://www.wired.com/story/how-many-billions-would-it-take-to-hold-meta-accountable/"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could]]></title>
+        <id>https://www.wired.com/review/samsung-galazy-z-flip8/</id>
+        <link href="https://www.wired.com/review/samsung-galazy-z-flip8/"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turtle Beach Vulcan II XP Review: Clicky Compromise]]></title>
+        <id>https://www.wired.com/review/turtle-beach-vulcan-xp-ii/</id>
+        <link href="https://www.wired.com/review/turtle-beach-vulcan-xp-ii/"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TDM Neo Hybrid Headphones Review: Two-in-One Woes]]></title>
+        <id>https://www.wired.com/review/tdm-neo-hybrid-headphones/</id>
+        <link href="https://www.wired.com/review/tdm-neo-hybrid-headphones/"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Dating App Is Offering ‘Chivalry Mode’ and ‘Marriage Timeline’ to Get Gen Z Married]]></title>
+        <id>https://www.wired.com/story/a-dating-app-is-offering-chivalry-mode-and-marriage-timeline-to-get-gen-z-married/</id>
+        <link href="https://www.wired.com/story/a-dating-app-is-offering-chivalry-mode-and-marriage-timeline-to-get-gen-z-married/"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
@@ -106,44 +318,23 @@
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta]]></title>
-        <id>https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/</id>
-        <link href="https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/"/>
+        <title type="html"><![CDATA[Inside the Exclusive Nathan Fielder Interview]]></title>
+        <id>https://www.wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview/</id>
+        <link href="https://www.wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview/"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier]]></title>
-        <id>https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/</id>
-        <link href="https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/"/>
+        <title type="html"><![CDATA[Palmer Luckey Made a Genetically Modified Military Dog Startup]]></title>
+        <id>https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/</id>
+        <link href="https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements]]></title>
-        <id>https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/</id>
-        <link href="https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise]]></title>
-        <id>https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/</id>
-        <link href="https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former OpenAI science lead launches Warp Science to automate wet labs with robots]]></title>
-        <id>https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/</id>
-        <link href="https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The secret to fast startup growth isn’t early sales, top names in tech say]]></title>
-        <id>https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/</id>
-        <link href="https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/"/>
+        <title type="html"><![CDATA[Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach]]></title>
+        <id>https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/</id>
+        <link href="https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
@@ -155,212 +346,23 @@
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I let Claude review the C code I wrote as a math intern in 2013]]></title>
-        <id>https://mitsudomoe.github.io/Kinetic-Solver/</id>
-        <link href="https://mitsudomoe.github.io/Kinetic-Solver/"/>
+        <title type="html"><![CDATA[The secret to fast startup growth isn’t early sales, top names in tech say]]></title>
+        <id>https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/</id>
+        <link href="https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ole Bielfeldt: Finding the Extraordinary in Everyday Objects]]></title>
-        <id>https://www.nikonsmallworld.com/masters-of-microscopy/ole-bielfeldt</id>
-        <link href="https://www.nikonsmallworld.com/masters-of-microscopy/ole-bielfeldt"/>
+        <title type="html"><![CDATA[Former OpenAI science lead launches Warp Science to automate wet labs with robots]]></title>
+        <id>https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/</id>
+        <link href="https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: One REST endpoint to filter 80+ financial datasets]]></title>
-        <id>https://financialdata.net/universal-query</id>
-        <link href="https://financialdata.net/universal-query"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bolsonarism has formed its own digital party, says Marcos Nobre]]></title>
-        <id>https://jornal.unicamp.br/en/noticias/2026/06/26/bolsonarismo-constituiu-seu-partido-digital-afirma-marcos-nobre/</id>
-        <link href="https://jornal.unicamp.br/en/noticias/2026/06/26/bolsonarismo-constituiu-seu-partido-digital-afirma-marcos-nobre/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Article Reviews Dominate Human Peer Reviews at Their Best [pdf]]]></title>
-        <id>https://gking.harvard.edu/files/peerless.pdf</id>
-        <link href="https://gking.harvard.edu/files/peerless.pdf"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pentagon grants DHS permission to test heat ray weapon for use at border]]></title>
-        <id>https://www.cnn.com/2026/10/21/politics/heat-ray-weapon-dhs-pentagon</id>
-        <link href="https://www.cnn.com/2026/10/21/politics/heat-ray-weapon-dhs-pentagon"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trust Stores Are Dependencies Too]]></title>
-        <id>https://nesbitt.io/2026/10/21/trust-stores-are-dependencies-too.html</id>
-        <link href="https://nesbitt.io/2026/10/21/trust-stores-are-dependencies-too.html"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hex Map 5.7 – Set Terrain Type Burst Job]]></title>
-        <id>https://catlikecoding.com/unity/hex-map/5-7/</id>
-        <link href="https://catlikecoding.com/unity/hex-map/5-7/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Would you let an AI agent fix things on your servers?]]></title>
-        <id>https://github.com/dyablohunter/warden</id>
-        <link href="https://github.com/dyablohunter/warden"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getty Images Advances Financial Restructuring]]></title>
-        <id>https://investors.gettyimages.com/news-releases/news-release-details/getty-images-advances-financial-restructuring-strengthen-balance</id>
-        <link href="https://investors.gettyimages.com/news-releases/news-release-details/getty-images-advances-financial-restructuring-strengthen-balance"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magnitude-7 earthquake hits Tibet, killing at least 16 destroying hundreds homes]]></title>
-        <id>https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet</id>
-        <link href="https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D Printed Photobioreactor [video]]]></title>
-        <id>https://www.youtube.com/watch?v=SLckTj_tJg4</id>
-        <link href="https://www.youtube.com/watch?v=SLckTj_tJg4"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keycloak: Unauthenticated account takeover via reset-credentials flow bypass]]></title>
-        <id>https://access.redhat.com/security/cve/cve-2026-18963</id>
-        <link href="https://access.redhat.com/security/cve/cve-2026-18963"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UUIDv7 doesn't have the properties you think it does]]></title>
-        <id>https://alexsci.com/blog/uuidv7-is-weird/</id>
-        <link href="https://alexsci.com/blog/uuidv7-is-weird/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP situation 24h later [video]]]></title>
-        <id>https://www.youtube.com/watch?v=SP7y1h0laN0</id>
-        <link href="https://www.youtube.com/watch?v=SP7y1h0laN0"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The PHP exploit simply explained [video]]]></title>
-        <id>https://www.youtube.com/watch?v=JGZxVTpw3GU</id>
-        <link href="https://www.youtube.com/watch?v=JGZxVTpw3GU"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patching the Sony PS3 for RGB Scart When Playing DVDs and BluRay]]></title>
-        <id>https://github.com/WeebLabs/RGB-DVD-Patch-for-PS3</id>
-        <link href="https://github.com/WeebLabs/RGB-DVD-Patch-for-PS3"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FreeToolkit – 384 client-side dev utilities (regex, SQL, cron, cURL, more)]]></title>
-        <id>https://freetoolkit.dev/</id>
-        <link href="https://freetoolkit.dev/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: What LLM fits my GPU? – VRAM measured on real hardware for 117 models]]></title>
-        <id>https://quantized.uk/</id>
-        <link href="https://quantized.uk/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getty Images files for US bankruptcy, advances restructuring plan]]></title>
-        <id>https://www.reuters.com/legal/litigation/getty-images-files-us-bankruptcy-advances-restructuring-plan-2026-10-21/</id>
-        <link href="https://www.reuters.com/legal/litigation/getty-images-files-us-bankruptcy-advances-restructuring-plan-2026-10-21/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mapping the Northern Sky]]></title>
-        <id>https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/</id>
-        <link href="https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jank – The native Clojure dialect with seamless C++ interop]]></title>
-        <id>https://jank-lang.org/</id>
-        <link href="https://jank-lang.org/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kirsch – A versatile bitmap font with an organic flair]]></title>
-        <id>https://github.com/molarmanful/kirsch</id>
-        <link href="https://github.com/molarmanful/kirsch"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker Is Weird]]></title>
-        <id>https://codeandcake.dev/posts/2026-10-22-docker-is-weird</id>
-        <link href="https://codeandcake.dev/posts/2026-10-22-docker-is-weird"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Next Bottleneck in AI for Science]]></title>
-        <id>https://www.mixtureofexperts.co/p/the-next-bottleneck-in-ai-for-science</id>
-        <link href="https://www.mixtureofexperts.co/p/the-next-bottleneck-in-ai-for-science"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub now uses a generic avatar instead of "Identicons" for new profiles]]></title>
-        <id>https://news.ycombinator.com/item?id=50202403</id>
-        <link href="https://news.ycombinator.com/item?id=50202403"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public-Interest Information in an AI-Intermediated Age]]></title>
-        <id>https://www.journalismfutures.org/three-layer-cake</id>
-        <link href="https://www.journalismfutures.org/three-layer-cake"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mitmproxy 12.3: eMudhra Edition]]></title>
-        <id>https://www.mitmproxy.org/posts/releases/mitmproxy-12.3/</id>
-        <link href="https://www.mitmproxy.org/posts/releases/mitmproxy-12.3/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Can't Let Big Tech Oligarchs Replace the Human Race [video]]]></title>
-        <id>https://www.youtube.com/watch?v=vjtMGKzyhNs</id>
-        <link href="https://www.youtube.com/watch?v=vjtMGKzyhNs"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claudopus vs. Astralisk]]></title>
-        <id>https://kbr.is-a.dev/claudopus-vs-astralisk/</id>
-        <link href="https://kbr.is-a.dev/claudopus-vs-astralisk/"/>
+        <title type="html"><![CDATA[Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise]]></title>
+        <id>https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/</id>
+        <link href="https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
