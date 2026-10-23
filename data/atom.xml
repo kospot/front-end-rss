@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-23T00:01:21.203Z</updated>
+    <updated>2026-10-23T02:04:02.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Sure, let’s smoosh SpaceX and Tesla together, who cares]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The FCC is beginning to block gadgets with ‘foreign surveillance chips’]]></title>
-        <id>https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole</id>
-        <link href="https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole"/>
+        <title type="html"><![CDATA[Meta&#8217;s AI could still scrape news sites, legal experts say]]></title>
+        <id>https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns</id>
+        <link href="https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
@@ -36,9 +29,16 @@
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta&#8217;s AI could still scrape news sites, legal experts say]]></title>
-        <id>https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns</id>
-        <link href="https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"/>
+        <title type="html"><![CDATA[The FCC is beginning to block gadgets with ‘foreign surveillance chips’]]></title>
+        <id>https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole</id>
+        <link href="https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sure, let’s smoosh SpaceX and Tesla together, who cares]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
@@ -113,100 +113,65 @@
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getty Images files for US bankruptcy, advances restructuring plan]]></title>
-        <id>https://www.reuters.com/legal/litigation/getty-images-files-us-bankruptcy-advances-restructuring-plan-2026-10-21/</id>
-        <link href="https://www.reuters.com/legal/litigation/getty-images-files-us-bankruptcy-advances-restructuring-plan-2026-10-21/"/>
+        <title type="html"><![CDATA[Reverse Engineered Onshape for MCP Server]]></title>
+        <id>https://github.com/godbrigero/onshape-native</id>
+        <link href="https://github.com/godbrigero/onshape-native"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mapping the Northern Sky]]></title>
-        <id>https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/</id>
-        <link href="https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/"/>
+        <title type="html"><![CDATA[Nvidia Ampere GPUs got unlocked/exploited]]></title>
+        <id>https://github.com/Zagitta/gpu-unlock/blob/main/docs/How%20Ampere%20was%20unlocked.md</id>
+        <link href="https://github.com/Zagitta/gpu-unlock/blob/main/docs/How%20Ampere%20was%20unlocked.md"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jank – The native Clojure dialect with seamless C++ interop]]></title>
-        <id>https://jank-lang.org/</id>
-        <link href="https://jank-lang.org/"/>
+        <title type="html"><![CDATA[Meta's Hunt for AI Capital Strikes a Raw Nerve on Wall Street]]></title>
+        <id>https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601</id>
+        <link href="https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[kirsch – A versatile bitmap font with an organic flair]]></title>
-        <id>https://github.com/molarmanful/kirsch</id>
-        <link href="https://github.com/molarmanful/kirsch"/>
+        <title type="html"><![CDATA[Humming: Fast, Flexible Kernels for Quantized Inference]]></title>
+        <id>https://vllm.ai/blog/2026-10-21-humming</id>
+        <link href="https://vllm.ai/blog/2026-10-21-humming"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Docker Is Weird]]></title>
-        <id>https://codeandcake.dev/posts/2026-10-22-docker-is-weird</id>
-        <link href="https://codeandcake.dev/posts/2026-10-22-docker-is-weird"/>
+        <title type="html"><![CDATA[AI Keeps Getting Better. Why Is Its Writing Still So Bad?]]></title>
+        <id>https://greyenlightenment.com/2026/10/21/ai-keeps-getting-better-why-is-its-writing-still-so-bad/</id>
+        <link href="https://greyenlightenment.com/2026/10/21/ai-keeps-getting-better-why-is-its-writing-still-so-bad/"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Next Bottleneck in AI for Science]]></title>
-        <id>https://www.mixtureofexperts.co/p/the-next-bottleneck-in-ai-for-science</id>
-        <link href="https://www.mixtureofexperts.co/p/the-next-bottleneck-in-ai-for-science"/>
+        <title type="html"><![CDATA[XRP Ledger Fixes Lending Code Before the Feature Goes Live]]></title>
+        <id>https://coinmarketcap.com/community/post/380272949/</id>
+        <link href="https://coinmarketcap.com/community/post/380272949/"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub now uses a generic avatar instead of "Identicons" for new profiles]]></title>
-        <id>https://news.ycombinator.com/item?id=50202403</id>
-        <link href="https://news.ycombinator.com/item?id=50202403"/>
+        <title type="html"><![CDATA[PointerCam, a screen recorder that zooms on clicks and writes guides]]></title>
+        <id>https://pointercam.com/</id>
+        <link href="https://pointercam.com/"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Public-Interest Information in an AI-Intermediated Age]]></title>
-        <id>https://www.journalismfutures.org/three-layer-cake</id>
-        <link href="https://www.journalismfutures.org/three-layer-cake"/>
+        <title type="html"><![CDATA[A tale of two PHP remote vulnerabilities]]></title>
+        <id>https://calif.io/php2shell.x/</id>
+        <link href="https://calif.io/php2shell.x/"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mitmproxy 12.3: eMudhra Edition]]></title>
-        <id>https://www.mitmproxy.org/posts/releases/mitmproxy-12.3/</id>
-        <link href="https://www.mitmproxy.org/posts/releases/mitmproxy-12.3/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Can't Let Big Tech Oligarchs Replace the Human Race [video]]]></title>
-        <id>https://www.youtube.com/watch?v=vjtMGKzyhNs</id>
-        <link href="https://www.youtube.com/watch?v=vjtMGKzyhNs"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claudopus vs. Astralisk]]></title>
-        <id>https://kbr.is-a.dev/claudopus-vs-astralisk/</id>
-        <link href="https://kbr.is-a.dev/claudopus-vs-astralisk/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta to Pay Zuckerberg's CA Wealth Tax]]></title>
-        <id>https://seekingalpha.com/news/4655678-meta-approves-class-c-share-structure-strikes-deal-to-retain-ceo-zuckerberg-in-california</id>
-        <link href="https://seekingalpha.com/news/4655678-meta-approves-class-c-share-structure-strikes-deal-to-retain-ceo-zuckerberg-in-california"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WindowINK – An offline-first, mobile-first digital signage solution]]></title>
-        <id>https://www.windowink.com/</id>
-        <link href="https://www.windowink.com/"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[True Depth Makes Crossing Boundaries Safe from Confident Ignorance]]></title>
-        <id>https://civicpivot.blogspot.com/2026/10/anchored-generalism-what-depth-makes.html</id>
-        <link href="https://civicpivot.blogspot.com/2026/10/anchored-generalism-what-depth-makes.html"/>
+        <title type="html"><![CDATA[Peter Thiel breaks with Trump over Iran war: 'We should not have done it']]></title>
+        <id>https://www.politico.com/news/2026/10/21/peter-thiel-trump-iran-war-01131284</id>
+        <link href="https://www.politico.com/news/2026/10/21/peter-thiel-trump-iran-war-01131284"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
@@ -218,9 +183,100 @@
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Three Coding Models Tie at 74%. One Writes 25% Less Code]]></title>
-        <id>https://pub.towardsai.net/three-coding-models-tie-at-74-one-writes-25-less-code-c9df3e3dd297?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/three-coding-models-tie-at-74-one-writes-25-less-code-c9df3e3dd297?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[True Depth Makes Crossing Boundaries Safe from Confident Ignorance]]></title>
+        <id>https://civicpivot.blogspot.com/2026/10/anchored-generalism-what-depth-makes.html</id>
+        <link href="https://civicpivot.blogspot.com/2026/10/anchored-generalism-what-depth-makes.html"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WindowINK – An offline-first, mobile-first digital signage solution]]></title>
+        <id>https://www.windowink.com/</id>
+        <link href="https://www.windowink.com/"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta to Pay Zuckerberg's CA Wealth Tax]]></title>
+        <id>https://seekingalpha.com/news/4655678-meta-approves-class-c-share-structure-strikes-deal-to-retain-ceo-zuckerberg-in-california</id>
+        <link href="https://seekingalpha.com/news/4655678-meta-approves-class-c-share-structure-strikes-deal-to-retain-ceo-zuckerberg-in-california"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claudopus vs. Astralisk]]></title>
+        <id>https://kbr.is-a.dev/claudopus-vs-astralisk/</id>
+        <link href="https://kbr.is-a.dev/claudopus-vs-astralisk/"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Can't Let Big Tech Oligarchs Replace the Human Race [video]]]></title>
+        <id>https://www.youtube.com/watch?v=vjtMGKzyhNs</id>
+        <link href="https://www.youtube.com/watch?v=vjtMGKzyhNs"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mitmproxy 12.3: eMudhra Edition]]></title>
+        <id>https://www.mitmproxy.org/posts/releases/mitmproxy-12.3/</id>
+        <link href="https://www.mitmproxy.org/posts/releases/mitmproxy-12.3/"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Public-Interest Information in an AI-Intermediated Age]]></title>
+        <id>https://www.journalismfutures.org/three-layer-cake</id>
+        <link href="https://www.journalismfutures.org/three-layer-cake"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub now uses a generic avatar instead of "Identicons" for new profiles]]></title>
+        <id>https://news.ycombinator.com/item?id=50202403</id>
+        <link href="https://news.ycombinator.com/item?id=50202403"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Next Bottleneck in AI for Science]]></title>
+        <id>https://www.mixtureofexperts.co/p/the-next-bottleneck-in-ai-for-science</id>
+        <link href="https://www.mixtureofexperts.co/p/the-next-bottleneck-in-ai-for-science"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Is Weird]]></title>
+        <id>https://codeandcake.dev/posts/2026-10-22-docker-is-weird</id>
+        <link href="https://codeandcake.dev/posts/2026-10-22-docker-is-weird"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kirsch – A versatile bitmap font with an organic flair]]></title>
+        <id>https://github.com/molarmanful/kirsch</id>
+        <link href="https://github.com/molarmanful/kirsch"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jank – The native Clojure dialect with seamless C++ interop]]></title>
+        <id>https://jank-lang.org/</id>
+        <link href="https://jank-lang.org/"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mapping the Northern Sky]]></title>
+        <id>https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/</id>
+        <link href="https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getty Images files for US bankruptcy, advances restructuring plan]]></title>
+        <id>https://www.reuters.com/legal/litigation/getty-images-files-us-bankruptcy-advances-restructuring-plan-2026-10-21/</id>
+        <link href="https://www.reuters.com/legal/litigation/getty-images-files-us-bankruptcy-advances-restructuring-plan-2026-10-21/"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
@@ -228,6 +284,13 @@
         <title type="html"><![CDATA[AI Code Review: Which Changes Still Need a Human?]]></title>
         <id>https://pub.towardsai.net/ai-code-review-which-changes-still-need-a-human-20b90d02b393?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/ai-code-review-which-changes-still-need-a-human-20b90d02b393?source=rss----98111c9905da---4"/>
+        <updated>2026-10-22T16:00:00.000Z</updated>
+        <published>2026-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Coding Models Tie at 74%. One Writes 25% Less Code]]></title>
+        <id>https://pub.towardsai.net/three-coding-models-tie-at-74-one-writes-25-less-code-c9df3e3dd297?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/three-coding-models-tie-at-74-one-writes-25-less-code-c9df3e3dd297?source=rss----98111c9905da---4"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
@@ -246,79 +309,44 @@
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building an Interactive Rain-on-Glass Effect with Three.js and WebGL]]></title>
-        <id>https://dev.to/jefvereecke/building-an-interactive-rain-on-glass-effect-with-threejs-and-webgl-5de9</id>
-        <link href="https://dev.to/jefvereecke/building-an-interactive-rain-on-glass-effect-with-threejs-and-webgl-5de9"/>
+        <title type="html"><![CDATA[How I Built an AI Phone Receptionist: Webhooks, Stateless Turns and Structured LLM Output]]></title>
+        <id>https://dev.to/kabariyashyam10ui/how-i-built-an-ai-phone-receptionist-webhooks-stateless-turns-and-structured-llm-output-3d6h</id>
+        <link href="https://dev.to/kabariyashyam10ui/how-i-built-an-ai-phone-receptionist-webhooks-stateless-turns-and-structured-llm-output-3d6h"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Server-Rendered Forms to a Framework-Agnostic JavaScript Library]]></title>
-        <id>https://dev.to/gustavoaroberto/from-server-rendered-forms-to-a-framework-agnostic-javascript-library-1g4j</id>
-        <link href="https://dev.to/gustavoaroberto/from-server-rendered-forms-to-a-framework-agnostic-javascript-library-1g4j"/>
+        <title type="html"><![CDATA[BlockIt: Flexible Web Element Blocking with Full Control Over Rules]]></title>
+        <id>https://dev.to/pavelcraft/blockit-flexible-web-element-blocking-with-full-control-over-rules-350i</id>
+        <link href="https://dev.to/pavelcraft/blockit-flexible-web-element-blocking-with-full-control-over-rules-350i"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why I built Vlox with Node.js, Cash, and MongoDB]]></title>
-        <id>https://dev.to/codemaster_121482/why-i-built-vlox-with-nodejs-cash-and-mongodb-2ohc</id>
-        <link href="https://dev.to/codemaster_121482/why-i-built-vlox-with-nodejs-cash-and-mongodb-2ohc"/>
+        <title type="html"><![CDATA[Why crawler logs and browser analytics disagree: a five-check debugging guide]]></title>
+        <id>https://dev.to/webdecoy/why-crawler-logs-and-browser-analytics-disagree-a-five-check-debugging-guide-1ol8</id>
+        <link href="https://dev.to/webdecoy/why-crawler-logs-and-browser-analytics-disagree-a-five-check-debugging-guide-1ol8"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Add a drag and drop email builder to your React app (full tutorial)]]></title>
-        <id>https://dev.to/mailkaro/add-a-drag-and-drop-email-builder-to-your-react-app-full-tutorial-p92</id>
-        <link href="https://dev.to/mailkaro/add-a-drag-and-drop-email-builder-to-your-react-app-full-tutorial-p92"/>
+        <title type="html"><![CDATA[How to Add AI Voice to Your Django App]]></title>
+        <id>https://dev.to/voice_developer/how-to-add-ai-voice-to-your-django-app-315o</id>
+        <link href="https://dev.to/voice_developer/how-to-add-ai-voice-to-your-django-app-315o"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[False Affordance in WordPress (4wp.dev Methodologies): When UI Promises What Code Doesn't Deliver]]></title>
-        <id>https://dev.to/adovgun/false-affordance-in-wordpress-4wpdev-methodologies-when-ui-promises-what-code-doesnt-deliver-3lca</id>
-        <link href="https://dev.to/adovgun/false-affordance-in-wordpress-4wpdev-methodologies-when-ui-promises-what-code-doesnt-deliver-3lca"/>
+        <title type="html"><![CDATA[Black Friday Budget Calculator: See Your Real Savings (and Your Wants) Before You Shop]]></title>
+        <id>https://dev.to/smartbudgetsheets/black-friday-budget-calculator-see-your-real-savings-and-your-wants-before-you-shop-55ec</id>
+        <link href="https://dev.to/smartbudgetsheets/black-friday-budget-calculator-see-your-real-savings-and-your-wants-before-you-shop-55ec"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Floating-point money math: getting compound interest right in the browser]]></title>
-        <id>https://dev.to/farbodf/floating-point-money-math-getting-compound-interest-right-in-the-browser-5663</id>
-        <link href="https://dev.to/farbodf/floating-point-money-math-getting-compound-interest-right-in-the-browser-5663"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building CloudiCraft Studio: An AI-Powered Media Suite & URL Inspector with Cloudinary]]></title>
-        <id>https://dev.to/ahmadjawad533/building-cloudicraft-studio-an-ai-powered-media-suite-url-inspector-with-cloudinary-jcn</id>
-        <link href="https://dev.to/ahmadjawad533/building-cloudicraft-studio-an-ai-powered-media-suite-url-inspector-with-cloudinary-jcn"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Death of Screen Scraping: Architecting Resilient Open Banking & PSD2 Pipelines with Plaid, Teller, and TypeScript]]></title>
-        <id>https://dev.to/programmingcentral/the-death-of-screen-scraping-architecting-resilient-open-banking-psd2-pipelines-with-plaid-4aoj</id>
-        <link href="https://dev.to/programmingcentral/the-death-of-screen-scraping-architecting-resilient-open-banking-psd2-pipelines-with-plaid-4aoj"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On-Device AI in React Native with Expo: Local LLM, Speech-to-Text, Vision & Fully Local Agents]]></title>
-        <id>https://dev.to/saidkaban/on-device-ai-in-react-native-with-expo-local-llm-speech-to-text-vision-fully-local-agents-57ld</id>
-        <link href="https://dev.to/saidkaban/on-device-ai-in-react-native-with-expo-local-llm-speech-to-text-vision-fully-local-agents-57ld"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Delay JS Breaks a WordPress Mobile Menu (and PageSpeed Looks Fine)]]></title>
-        <id>https://dev.to/pbbdesign/when-delay-js-breaks-a-wordpress-mobile-menu-and-pagespeed-looks-fine-46p4</id>
-        <link href="https://dev.to/pbbdesign/when-delay-js-breaks-a-wordpress-mobile-menu-and-pagespeed-looks-fine-46p4"/>
-        <updated>2026-10-22T16:00:00.000Z</updated>
-        <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How a static Astro site keeps its prices current every month]]></title>
-        <id>https://dev.to/haulfare/how-a-static-astro-site-keeps-its-prices-current-every-month-2cl0</id>
-        <link href="https://dev.to/haulfare/how-a-static-astro-site-keeps-its-prices-current-every-month-2cl0"/>
+        <title type="html"><![CDATA[CodeMirror Showed My HTML. The Published Post Was Empty.]]></title>
+        <id>https://dev.to/hexisteme/codemirror-showed-my-html-the-published-post-was-empty-3ena</id>
+        <link href="https://dev.to/hexisteme/codemirror-showed-my-html-the-published-post-was-empty-3ena"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
@@ -330,38 +358,10 @@
         <published>2026-10-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building an Isolated Preview for AI-Generated HTML]]></title>
-        <id>https://blog.master.dev/building-an-isolated-preview-for-ai-generated-html/</id>
-        <link href="https://blog.master.dev/building-an-isolated-preview-for-ai-generated-html/"/>
+        <title type="html"><![CDATA[How a static Astro site keeps its prices current every month]]></title>
+        <id>https://dev.to/haulfare/how-a-static-astro-site-keeps-its-prices-current-every-month-2cl0</id>
+        <link href="https://dev.to/haulfare/how-a-static-astro-site-keeps-its-prices-current-every-month-2cl0"/>
         <updated>2026-10-22T16:00:00.000Z</updated>
         <published>2026-10-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You could just get a refurbished Samsung phone on Amazon]]></title>
-        <id>https://www.theverge.com/gadgets/1016626/samsung-galaxy-used-amazon</id>
-        <link href="https://www.theverge.com/gadgets/1016626/samsung-galaxy-used-amazon"/>
-        <updated>2026-10-21T16:00:00.000Z</updated>
-        <published>2026-10-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal]]></title>
-        <id>https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty</id>
-        <link href="https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty"/>
-        <updated>2026-10-21T16:00:00.000Z</updated>
-        <published>2026-10-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bose acquires Skullcandy to help it reach a wider audience]]></title>
-        <id>https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers</id>
-        <link href="https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers"/>
-        <updated>2026-10-21T16:00:00.000Z</updated>
-        <published>2026-10-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP: The three letters that shut down sites all over the internet today]]></title>
-        <id>https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026</id>
-        <link href="https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026"/>
-        <updated>2026-10-21T16:00:00.000Z</updated>
-        <published>2026-10-21T16:00:00.000Z</published>
     </entry>
 </feed>
