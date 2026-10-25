@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-25T13:03:15.234Z</updated>
+    <updated>2026-10-25T15:02:29.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -50,261 +50,30 @@
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Imagine an AI future where being banned means you are now economically useless]]></title>
-        <id>https://twitter.com/boneGPT/status/2114035719853265264</id>
-        <link href="https://twitter.com/boneGPT/status/2114035719853265264"/>
+        <title type="html"><![CDATA[Show HN: Markdown Quick Look for macOS with a Rust core and no web engine]]></title>
+        <id>https://github.com/armamut/md-quicklook</id>
+        <link href="https://github.com/armamut/md-quicklook"/>
         <updated>2026-10-24T16:00:00.000Z</updated>
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple is forcing app developers to no longer build for iOS <13.0 [video]]]></title>
-        <id>https://www.youtube.com/watch?v=BSPRV62axak</id>
-        <link href="https://www.youtube.com/watch?v=BSPRV62axak"/>
+        <title type="html"><![CDATA[OpenLDK: Bringing the Java World into Common Lisp]]></title>
+        <id>https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/</id>
+        <link href="https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/"/>
         <updated>2026-10-24T16:00:00.000Z</updated>
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cybersecurity bounty hunter says Samsung TVs use AI to record audio]]></title>
-        <id>https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting</id>
-        <link href="https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting"/>
+        <title type="html"><![CDATA[China Scales Nuclear District Heating with Haiyang Project]]></title>
+        <id>https://nuclearforgood.com/case_study/china-scales-nuclear-district-heating-with-haiyang-project/</id>
+        <link href="https://nuclearforgood.com/case_study/china-scales-nuclear-district-heating-with-haiyang-project/"/>
         <updated>2026-10-24T16:00:00.000Z</updated>
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[There is no official XScreenSaver GitHub repository]]></title>
-        <id>https://github.com/cowmix/xscreensaver</id>
-        <link href="https://github.com/cowmix/xscreensaver"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free SEO audit and AI search tools. No sign-up]]></title>
-        <id>https://seowins.net/</id>
-        <link href="https://seowins.net/"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Is Rotting Your Brain [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ZumXpZzDsgo</id>
-        <link href="https://www.youtube.com/watch?v=ZumXpZzDsgo"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MySecret – Transparent Vault Encryption (AES-256-GCM, Zero-Knowledge)]]></title>
-        <id>https://github.com/abismalmx/MySecret</id>
-        <link href="https://github.com/abismalmx/MySecret"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One long video in. Your best clips out]]></title>
-        <id>https://www.clipzula.com/</id>
-        <link href="https://www.clipzula.com/"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why popular airplanes are getting scrapped years early]]></title>
-        <id>https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html</id>
-        <link href="https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Musk" Documentary Pulled from Almost Every One of 472 Theaters After One Week]]></title>
-        <id>https://www.showbiz411.com/2026/10/23/controversial-musk-documentary-pulled-from-almost-every-one-of-472-theaters-after-one-week-by-newly-sold-bleecker-street-films</id>
-        <link href="https://www.showbiz411.com/2026/10/23/controversial-musk-documentary-pulled-from-almost-every-one-of-472-theaters-after-one-week-by-newly-sold-bleecker-street-films"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MacOS Extensions Pack for the Apple Network Server v1.0]]></title>
-        <id>http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html</id>
-        <link href="http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Documentary film 'Bot Love' exploring AI companionship to debut Oct. 21]]></title>
-        <id>https://www.thesuburban.com/arts_and_entertainment/entertainment/documentary-film-bot-love-exploring-ai-companionship-to-debut-oct-21-on-cbc-and-cbc/article_f7277775-bd32-475f-9aa5-3ce58907374f.html</id>
-        <link href="https://www.thesuburban.com/arts_and_entertainment/entertainment/documentary-film-bot-love-exploring-ai-companionship-to-debut-oct-21-on-cbc-and-cbc/article_f7277775-bd32-475f-9aa5-3ce58907374f.html"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Reolink cameras didn't have SSH, so I fixed that]]></title>
-        <id>https://inventor7777.github.io/blog/2026/10/24/ssh-on-11-reolink-cameras/</id>
-        <link href="https://inventor7777.github.io/blog/2026/10/24/ssh-on-11-reolink-cameras/"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailworm – Tailscale Vulnerabilities]]></title>
-        <id>https://tailworm.com/</id>
-        <link href="https://tailworm.com/"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git]]></title>
-        <id>https://adrs.systems</id>
-        <link href="https://adrs.systems"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Importance of Limitations for Creativity and Learning]]></title>
-        <id>https://ratfactor.com/cards/limitations</id>
-        <link href="https://ratfactor.com/cards/limitations"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forecasting Financial Markets with Timestral]]></title>
-        <id>https://philippdubach.com/posts/forecasting-financial-markets-with-timestral/</id>
-        <link href="https://philippdubach.com/posts/forecasting-financial-markets-with-timestral/"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Experiment review – easily the most disturbing thing on British TV]]></title>
-        <id>https://www.theguardian.com/tv-and-radio/2026/oct/21/the-experiment-channel-four-tv-review-uk-nazi-disability</id>
-        <link href="https://www.theguardian.com/tv-and-radio/2026/oct/21/the-experiment-channel-four-tv-review-uk-nazi-disability"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interesting properties about the design of the UK 50p piece [pdf]]]></title>
-        <id>https://cdn.ima.org.uk/wp/wp-content/uploads/2022/03/Westward-Ho-Conway-Concorde-and-curiously-curved-coins-from-MT-April-22.pdf</id>
-        <link href="https://cdn.ima.org.uk/wp/wp-content/uploads/2022/03/Westward-Ho-Conway-Concorde-and-curiously-curved-coins-from-MT-April-22.pdf"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The power of having less features]]></title>
-        <id>https://ratfactor.com/cards/no-feature</id>
-        <link href="https://ratfactor.com/cards/no-feature"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who Wrote This Byte: git blame for your build’s bytes]]></title>
-        <id>https://fzakaria.com/2026/10/23/who-wrote-this-byte</id>
-        <link href="https://fzakaria.com/2026/10/23/who-wrote-this-byte"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who Owns the Roadmap? Six Ways to Build a Forward Deployed Engineering Business]]></title>
-        <id>https://mwvdveld.substack.com/p/who-owns-the-roadmap-six-ways-to</id>
-        <link href="https://mwvdveld.substack.com/p/who-owns-the-roadmap-six-ways-to"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Omni Verify, my AI agent can't post until Kane checks every promise]]></title>
-        <id>https://github.com/DainoJung/omni-verify</id>
-        <link href="https://github.com/DainoJung/omni-verify"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Redmi phone can do things that $16K GPU is needed for on Ethereum]]></title>
-        <id>https://github.com/ignotusnemo/paramo1d</id>
-        <link href="https://github.com/ignotusnemo/paramo1d"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP2Shell exploitation observed: packet-to-process RCE evidence]]></title>
-        <id>https://github.com/0x4D31/honeypot-data/blob/main/reports/php2shell/2026-10-24-confirmed-rce.md</id>
-        <link href="https://github.com/0x4D31/honeypot-data/blob/main/reports/php2shell/2026-10-24-confirmed-rce.md"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Reading "East of Eden" Affected Writers and Artists]]></title>
-        <id>https://www.nytimes.com/2026/10/09/books/review/reading-east-of-eden.html</id>
-        <link href="https://www.nytimes.com/2026/10/09/books/review/reading-east-of-eden.html"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FindMyWeb: Apple Find My, reverse enginiered]]></title>
-        <id>https://codeberg.org/Misom/FindMyWeb</id>
-        <link href="https://codeberg.org/Misom/FindMyWeb"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop-motion movie Wildwood is a staggering masterpiece]]></title>
-        <id>https://www.cbc.ca/news/entertainment/wildwood-review-laika-9.7393321</id>
-        <link href="https://www.cbc.ca/news/entertainment/wildwood-review-laika-9.7393321"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An animated explainer of the PHP2SHell vulnerability [video]]]></title>
-        <id>https://www.youtube.com/watch?v=6Kz4bWKoXhU</id>
-        <link href="https://www.youtube.com/watch?v=6Kz4bWKoXhU"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: AI Heat Map Sourced from over 140 News Feeds]]></title>
-        <id>https://ai.jagular.io</id>
-        <link href="https://ai.jagular.io"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chasing the cognitive roots of our rectangular mindset (2004)]]></title>
-        <id>https://www.cdac.in/index.aspx?id=pdf_dkatre5</id>
-        <link href="https://www.cdac.in/index.aspx?id=pdf_dkatre5"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inline Viewer: Quest Diagnostics Incorporated 8-K 2026-10-21]]></title>
-        <id>https://www.sec.gov/ix?doc=/Archives/edgar/data/0001022079/000094787126000941/ss6979200_8k.htm</id>
-        <link href="https://www.sec.gov/ix?doc=/Archives/edgar/data/0001022079/000094787126000941/ss6979200_8k.htm"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bill Gates warns the 'evolutionary' age of AI will be brutal for workers]]></title>
-        <id>https://observer.co.uk/news/technology/article/bill-gates-warns-the-evolutionary-age-of-ai-will-be-brutal-for-workers</id>
-        <link href="https://observer.co.uk/news/technology/article/bill-gates-warns-the-evolutionary-age-of-ai-will-be-brutal-for-workers"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allocating Off-Heap Memory: Typically 6-18x Faster in JDK 28]]></title>
-        <id>https://inside.java/2026/10/23/confined-pools/</id>
-        <link href="https://inside.java/2026/10/23/confined-pools/"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decompiling Fast Food Tycoon 2: Drawing the World]]></title>
-        <id>https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world</id>
-        <link href="https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nikon photography contest winner loses title after scientists spot signs of AI]]></title>
-        <id>https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html</id>
-        <link href="https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Difftastic, a Structural Diff]]></title>
-        <id>https://difftastic.wilfred.me.uk/</id>
-        <link href="https://difftastic.wilfred.me.uk/"/>
+        <title type="html"><![CDATA[Show HN: Can you still read code? 155 JavaScript questions as a game]]></title>
+        <id>https://canyoustill.com</id>
+        <link href="https://canyoustill.com"/>
         <updated>2026-10-24T16:00:00.000Z</updated>
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
@@ -316,16 +85,261 @@
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The New Developer Job: Reviewing Code Written by AI]]></title>
-        <id>https://pub.towardsai.net/the-new-developer-job-reviewing-code-written-by-ai-594acb98de79?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-new-developer-job-reviewing-code-written-by-ai-594acb98de79?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Difftastic, a Structural Diff]]></title>
+        <id>https://difftastic.wilfred.me.uk/</id>
+        <link href="https://difftastic.wilfred.me.uk/"/>
         <updated>2026-10-24T16:00:00.000Z</updated>
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Design Feedback: How to Get Critique That Isn’t Just Guessing]]></title>
-        <id>https://pub.towardsai.net/ai-design-feedback-how-to-get-critique-that-isnt-just-guessing-ff47b2abf485?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/ai-design-feedback-how-to-get-critique-that-isnt-just-guessing-ff47b2abf485?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Nikon photography contest winner loses title after scientists spot signs of AI]]></title>
+        <id>https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html</id>
+        <link href="https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decompiling Fast Food Tycoon 2: Drawing the World]]></title>
+        <id>https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world</id>
+        <link href="https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allocating Off-Heap Memory: Typically 6-18x Faster in JDK 28]]></title>
+        <id>https://inside.java/2026/10/23/confined-pools/</id>
+        <link href="https://inside.java/2026/10/23/confined-pools/"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bill Gates warns the 'evolutionary' age of AI will be brutal for workers]]></title>
+        <id>https://observer.co.uk/news/technology/article/bill-gates-warns-the-evolutionary-age-of-ai-will-be-brutal-for-workers</id>
+        <link href="https://observer.co.uk/news/technology/article/bill-gates-warns-the-evolutionary-age-of-ai-will-be-brutal-for-workers"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inline Viewer: Quest Diagnostics Incorporated 8-K 2026-10-21]]></title>
+        <id>https://www.sec.gov/ix?doc=/Archives/edgar/data/0001022079/000094787126000941/ss6979200_8k.htm</id>
+        <link href="https://www.sec.gov/ix?doc=/Archives/edgar/data/0001022079/000094787126000941/ss6979200_8k.htm"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chasing the cognitive roots of our rectangular mindset (2004)]]></title>
+        <id>https://www.cdac.in/index.aspx?id=pdf_dkatre5</id>
+        <link href="https://www.cdac.in/index.aspx?id=pdf_dkatre5"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: AI Heat Map Sourced from over 140 News Feeds]]></title>
+        <id>https://ai.jagular.io</id>
+        <link href="https://ai.jagular.io"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An animated explainer of the PHP2SHell vulnerability [video]]]></title>
+        <id>https://www.youtube.com/watch?v=6Kz4bWKoXhU</id>
+        <link href="https://www.youtube.com/watch?v=6Kz4bWKoXhU"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop-motion movie Wildwood is a staggering masterpiece]]></title>
+        <id>https://www.cbc.ca/news/entertainment/wildwood-review-laika-9.7393321</id>
+        <link href="https://www.cbc.ca/news/entertainment/wildwood-review-laika-9.7393321"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FindMyWeb: Apple Find My, reverse enginiered]]></title>
+        <id>https://codeberg.org/Misom/FindMyWeb</id>
+        <link href="https://codeberg.org/Misom/FindMyWeb"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Reading "East of Eden" Affected Writers and Artists]]></title>
+        <id>https://www.nytimes.com/2026/10/09/books/review/reading-east-of-eden.html</id>
+        <link href="https://www.nytimes.com/2026/10/09/books/review/reading-east-of-eden.html"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP2Shell exploitation observed: packet-to-process RCE evidence]]></title>
+        <id>https://github.com/0x4D31/honeypot-data/blob/main/reports/php2shell/2026-10-24-confirmed-rce.md</id>
+        <link href="https://github.com/0x4D31/honeypot-data/blob/main/reports/php2shell/2026-10-24-confirmed-rce.md"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Redmi phone can do things that $16K GPU is needed for on Ethereum]]></title>
+        <id>https://github.com/ignotusnemo/paramo1d</id>
+        <link href="https://github.com/ignotusnemo/paramo1d"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Omni Verify, my AI agent can't post until Kane checks every promise]]></title>
+        <id>https://github.com/DainoJung/omni-verify</id>
+        <link href="https://github.com/DainoJung/omni-verify"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Owns the Roadmap? Six Ways to Build a Forward Deployed Engineering Business]]></title>
+        <id>https://mwvdveld.substack.com/p/who-owns-the-roadmap-six-ways-to</id>
+        <link href="https://mwvdveld.substack.com/p/who-owns-the-roadmap-six-ways-to"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Wrote This Byte: git blame for your build’s bytes]]></title>
+        <id>https://fzakaria.com/2026/10/23/who-wrote-this-byte</id>
+        <link href="https://fzakaria.com/2026/10/23/who-wrote-this-byte"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The power of having less features]]></title>
+        <id>https://ratfactor.com/cards/no-feature</id>
+        <link href="https://ratfactor.com/cards/no-feature"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interesting properties about the design of the UK 50p piece [pdf]]]></title>
+        <id>https://cdn.ima.org.uk/wp/wp-content/uploads/2022/03/Westward-Ho-Conway-Concorde-and-curiously-curved-coins-from-MT-April-22.pdf</id>
+        <link href="https://cdn.ima.org.uk/wp/wp-content/uploads/2022/03/Westward-Ho-Conway-Concorde-and-curiously-curved-coins-from-MT-April-22.pdf"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Experiment review – easily the most disturbing thing on British TV]]></title>
+        <id>https://www.theguardian.com/tv-and-radio/2026/oct/21/the-experiment-channel-four-tv-review-uk-nazi-disability</id>
+        <link href="https://www.theguardian.com/tv-and-radio/2026/oct/21/the-experiment-channel-four-tv-review-uk-nazi-disability"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forecasting Financial Markets with Timestral]]></title>
+        <id>https://philippdubach.com/posts/forecasting-financial-markets-with-timestral/</id>
+        <link href="https://philippdubach.com/posts/forecasting-financial-markets-with-timestral/"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Importance of Limitations for Creativity and Learning]]></title>
+        <id>https://ratfactor.com/cards/limitations</id>
+        <link href="https://ratfactor.com/cards/limitations"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git]]></title>
+        <id>https://adrs.systems</id>
+        <link href="https://adrs.systems"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailworm – Tailscale Vulnerabilities]]></title>
+        <id>https://tailworm.com/</id>
+        <link href="https://tailworm.com/"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Reolink cameras didn't have SSH, so I fixed that]]></title>
+        <id>https://inventor7777.github.io/blog/2026/10/24/ssh-on-11-reolink-cameras/</id>
+        <link href="https://inventor7777.github.io/blog/2026/10/24/ssh-on-11-reolink-cameras/"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Documentary film 'Bot Love' exploring AI companionship to debut Oct. 21]]></title>
+        <id>https://www.thesuburban.com/arts_and_entertainment/entertainment/documentary-film-bot-love-exploring-ai-companionship-to-debut-oct-21-on-cbc-and-cbc/article_f7277775-bd32-475f-9aa5-3ce58907374f.html</id>
+        <link href="https://www.thesuburban.com/arts_and_entertainment/entertainment/documentary-film-bot-love-exploring-ai-companionship-to-debut-oct-21-on-cbc-and-cbc/article_f7277775-bd32-475f-9aa5-3ce58907374f.html"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MacOS Extensions Pack for the Apple Network Server v1.0]]></title>
+        <id>http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html</id>
+        <link href="http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Musk" Documentary Pulled from Almost Every One of 472 Theaters After One Week]]></title>
+        <id>https://www.showbiz411.com/2026/10/23/controversial-musk-documentary-pulled-from-almost-every-one-of-472-theaters-after-one-week-by-newly-sold-bleecker-street-films</id>
+        <link href="https://www.showbiz411.com/2026/10/23/controversial-musk-documentary-pulled-from-almost-every-one-of-472-theaters-after-one-week-by-newly-sold-bleecker-street-films"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why popular airplanes are getting scrapped years early]]></title>
+        <id>https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html</id>
+        <link href="https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One long video in. Your best clips out]]></title>
+        <id>https://www.clipzula.com/</id>
+        <link href="https://www.clipzula.com/"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySecret – Transparent Vault Encryption (AES-256-GCM, Zero-Knowledge)]]></title>
+        <id>https://github.com/abismalmx/MySecret</id>
+        <link href="https://github.com/abismalmx/MySecret"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Is Rotting Your Brain [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ZumXpZzDsgo</id>
+        <link href="https://www.youtube.com/watch?v=ZumXpZzDsgo"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free SEO audit and AI search tools. No sign-up]]></title>
+        <id>https://seowins.net/</id>
+        <link href="https://seowins.net/"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There is no official XScreenSaver GitHub repository]]></title>
+        <id>https://github.com/cowmix/xscreensaver</id>
+        <link href="https://github.com/cowmix/xscreensaver"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybersecurity bounty hunter says Samsung TVs use AI to record audio]]></title>
+        <id>https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting</id>
+        <link href="https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple is forcing app developers to no longer build for iOS <13.0 [video]]]></title>
+        <id>https://www.youtube.com/watch?v=BSPRV62axak</id>
+        <link href="https://www.youtube.com/watch?v=BSPRV62axak"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Imagine an AI future where being banned means you are now economically useless]]></title>
+        <id>https://twitter.com/boneGPT/status/2114035719853265264</id>
+        <link href="https://twitter.com/boneGPT/status/2114035719853265264"/>
         <updated>2026-10-24T16:00:00.000Z</updated>
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
@@ -337,30 +351,16 @@
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[maboloshi/github-chinese]]></title>
-        <id>https://github.com/maboloshi/github-chinese</id>
-        <link href="https://github.com/maboloshi/github-chinese"/>
+        <title type="html"><![CDATA[AI Design Feedback: How to Get Critique That Isn’t Just Guessing]]></title>
+        <id>https://pub.towardsai.net/ai-design-feedback-how-to-get-critique-that-isnt-just-guessing-ff47b2abf485?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ai-design-feedback-how-to-get-critique-that-isnt-just-guessing-ff47b2abf485?source=rss----98111c9905da---4"/>
         <updated>2026-10-24T16:00:00.000Z</updated>
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WebKit/WebKit]]></title>
-        <id>https://github.com/WebKit/WebKit</id>
-        <link href="https://github.com/WebKit/WebKit"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tradesdontlie/tradingview-mcp]]></title>
-        <id>https://github.com/tradesdontlie/tradingview-mcp</id>
-        <link href="https://github.com/tradesdontlie/tradingview-mcp"/>
-        <updated>2026-10-24T16:00:00.000Z</updated>
-        <published>2026-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nodejs/node]]></title>
-        <id>https://github.com/nodejs/node</id>
-        <link href="https://github.com/nodejs/node"/>
+        <title type="html"><![CDATA[The New Developer Job: Reviewing Code Written by AI]]></title>
+        <id>https://pub.towardsai.net/the-new-developer-job-reviewing-code-written-by-ai-594acb98de79?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-new-developer-job-reviewing-code-written-by-ai-594acb98de79?source=rss----98111c9905da---4"/>
         <updated>2026-10-24T16:00:00.000Z</updated>
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
