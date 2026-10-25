@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-24T22:01:56.239Z</updated>
+    <updated>2026-10-25T00:02:17.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,44 +29,51 @@
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Importance of Limitations for Creativity and Learning]]></title>
-        <id>https://ratfactor.com/cards/limitations</id>
-        <link href="https://ratfactor.com/cards/limitations"/>
+        <title type="html"><![CDATA[An animated explainer of the PHP2SHell vulnerability [video]]]></title>
+        <id>https://www.youtube.com/watch?v=6Kz4bWKoXhU</id>
+        <link href="https://www.youtube.com/watch?v=6Kz4bWKoXhU"/>
         <updated>2026-10-24T16:00:00.000Z</updated>
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Forecasting Financial Markets with Timestral]]></title>
-        <id>https://philippdubach.com/posts/forecasting-financial-markets-with-timestral/</id>
-        <link href="https://philippdubach.com/posts/forecasting-financial-markets-with-timestral/"/>
+        <title type="html"><![CDATA[Stop-motion movie Wildwood is a staggering masterpiece]]></title>
+        <id>https://www.cbc.ca/news/entertainment/wildwood-review-laika-9.7393321</id>
+        <link href="https://www.cbc.ca/news/entertainment/wildwood-review-laika-9.7393321"/>
         <updated>2026-10-24T16:00:00.000Z</updated>
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Experiment review – easily the most disturbing thing on British TV]]></title>
-        <id>https://www.theguardian.com/tv-and-radio/2026/oct/21/the-experiment-channel-four-tv-review-uk-nazi-disability</id>
-        <link href="https://www.theguardian.com/tv-and-radio/2026/oct/21/the-experiment-channel-four-tv-review-uk-nazi-disability"/>
+        <title type="html"><![CDATA[FindMyWeb: Apple Find My, reverse enginiered]]></title>
+        <id>https://codeberg.org/Misom/FindMyWeb</id>
+        <link href="https://codeberg.org/Misom/FindMyWeb"/>
         <updated>2026-10-24T16:00:00.000Z</updated>
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Interesting properties about the design of the UK 50p piece [pdf]]]></title>
-        <id>https://cdn.ima.org.uk/wp/wp-content/uploads/2022/03/Westward-Ho-Conway-Concorde-and-curiously-curved-coins-from-MT-April-22.pdf</id>
-        <link href="https://cdn.ima.org.uk/wp/wp-content/uploads/2022/03/Westward-Ho-Conway-Concorde-and-curiously-curved-coins-from-MT-April-22.pdf"/>
+        <title type="html"><![CDATA[How Reading "East of Eden" Affected Writers and Artists]]></title>
+        <id>https://www.nytimes.com/2026/10/09/books/review/reading-east-of-eden.html</id>
+        <link href="https://www.nytimes.com/2026/10/09/books/review/reading-east-of-eden.html"/>
         <updated>2026-10-24T16:00:00.000Z</updated>
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The power of having less features]]></title>
-        <id>https://ratfactor.com/cards/no-feature</id>
-        <link href="https://ratfactor.com/cards/no-feature"/>
+        <title type="html"><![CDATA[PHP2Shell exploitation observed: packet-to-process RCE evidence]]></title>
+        <id>https://github.com/0x4D31/honeypot-data/blob/main/reports/php2shell/2026-10-24-confirmed-rce.md</id>
+        <link href="https://github.com/0x4D31/honeypot-data/blob/main/reports/php2shell/2026-10-24-confirmed-rce.md"/>
         <updated>2026-10-24T16:00:00.000Z</updated>
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Who Wrote This Byte: git blame for your build’s bytes]]></title>
-        <id>https://fzakaria.com/2026/10/23/who-wrote-this-byte</id>
-        <link href="https://fzakaria.com/2026/10/23/who-wrote-this-byte"/>
+        <title type="html"><![CDATA[Show HN: Redmi phone can do things that $16K GPU is needed for on Ethereum]]></title>
+        <id>https://github.com/ignotusnemo/paramo1d</id>
+        <link href="https://github.com/ignotusnemo/paramo1d"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Omni Verify, my AI agent can't post until Kane checks every promise]]></title>
+        <id>https://github.com/DainoJung/omni-verify</id>
+        <link href="https://github.com/DainoJung/omni-verify"/>
         <updated>2026-10-24T16:00:00.000Z</updated>
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
@@ -78,37 +85,93 @@
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Same lab, different protocol: rebuilding the Biscuit trust lab on AAuth]]></title>
-        <id>https://dev.to/darkedges/same-lab-different-protocol-rebuilding-the-biscuit-trust-lab-on-aauth-59eh</id>
-        <link href="https://dev.to/darkedges/same-lab-different-protocol-rebuilding-the-biscuit-trust-lab-on-aauth-59eh"/>
+        <title type="html"><![CDATA[Who Wrote This Byte: git blame for your build’s bytes]]></title>
+        <id>https://fzakaria.com/2026/10/23/who-wrote-this-byte</id>
+        <link href="https://fzakaria.com/2026/10/23/who-wrote-this-byte"/>
         <updated>2026-10-24T16:00:00.000Z</updated>
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built Jahez: A Simpler Way to Track Restaurant Orders]]></title>
-        <id>https://dev.to/alshaima_zayed/i-built-jahez-a-simpler-way-to-track-restaurant-orders-ch6</id>
-        <link href="https://dev.to/alshaima_zayed/i-built-jahez-a-simpler-way-to-track-restaurant-orders-ch6"/>
+        <title type="html"><![CDATA[The power of having less features]]></title>
+        <id>https://ratfactor.com/cards/no-feature</id>
+        <link href="https://ratfactor.com/cards/no-feature"/>
         <updated>2026-10-24T16:00:00.000Z</updated>
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Local Landing Pages That Are Not Doorway Pages (Next.js App Router)]]></title>
-        <id>https://dev.to/kabariyashyam10ui/building-local-landing-pages-that-are-not-doorway-pages-nextjs-app-router-bc3</id>
-        <link href="https://dev.to/kabariyashyam10ui/building-local-landing-pages-that-are-not-doorway-pages-nextjs-app-router-bc3"/>
+        <title type="html"><![CDATA[Interesting properties about the design of the UK 50p piece [pdf]]]></title>
+        <id>https://cdn.ima.org.uk/wp/wp-content/uploads/2022/03/Westward-Ho-Conway-Concorde-and-curiously-curved-coins-from-MT-April-22.pdf</id>
+        <link href="https://cdn.ima.org.uk/wp/wp-content/uploads/2022/03/Westward-Ho-Conway-Concorde-and-curiously-curved-coins-from-MT-April-22.pdf"/>
         <updated>2026-10-24T16:00:00.000Z</updated>
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I got tired of paying $49/mo for proposal & contract SaaS, so I built a client-side 4-in-1 B2B Proposal, Quote, Contract & Invoice Studio]]></title>
-        <id>https://dev.to/ben_long_e4b953c7f4d44237/i-got-tired-of-paying-49mo-for-proposal-contract-saas-so-i-built-a-client-side-4-in-1-b2b-4ll1</id>
-        <link href="https://dev.to/ben_long_e4b953c7f4d44237/i-got-tired-of-paying-49mo-for-proposal-contract-saas-so-i-built-a-client-side-4-in-1-b2b-4ll1"/>
+        <title type="html"><![CDATA[The Experiment review – easily the most disturbing thing on British TV]]></title>
+        <id>https://www.theguardian.com/tv-and-radio/2026/oct/21/the-experiment-channel-four-tv-review-uk-nazi-disability</id>
+        <link href="https://www.theguardian.com/tv-and-radio/2026/oct/21/the-experiment-channel-four-tv-review-uk-nazi-disability"/>
         <updated>2026-10-24T16:00:00.000Z</updated>
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Invoice PDF to JSON for AI agents: $0.003 per page with x402, or by card]]></title>
-        <id>https://dev.to/freetierkits/invoice-pdf-to-json-for-ai-agents-0003-per-page-with-x402-or-by-card-3npg</id>
-        <link href="https://dev.to/freetierkits/invoice-pdf-to-json-for-ai-agents-0003-per-page-with-x402-or-by-card-3npg"/>
+        <title type="html"><![CDATA[Forecasting Financial Markets with Timestral]]></title>
+        <id>https://philippdubach.com/posts/forecasting-financial-markets-with-timestral/</id>
+        <link href="https://philippdubach.com/posts/forecasting-financial-markets-with-timestral/"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Importance of Limitations for Creativity and Learning]]></title>
+        <id>https://ratfactor.com/cards/limitations</id>
+        <link href="https://ratfactor.com/cards/limitations"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better Retrieval Won’t Fix Your RAG Bot]]></title>
+        <id>https://pub.towardsai.net/better-retrieval-wont-fix-your-rag-bot-9e669a33553f?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/better-retrieval-wont-fix-your-rag-bot-9e669a33553f?source=rss----98111c9905da---4"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nodejs/node]]></title>
+        <id>https://github.com/nodejs/node</id>
+        <link href="https://github.com/nodejs/node"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local SEO Basics for Service Businesses]]></title>
+        <id>https://dev.to/jaybarker/local-seo-basics-for-service-businesses-58cm</id>
+        <link href="https://dev.to/jaybarker/local-seo-basics-for-service-businesses-58cm"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cómo un modelo de IA de 115 MB tumbaba Safari en el iPhone]]></title>
+        <id>https://dev.to/gabimaglia/como-un-modelo-de-ia-de-115-mb-tumbaba-safari-en-el-iphone-9lg</id>
+        <link href="https://dev.to/gabimaglia/como-un-modelo-de-ia-de-115-mb-tumbaba-safari-en-el-iphone-9lg"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delegating work across companies with AAuth]]></title>
+        <id>https://dev.to/darkedges/delegating-work-across-companies-with-aauth-3b9c</id>
+        <link href="https://dev.to/darkedges/delegating-work-across-companies-with-aauth-3b9c"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React View Transitions in Next.js 16.4: ViewTransition, addTransitionType and Tested Examples]]></title>
+        <id>https://dev.to/fabwaseem/react-view-transitions-in-nextjs-164-viewtransition-addtransitiontype-and-tested-examples-41ln</id>
+        <link href="https://dev.to/fabwaseem/react-view-transitions-in-nextjs-164-viewtransition-addtransitiontype-and-tested-examples-41ln"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Does Local State Become Shared State? A React State Ownership Guide]]></title>
+        <id>https://dev.to/khaledmsalem/when-does-local-state-become-shared-state-a-react-state-ownership-guide-1fi5</id>
+        <link href="https://dev.to/khaledmsalem/when-does-local-state-become-shared-state-a-react-state-ownership-guide-1fi5"/>
         <updated>2026-10-24T16:00:00.000Z</updated>
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
@@ -120,9 +183,37 @@
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When Does Local State Become Shared State? A React State Ownership Guide]]></title>
-        <id>https://dev.to/khaledmsalem/when-does-local-state-become-shared-state-a-react-state-ownership-guide-1fi5</id>
-        <link href="https://dev.to/khaledmsalem/when-does-local-state-become-shared-state-a-react-state-ownership-guide-1fi5"/>
+        <title type="html"><![CDATA[Invoice PDF to JSON for AI agents: $0.003 per page with x402, or by card]]></title>
+        <id>https://dev.to/freetierkits/invoice-pdf-to-json-for-ai-agents-0003-per-page-with-x402-or-by-card-3npg</id>
+        <link href="https://dev.to/freetierkits/invoice-pdf-to-json-for-ai-agents-0003-per-page-with-x402-or-by-card-3npg"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I got tired of paying $49/mo for proposal & contract SaaS, so I built a client-side 4-in-1 B2B Proposal, Quote, Contract & Invoice Studio]]></title>
+        <id>https://dev.to/ben_long_e4b953c7f4d44237/i-got-tired-of-paying-49mo-for-proposal-contract-saas-so-i-built-a-client-side-4-in-1-b2b-4ll1</id>
+        <link href="https://dev.to/ben_long_e4b953c7f4d44237/i-got-tired-of-paying-49mo-for-proposal-contract-saas-so-i-built-a-client-side-4-in-1-b2b-4ll1"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Local Landing Pages That Are Not Doorway Pages (Next.js App Router)]]></title>
+        <id>https://dev.to/kabariyashyam10ui/building-local-landing-pages-that-are-not-doorway-pages-nextjs-app-router-bc3</id>
+        <link href="https://dev.to/kabariyashyam10ui/building-local-landing-pages-that-are-not-doorway-pages-nextjs-app-router-bc3"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built Jahez: A Simpler Way to Track Restaurant Orders]]></title>
+        <id>https://dev.to/alshaima_zayed/i-built-jahez-a-simpler-way-to-track-restaurant-orders-ch6</id>
+        <link href="https://dev.to/alshaima_zayed/i-built-jahez-a-simpler-way-to-track-restaurant-orders-ch6"/>
+        <updated>2026-10-24T16:00:00.000Z</updated>
+        <published>2026-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Same lab, different protocol: rebuilding the Biscuit trust lab on AAuth]]></title>
+        <id>https://dev.to/darkedges/same-lab-different-protocol-rebuilding-the-biscuit-trust-lab-on-aauth-59eh</id>
+        <link href="https://dev.to/darkedges/same-lab-different-protocol-rebuilding-the-biscuit-trust-lab-on-aauth-59eh"/>
         <updated>2026-10-24T16:00:00.000Z</updated>
         <published>2026-10-24T16:00:00.000Z</published>
     </entry>
@@ -176,9 +267,9 @@
         <published>2026-10-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The PHP Meltdown Shows How AI Makes Bugs More Exploitable]]></title>
-        <id>https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/</id>
-        <link href="https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/"/>
+        <title type="html"><![CDATA[Ray-Ban Meta Audio Review: The Best Smart Glasses]]></title>
+        <id>https://www.wired.com/review/ray-ban-meta-audio/</id>
+        <link href="https://www.wired.com/review/ray-ban-meta-audio/"/>
         <updated>2026-10-23T16:00:00.000Z</updated>
         <published>2026-10-23T16:00:00.000Z</published>
     </entry>
@@ -190,9 +281,9 @@
         <published>2026-10-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ray-Ban Meta Audio Review: The Best Smart Glasses]]></title>
-        <id>https://www.wired.com/review/ray-ban-meta-audio/</id>
-        <link href="https://www.wired.com/review/ray-ban-meta-audio/"/>
+        <title type="html"><![CDATA[The PHP Meltdown Shows How AI Makes Bugs More Exploitable]]></title>
+        <id>https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/</id>
+        <link href="https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/"/>
         <updated>2026-10-23T16:00:00.000Z</updated>
         <published>2026-10-23T16:00:00.000Z</published>
     </entry>
@@ -225,142 +316,51 @@
         <published>2026-10-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[World-first basic income trial boosts Indigenous life and rainforest protection]]></title>
-        <id>https://www.bath.ac.uk/announcements/world-first-basic-income-trial-boosts-indigenous-livelihoods-and-amazon-rainforest-protection/</id>
-        <link href="https://www.bath.ac.uk/announcements/world-first-basic-income-trial-boosts-indigenous-livelihoods-and-amazon-rainforest-protection/"/>
+        <title type="html"><![CDATA[Malaysian PM Anwar Bans Civil Servants from Using Israel-Developed Mapping App]]></title>
+        <id>https://thediplomat.com/2026/10/malaysian-pm-anwar-bans-civil-servants-from-using-israel-developed-navigation-app/</id>
+        <link href="https://thediplomat.com/2026/10/malaysian-pm-anwar-bans-civil-servants-from-using-israel-developed-navigation-app/"/>
         <updated>2026-10-23T16:00:00.000Z</updated>
         <published>2026-10-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI gets more diagnoses right than generalist doctors in medical challenge]]></title>
-        <id>https://medicalxpress.com/news/2026-10-ai-generalist-doctors-medical.html</id>
-        <link href="https://medicalxpress.com/news/2026-10-ai-generalist-doctors-medical.html"/>
+        <title type="html"><![CDATA[Connecting ESP-Mosaico Board over ESP-Now to Run Amplifier Models in Parallel]]></title>
+        <id>https://circuitdigest.com/news/connecting-esp-mosaico-boards-wirelessly-over-esp-now-to-run-multiple-guitar-amplifier-models-in-parallel</id>
+        <link href="https://circuitdigest.com/news/connecting-esp-mosaico-boards-wirelessly-over-esp-now-to-run-multiple-guitar-amplifier-models-in-parallel"/>
         <updated>2026-10-23T16:00:00.000Z</updated>
         <published>2026-10-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Starship Flight 15 Double-Catch Preparations and NASA Artemis Mission Updates [video]]]></title>
-        <id>https://www.youtube.com/watch?v=irTxIWyxkng</id>
-        <link href="https://www.youtube.com/watch?v=irTxIWyxkng"/>
+        <title type="html"><![CDATA[Glyphh Ada: Decision model that learns from your past decisions, no transformer]]></title>
+        <id>https://glyphh.ai/blog/introducing-ada</id>
+        <link href="https://glyphh.ai/blog/introducing-ada"/>
         <updated>2026-10-23T16:00:00.000Z</updated>
         <published>2026-10-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[London's grimiest locations became the stars of 'Slow Horses']]></title>
-        <id>https://www.cnn.com/travel/slow-horses-london-filming-locations</id>
-        <link href="https://www.cnn.com/travel/slow-horses-london-filming-locations"/>
+        <title type="html"><![CDATA[The most important thing today is that Starlink and Starshield operations]]></title>
+        <id>https://twitter.com/zelenskyyua/status/2113990281322221932</id>
+        <link href="https://twitter.com/zelenskyyua/status/2113990281322221932"/>
         <updated>2026-10-23T16:00:00.000Z</updated>
         <published>2026-10-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Company of the Future [video]]]></title>
-        <id>https://www.youtube.com/watch?v=deiLxNZH_DM</id>
-        <link href="https://www.youtube.com/watch?v=deiLxNZH_DM"/>
+        <title type="html"><![CDATA[AI Assistance Reduces Persistence and Hurts Independent Performance]]></title>
+        <id>https://arxiv.org/abs/2604.04721</id>
+        <link href="https://arxiv.org/abs/2604.04721"/>
         <updated>2026-10-23T16:00:00.000Z</updated>
         <published>2026-10-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WebKit Features for Safari 27.1]]></title>
-        <id>https://webkit.org/blog/18486/webkit-features-for-safari-27-1/</id>
-        <link href="https://webkit.org/blog/18486/webkit-features-for-safari-27-1/"/>
+        <title type="html"><![CDATA[RFC 8949: STD 94: Concise Binary Object Representation (CBOR)]]></title>
+        <id>https://www.rfc-editor.org/info/rfc8949/</id>
+        <link href="https://www.rfc-editor.org/info/rfc8949/"/>
         <updated>2026-10-23T16:00:00.000Z</updated>
         <published>2026-10-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spritz: Stream Local Videos via AirPlay, Cast and DLNA on Apple Silicon]]></title>
-        <id>https://github.com/Oolab-labs/spritz</id>
-        <link href="https://github.com/Oolab-labs/spritz"/>
-        <updated>2026-10-23T16:00:00.000Z</updated>
-        <published>2026-10-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pair Prompt and Agentic Interview]]></title>
-        <id>https://liveshortly.com</id>
-        <link href="https://liveshortly.com"/>
-        <updated>2026-10-23T16:00:00.000Z</updated>
-        <published>2026-10-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Whyline – Git native decision history for coding agents]]></title>
-        <id>https://github.com/anishmoncivarghese/whyline</id>
-        <link href="https://github.com/anishmoncivarghese/whyline"/>
-        <updated>2026-10-23T16:00:00.000Z</updated>
-        <published>2026-10-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two companies raised three in every ten venture dollars]]></title>
-        <id>https://datahyena.com/research/two-companies-raised-three-in-ten-venture-dollars/</id>
-        <link href="https://datahyena.com/research/two-companies-raised-three-in-ten-venture-dollars/"/>
-        <updated>2026-10-23T16:00:00.000Z</updated>
-        <published>2026-10-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abstract Code Art Animation – Evolution from Ones and Zeros to Neural Networks [video]]]></title>
-        <id>https://www.youtube.com/watch?v=-dTvmVUWY0o</id>
-        <link href="https://www.youtube.com/watch?v=-dTvmVUWY0o"/>
-        <updated>2026-10-23T16:00:00.000Z</updated>
-        <published>2026-10-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fall of Scientific American]]></title>
-        <id>https://www.thenation.com/article/society/scientific-american-springer-nature-trump/</id>
-        <link href="https://www.thenation.com/article/society/scientific-american-springer-nature-trump/"/>
-        <updated>2026-10-23T16:00:00.000Z</updated>
-        <published>2026-10-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Interesting hidden file on NVR"]]></title>
-        <id>https://www.reddit.com/r/reolinkcam/s/QIovKvK0JI</id>
-        <link href="https://www.reddit.com/r/reolinkcam/s/QIovKvK0JI"/>
-        <updated>2026-10-23T16:00:00.000Z</updated>
-        <published>2026-10-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques]]></title>
-        <id>https://www.sciencedaily.com/releases/2026/10/261018084421.htm</id>
-        <link href="https://www.sciencedaily.com/releases/2026/10/261018084421.htm"/>
-        <updated>2026-10-23T16:00:00.000Z</updated>
-        <published>2026-10-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Afterfeed: A tool to view all your social media backups]]></title>
-        <id>https://github.com/rebeccathedev/afterfeed/</id>
-        <link href="https://github.com/rebeccathedev/afterfeed/"/>
-        <updated>2026-10-23T16:00:00.000Z</updated>
-        <published>2026-10-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek Just Shook the AI Industry Again [video]]]></title>
-        <id>https://www.youtube.com/watch?v=YX6QdIYVSgY</id>
-        <link href="https://www.youtube.com/watch?v=YX6QdIYVSgY"/>
-        <updated>2026-10-23T16:00:00.000Z</updated>
-        <published>2026-10-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The One Question I Can't Stand at Restaurants]]></title>
-        <id>https://www.theatlantic.com/culture/2026/10/restaurant-phone-number-question/688926/</id>
-        <link href="https://www.theatlantic.com/culture/2026/10/restaurant-phone-number-question/688926/"/>
-        <updated>2026-10-23T16:00:00.000Z</updated>
-        <published>2026-10-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Password, Please: Border Searches of Laptops, Phones Up 32% This Year]]></title>
-        <id>https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213</id>
-        <link href="https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213"/>
-        <updated>2026-10-23T16:00:00.000Z</updated>
-        <published>2026-10-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mark Zuckerberg Pushed Meta to Shield Him from California's Proposed Wealth Tax]]></title>
-        <id>https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html</id>
-        <link href="https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html"/>
-        <updated>2026-10-23T16:00:00.000Z</updated>
-        <published>2026-10-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: 27B open model to grade robot data 48x cheaper/27x faster vs. 6 Astra]]></title>
-        <id>https://twitter.com/josefchen/status/2113687649131336039</id>
-        <link href="https://twitter.com/josefchen/status/2113687649131336039"/>
+        <title type="html"><![CDATA[With recent eMudra case, learning Cryptography well is more important that]]></title>
+        <id>https://news.ycombinator.com/item?id=50221673</id>
+        <link href="https://news.ycombinator.com/item?id=50221673"/>
         <updated>2026-10-23T16:00:00.000Z</updated>
         <published>2026-10-23T16:00:00.000Z</published>
     </entry>
