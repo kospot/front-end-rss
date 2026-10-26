@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-26 18:05:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-26 21:05:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -9,6 +9,7 @@
 
 - [2026-10-26-Website-that-Search-YouTube-descriptions-for-creator,-promo-offers---ClickCoupon--](https://dev.to/rusandu_dewm_galhena/website-that-search-youtube-descriptions-for-creator-promo-offers-clickcoupon--46ll) 
 - [2026-10-18-Telegram-Offered-Free-Hosting.-I-Tested-It-Against-Two-VPSs.](https://dev.to/jabrailkhalil/telegram-serverless-vs-two-vpss-what-the-benchmarks-actually-show-44p8) 
+- [2026-10-26-Knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test](https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/) 
 - [2026-10-25-Xbox-Turns-Down-Netflix-$500M-Offer](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/) 
 - [2026-10-09-Agency-offers-staff-two-years-pay-if-they-can-replace-themselves-with-AI](https://mumbrella.com.au/agency-offers-staff-two-years-pay-if-they-can-replace-themselves-with-ai-940294) 
 - [2026-10-07-South-African-bank,-FNB-launches-crypto-offering-built-on-top-of-VALR.com](https://mybroadband.co.za/news/banking/670880-fnb-launches-crypto-investments.html) 
