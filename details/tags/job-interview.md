@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-26 23:04:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-27 06:01:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -13,6 +13,7 @@
 - [2026-10-25-Xbox-Turns-Down-Netflix-$500M-Offer](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/) 
 - [2026-10-09-Agency-offers-staff-two-years-pay-if-they-can-replace-themselves-with-AI](https://mumbrella.com.au/agency-offers-staff-two-years-pay-if-they-can-replace-themselves-with-ai-940294) 
 - [2026-10-07-South-African-bank,-FNB-launches-crypto-offering-built-on-top-of-VALR.com](https://mybroadband.co.za/news/banking/670880-fnb-launches-crypto-investments.html) 
+- [2026-10-26-Microsoft-offers-buyouts-to-around-60,000-employees](https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/) 
 - [2026-10-22-Waymo-starts-offering-rides-at-the-Las-Vegas-airport](https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/) 
 - [2026-10-12-Honeyjar-offers-AI-tools-to-improve-PR-and-comms-at-every-company](https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/) 
 - [2026-10-06-Mistral-Says-Its-New-AI-Model-‘Le-Chonk’-Is-the-Best-Open-Weight-Offering-Outside-of-China](https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/) 
