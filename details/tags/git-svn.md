@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-27 06:01:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-27 08:02:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -12,8 +12,8 @@
 - [2026-10-16-Claude-Code-Git-Integration-in-2026:-How-the-Agent-Reads-Diffs,-Stages-Hunks,-and-Decides-When-to-Commit](https://dev.to/jsmanifest/claude-code-git-integration-in-2026-how-the-agent-reads-diffs-stages-hunks-and-decides-when-to-39m3) 
 - [2026-10-12-How-to-Build-a-Multi-Currency-Price-Engine-for-a-Digital-Storefront](https://dev.to/kadokey/how-to-build-a-multi-currency-price-engine-for-a-digital-storefront-2k00) 
 - [2026-10-10-What-the-first-digits-of-a-card-number-tell-you-BIN-basics-for-developers](https://dev.to/zikcards/what-the-first-digits-of-a-card-number-tell-you-bin-basics-for-developers-4g18) 
-- [2026-10-09-Your-cache-key-is-already-in-git's-index](https://dev.to/vzn-vx/your-cache-key-is-already-in-gits-index-2b7o) 
 - [2026-10-09-EU-Digital-Identity-Wallets-are-due-by-24-December-2026:-what-changes-for-apps-that-scan-passports](https://dev.to/doc_cheap/eu-digital-identity-wallets-are-due-by-24-december-2026-what-changes-for-apps-that-scan-passports-4dfa) 
+- [2026-10-09-Your-cache-key-is-already-in-git's-index](https://dev.to/vzn-vx/your-cache-key-is-already-in-gits-index-2b7o) 
 - [2026-10-08-I-used-GitHub-as-the-backend-for-a-shared-photo-album](https://dev.to/arya422/i-used-github-as-the-backend-for-a-shared-photo-album-3pfp) 
 - [2026-10-07-Open-Generative-AI-GitHub-Repo:-A-Self-Hosting-Teardown-2026](https://dev.to/larssaleh/open-generative-ai-github-repo-a-self-hosting-teardown-2026-ajg) 
 - [2026-10-06-I-IPO'd-my-GitHub-profile.-You-can-buy-shares-in-me.](https://dev.to/vineetjk/i-ipod-my-github-profile-you-can-buy-shares-in-me-2mio) 
@@ -44,8 +44,8 @@
 - [2026-09-30-Geometry-Aided-Channel-Deduction-with-Partial-Channel-Estimates-and-Uncalibrated-Digital-Twin](https://arxiv.org/abs/2609.37277) 
 - [2026-09-30-Does-Machine-Learning-Outperform-Traditional-Fibrosis-Scores-in-Predicting-Liver-Cirrhosis-Risk?-A-Longitudinal-EHR-Based-Study](https://arxiv.org/abs/2601.00175) 
 - [2026-10-08-GitHub-Copilot-Dynamic-Workflows:-Put-Your-Agents-on-Rails](https://pub.towardsai.net/github-copilot-dynamic-workflows-deep-dive-76faed593c54?source=rss----98111c9905da---4) 
-- [2026-10-06-Why-Is-Microsoft-Foundry’s-Content-Filter-Blocking-Legitimate-Medical-Questions?](https://pub.towardsai.net/microsoft-foundry-content-filter-false-positives-ab-100-e1a446351512?source=rss----98111c9905da---4) 
 - [2026-10-06-GitHub-Copilot-Dynamic-Workflows:-Build-Incident-Response-Agents-You-Can-Debug](https://pub.towardsai.net/github-copilot-dynamic-workflows-build-incident-response-agents-you-can-debug-dd4261739f58?source=rss----98111c9905da---4) 
+- [2026-10-06-Why-Is-Microsoft-Foundry’s-Content-Filter-Blocking-Legitimate-Medical-Questions?](https://pub.towardsai.net/microsoft-foundry-content-filter-false-positives-ab-100-e1a446351512?source=rss----98111c9905da---4) 
 - [2026-10-05-GitHub-Copilot-Slack-Task-Contract:-Turn-Team-Chat-Into-Safe-Code-Work](https://pub.towardsai.net/github-copilot-slack-task-contract-turn-team-chat-into-safe-code-work-9d3fe135f2b3?source=rss----98111c9905da---4) 
 - [2026-09-30-The-Half-Life-of-a-Github-Repo](https://pub.towardsai.net/the-half-life-of-a-github-repo-aba552dc8d93?source=rss----98111c9905da---4) 
 - [2026-09-28-Building-a-Nuclear-Inspired-Digital-Twin-with-V-JEPA](https://pub.towardsai.net/building-a-nuclear-inspired-digital-twin-with-v-jepa-b69dbc884a01?source=rss----98111c9905da---4) 

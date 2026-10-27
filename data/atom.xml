@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-26T22:01:15.638Z</updated>
+    <updated>2026-10-27T00:02:32.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50]]></title>
-        <id>https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale"/>
+        <title type="html"><![CDATA[OpenAI announces three big science discoveries and a new way to work with academics]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"/>
         <updated>2026-10-26T16:00:00.000Z</updated>
         <published>2026-10-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens]]></title>
-        <id>https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack</id>
-        <link href="https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack"/>
+        <title type="html"><![CDATA[Everything old is new again with the Fitbit Edge]]></title>
+        <id>https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health</id>
+        <link href="https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health"/>
         <updated>2026-10-26T16:00:00.000Z</updated>
         <published>2026-10-26T16:00:00.000Z</published>
     </entry>
@@ -36,9 +36,16 @@
         <published>2026-10-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Everything old is new again with the Fitbit Edge]]></title>
-        <id>https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health</id>
-        <link href="https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health"/>
+        <title type="html"><![CDATA[Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens]]></title>
+        <id>https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack</id>
+        <link href="https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack"/>
+        <updated>2026-10-26T16:00:00.000Z</updated>
+        <published>2026-10-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50]]></title>
+        <id>https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale"/>
         <updated>2026-10-26T16:00:00.000Z</updated>
         <published>2026-10-26T16:00:00.000Z</published>
     </entry>
@@ -141,30 +148,44 @@
         <published>2026-10-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fx-rates: Real-Time Currency Exchange Rates in Node.js (and from the Terminal)]]></title>
-        <id>https://dev.to/viraj_geeth_e6dc448fe4d43/fx-rates-real-time-currency-exchange-rates-in-nodejs-and-from-the-terminal-34pc</id>
-        <link href="https://dev.to/viraj_geeth_e6dc448fe4d43/fx-rates-real-time-currency-exchange-rates-in-nodejs-and-from-the-terminal-34pc"/>
+        <title type="html"><![CDATA[Greptile takes bug detection beyond code review with GPT-6 Astra]]></title>
+        <id>https://openai.com/index/greptile-code-review-codex-astra</id>
+        <link href="https://openai.com/index/greptile-code-review-codex-astra"/>
         <updated>2026-10-26T16:00:00.000Z</updated>
         <published>2026-10-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From raw bank descriptors to spending charts: merchant names, categories and a review queue in JavaScript]]></title>
-        <id>https://dev.to/violetvaultteam/from-raw-bank-descriptors-to-spending-charts-merchant-names-categories-and-a-review-queue-in-fdm</id>
-        <link href="https://dev.to/violetvaultteam/from-raw-bank-descriptors-to-spending-charts-merchant-names-categories-and-a-review-queue-in-fdm"/>
+        <title type="html"><![CDATA[How to Check Your Python Environment for the LiteLLM Credential Stealer (and Protect Your AI API…]]></title>
+        <id>https://pub.towardsai.net/how-to-check-your-python-environment-for-the-litellm-credential-stealer-and-protect-your-ai-api-d9bfbdfa582c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-check-your-python-environment-for-the-litellm-credential-stealer-and-protect-your-ai-api-d9bfbdfa582c?source=rss----98111c9905da---4"/>
         <updated>2026-10-26T16:00:00.000Z</updated>
         <published>2026-10-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSONFold: Format, validate, and explore JSON in your browser]]></title>
-        <id>https://dev.to/abhishek_deshmukh_67c8cf6/jsonfold-format-validate-and-explore-json-in-your-browser-3lkk</id>
-        <link href="https://dev.to/abhishek_deshmukh_67c8cf6/jsonfold-format-validate-and-explore-json-in-your-browser-3lkk"/>
+        <title type="html"><![CDATA[Counting days between two dates in JavaScript without off-by-one bugs]]></title>
+        <id>https://dev.to/countmydays/counting-days-between-two-dates-in-javascript-without-off-by-one-bugs-3ddf</id>
+        <link href="https://dev.to/countmydays/counting-days-between-two-dates-in-javascript-without-off-by-one-bugs-3ddf"/>
         <updated>2026-10-26T16:00:00.000Z</updated>
         <published>2026-10-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Compound Interest: The Math Behind Wealth Building]]></title>
-        <id>https://dev.to/tanzeel_abbas_1288a9e8d4c/compound-interest-the-math-behind-wealth-building-22cl</id>
-        <link href="https://dev.to/tanzeel_abbas_1288a9e8d4c/compound-interest-the-math-behind-wealth-building-22cl"/>
+        <title type="html"><![CDATA[A free AI chat + translation API on Cloudflare Workers AI (no credit card, ~5 minutes)]]></title>
+        <id>https://dev.to/falingbot/a-free-ai-chat-translation-api-on-cloudflare-workers-ai-no-credit-card-5-minutes-5807</id>
+        <link href="https://dev.to/falingbot/a-free-ai-chat-translation-api-on-cloudflare-workers-ai-no-credit-card-5-minutes-5807"/>
+        <updated>2026-10-26T16:00:00.000Z</updated>
+        <published>2026-10-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I got tired of reading CSS bugs in a tiny overlay, so I made my debugger print a report]]></title>
+        <id>https://dev.to/antonioprosperi2svg/i-got-tired-of-reading-css-bugs-in-a-tiny-overlay-so-i-made-my-debugger-print-a-report-48n9</id>
+        <link href="https://dev.to/antonioprosperi2svg/i-got-tired-of-reading-css-bugs-in-a-tiny-overlay-so-i-made-my-debugger-print-a-report-48n9"/>
+        <updated>2026-10-26T16:00:00.000Z</updated>
+        <published>2026-10-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Créer une API REST Node.js avec Express en 2026 : le tutoriel pas à pas]]></title>
+        <id>https://dev.to/neurau_tech/creer-une-api-rest-nodejs-avec-express-en-2026-le-tutoriel-pas-a-pas-3c7i</id>
+        <link href="https://dev.to/neurau_tech/creer-une-api-rest-nodejs-avec-express-en-2026-le-tutoriel-pas-a-pas-3c7i"/>
         <updated>2026-10-26T16:00:00.000Z</updated>
         <published>2026-10-26T16:00:00.000Z</published>
     </entry>
@@ -176,23 +197,37 @@
         <published>2026-10-26T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Compound Interest: The Math Behind Wealth Building]]></title>
+        <id>https://dev.to/tanzeel_abbas_1288a9e8d4c/compound-interest-the-math-behind-wealth-building-22cl</id>
+        <link href="https://dev.to/tanzeel_abbas_1288a9e8d4c/compound-interest-the-math-behind-wealth-building-22cl"/>
+        <updated>2026-10-26T16:00:00.000Z</updated>
+        <published>2026-10-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSONFold: Format, validate, and explore JSON in your browser]]></title>
+        <id>https://dev.to/abhishek_deshmukh_67c8cf6/jsonfold-format-validate-and-explore-json-in-your-browser-3lkk</id>
+        <link href="https://dev.to/abhishek_deshmukh_67c8cf6/jsonfold-format-validate-and-explore-json-in-your-browser-3lkk"/>
+        <updated>2026-10-26T16:00:00.000Z</updated>
+        <published>2026-10-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From raw bank descriptors to spending charts: merchant names, categories and a review queue in JavaScript]]></title>
+        <id>https://dev.to/violetvaultteam/from-raw-bank-descriptors-to-spending-charts-merchant-names-categories-and-a-review-queue-in-fdm</id>
+        <link href="https://dev.to/violetvaultteam/from-raw-bank-descriptors-to-spending-charts-merchant-names-categories-and-a-review-queue-in-fdm"/>
+        <updated>2026-10-26T16:00:00.000Z</updated>
+        <published>2026-10-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fx-rates: Real-Time Currency Exchange Rates in Node.js (and from the Terminal)]]></title>
+        <id>https://dev.to/viraj_geeth_e6dc448fe4d43/fx-rates-real-time-currency-exchange-rates-in-nodejs-and-from-the-terminal-34pc</id>
+        <link href="https://dev.to/viraj_geeth_e6dc448fe4d43/fx-rates-real-time-currency-exchange-rates-in-nodejs-and-from-the-terminal-34pc"/>
+        <updated>2026-10-26T16:00:00.000Z</updated>
+        <published>2026-10-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地]]></title>
         <id>https://sspai.com/post/117180</id>
         <link href="https://sspai.com/post/117180"/>
-        <updated>2026-10-25T16:00:00.000Z</updated>
-        <published>2026-10-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Switch 2 sequel accessory was a few millimeters away from being good]]></title>
-        <id>https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on</id>
-        <link href="https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on"/>
-        <updated>2026-10-25T16:00:00.000Z</updated>
-        <published>2026-10-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scott Walker’s The Drift will get under your skin]]></title>
-        <id>https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review</id>
-        <link href="https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review"/>
         <updated>2026-10-25T16:00:00.000Z</updated>
         <published>2026-10-25T16:00:00.000Z</published>
     </entry>
@@ -204,37 +239,23 @@
         <published>2026-10-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans]]></title>
-        <id>https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/</id>
-        <link href="https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/"/>
+        <title type="html"><![CDATA[Scott Walker’s The Drift will get under your skin]]></title>
+        <id>https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review</id>
+        <link href="https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review"/>
         <updated>2026-10-25T16:00:00.000Z</updated>
         <published>2026-10-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WIRED Ghost Stories]]></title>
-        <id>https://www.wired.com/ghost-stories/</id>
-        <link href="https://www.wired.com/ghost-stories/"/>
+        <title type="html"><![CDATA[This Switch 2 sequel accessory was a few millimeters away from being good]]></title>
+        <id>https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on</id>
+        <link href="https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on"/>
         <updated>2026-10-25T16:00:00.000Z</updated>
         <published>2026-10-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Hottest New Side Hustle Is Stripping Copper Wire and Posting About It]]></title>
-        <id>https://www.wired.com/story/the-hottest-new-side-hustle-is-stripping-copper-wire-and-posting-about-it/</id>
-        <link href="https://www.wired.com/story/the-hottest-new-side-hustle-is-stripping-copper-wire-and-posting-about-it/"/>
-        <updated>2026-10-25T16:00:00.000Z</updated>
-        <published>2026-10-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG B6 OLED TV Review (2026)]]></title>
-        <id>https://www.wired.com/review/lg-b6/</id>
-        <link href="https://www.wired.com/review/lg-b6/"/>
-        <updated>2026-10-25T16:00:00.000Z</updated>
-        <published>2026-10-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners]]></title>
-        <id>https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/</id>
-        <link href="https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/"/>
+        <title type="html"><![CDATA[Lykyn Review: A Mushroom Garden Worth Showing Off]]></title>
+        <id>https://www.wired.com/review/lykyn-automated-mushroom-grow-box/</id>
+        <link href="https://www.wired.com/review/lykyn-automated-mushroom-grow-box/"/>
         <updated>2026-10-25T16:00:00.000Z</updated>
         <published>2026-10-25T16:00:00.000Z</published>
     </entry>
@@ -246,9 +267,37 @@
         <published>2026-10-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lykyn Review: A Mushroom Garden Worth Showing Off]]></title>
-        <id>https://www.wired.com/review/lykyn-automated-mushroom-grow-box/</id>
-        <link href="https://www.wired.com/review/lykyn-automated-mushroom-grow-box/"/>
+        <title type="html"><![CDATA[This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners]]></title>
+        <id>https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/</id>
+        <link href="https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/"/>
+        <updated>2026-10-25T16:00:00.000Z</updated>
+        <published>2026-10-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG B6 OLED TV Review (2026)]]></title>
+        <id>https://www.wired.com/review/lg-b6/</id>
+        <link href="https://www.wired.com/review/lg-b6/"/>
+        <updated>2026-10-25T16:00:00.000Z</updated>
+        <published>2026-10-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hottest New Side Hustle Is Stripping Copper Wire and Posting About It]]></title>
+        <id>https://www.wired.com/story/the-hottest-new-side-hustle-is-stripping-copper-wire-and-posting-about-it/</id>
+        <link href="https://www.wired.com/story/the-hottest-new-side-hustle-is-stripping-copper-wire-and-posting-about-it/"/>
+        <updated>2026-10-25T16:00:00.000Z</updated>
+        <published>2026-10-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WIRED Ghost Stories]]></title>
+        <id>https://www.wired.com/ghost-stories/</id>
+        <link href="https://www.wired.com/ghost-stories/"/>
+        <updated>2026-10-25T16:00:00.000Z</updated>
+        <published>2026-10-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans]]></title>
+        <id>https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/</id>
+        <link href="https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/"/>
         <updated>2026-10-25T16:00:00.000Z</updated>
         <published>2026-10-25T16:00:00.000Z</published>
     </entry>
@@ -312,55 +361,6 @@
         <title type="html"><![CDATA[A cool 3D interactive demo of neuroevolution with supermario]]></title>
         <id>https://github.com/vahmoh/NeuroMario</id>
         <link href="https://github.com/vahmoh/NeuroMario"/>
-        <updated>2026-10-25T16:00:00.000Z</updated>
-        <published>2026-10-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Science could lift Italy's sinking cities back up]]></title>
-        <id>https://www.repubblica.it/en/europe/news/2026/10/26/news/subsidence_in_italy_venice_and_ravenna_are_sinking_but_there_is_a_solution-425670989/</id>
-        <link href="https://www.repubblica.it/en/europe/news/2026/10/26/news/subsidence_in_italy_venice_and_ravenna_are_sinking_but_there_is_a_solution-425670989/"/>
-        <updated>2026-10-25T16:00:00.000Z</updated>
-        <published>2026-10-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A tiny Python library/DSL to construct Python formal models]]></title>
-        <id>https://github.com/caotic123/PyMagic/</id>
-        <link href="https://github.com/caotic123/PyMagic/"/>
-        <updated>2026-10-25T16:00:00.000Z</updated>
-        <published>2026-10-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When a glibc update accidentally breaks Chromium's audio (2021)]]></title>
-        <id>https://refi64.dev/posts/chromium-audio-break.html</id>
-        <link href="https://refi64.dev/posts/chromium-audio-break.html"/>
-        <updated>2026-10-25T16:00:00.000Z</updated>
-        <published>2026-10-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Handwriting and Route: On What Slips Away When Art Is Copied]]></title>
-        <id>https://medium.com/@smoking2man/handwriting-and-route-on-what-slips-away-when-art-is-copied-7cf6b0bb30e0</id>
-        <link href="https://medium.com/@smoking2man/handwriting-and-route-on-what-slips-away-when-art-is-copied-7cf6b0bb30e0"/>
-        <updated>2026-10-25T16:00:00.000Z</updated>
-        <published>2026-10-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Single Source of Truth" by Dyrgrip (Slopcore) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=C9F8SOhStEU</id>
-        <link href="https://www.youtube.com/watch?v=C9F8SOhStEU"/>
-        <updated>2026-10-25T16:00:00.000Z</updated>
-        <published>2026-10-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Quill Desktop; Lightweight AI harness, no electron/WebKit native GUI]]></title>
-        <id>https://github.com/alshlabs/quill</id>
-        <link href="https://github.com/alshlabs/quill"/>
-        <updated>2026-10-25T16:00:00.000Z</updated>
-        <published>2026-10-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grokking: A 777-Parameter Transformer Learned Real Math]]></title>
-        <id>https://themenonlab.blog/blog/grokking-777-parameter-transformer</id>
-        <link href="https://themenonlab.blog/blog/grokking-777-parameter-transformer"/>
         <updated>2026-10-25T16:00:00.000Z</updated>
         <published>2026-10-25T16:00:00.000Z</published>
     </entry>
