@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-29T13:02:07.674Z</updated>
+    <updated>2026-10-29T15:04:23.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,37 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech]]></title>
-        <id>https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream</id>
-        <link href="https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream"/>
+        <title type="html"><![CDATA[Anthropic is asking Wall Street to believe in AGI]]></title>
+        <id>https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview</id>
+        <link href="https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon’s AI shopping assistant can now edit your grocery lists and gift registries]]></title>
+        <id>https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries</id>
+        <link href="https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This $149 digital candle uses AI to accurately simulate a flickering flame]]></title>
+        <id>https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame</id>
+        <link href="https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic’s business plan: Build God or die trying]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple finally combined a toaster and a refrigerator]]></title>
+        <id>https://www.theverge.com/report/1022013/apple-touchscreen-macbook-pro-toaster-refrigerator</id>
+        <link href="https://www.theverge.com/report/1022013/apple-touchscreen-macbook-pro-toaster-refrigerator"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
@@ -25,6 +53,13 @@
         <title type="html"><![CDATA[Adam Mosseri says negativity around AI is ‘going to get worse’]]></title>
         <id>https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity</id>
         <link href="https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech]]></title>
+        <id>https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream</id>
+        <link href="https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
@@ -106,247 +141,93 @@
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitButler 0.23]]></title>
-        <id>https://blog.gitbutler.com/gitbutler-0-23</id>
-        <link href="https://blog.gitbutler.com/gitbutler-0-23"/>
+        <title type="html"><![CDATA[GitLab's new 60 req/HR rate limit has a fatal flaw: It blocks the login page]]></title>
+        <id>https://docs.gitlab.com/user/gitlab_com/rate_limits/</id>
+        <link href="https://docs.gitlab.com/user/gitlab_com/rate_limits/"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The modern developer workstation is suffocating under 5GB of Electron bloat]]></title>
-        <id>https://2tinteractive.com/apps/</id>
-        <link href="https://2tinteractive.com/apps/"/>
+        <title type="html"><![CDATA[Xlibre, Nouveau, and the Art of Getting Banned from Telegram]]></title>
+        <id>https://aliveos.org/news/xlibre-nouveau-and-telegram-bans/</id>
+        <link href="https://aliveos.org/news/xlibre-nouveau-and-telegram-bans/"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Hackerscad – script 3D solids in a C/JS-like language, with MCP server]]></title>
-        <id>https://hackerscad.com</id>
-        <link href="https://hackerscad.com"/>
+        <title type="html"><![CDATA[Former GitHub CEO launches rival Git forge built for AI coding agents]]></title>
+        <id>https://www.geekwire.com/2026/former-github-ceo-launches-rival-platform-built-for-ai-coding-agents/</id>
+        <link href="https://www.geekwire.com/2026/former-github-ceo-launches-rival-platform-built-for-ai-coding-agents/"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI build-out hits snag as Google and Microsoft put off raising capex forecasts]]></title>
-        <id>https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html</id>
-        <link href="https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html"/>
+        <title type="html"><![CDATA[Advisories in Five Months: Results from the Drupal AI Security Initiative]]></title>
+        <id>https://www.drupal.org/blog/256-advisories-in-five-months-results-from-the-drupal-ai-security-initiative</id>
+        <link href="https://www.drupal.org/blog/256-advisories-in-five-months-results-from-the-drupal-ai-security-initiative"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Researchers discover electronic material that is naturally produced by bacteria]]></title>
-        <id>https://cordis.europa.eu/article/id/467825-material-producing-bacteria</id>
-        <link href="https://cordis.europa.eu/article/id/467825-material-producing-bacteria"/>
+        <title type="html"><![CDATA[Posit Assistant makes better use of your token budget than leading coding agents]]></title>
+        <id>https://opensource.posit.co/blog/2026-10-29_ai-newsletter/</id>
+        <link href="https://opensource.posit.co/blog/2026-10-29_ai-newsletter/"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adaptive Integer Compression in TimescaleDB]]></title>
-        <id>https://www.tigerdata.com/blog/adaptive-integer-compression-aic-in-timescaledb</id>
-        <link href="https://www.tigerdata.com/blog/adaptive-integer-compression-aic-in-timescaledb"/>
+        <title type="html"><![CDATA[Lasm: Write formally verified web apps in Lean, deploy to Node, serverless, edge]]></title>
+        <id>https://github.com/Millillion/lasm</id>
+        <link href="https://github.com/Millillion/lasm"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: MorsePass – Web Audio Morse code trainer and FCC ham exam practice]]></title>
-        <id>https://morsepass.com/</id>
-        <link href="https://morsepass.com/"/>
+        <title type="html"><![CDATA[React.lazy, Suspense and the Hidden 300 ms Delay]]></title>
+        <id>https://tabwidgets.com/blog/react-lazy-suspense-delay</id>
+        <link href="https://tabwidgets.com/blog/react-lazy-suspense-delay"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Alignment Interview Challenge]]></title>
-        <id>https://docloop.com/careers/engineering-alignment-quiz</id>
-        <link href="https://docloop.com/careers/engineering-alignment-quiz"/>
+        <title type="html"><![CDATA[Russia arrests two men who ran a website for train enthusiasts]]></title>
+        <id>https://meduza.io/en/feature/2026/10/19/russia-arrests-two-men-who-ran-a-website-for-train-enthusiasts-now-they-face-up-to-10-years-in-prison-for-allegedly-compromising-critical-infrastructure</id>
+        <link href="https://meduza.io/en/feature/2026/10/19/russia-arrests-two-men-who-ran-a-website-for-train-enthusiasts-now-they-face-up-to-10-years-in-prison-for-allegedly-compromising-critical-infrastructure"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Pure Particles, an open source art particle toy built with Three.js]]></title>
-        <id>https://pureart-xyz.vercel.app/</id>
-        <link href="https://pureart-xyz.vercel.app/"/>
+        <title type="html"><![CDATA[Corvus – A lightweight native Signal client in Qt]]></title>
+        <id>https://github.com/ada-h00k/Corvus</id>
+        <link href="https://github.com/ada-h00k/Corvus"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Forging a Microsoft Edge Full Chain with Logic Bugs Only]]></title>
-        <id>https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/</id>
-        <link href="https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/"/>
+        <title type="html"><![CDATA[Logs Ingestion Benchmark: Loki, Elasticsearch, VictoriaLogs and ClickHouse]]></title>
+        <id>https://victoriametrics.com/blog/structured-log-ingestion-benchmark/index.html</id>
+        <link href="https://victoriametrics.com/blog/structured-log-ingestion-benchmark/index.html"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trump phone is made in Taiwan [video]]]></title>
-        <id>https://www.youtube.com/watch?v=5O-vCJW1b8g</id>
-        <link href="https://www.youtube.com/watch?v=5O-vCJW1b8g"/>
+        <title type="html"><![CDATA[Getting a Tablo OTA DVR to Stream on Linux and Roku Without the Cloud]]></title>
+        <id>https://rowbose.com/blog/</id>
+        <link href="https://rowbose.com/blog/"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Wishcode: Post an idea you wish existed]]></title>
-        <id>https://wishcode-ai.vercel.app</id>
-        <link href="https://wishcode-ai.vercel.app"/>
+        <title type="html"><![CDATA[Zillow to pay $212.5M to settle class action for real estate venture]]></title>
+        <id>https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/</id>
+        <link href="https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: A malleable and formally verified Web engine]]></title>
-        <id>https://news.ycombinator.com/item?id=50285197</id>
-        <link href="https://news.ycombinator.com/item?id=50285197"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting good at AI takes time and practice]]></title>
-        <id>https://www.seangoedecke.com/getting-good-at-ai-takes-time-and-practice/</id>
-        <link href="https://www.seangoedecke.com/getting-good-at-ai-takes-time-and-practice/"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A zero-dependency auditor for AI agent exposure (secrets, SSH, configs)]]></title>
-        <id>https://ai-agent-antivirus.space/</id>
-        <link href="https://ai-agent-antivirus.space/"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Math, Less Ego – Erik Demaine [video]]]></title>
-        <id>https://www.youtube.com/watch?v=Gdc1yll04qI</id>
-        <link href="https://www.youtube.com/watch?v=Gdc1yll04qI"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electronic fibers weave touchscreen into sleeve that survives machine washing]]></title>
-        <id>https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/</id>
-        <link href="https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git for All Global Law]]></title>
-        <id>https://github.com/lexifina/global-law</id>
-        <link href="https://github.com/lexifina/global-law"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jabhook: Harnessing Computer Vision for Martial Arts Training]]></title>
-        <id>https://jabhook.ai/</id>
-        <link href="https://jabhook.ai/"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Culture Is the Client (2024)]]></title>
-        <id>https://nicksusi.substack.com/p/culture-is-the-client</id>
-        <link href="https://nicksusi.substack.com/p/culture-is-the-client"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Durable Objects Explained]]></title>
-        <id>https://durable.ami.ni</id>
-        <link href="https://durable.ami.ni"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training Reve 2.0 at Scale]]></title>
-        <id>https://app.reve.com/training-infra</id>
-        <link href="https://app.reve.com/training-infra"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Numbers Behind Anthropic [video]]]></title>
-        <id>https://www.youtube.com/watch?v=6ZrgRjdJs3o</id>
-        <link href="https://www.youtube.com/watch?v=6ZrgRjdJs3o"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tar-codec: a fast and secure tar parser for the Rust ecosystem]]></title>
-        <id>https://astral.sh/blog/tar-codec</id>
-        <link href="https://astral.sh/blog/tar-codec"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Full Python 3.15 Implemented in 25k LoC C11]]></title>
-        <id>https://news.ycombinator.com/item?id=50281226</id>
-        <link href="https://news.ycombinator.com/item?id=50281226"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UC San Diego Launches Center for Principled Agentic Intelligence]]></title>
-        <id>https://today.ucsd.edu/story/uc-san-diego-launches-center-for-principled-agentic-intelligence</id>
-        <link href="https://today.ucsd.edu/story/uc-san-diego-launches-center-for-principled-agentic-intelligence"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETFs use 'perps' to offer bets on private companies such as Anthropic and OpenAI]]></title>
-        <id>https://www.ft.com/content/b5407b4e-3f63-451b-95b9-d7162ed3d0bf</id>
-        <link href="https://www.ft.com/content/b5407b4e-3f63-451b-95b9-d7162ed3d0bf"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Agentic First Hobby Operating System in Rust]]></title>
-        <id>https://github.com/vahmoh/Veda/blob/main/README.md</id>
-        <link href="https://github.com/vahmoh/Veda/blob/main/README.md"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving Postgres' Count Problem]]></title>
-        <id>https://www.paradedb.com/blog/opening-a-closed-tin-part-2</id>
-        <link href="https://www.paradedb.com/blog/opening-a-closed-tin-part-2"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StackOverflow now gets fewer than 1000 questions a month]]></title>
-        <id>https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1</id>
-        <link href="https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Lisp coding agent is beating Codex in token efficiency by 10x]]></title>
-        <id>https://twitter.com/techfren/status/2115583260919202187</id>
-        <link href="https://twitter.com/techfren/status/2115583260919202187"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Low cholesterol targets cut cardiovascular events by 33%]]></title>
-        <id>https://www.empirical.health/blog/lower-ldl-target-ez-pave-trial/</id>
-        <link href="https://www.empirical.health/blog/lower-ldl-target-ez-pave-trial/"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2TI Desktop Suite – Rust/Tauri Native Apps (<30MB RAM) with Ollama Perfect Audio]]></title>
-        <id>https://2tinteractive.com/apps/launcher/</id>
-        <link href="https://2tinteractive.com/apps/launcher/"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitLab Security Incident: Attempted Exploitation of CVE-2026-97229]]></title>
-        <id>https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</id>
-        <link href="https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fact-Checking Microsoft's "PostgreSQL to SQL Field Notes: Connections"]]></title>
-        <id>https://www.brentozar.com/archive/2026/10/fact-checking-microsofts-postgresql-to-sql-field-notes-connections/</id>
-        <link href="https://www.brentozar.com/archive/2026/10/fact-checking-microsofts-postgresql-to-sql-field-notes-connections/"/>
+        <title type="html"><![CDATA[The Milwaukee Brewers win the first World Series title in franchise history]]></title>
+        <id>https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series</id>
+        <link href="https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
@@ -358,9 +239,128 @@
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Milwaukee Brewers win the first World Series title in franchise history]]></title>
-        <id>https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series</id>
-        <link href="https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series"/>
+        <title type="html"><![CDATA[Fact-Checking Microsoft's "PostgreSQL to SQL Field Notes: Connections"]]></title>
+        <id>https://www.brentozar.com/archive/2026/10/fact-checking-microsofts-postgresql-to-sql-field-notes-connections/</id>
+        <link href="https://www.brentozar.com/archive/2026/10/fact-checking-microsofts-postgresql-to-sql-field-notes-connections/"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitLab Security Incident: Attempted Exploitation of CVE-2026-97229]]></title>
+        <id>https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</id>
+        <link href="https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2TI Desktop Suite – Rust/Tauri Native Apps (<30MB RAM) with Ollama Perfect Audio]]></title>
+        <id>https://2tinteractive.com/apps/launcher/</id>
+        <link href="https://2tinteractive.com/apps/launcher/"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low cholesterol targets cut cardiovascular events by 33%]]></title>
+        <id>https://www.empirical.health/blog/lower-ldl-target-ez-pave-trial/</id>
+        <link href="https://www.empirical.health/blog/lower-ldl-target-ez-pave-trial/"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Lisp coding agent is beating Codex in token efficiency by 10x]]></title>
+        <id>https://twitter.com/techfren/status/2115583260919202187</id>
+        <link href="https://twitter.com/techfren/status/2115583260919202187"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StackOverflow now gets fewer than 1000 questions a month]]></title>
+        <id>https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1</id>
+        <link href="https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving Postgres' Count Problem]]></title>
+        <id>https://www.paradedb.com/blog/opening-a-closed-tin-part-2</id>
+        <link href="https://www.paradedb.com/blog/opening-a-closed-tin-part-2"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Agentic First Hobby Operating System in Rust]]></title>
+        <id>https://github.com/vahmoh/Veda/blob/main/README.md</id>
+        <link href="https://github.com/vahmoh/Veda/blob/main/README.md"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETFs use 'perps' to offer bets on private companies such as Anthropic and OpenAI]]></title>
+        <id>https://www.ft.com/content/b5407b4e-3f63-451b-95b9-d7162ed3d0bf</id>
+        <link href="https://www.ft.com/content/b5407b4e-3f63-451b-95b9-d7162ed3d0bf"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UC San Diego Launches Center for Principled Agentic Intelligence]]></title>
+        <id>https://today.ucsd.edu/story/uc-san-diego-launches-center-for-principled-agentic-intelligence</id>
+        <link href="https://today.ucsd.edu/story/uc-san-diego-launches-center-for-principled-agentic-intelligence"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Full Python 3.15 Implemented in 25k LoC C11]]></title>
+        <id>https://news.ycombinator.com/item?id=50281226</id>
+        <link href="https://news.ycombinator.com/item?id=50281226"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tar-codec: a fast and secure tar parser for the Rust ecosystem]]></title>
+        <id>https://astral.sh/blog/tar-codec</id>
+        <link href="https://astral.sh/blog/tar-codec"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Numbers Behind Anthropic [video]]]></title>
+        <id>https://www.youtube.com/watch?v=6ZrgRjdJs3o</id>
+        <link href="https://www.youtube.com/watch?v=6ZrgRjdJs3o"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Training Reve 2.0 at Scale]]></title>
+        <id>https://app.reve.com/training-infra</id>
+        <link href="https://app.reve.com/training-infra"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Durable Objects Explained]]></title>
+        <id>https://durable.ami.ni</id>
+        <link href="https://durable.ami.ni"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Culture Is the Client (2024)]]></title>
+        <id>https://nicksusi.substack.com/p/culture-is-the-client</id>
+        <link href="https://nicksusi.substack.com/p/culture-is-the-client"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jabhook: Harnessing Computer Vision for Martial Arts Training]]></title>
+        <id>https://jabhook.ai/</id>
+        <link href="https://jabhook.ai/"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git for All Global Law]]></title>
+        <id>https://github.com/lexifina/global-law</id>
+        <link href="https://github.com/lexifina/global-law"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
