@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-29T00:03:47.970Z</updated>
+    <updated>2026-10-29T02:04:18.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -85,114 +85,30 @@
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fact-Checking Microsoft's "PostgreSQL to SQL Field Notes: Connections"]]></title>
-        <id>https://www.brentozar.com/archive/2026/10/fact-checking-microsofts-postgresql-to-sql-field-notes-connections/</id>
-        <link href="https://www.brentozar.com/archive/2026/10/fact-checking-microsofts-postgresql-to-sql-field-notes-connections/"/>
+        <title type="html"><![CDATA[A zero-dependency auditor for AI agent exposure (secrets, SSH, configs)]]></title>
+        <id>https://ai-agent-antivirus.space/</id>
+        <link href="https://ai-agent-antivirus.space/"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitLab Security Incident: Attempted Exploitation of CVE-2026-97229]]></title>
-        <id>https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</id>
-        <link href="https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html"/>
+        <title type="html"><![CDATA[More Math, Less Ego – Erik Demaine [video]]]></title>
+        <id>https://www.youtube.com/watch?v=Gdc1yll04qI</id>
+        <link href="https://www.youtube.com/watch?v=Gdc1yll04qI"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2TI Desktop Suite – Rust/Tauri Native Apps (<30MB RAM) with Ollama Perfect Audio]]></title>
-        <id>https://2tinteractive.com/apps/launcher/</id>
-        <link href="https://2tinteractive.com/apps/launcher/"/>
+        <title type="html"><![CDATA[Electronic fibers weave touchscreen into sleeve that survives machine washing]]></title>
+        <id>https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/</id>
+        <link href="https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Low cholesterol targets cut cardiovascular events by 33%]]></title>
-        <id>https://www.empirical.health/blog/lower-ldl-target-ez-pave-trial/</id>
-        <link href="https://www.empirical.health/blog/lower-ldl-target-ez-pave-trial/"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Lisp coding agent is beating Codex in token efficiency by 10x]]></title>
-        <id>https://twitter.com/techfren/status/2115583260919202187</id>
-        <link href="https://twitter.com/techfren/status/2115583260919202187"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StackOverflow now gets fewer than 1000 questions a month]]></title>
-        <id>https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1</id>
-        <link href="https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving Postgres' Count Problem]]></title>
-        <id>https://www.paradedb.com/blog/opening-a-closed-tin-part-2</id>
-        <link href="https://www.paradedb.com/blog/opening-a-closed-tin-part-2"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Agentic First Hobby Operating System in Rust]]></title>
-        <id>https://github.com/vahmoh/Veda/blob/main/README.md</id>
-        <link href="https://github.com/vahmoh/Veda/blob/main/README.md"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETFs use 'perps' to offer bets on private companies such as Anthropic and OpenAI]]></title>
-        <id>https://www.ft.com/content/b5407b4e-3f63-451b-95b9-d7162ed3d0bf</id>
-        <link href="https://www.ft.com/content/b5407b4e-3f63-451b-95b9-d7162ed3d0bf"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UC San Diego Launches Center for Principled Agentic Intelligence]]></title>
-        <id>https://today.ucsd.edu/story/uc-san-diego-launches-center-for-principled-agentic-intelligence</id>
-        <link href="https://today.ucsd.edu/story/uc-san-diego-launches-center-for-principled-agentic-intelligence"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Full Python 3.15 Implemented in 25k LoC C11]]></title>
-        <id>https://news.ycombinator.com/item?id=50281226</id>
-        <link href="https://news.ycombinator.com/item?id=50281226"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tar-codec: a fast and secure tar parser for the Rust ecosystem]]></title>
-        <id>https://astral.sh/blog/tar-codec</id>
-        <link href="https://astral.sh/blog/tar-codec"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Numbers Behind Anthropic [video]]]></title>
-        <id>https://www.youtube.com/watch?v=6ZrgRjdJs3o</id>
-        <link href="https://www.youtube.com/watch?v=6ZrgRjdJs3o"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training Reve 2.0 at Scale]]></title>
-        <id>https://app.reve.com/training-infra</id>
-        <link href="https://app.reve.com/training-infra"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Durable Objects Explained]]></title>
-        <id>https://durable.ami.ni</id>
-        <link href="https://durable.ami.ni"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Culture Is the Client (2024)]]></title>
-        <id>https://nicksusi.substack.com/p/culture-is-the-client</id>
-        <link href="https://nicksusi.substack.com/p/culture-is-the-client"/>
+        <title type="html"><![CDATA[Git for All Global Law]]></title>
+        <id>https://github.com/lexifina/global-law</id>
+        <link href="https://github.com/lexifina/global-law"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
@@ -204,9 +120,128 @@
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ConvNeXt Explained: How CNNs Borrowed From Vision Transformers]]></title>
-        <id>https://pub.towardsai.net/convnext-explained-how-cnns-borrowed-from-vision-transformers-dbf4428801f2?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/convnext-explained-how-cnns-borrowed-from-vision-transformers-dbf4428801f2?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Culture Is the Client (2024)]]></title>
+        <id>https://nicksusi.substack.com/p/culture-is-the-client</id>
+        <link href="https://nicksusi.substack.com/p/culture-is-the-client"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Durable Objects Explained]]></title>
+        <id>https://durable.ami.ni</id>
+        <link href="https://durable.ami.ni"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Training Reve 2.0 at Scale]]></title>
+        <id>https://app.reve.com/training-infra</id>
+        <link href="https://app.reve.com/training-infra"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Numbers Behind Anthropic [video]]]></title>
+        <id>https://www.youtube.com/watch?v=6ZrgRjdJs3o</id>
+        <link href="https://www.youtube.com/watch?v=6ZrgRjdJs3o"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tar-codec: a fast and secure tar parser for the Rust ecosystem]]></title>
+        <id>https://astral.sh/blog/tar-codec</id>
+        <link href="https://astral.sh/blog/tar-codec"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Full Python 3.15 Implemented in 25k LoC C11]]></title>
+        <id>https://news.ycombinator.com/item?id=50281226</id>
+        <link href="https://news.ycombinator.com/item?id=50281226"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UC San Diego Launches Center for Principled Agentic Intelligence]]></title>
+        <id>https://today.ucsd.edu/story/uc-san-diego-launches-center-for-principled-agentic-intelligence</id>
+        <link href="https://today.ucsd.edu/story/uc-san-diego-launches-center-for-principled-agentic-intelligence"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETFs use 'perps' to offer bets on private companies such as Anthropic and OpenAI]]></title>
+        <id>https://www.ft.com/content/b5407b4e-3f63-451b-95b9-d7162ed3d0bf</id>
+        <link href="https://www.ft.com/content/b5407b4e-3f63-451b-95b9-d7162ed3d0bf"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Agentic First Hobby Operating System in Rust]]></title>
+        <id>https://github.com/vahmoh/Veda/blob/main/README.md</id>
+        <link href="https://github.com/vahmoh/Veda/blob/main/README.md"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solving Postgres' Count Problem]]></title>
+        <id>https://www.paradedb.com/blog/opening-a-closed-tin-part-2</id>
+        <link href="https://www.paradedb.com/blog/opening-a-closed-tin-part-2"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StackOverflow now gets fewer than 1000 questions a month]]></title>
+        <id>https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1</id>
+        <link href="https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Lisp coding agent is beating Codex in token efficiency by 10x]]></title>
+        <id>https://twitter.com/techfren/status/2115583260919202187</id>
+        <link href="https://twitter.com/techfren/status/2115583260919202187"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low cholesterol targets cut cardiovascular events by 33%]]></title>
+        <id>https://www.empirical.health/blog/lower-ldl-target-ez-pave-trial/</id>
+        <link href="https://www.empirical.health/blog/lower-ldl-target-ez-pave-trial/"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2TI Desktop Suite – Rust/Tauri Native Apps (<30MB RAM) with Ollama Perfect Audio]]></title>
+        <id>https://2tinteractive.com/apps/launcher/</id>
+        <link href="https://2tinteractive.com/apps/launcher/"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitLab Security Incident: Attempted Exploitation of CVE-2026-97229]]></title>
+        <id>https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</id>
+        <link href="https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fact-Checking Microsoft's "PostgreSQL to SQL Field Notes: Connections"]]></title>
+        <id>https://www.brentozar.com/archive/2026/10/fact-checking-microsofts-postgresql-to-sql-field-notes-connections/</id>
+        <link href="https://www.brentozar.com/archive/2026/10/fact-checking-microsofts-postgresql-to-sql-field-notes-connections/"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reading, Writing, Sharing, and Interacting with the World through Video]]></title>
+        <id>https://pub.towardsai.net/reading-writing-sharing-and-interacting-with-the-world-through-video-b9b91305d5ca?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/reading-writing-sharing-and-interacting-with-the-world-through-video-b9b91305d5ca?source=rss----98111c9905da---4"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Day 35/100] Embeddings for AI Agent Memory: What Similarity Search Gets Wrong]]></title>
+        <id>https://pub.towardsai.net/day-35-100-embeddings-for-ai-agent-memory-what-similarity-search-gets-wrong-4bcf5ecc2b24?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/day-35-100-embeddings-for-ai-agent-memory-what-similarity-search-gets-wrong-4bcf5ecc2b24?source=rss----98111c9905da---4"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
@@ -218,9 +253,9 @@
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Day 35/100] Embeddings for AI Agent Memory: What Similarity Search Gets Wrong]]></title>
-        <id>https://pub.towardsai.net/day-35-100-embeddings-for-ai-agent-memory-what-similarity-search-gets-wrong-4bcf5ecc2b24?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/day-35-100-embeddings-for-ai-agent-memory-what-similarity-search-gets-wrong-4bcf5ecc2b24?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[ConvNeXt Explained: How CNNs Borrowed From Vision Transformers]]></title>
+        <id>https://pub.towardsai.net/convnext-explained-how-cnns-borrowed-from-vision-transformers-dbf4428801f2?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/convnext-explained-how-cnns-borrowed-from-vision-transformers-dbf4428801f2?source=rss----98111c9905da---4"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
@@ -246,79 +281,51 @@
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Turning Sri Lanka's expressway toll gazette into a lookup table]]></title>
-        <id>https://dev.to/hirantha_sandaruwan/turning-sri-lankas-expressway-toll-gazette-into-a-lookup-table-3hg</id>
-        <link href="https://dev.to/hirantha_sandaruwan/turning-sri-lankas-expressway-toll-gazette-into-a-lookup-table-3hg"/>
+        <title type="html"><![CDATA[Shareable, Accessible, and Non-Blocking: Three Upgrades for a Client-Side Text Repeater]]></title>
+        <id>https://dev.to/sonny_9cfaf8b35514f/shareable-accessible-and-non-blocking-three-upgrades-for-a-client-side-text-repeater-cap</id>
+        <link href="https://dev.to/sonny_9cfaf8b35514f/shareable-accessible-and-non-blocking-three-upgrades-for-a-client-side-text-repeater-cap"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create an AI Voice Assistant with ElevenLabs and Node.js]]></title>
-        <id>https://dev.to/voice_developer/create-an-ai-voice-assistant-with-elevenlabs-and-nodejs-15fc</id>
-        <link href="https://dev.to/voice_developer/create-an-ai-voice-assistant-with-elevenlabs-and-nodejs-15fc"/>
+        <title type="html"><![CDATA[Scalable React Project Structure with Vite and Tailwind CSS]]></title>
+        <id>https://dev.to/mostafanagedy/scalable-react-project-structure-with-vite-and-tailwind-css-371b</id>
+        <link href="https://dev.to/mostafanagedy/scalable-react-project-structure-with-vite-and-tailwind-css-371b"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Converting WebP and PNG to JPG in the browser: why transparent pixels turn black]]></title>
-        <id>https://dev.to/webdevs2/converting-webp-and-png-to-jpg-in-the-browser-why-transparent-pixels-turn-black-2b8f</id>
-        <link href="https://dev.to/webdevs2/converting-webp-and-png-to-jpg-in-the-browser-why-transparent-pixels-turn-black-2b8f"/>
+        <title type="html"><![CDATA[URL-Safe Base64 vs Standard: How to Tell Them Apart]]></title>
+        <id>https://dev.to/toolstead/url-safe-base64-vs-standard-how-to-tell-them-apart-2h6l</id>
+        <link href="https://dev.to/toolstead/url-safe-base64-vs-standard-how-to-tell-them-apart-2h6l"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why I love building 100% client-side web tools (and how I do it)]]></title>
-        <id>https://dev.to/huali/why-i-love-building-100-client-side-web-tools-and-how-i-do-it-3hp5</id>
-        <link href="https://dev.to/huali/why-i-love-building-100-client-side-web-tools-and-how-i-do-it-3hp5"/>
+        <title type="html"><![CDATA[Merging PDFs in the browser without uploading them: pdf-lib, lazy loading and a test that fails on any POST]]></title>
+        <id>https://dev.to/shaojie/merging-pdfs-in-the-browser-without-uploading-them-pdf-lib-lazy-loading-and-a-test-that-fails-on-52gc</id>
+        <link href="https://dev.to/shaojie/merging-pdfs-in-the-browser-without-uploading-them-pdf-lib-lazy-loading-and-a-test-that-fails-on-52gc"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSON ids above 2^53 arrive rounded, and a reviver only fixes the leaf]]></title>
-        <id>https://dev.to/jonasfilhodev/json-ids-above-253-arrive-rounded-and-a-reviver-only-fixes-the-leaf-55g3</id>
-        <link href="https://dev.to/jonasfilhodev/json-ids-above-253-arrive-rounded-and-a-reviver-only-fixes-the-leaf-55g3"/>
+        <title type="html"><![CDATA[I Built Rillio: A JSX UI Runtime Using Addressable DOM Instead of Virtual DOM]]></title>
+        <id>https://dev.to/vyquocvu/i-built-rillio-a-jsx-ui-runtime-using-addressable-dom-instead-of-virtual-dom-noh</id>
+        <link href="https://dev.to/vyquocvu/i-built-rillio-a-jsx-ui-runtime-using-addressable-dom-instead-of-virtual-dom-noh"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a Markdown to Word converter that never uploads your document]]></title>
-        <id>https://dev.to/razeen_hassan_8e3c0c60910/i-built-a-markdown-to-word-converter-that-never-uploads-your-document-55fe</id>
-        <link href="https://dev.to/razeen_hassan_8e3c0c60910/i-built-a-markdown-to-word-converter-that-never-uploads-your-document-55fe"/>
+        <title type="html"><![CDATA[Stop Spreading Bytes Into btoa(). Uint8Array Speaks Base64 Now]]></title>
+        <id>https://dev.to/iamprincejkc/stop-spreading-bytes-into-btoa-uint8array-speaks-base64-now-4ba</id>
+        <link href="https://dev.to/iamprincejkc/stop-spreading-bytes-into-btoa-uint8array-speaks-base64-now-4ba"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[npm provenance names the tree and the artifact. The thing that decides a rebuild isn't in it.]]></title>
-        <id>https://dev.to/roshcompanylabs/npm-provenance-names-the-tree-and-the-artifact-the-thing-that-decides-a-rebuild-isnt-in-it-n2g</id>
-        <link href="https://dev.to/roshcompanylabs/npm-provenance-names-the-tree-and-the-artifact-the-thing-that-decides-a-rebuild-isnt-in-it-n2g"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parsing Indian bank-statement PDFs in the browser with PDF.js (no uploads)]]></title>
-        <id>https://dev.to/statementdock/parsing-indian-bank-statement-pdfs-in-the-browser-with-pdfjs-no-uploads-1pk9</id>
-        <link href="https://dev.to/statementdock/parsing-indian-bank-statement-pdfs-in-the-browser-with-pdfjs-no-uploads-1pk9"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built a 3D startup tycoon in a single HTML file (and open-sourced it)]]></title>
-        <id>https://dev.to/tobeficv/i-built-a-3d-startup-tycoon-in-a-single-html-file-and-open-sourced-it-496h</id>
-        <link href="https://dev.to/tobeficv/i-built-a-3d-startup-tycoon-in-a-single-html-file-and-open-sourced-it-496h"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Sinhala copied from a Sri Lankan gazette looks like "Y%S ,xld" (and how to turn it into Unicode)]]></title>
-        <id>https://dev.to/hirantha_sandaruwan/why-sinhala-copied-from-a-sri-lankan-gazette-looks-like-ys-xld-and-how-to-turn-it-into-unicode-4n35</id>
-        <link href="https://dev.to/hirantha_sandaruwan/why-sinhala-copied-from-a-sri-lankan-gazette-looks-like-ys-xld-and-how-to-turn-it-into-unicode-4n35"/>
-        <updated>2026-10-28T16:00:00.000Z</updated>
-        <published>2026-10-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making a JavaScript-Heavy Site Readable for AI Crawlers: Prerendering Options Compared]]></title>
-        <id>https://dev.to/pandawm/making-a-javascript-heavy-site-readable-for-ai-crawlers-prerendering-options-compared-54il</id>
-        <link href="https://dev.to/pandawm/making-a-javascript-heavy-site-readable-for-ai-crawlers-prerendering-options-compared-54il"/>
+        <title type="html"><![CDATA[Turn Webpage Text into Study Material: Meet Study Buddy]]></title>
+        <id>https://dev.to/yokozo/turn-webpage-text-into-study-material-meet-study-buddy-4ag5</id>
+        <link href="https://dev.to/yokozo/turn-webpage-text-into-study-material-meet-study-buddy-4ag5"/>
         <updated>2026-10-28T16:00:00.000Z</updated>
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
@@ -330,38 +337,31 @@
         <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[备受期待的国产 3A 游戏新作：《影之刃零》游玩体验]]></title>
-        <id>https://sspai.com/post/117725</id>
-        <link href="https://sspai.com/post/117725"/>
-        <updated>2026-10-27T16:00:00.000Z</updated>
-        <published>2026-10-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Making a JavaScript-Heavy Site Readable for AI Crawlers: Prerendering Options Compared]]></title>
+        <id>https://dev.to/pandawm/making-a-javascript-heavy-site-readable-for-ai-crawlers-prerendering-options-compared-54il</id>
+        <link href="https://dev.to/pandawm/making-a-javascript-heavy-site-readable-for-ai-crawlers-prerendering-options-compared-54il"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This is how badly X wants you to pay to promote your posts]]></title>
-        <id>https://www.theverge.com/tech/1020488/x-twitter-animated-hand-point-promote-posts</id>
-        <link href="https://www.theverge.com/tech/1020488/x-twitter-animated-hand-point-promote-posts"/>
-        <updated>2026-10-27T16:00:00.000Z</updated>
-        <published>2026-10-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Why Sinhala copied from a Sri Lankan gazette looks like "Y%S ,xld" (and how to turn it into Unicode)]]></title>
+        <id>https://dev.to/hirantha_sandaruwan/why-sinhala-copied-from-a-sri-lankan-gazette-looks-like-ys-xld-and-how-to-turn-it-into-unicode-4n35</id>
+        <link href="https://dev.to/hirantha_sandaruwan/why-sinhala-copied-from-a-sri-lankan-gazette-looks-like-ys-xld-and-how-to-turn-it-into-unicode-4n35"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TikTok is going after Yelp and Google Maps with an in-app restaurant guide]]></title>
-        <id>https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp</id>
-        <link href="https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp"/>
-        <updated>2026-10-27T16:00:00.000Z</updated>
-        <published>2026-10-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I built a 3D startup tycoon in a single HTML file (and open-sourced it)]]></title>
+        <id>https://dev.to/tobeficv/i-built-a-3d-startup-tycoon-in-a-single-html-file-and-open-sourced-it-496h</id>
+        <link href="https://dev.to/tobeficv/i-built-a-3d-startup-tycoon-in-a-single-html-file-and-open-sourced-it-496h"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google’s next Genie AI model generates more realistic experiences]]></title>
-        <id>https://www.theverge.com/tech/1019076/google-genie-4-ai-model</id>
-        <link href="https://www.theverge.com/tech/1019076/google-genie-4-ai-model"/>
-        <updated>2026-10-27T16:00:00.000Z</updated>
-        <published>2026-10-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox’s Smart Window adds AI form filling and webpage monitoring]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms"/>
-        <updated>2026-10-27T16:00:00.000Z</updated>
-        <published>2026-10-27T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Parsing Indian bank-statement PDFs in the browser with PDF.js (no uploads)]]></title>
+        <id>https://dev.to/statementdock/parsing-indian-bank-statement-pdfs-in-the-browser-with-pdfjs-no-uploads-1pk9</id>
+        <link href="https://dev.to/statementdock/parsing-indian-bank-statement-pdfs-in-the-browser-with-pdfjs-no-uploads-1pk9"/>
+        <updated>2026-10-28T16:00:00.000Z</updated>
+        <published>2026-10-28T16:00:00.000Z</published>
     </entry>
 </feed>
