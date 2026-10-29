@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-29 23:04:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-30 06:01:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Smashing Magazine
 
@@ -9,4 +9,3 @@
 - [2026-10-20-Embracing-Playful-Imperfection-With-The-CSS-`random`-Function](https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/) 
 - [2026-10-16-Is-Your-Organization-Messing-Up-AI-Adoption?](https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/) 
 - [2026-10-06-A-Practical-Guide-To-Naming-Things](https://smashingmagazine.com/2026/10/how-name-things/) 
-- [2026-09-30-Under-Autumn’s-Spell-October-2026-Wallpapers-Edition](https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/) 
