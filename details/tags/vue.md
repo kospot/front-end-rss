@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-30 23:05:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-31 06:01:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -12,14 +12,13 @@
 - [2026-10-19-Vue-3.6:-When-a-Watcher-Throws,-Your-Other-Watchers-Stall](https://dev.to/parsajiravand/vue-36-when-a-watcher-throws-your-other-watchers-stall-25ge) 
 - [2026-10-14-Add-an-Emoji-Favicon-with-One-Line-of-HTML-Next.js,-Astro,-Vue,-WordPress-Plus-Dynamic-Tab-Notifications](https://dev.to/findutils/add-an-emoji-favicon-with-one-line-of-html-nextjs-astro-vue-wordpress-plus-dynamic-tab-4abl) 
 - [2026-10-12-Vue-watch-vs-watchEffect:-The-Complete-Guide](https://dev.to/parsajiravand/vue-watch-vs-watcheffect-the-complete-guide-2f40) 
-- [2026-10-07-Vue-Vapor-Mode:-what-it-is-and-what-changes-in-Vue-3.6](https://dev.to/codigoaoponto/vue-vapor-mode-what-it-is-and-what-changes-in-vue-36-2cmc) 
-- [2026-10-07-I-turned-my-terminal-game-into-an-isometric-world-plain-SVG-+-Vue,-no-game-engine](https://dev.to/dockerlinux/i-turned-my-terminal-game-into-an-isometric-world-plain-svg-vue-no-game-engine-2pla) 
 - [2026-10-07-Headless-Vue-+-WordPress-Boilerplate-v2.0.0](https://dev.to/chrischase011/headless-vue-wordpress-boilerplate-v200-279i) 
+- [2026-10-07-I-turned-my-terminal-game-into-an-isometric-world-plain-SVG-+-Vue,-no-game-engine](https://dev.to/dockerlinux/i-turned-my-terminal-game-into-an-isometric-world-plain-svg-vue-no-game-engine-2pla) 
+- [2026-10-07-Vue-Vapor-Mode:-what-it-is-and-what-changes-in-Vue-3.6](https://dev.to/codigoaoponto/vue-vapor-mode-what-it-is-and-what-changes-in-vue-36-2cmc) 
 - [2026-10-05-Vue-defineModel:-The-v-model-Contract,-Explained](https://dev.to/parsajiravand/vue-definemodel-the-v-model-contract-explained-fc1) 
 - [2026-10-04-Build-a-Vue-3-Mini-App-Storefront-with-Pinia-and-Telegram-Native-Invoices](https://dev.to/serhii_a9c08345ac360cf5c8/build-a-vue-3-mini-app-storefront-with-pinia-and-telegram-native-invoices-1p53) 
-- [2026-10-03-I-built-a-Vue-directive-that-turns-your-real-component-into-its-own-skeleton](https://dev.to/navidjaberi/i-built-a-vue-directive-that-turns-your-real-component-into-its-own-skeleton-3853) 
 - [2026-10-03-Vue-Select-and-Vue-Treeselect-never-got-a-stable-Vue-3-release,-so-we-replaced-them](https://dev.to/szwn/vue-select-and-vue-treeselect-never-got-a-stable-vue-3-release-so-we-replaced-them-d47) 
-- [2026-10-01-Solid-Vue-Adds-Per-Page-Layouts-and-Its-First-UI-Kit-Add-on:-Octans-UI](https://dev.to/solid-vue/solid-vue-adds-per-page-layouts-and-its-first-ui-kit-add-on-octans-ui-4b57) 
+- [2026-10-03-I-built-a-Vue-directive-that-turns-your-real-component-into-its-own-skeleton](https://dev.to/navidjaberi/i-built-a-vue-directive-that-turns-your-real-component-into-its-own-skeleton-3853) 
 - [2026-10-28-Memory-or-a-Clock?-Auditing-a-Memory-Advantage-in-XLand-MiniGrid-with-Seeds,-Maps-and-Evaluation-Noise-Apart](https://arxiv.org/abs/2610.33816) 
 - [2026-10-28-Priority-Preserving-Advantage-Aggregation-for-Multi-Reward-Policy-Optimization](https://arxiv.org/abs/2610.34862) 
 - [2026-10-28-ProAS:-A-Progress-Aware-Advantage-Shaping-Framework-for-Multi-Turn-Agentic-Reinforcement-Learning](https://arxiv.org/abs/2610.18683) 
@@ -51,5 +50,5 @@
 - [2026-10-12-When-AI-writes-your-code,-DDD-is-more-relevant](https://threedots.tech/post/ddd-and-ai-coding/) 
 - [2026-10-05-Irrelevant-visual-details-interfere-with-decisions-under-uncertainty](https://medicalxpress.com/news/2026-10-irrelevant-visual-decisions-uncertainty-brain.html) 
 - [2026-10-29-An-AI-Breakthrough-Has-Made-Decades-of-Computer-Science-Research-‘Irrelevant’](https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/) 
-- [2026-10-07-‘Digger’-is-a-Box-Office-Flop.-It-Might-Be-the-Most-Relevant-Film-of-the-Year](https://www.wired.com/story/digger-is-a-box-office-flop-it-might-be-the-most-relevant-film-of-the-year/) 
 - [2026-10-07-‘The-Social-Reckoning’-Already-Feels-Irrelevant](https://www.wired.com/story/the-social-reckoning-movie-review/) 
+- [2026-10-07-‘Digger’-is-a-Box-Office-Flop.-It-Might-Be-the-Most-Relevant-Film-of-the-Year](https://www.wired.com/story/digger-is-a-box-office-flop-it-might-be-the-most-relevant-film-of-the-year/) 
