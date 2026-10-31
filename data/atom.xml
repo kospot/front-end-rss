@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-31T00:05:40.252Z</updated>
+    <updated>2026-10-31T02:05:07.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -64,44 +64,58 @@
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Channel Binding]]></title>
-        <id>https://blog.prosody.im/channel-binding/</id>
-        <link href="https://blog.prosody.im/channel-binding/"/>
+        <title type="html"><![CDATA[Reimagining the Internet 42. Maciej Ceglowski, Pinboard (2021) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=OTPqaPLEd8E</id>
+        <link href="https://www.youtube.com/watch?v=OTPqaPLEd8E"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Are most of you using HN Replies? Or what else do you use?]]></title>
-        <id>https://news.ycombinator.com/item?id=50311495</id>
-        <link href="https://news.ycombinator.com/item?id=50311495"/>
+        <title type="html"><![CDATA[Postgres 19 is late, and it's AI's fault]]></title>
+        <id>http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html</id>
+        <link href="http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust]]></title>
-        <id>https://www.firezone.dev/blog/introducing-sanstun</id>
-        <link href="https://www.firezone.dev/blog/introducing-sanstun"/>
+        <title type="html"><![CDATA[Making it easier for websites to express AI training preferences]]></title>
+        <id>https://openai.com/index/helping-websites-express-ai-training-preferences/</id>
+        <link href="https://openai.com/index/helping-websites-express-ai-training-preferences/"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I turned mrdoob's Slop New York into a 3D billboard bidding game]]></title>
-        <id>https://makeitanywhere.xyz/</id>
-        <link href="https://makeitanywhere.xyz/"/>
+        <title type="html"><![CDATA[Google's $500B bloodbath reflects the danger it faces from AI]]></title>
+        <id>https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-aiFromTheEconomist</id>
+        <link href="https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-aiFromTheEconomist"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wolfenstein 3D on the Atari 2600]]></title>
-        <id>https://forums.atariage.com/topic/394015-wolfenstein-3d-atari-2600-port-for-pluscartunocart/</id>
-        <link href="https://forums.atariage.com/topic/394015-wolfenstein-3d-atari-2600-port-for-pluscartunocart/"/>
+        <title type="html"><![CDATA[The Importance of the Word "Cultivation"]]></title>
+        <id>https://johnoestmannmusic.com/the-importance-of-the-word-cultivation/</id>
+        <link href="https://johnoestmannmusic.com/the-importance-of-the-word-cultivation/"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why my AI agents keep lie-ing? How do we trust?]]></title>
-        <id>https://dotpals.vercel.app/</id>
-        <link href="https://dotpals.vercel.app/"/>
+        <title type="html"><![CDATA[PFsense at 20. Plus and CE unified. Offline upgrades free.]]></title>
+        <id>https://www.netgate.com/blog/pfsense-at-20</id>
+        <link href="https://www.netgate.com/blog/pfsense-at-20"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Turn any GitHub account into a living city]]></title>
+        <id>https://caldera.social/gh</id>
+        <link href="https://caldera.social/gh"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: X is opening any tweet link in a webview whether you press it or not]]></title>
+        <id>https://news.ycombinator.com/item?id=50312174</id>
+        <link href="https://news.ycombinator.com/item?id=50312174"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
@@ -113,16 +127,51 @@
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Day 37/100] Build Your Own Agent Memory Layer with Postgres and pgvector]]></title>
-        <id>https://pub.towardsai.net/day-37-100-build-your-own-agent-memory-layer-with-postgres-and-pgvector-767dacc2c850?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/day-37-100-build-your-own-agent-memory-layer-with-postgres-and-pgvector-767dacc2c850?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Why my AI agents keep lie-ing? How do we trust?]]></title>
+        <id>https://dotpals.vercel.app/</id>
+        <link href="https://dotpals.vercel.app/"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Copilot Cloud Sessions: The Resume Gate That Stops Agent Drift]]></title>
-        <id>https://pub.towardsai.net/github-copilot-cloud-sessions-the-resume-gate-that-stops-agent-drift-263e2bfc300b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/github-copilot-cloud-sessions-the-resume-gate-that-stops-agent-drift-263e2bfc300b?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Wolfenstein 3D on the Atari 2600]]></title>
+        <id>https://forums.atariage.com/topic/394015-wolfenstein-3d-atari-2600-port-for-pluscartunocart/</id>
+        <link href="https://forums.atariage.com/topic/394015-wolfenstein-3d-atari-2600-port-for-pluscartunocart/"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I turned mrdoob's Slop New York into a 3D billboard bidding game]]></title>
+        <id>https://makeitanywhere.xyz/</id>
+        <link href="https://makeitanywhere.xyz/"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust]]></title>
+        <id>https://www.firezone.dev/blog/introducing-sanstun</id>
+        <link href="https://www.firezone.dev/blog/introducing-sanstun"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Are most of you using HN Replies? Or what else do you use?]]></title>
+        <id>https://news.ycombinator.com/item?id=50311495</id>
+        <link href="https://news.ycombinator.com/item?id=50311495"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Channel Binding]]></title>
+        <id>https://blog.prosody.im/channel-binding/</id>
+        <link href="https://blog.prosody.im/channel-binding/"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Day 36/100] Mem0 in Practice: Long-Term Memory That Decides What Your Agent Forgets]]></title>
+        <id>https://pub.towardsai.net/day-36-100-mem0-in-practice-long-term-memory-that-decides-what-your-agent-forgets-2593813e58e5?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/day-36-100-mem0-in-practice-long-term-memory-that-decides-what-your-agent-forgets-2593813e58e5?source=rss----98111c9905da---4"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
@@ -134,9 +183,16 @@
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Day 36/100] Mem0 in Practice: Long-Term Memory That Decides What Your Agent Forgets]]></title>
-        <id>https://pub.towardsai.net/day-36-100-mem0-in-practice-long-term-memory-that-decides-what-your-agent-forgets-2593813e58e5?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/day-36-100-mem0-in-practice-long-term-memory-that-decides-what-your-agent-forgets-2593813e58e5?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[GitHub Copilot Cloud Sessions: The Resume Gate That Stops Agent Drift]]></title>
+        <id>https://pub.towardsai.net/github-copilot-cloud-sessions-the-resume-gate-that-stops-agent-drift-263e2bfc300b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/github-copilot-cloud-sessions-the-resume-gate-that-stops-agent-drift-263e2bfc300b?source=rss----98111c9905da---4"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Day 37/100] Build Your Own Agent Memory Layer with Postgres and pgvector]]></title>
+        <id>https://pub.towardsai.net/day-37-100-build-your-own-agent-memory-layer-with-postgres-and-pgvector-767dacc2c850?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/day-37-100-build-your-own-agent-memory-layer-with-postgres-and-pgvector-767dacc2c850?source=rss----98111c9905da---4"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
@@ -154,93 +210,51 @@ https://github.com/evoluteur/sacred-geometry
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making JavaScript‑Heavy Sites Crawlable: A Practical SEO Guide]]></title>
-        <id>https://dev.to/codedseo_203994cd6fc761a8/making-javascript-heavy-sites-crawlable-a-practical-seo-guide-2ndm</id>
-        <link href="https://dev.to/codedseo_203994cd6fc761a8/making-javascript-heavy-sites-crawlable-a-practical-seo-guide-2ndm"/>
+        <title type="html"><![CDATA[Create an AI Dubbing Tool for Video Content]]></title>
+        <id>https://dev.to/voice_developer/create-an-ai-dubbing-tool-for-video-content-3noj</id>
+        <link href="https://dev.to/voice_developer/create-an-ai-dubbing-tool-for-video-content-3noj"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Voice Auto Dialer Chrome Extension: How It Works (MV3)]]></title>
-        <id>https://dev.to/mafzalkalwardev/google-voice-auto-dialer-chrome-extension-how-it-works-mv3-39p3</id>
-        <link href="https://dev.to/mafzalkalwardev/google-voice-auto-dialer-chrome-extension-how-it-works-mv3-39p3"/>
+        <title type="html"><![CDATA[How to Add Voice to Your React App with ElevenLabs]]></title>
+        <id>https://dev.to/voice_developer/how-to-add-voice-to-your-react-app-with-elevenlabs-4npg</id>
+        <link href="https://dev.to/voice_developer/how-to-add-voice-to-your-react-app-with-elevenlabs-4npg"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Text-to-Speech Chrome Extension]]></title>
-        <id>https://dev.to/voice_developer/build-a-text-to-speech-chrome-extension-35m2</id>
-        <link href="https://dev.to/voice_developer/build-a-text-to-speech-chrome-extension-35m2"/>
+        <title type="html"><![CDATA[Thompson sampling for A/B tests in 40 lines of JavaScript (and the trap nobody mentions)]]></title>
+        <id>https://dev.to/baneet_singh_1cd12e795b68/thompson-sampling-for-ab-tests-in-40-lines-of-javascript-and-the-trap-nobody-mentions-2h4h</id>
+        <link href="https://dev.to/baneet_singh_1cd12e795b68/thompson-sampling-for-ab-tests-in-40-lines-of-javascript-and-the-trap-nobody-mentions-2h4h"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Factories.ts: A JavaScript DSL for Generating HTML, SVG, and MathML in Backend Code Without Templates]]></title>
-        <id>https://dev.to/pavkode/factoriests-a-javascript-dsl-for-generating-html-svg-and-mathml-in-backend-code-without-1p9c</id>
-        <link href="https://dev.to/pavkode/factoriests-a-javascript-dsl-for-generating-html-svg-and-mathml-in-backend-code-without-1p9c"/>
+        <title type="html"><![CDATA[your github repositories are fish now. sorry.]]></title>
+        <id>https://dev.to/yupthatscole/your-github-repositories-are-fish-now-sorry-455i</id>
+        <link href="https://dev.to/yupthatscole/your-github-repositories-are-fish-now-sorry-455i"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What I changed in my 8-bit browser RPG this week]]></title>
-        <id>https://dev.to/snowrsps/what-i-changed-in-my-8-bit-browser-rpg-this-week-3ed5</id>
-        <link href="https://dev.to/snowrsps/what-i-changed-in-my-8-bit-browser-rpg-this-week-3ed5"/>
+        <title type="html"><![CDATA[Building a Ukulele Tuner with Web Audio, Web Workers, and TypeScript]]></title>
+        <id>https://dev.to/lin_liu_8b32a784d1485aae2/building-a-ukulele-tuner-with-web-audio-web-workers-and-typescript-41p4</id>
+        <link href="https://dev.to/lin_liu_8b32a784d1485aae2/building-a-ukulele-tuner-with-web-audio-web-workers-and-typescript-41p4"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We fresh-cloned the top 100 npm packages. The biggest problem we found was in our own tool.]]></title>
-        <id>https://dev.to/psuvraneelcyber/we-fresh-cloned-the-top-100-npm-packages-the-biggest-problem-we-found-was-in-our-own-tool-55i8</id>
-        <link href="https://dev.to/psuvraneelcyber/we-fresh-cloned-the-top-100-npm-packages-the-biggest-problem-we-found-was-in-our-own-tool-55i8"/>
+        <title type="html"><![CDATA[Monitorear pasos fronterizos con datos abiertos: por qué mostramos Sin confirmar antes que Abierto]]></title>
+        <id>https://dev.to/pasoshoy/monitorear-pasos-fronterizos-con-datos-abiertos-por-que-mostramos-sin-confirmar-antes-que-abierto-15i8</id>
+        <link href="https://dev.to/pasoshoy/monitorear-pasos-fronterizos-con-datos-abiertos-por-que-mostramos-sin-confirmar-antes-que-abierto-15i8"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Batch video editing with Adobe Premiere scripting: lessons learned]]></title>
-        <id>https://dev.to/pmda3010/batch-video-editing-with-adobe-premiere-scripting-lessons-learned-2458</id>
-        <link href="https://dev.to/pmda3010/batch-video-editing-with-adobe-premiere-scripting-lessons-learned-2458"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Architecting for Zero-Trust: How We Built a 30-Tool Suite with Zero Backend & 100/100 Lighthouse]]></title>
-        <id>https://dev.to/urbanmixo/architecting-for-zero-trust-how-we-built-a-30-tool-suite-with-zero-backend-100100-lighthouse-17ef</id>
-        <link href="https://dev.to/urbanmixo/architecting-for-zero-trust-how-we-built-a-30-tool-suite-with-zero-backend-100100-lighthouse-17ef"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I priced my side project's LLM bill in 20 lines of JavaScript — here's the token math]]></title>
-        <id>https://dev.to/farbodf/i-priced-my-side-projects-llm-bill-in-20-lines-of-javascript-heres-the-token-math-59on</id>
-        <link href="https://dev.to/farbodf/i-priced-my-side-projects-llm-bill-in-20-lines-of-javascript-heres-the-token-math-59on"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keeping a daily word game's answers off the client with Cloudflare Workers and D1]]></title>
-        <id>https://dev.to/keikos_words_8d5e04f1566/keeping-a-daily-word-games-answers-off-the-client-with-cloudflare-workers-and-d1-ic5</id>
-        <link href="https://dev.to/keikos_words_8d5e04f1566/keeping-a-daily-word-games-answers-off-the-client-with-cloudflare-workers-and-d1-ic5"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon RPC Rate Limit Triage: Diagnosing and Resolving HTTP 429 Errors During On-Chain Volatility]]></title>
-        <id>https://dev.to/matt_blazing/polygon-rpc-rate-limit-triage-diagnosing-and-resolving-http-429-errors-during-on-chain-volatility-30mi</id>
-        <link href="https://dev.to/matt_blazing/polygon-rpc-rate-limit-triage-diagnosing-and-resolving-http-429-errors-during-on-chain-volatility-30mi"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generating Localised Price Tables From One JSON Source]]></title>
-        <id>https://dev.to/pandawm/generating-localised-price-tables-from-one-json-source-5859</id>
-        <link href="https://dev.to/pandawm/generating-localised-price-tables-from-one-json-source-5859"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jssdataloom — JS + JDBC data extraction with GraalVM]]></title>
-        <id>https://dev.to/laranikal/jssdataloom-js-jdbc-data-extraction-with-graalvm-5bj4</id>
-        <link href="https://dev.to/laranikal/jssdataloom-js-jdbc-data-extraction-with-graalvm-5bj4"/>
+        <title type="html"><![CDATA[AI Chat in JSLab: ask about your tab, review the fix as a diff]]></title>
+        <id>https://dev.to/jslab/ai-chat-in-jslab-ask-about-your-tab-review-the-fix-as-a-diff-lbf</id>
+        <link href="https://dev.to/jslab/ai-chat-in-jslab-ask-about-your-tab-review-the-fix-as-a-diff-lbf"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
@@ -252,9 +266,93 @@ https://github.com/evoluteur/sacred-geometry
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Chat in JSLab: ask about your tab, review the fix as a diff]]></title>
-        <id>https://dev.to/jslab/ai-chat-in-jslab-ask-about-your-tab-review-the-fix-as-a-diff-lbf</id>
-        <link href="https://dev.to/jslab/ai-chat-in-jslab-ask-about-your-tab-review-the-fix-as-a-diff-lbf"/>
+        <title type="html"><![CDATA[jssdataloom — JS + JDBC data extraction with GraalVM]]></title>
+        <id>https://dev.to/laranikal/jssdataloom-js-jdbc-data-extraction-with-graalvm-5bj4</id>
+        <link href="https://dev.to/laranikal/jssdataloom-js-jdbc-data-extraction-with-graalvm-5bj4"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generating Localised Price Tables From One JSON Source]]></title>
+        <id>https://dev.to/pandawm/generating-localised-price-tables-from-one-json-source-5859</id>
+        <link href="https://dev.to/pandawm/generating-localised-price-tables-from-one-json-source-5859"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polygon RPC Rate Limit Triage: Diagnosing and Resolving HTTP 429 Errors During On-Chain Volatility]]></title>
+        <id>https://dev.to/matt_blazing/polygon-rpc-rate-limit-triage-diagnosing-and-resolving-http-429-errors-during-on-chain-volatility-30mi</id>
+        <link href="https://dev.to/matt_blazing/polygon-rpc-rate-limit-triage-diagnosing-and-resolving-http-429-errors-during-on-chain-volatility-30mi"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keeping a daily word game's answers off the client with Cloudflare Workers and D1]]></title>
+        <id>https://dev.to/keikos_words_8d5e04f1566/keeping-a-daily-word-games-answers-off-the-client-with-cloudflare-workers-and-d1-ic5</id>
+        <link href="https://dev.to/keikos_words_8d5e04f1566/keeping-a-daily-word-games-answers-off-the-client-with-cloudflare-workers-and-d1-ic5"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I priced my side project's LLM bill in 20 lines of JavaScript — here's the token math]]></title>
+        <id>https://dev.to/farbodf/i-priced-my-side-projects-llm-bill-in-20-lines-of-javascript-heres-the-token-math-59on</id>
+        <link href="https://dev.to/farbodf/i-priced-my-side-projects-llm-bill-in-20-lines-of-javascript-heres-the-token-math-59on"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Architecting for Zero-Trust: How We Built a 30-Tool Suite with Zero Backend & 100/100 Lighthouse]]></title>
+        <id>https://dev.to/urbanmixo/architecting-for-zero-trust-how-we-built-a-30-tool-suite-with-zero-backend-100100-lighthouse-17ef</id>
+        <link href="https://dev.to/urbanmixo/architecting-for-zero-trust-how-we-built-a-30-tool-suite-with-zero-backend-100100-lighthouse-17ef"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Batch video editing with Adobe Premiere scripting: lessons learned]]></title>
+        <id>https://dev.to/pmda3010/batch-video-editing-with-adobe-premiere-scripting-lessons-learned-2458</id>
+        <link href="https://dev.to/pmda3010/batch-video-editing-with-adobe-premiere-scripting-lessons-learned-2458"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We fresh-cloned the top 100 npm packages. The biggest problem we found was in our own tool.]]></title>
+        <id>https://dev.to/psuvraneelcyber/we-fresh-cloned-the-top-100-npm-packages-the-biggest-problem-we-found-was-in-our-own-tool-55i8</id>
+        <link href="https://dev.to/psuvraneelcyber/we-fresh-cloned-the-top-100-npm-packages-the-biggest-problem-we-found-was-in-our-own-tool-55i8"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I changed in my 8-bit browser RPG this week]]></title>
+        <id>https://dev.to/snowrsps/what-i-changed-in-my-8-bit-browser-rpg-this-week-3ed5</id>
+        <link href="https://dev.to/snowrsps/what-i-changed-in-my-8-bit-browser-rpg-this-week-3ed5"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Factories.ts: A JavaScript DSL for Generating HTML, SVG, and MathML in Backend Code Without Templates]]></title>
+        <id>https://dev.to/pavkode/factoriests-a-javascript-dsl-for-generating-html-svg-and-mathml-in-backend-code-without-1p9c</id>
+        <link href="https://dev.to/pavkode/factoriests-a-javascript-dsl-for-generating-html-svg-and-mathml-in-backend-code-without-1p9c"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Text-to-Speech Chrome Extension]]></title>
+        <id>https://dev.to/voice_developer/build-a-text-to-speech-chrome-extension-35m2</id>
+        <link href="https://dev.to/voice_developer/build-a-text-to-speech-chrome-extension-35m2"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Voice Auto Dialer Chrome Extension: How It Works (MV3)]]></title>
+        <id>https://dev.to/mafzalkalwardev/google-voice-auto-dialer-chrome-extension-how-it-works-mv3-39p3</id>
+        <link href="https://dev.to/mafzalkalwardev/google-voice-auto-dialer-chrome-extension-how-it-works-mv3-39p3"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making JavaScript‑Heavy Sites Crawlable: A Practical SEO Guide]]></title>
+        <id>https://dev.to/codedseo_203994cd6fc761a8/making-javascript-heavy-sites-crawlable-a-practical-seo-guide-2ndm</id>
+        <link href="https://dev.to/codedseo_203994cd6fc761a8/making-javascript-heavy-sites-crawlable-a-practical-seo-guide-2ndm"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
@@ -269,104 +367,6 @@ https://github.com/evoluteur/sacred-geometry
         <title type="html"><![CDATA[The HomeView and Echo Show 16 could be the family computers I’ve been asking for]]></title>
         <id>https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer</id>
         <link href="https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer"/>
-        <updated>2026-10-29T16:00:00.000Z</updated>
-        <published>2026-10-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patrick Stewart has died at age 86]]></title>
-        <id>https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death</id>
-        <link href="https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death"/>
-        <updated>2026-10-29T16:00:00.000Z</updated>
-        <published>2026-10-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This open-source project lets you sync Withings data to other apps without a subscription]]></title>
-        <id>https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free</id>
-        <link href="https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free"/>
-        <updated>2026-10-29T16:00:00.000Z</updated>
-        <published>2026-10-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials]]></title>
-        <id>https://www.wired.com/story/gifts-for-friends/</id>
-        <link href="https://www.wired.com/story/gifts-for-friends/"/>
-        <updated>2026-10-29T16:00:00.000Z</updated>
-        <published>2026-10-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung S95H OLED TV Review (2026)]]></title>
-        <id>https://www.wired.com/review/samsung-s95h/</id>
-        <link href="https://www.wired.com/review/samsung-s95h/"/>
-        <updated>2026-10-29T16:00:00.000Z</updated>
-        <published>2026-10-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk’s Ties to Texas Republicans Go Much Deeper Than the Midterms]]></title>
-        <id>https://www.wired.com/story/elon-musks-ties-to-texas-republicans-go-much-deeper-than-the-midterms/</id>
-        <link href="https://www.wired.com/story/elon-musks-ties-to-texas-republicans-go-much-deeper-than-the-midterms/"/>
-        <updated>2026-10-29T16:00:00.000Z</updated>
-        <published>2026-10-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This App Brutally Shames You by Tracking How Many Hours You’ve Lost to Scrolling]]></title>
-        <id>https://www.wired.com/story/oh-my-hours-ios-app/</id>
-        <link href="https://www.wired.com/story/oh-my-hours-ios-app/"/>
-        <updated>2026-10-29T16:00:00.000Z</updated>
-        <published>2026-10-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[People Are Creating ‘Survival Guides’ to Cope With the ‘AO3 Apocalypse’]]></title>
-        <id>https://www.wired.com/story/people-are-creating-survival-guides-to-cope-with-the-ao3-apocalypse/</id>
-        <link href="https://www.wired.com/story/people-are-creating-survival-guides-to-cope-with-the-ao3-apocalypse/"/>
-        <updated>2026-10-29T16:00:00.000Z</updated>
-        <published>2026-10-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You don’t need to believe in a god to get a religious exemption from using AI at work]]></title>
-        <id>https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/</id>
-        <link href="https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"/>
-        <updated>2026-10-29T16:00:00.000Z</updated>
-        <published>2026-10-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GM reaches $220M settlement over selling drivers’ private data]]></title>
-        <id>https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/</id>
-        <link href="https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/"/>
-        <updated>2026-10-29T16:00:00.000Z</updated>
-        <published>2026-10-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As search traffic dries up, Reddit announces it’s shifting to a logged-in experience]]></title>
-        <id>https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/</id>
-        <link href="https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"/>
-        <updated>2026-10-29T16:00:00.000Z</updated>
-        <published>2026-10-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where was my invite to the — wait, what? Airbnb had a gala?]]></title>
-        <id>https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/</id>
-        <link href="https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/"/>
-        <updated>2026-10-29T16:00:00.000Z</updated>
-        <published>2026-10-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta quietly launches an AI fashion app called Style Sketch]]></title>
-        <id>https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/</id>
-        <link href="https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/"/>
-        <updated>2026-10-29T16:00:00.000Z</updated>
-        <published>2026-10-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity]]></title>
-        <id>https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/</id>
-        <link href="https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"/>
-        <updated>2026-10-29T16:00:00.000Z</updated>
-        <published>2026-10-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’]]></title>
-        <id>https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/</id>
-        <link href="https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/"/>
         <updated>2026-10-29T16:00:00.000Z</updated>
         <published>2026-10-29T16:00:00.000Z</published>
     </entry>
