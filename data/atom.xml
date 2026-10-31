@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-10-31T10:05:51.604Z</updated>
+    <updated>2026-10-31T13:02:22.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[The delightfully messy state of Apple gadgets]]></title>
-        <id>https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets</id>
-        <link href="https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets"/>
+        <title type="html"><![CDATA[Google&#8217;s satellite AI server transmits its first response to Earth]]></title>
+        <id>https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</id>
+        <link href="https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
@@ -29,9 +29,9 @@
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google&#8217;s satellite AI server transmits its first response to Earth]]></title>
-        <id>https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</id>
-        <link href="https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"/>
+        <title type="html"><![CDATA[The delightfully messy state of Apple gadgets]]></title>
+        <id>https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets</id>
+        <link href="https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
@@ -99,226 +99,65 @@
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Imza – plan and review focused coding agent]]></title>
-        <id>https://github.com/umutsevdi/imza</id>
-        <link href="https://github.com/umutsevdi/imza"/>
+        <title type="html"><![CDATA[I helped fix sleep-wake hangs on Linux with AMD GPUs (2025)]]></title>
+        <id>https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/</id>
+        <link href="https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2]]></title>
-        <id>https://kevs3d.co.uk/phoria2/</id>
-        <link href="https://kevs3d.co.uk/phoria2/"/>
+        <title type="html"><![CDATA[Why Did Meta Suspend a US Senate Candidate's Instagram in the Middle of a Rally?]]></title>
+        <id>https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account</id>
+        <link href="https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Are There Problems Beyond the Reach of AI [video]]]></title>
-        <id>https://www.youtube.com/watch?v=NWNbAEivyvs</id>
-        <link href="https://www.youtube.com/watch?v=NWNbAEivyvs"/>
+        <title type="html"><![CDATA[The 3D Notes Universe]]></title>
+        <id>https://addons.mozilla.org/en-US/firefox/addon/bluenoted/</id>
+        <link href="https://addons.mozilla.org/en-US/firefox/addon/bluenoted/"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measuring voice agents: turn-taking, tool calls and expressive speech]]></title>
-        <id>https://soniqo.audio/blog/voice-agent-benchmarks</id>
-        <link href="https://soniqo.audio/blog/voice-agent-benchmarks"/>
+        <title type="html"><![CDATA[Show HN: Mullvad as a rotating HTTP CONNECT proxy]]></title>
+        <id>https://github.com/nicorobinreal/molehill</id>
+        <link href="https://github.com/nicorobinreal/molehill"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built an Android app that translates text and turns it into MP3 audio]]></title>
-        <id>https://play.google.com/store/apps/details?id=com.audiocraft.app&amp;hl=en_US</id>
-        <link href="https://play.google.com/store/apps/details?id=com.audiocraft.app&amp;hl=en_US"/>
+        <title type="html"><![CDATA[Show HN: Tadpole – an LLM agent built from scratch then post-trained on 4B model]]></title>
+        <id>https://github.com/shakewingo/Tadpole</id>
+        <link href="https://github.com/shakewingo/Tadpole"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[First response from the Project Suncatcher prototype satellite]]></title>
-        <id>https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/</id>
-        <link href="https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/"/>
+        <title type="html"><![CDATA[Show HN: UPC Label Maker – 1:1 PostScript point barcode imposition for Avery/FBA]]></title>
+        <id>https://upclabelmaker.com/</id>
+        <link href="https://upclabelmaker.com/"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boost your app's speed and efficiency – Meet with Apple [video]]]></title>
-        <id>https://www.youtube.com/watch?v=2juDbUA2zlA</id>
-        <link href="https://www.youtube.com/watch?v=2juDbUA2zlA"/>
+        <title type="html"><![CDATA[Show HN: A Kotlin compiler written in Go, 10x faster than kotlinc]]></title>
+        <id>https://github.com/barteo/kotlin-compiler-go</id>
+        <link href="https://github.com/barteo/kotlin-compiler-go"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI raises less than half of $30B target]]></title>
-        <id>https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</id>
-        <link href="https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5"/>
+        <title type="html"><![CDATA[Show HN: Million Piece Puzzle]]></title>
+        <id>https://puzzle.io27.com/</id>
+        <link href="https://puzzle.io27.com/"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Security Podcast]]></title>
-        <id>https://risky.biz/SNAKEOILERS24PT2/</id>
-        <link href="https://risky.biz/SNAKEOILERS24PT2/"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Channel Binding]]></title>
-        <id>https://blog.prosody.im/channel-binding/</id>
-        <link href="https://blog.prosody.im/channel-binding/"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Are most of you using HN Replies? Or what else do you use?]]></title>
-        <id>https://news.ycombinator.com/item?id=50311495</id>
-        <link href="https://news.ycombinator.com/item?id=50311495"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust]]></title>
-        <id>https://www.firezone.dev/blog/introducing-sanstun</id>
-        <link href="https://www.firezone.dev/blog/introducing-sanstun"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I turned mrdoob's Slop New York into a 3D billboard bidding game]]></title>
-        <id>https://makeitanywhere.xyz/</id>
-        <link href="https://makeitanywhere.xyz/"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wolfenstein 3D on the Atari 2600]]></title>
-        <id>https://forums.atariage.com/topic/394015-wolfenstein-3d-atari-2600-port-for-pluscartunocart/</id>
-        <link href="https://forums.atariage.com/topic/394015-wolfenstein-3d-atari-2600-port-for-pluscartunocart/"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why my AI agents keep lie-ing? How do we trust?]]></title>
-        <id>https://dotpals.vercel.app/</id>
-        <link href="https://dotpals.vercel.app/"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We checked the 150 most popular Chrome extensions]]></title>
-        <id>https://app.extensionguardian.workers.dev/report/popular-chrome-extensions-2026</id>
-        <link href="https://app.extensionguardian.workers.dev/report/popular-chrome-extensions-2026"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tell HN: X is opening any tweet link in a webview whether you press it or not]]></title>
-        <id>https://news.ycombinator.com/item?id=50312174</id>
-        <link href="https://news.ycombinator.com/item?id=50312174"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Turn any GitHub account into a living city]]></title>
-        <id>https://caldera.social/gh</id>
-        <link href="https://caldera.social/gh"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PFsense at 20. Plus and CE unified. Offline upgrades free.]]></title>
-        <id>https://www.netgate.com/blog/pfsense-at-20</id>
-        <link href="https://www.netgate.com/blog/pfsense-at-20"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Importance of the Word "Cultivation"]]></title>
-        <id>https://johnoestmannmusic.com/the-importance-of-the-word-cultivation/</id>
-        <link href="https://johnoestmannmusic.com/the-importance-of-the-word-cultivation/"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google's $500B bloodbath reflects the danger it faces from AI]]></title>
-        <id>https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-aiFromTheEconomist</id>
-        <link href="https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-aiFromTheEconomist"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making it easier for websites to express AI training preferences]]></title>
-        <id>https://openai.com/index/helping-websites-express-ai-training-preferences/</id>
-        <link href="https://openai.com/index/helping-websites-express-ai-training-preferences/"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postgres 19 is late, and it's AI's fault]]></title>
-        <id>http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html</id>
-        <link href="http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reimagining the Internet 42. Maciej Ceglowski, Pinboard (2021) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=OTPqaPLEd8E</id>
-        <link href="https://www.youtube.com/watch?v=OTPqaPLEd8E"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories]]></title>
-        <id>https://arxiv.org/abs/2606.03979</id>
-        <link href="https://arxiv.org/abs/2606.03979"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tier 1 ISPs react to unfair pricing]]></title>
-        <id>https://www.datacenterknowledge.com/networking/cogent-unplugs-telia-in-peering-dispute</id>
-        <link href="https://www.datacenterknowledge.com/networking/cogent-unplugs-telia-in-peering-dispute"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UTF-34 BASE-4: Codespace 4^34 = 2^68, Zero-Waste Theorem, and 1M Binary Codes]]></title>
-        <id>https://media.githubusercontent.com/media/anhkhoavanhua/utf34/refs/heads/main/utf34_base4_1M_binary.md</id>
-        <link href="https://media.githubusercontent.com/media/anhkhoavanhua/utf34/refs/heads/main/utf34_base4_1M_binary.md"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mexico urges respect for treaties after Texas seizes nine islands on Rio Grande]]></title>
-        <id>https://english.elpais.com/usa/2026-10-30/mexico-urges-respect-for-treaties-after-texas-seizes-nine-islands-in-rio-grande.html</id>
-        <link href="https://english.elpais.com/usa/2026-10-30/mexico-urges-respect-for-treaties-after-texas-seizes-nine-islands-in-rio-grande.html"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Minimalism]]></title>
-        <id>https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html</id>
-        <link href="https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Farewell – ETAOIN SHRDLU – 1978 [video]]]></title>
-        <id>https://vimeo.com/127605643</id>
-        <link href="https://vimeo.com/127605643"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Junglia theme park in Okinawa posted ¥17.3B (US$109.84) loss in first year]]></title>
-        <id>https://www.japantimes.co.jp/business/2026/09/26/junglia-okinawa-first-year-loss/</id>
-        <link href="https://www.japantimes.co.jp/business/2026/09/26/junglia-okinawa-first-year-loss/"/>
-        <updated>2026-10-30T16:00:00.000Z</updated>
-        <published>2026-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good writing is a business advantage (2020)]]></title>
-        <id>http://adaged.blogspot.com/2020/04/good-writing-is-business-advantage.html</id>
-        <link href="http://adaged.blogspot.com/2020/04/good-writing-is-business-advantage.html"/>
+        <title type="html"><![CDATA[Leo Adds E2E Encryption, Oblivious HTTP, and Verifiable Confidential Computing]]></title>
+        <id>https://brave.com/blog/browser-ai-e2ee/</id>
+        <link href="https://brave.com/blog/browser-ai-e2ee/"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
@@ -330,43 +169,198 @@
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Day 36/100] Mem0 in Practice: Long-Term Memory That Decides What Your Agent Forgets]]></title>
-        <id>https://pub.towardsai.net/day-36-100-mem0-in-practice-long-term-memory-that-decides-what-your-agent-forgets-2593813e58e5?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/day-36-100-mem0-in-practice-long-term-memory-that-decides-what-your-agent-forgets-2593813e58e5?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Good writing is a business advantage (2020)]]></title>
+        <id>http://adaged.blogspot.com/2020/04/good-writing-is-business-advantage.html</id>
+        <link href="http://adaged.blogspot.com/2020/04/good-writing-is-business-advantage.html"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Accuracy Is Not Enough: Five Metrics Stories]]></title>
-        <id>https://pub.towardsai.net/accuracy-is-not-enough-five-metrics-stories-b73136d33677?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/accuracy-is-not-enough-five-metrics-stories-b73136d33677?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Junglia theme park in Okinawa posted ¥17.3B (US$109.84) loss in first year]]></title>
+        <id>https://www.japantimes.co.jp/business/2026/09/26/junglia-okinawa-first-year-loss/</id>
+        <link href="https://www.japantimes.co.jp/business/2026/09/26/junglia-okinawa-first-year-loss/"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Copilot Cloud Sessions: The Resume Gate That Stops Agent Drift]]></title>
-        <id>https://pub.towardsai.net/github-copilot-cloud-sessions-the-resume-gate-that-stops-agent-drift-263e2bfc300b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/github-copilot-cloud-sessions-the-resume-gate-that-stops-agent-drift-263e2bfc300b?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Farewell – ETAOIN SHRDLU – 1978 [video]]]></title>
+        <id>https://vimeo.com/127605643</id>
+        <link href="https://vimeo.com/127605643"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Day 37/100] Build Your Own Agent Memory Layer with Postgres and pgvector]]></title>
-        <id>https://pub.towardsai.net/day-37-100-build-your-own-agent-memory-layer-with-postgres-and-pgvector-767dacc2c850?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/day-37-100-build-your-own-agent-memory-layer-with-postgres-and-pgvector-767dacc2c850?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Digital Minimalism]]></title>
+        <id>https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html</id>
+        <link href="https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-Sacred Geometry Generator: draw, tune, and export Vesica Piscis, Seed of Life, Flower of Life, Metatron's Cube, and the Golden Spiral as SVG
-]]></title>
-        <id>
-https://github.com/evoluteur/sacred-geometry
-</id>
-        <link href="
-https://github.com/evoluteur/sacred-geometry
-"/>
+        <title type="html"><![CDATA[Mexico urges respect for treaties after Texas seizes nine islands on Rio Grande]]></title>
+        <id>https://english.elpais.com/usa/2026-10-30/mexico-urges-respect-for-treaties-after-texas-seizes-nine-islands-in-rio-grande.html</id>
+        <link href="https://english.elpais.com/usa/2026-10-30/mexico-urges-respect-for-treaties-after-texas-seizes-nine-islands-in-rio-grande.html"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UTF-34 BASE-4: Codespace 4^34 = 2^68, Zero-Waste Theorem, and 1M Binary Codes]]></title>
+        <id>https://media.githubusercontent.com/media/anhkhoavanhua/utf34/refs/heads/main/utf34_base4_1M_binary.md</id>
+        <link href="https://media.githubusercontent.com/media/anhkhoavanhua/utf34/refs/heads/main/utf34_base4_1M_binary.md"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tier 1 ISPs react to unfair pricing]]></title>
+        <id>https://www.datacenterknowledge.com/networking/cogent-unplugs-telia-in-peering-dispute</id>
+        <link href="https://www.datacenterknowledge.com/networking/cogent-unplugs-telia-in-peering-dispute"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories]]></title>
+        <id>https://arxiv.org/abs/2606.03979</id>
+        <link href="https://arxiv.org/abs/2606.03979"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reimagining the Internet 42. Maciej Ceglowski, Pinboard (2021) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=OTPqaPLEd8E</id>
+        <link href="https://www.youtube.com/watch?v=OTPqaPLEd8E"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postgres 19 is late, and it's AI's fault]]></title>
+        <id>http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html</id>
+        <link href="http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making it easier for websites to express AI training preferences]]></title>
+        <id>https://openai.com/index/helping-websites-express-ai-training-preferences/</id>
+        <link href="https://openai.com/index/helping-websites-express-ai-training-preferences/"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google's $500B bloodbath reflects the danger it faces from AI]]></title>
+        <id>https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-aiFromTheEconomist</id>
+        <link href="https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-aiFromTheEconomist"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Importance of the Word "Cultivation"]]></title>
+        <id>https://johnoestmannmusic.com/the-importance-of-the-word-cultivation/</id>
+        <link href="https://johnoestmannmusic.com/the-importance-of-the-word-cultivation/"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PFsense at 20. Plus and CE unified. Offline upgrades free.]]></title>
+        <id>https://www.netgate.com/blog/pfsense-at-20</id>
+        <link href="https://www.netgate.com/blog/pfsense-at-20"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Turn any GitHub account into a living city]]></title>
+        <id>https://caldera.social/gh</id>
+        <link href="https://caldera.social/gh"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: X is opening any tweet link in a webview whether you press it or not]]></title>
+        <id>https://news.ycombinator.com/item?id=50312174</id>
+        <link href="https://news.ycombinator.com/item?id=50312174"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We checked the 150 most popular Chrome extensions]]></title>
+        <id>https://app.extensionguardian.workers.dev/report/popular-chrome-extensions-2026</id>
+        <link href="https://app.extensionguardian.workers.dev/report/popular-chrome-extensions-2026"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why my AI agents keep lie-ing? How do we trust?]]></title>
+        <id>https://dotpals.vercel.app/</id>
+        <link href="https://dotpals.vercel.app/"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wolfenstein 3D on the Atari 2600]]></title>
+        <id>https://forums.atariage.com/topic/394015-wolfenstein-3d-atari-2600-port-for-pluscartunocart/</id>
+        <link href="https://forums.atariage.com/topic/394015-wolfenstein-3d-atari-2600-port-for-pluscartunocart/"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I turned mrdoob's Slop New York into a 3D billboard bidding game]]></title>
+        <id>https://makeitanywhere.xyz/</id>
+        <link href="https://makeitanywhere.xyz/"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust]]></title>
+        <id>https://www.firezone.dev/blog/introducing-sanstun</id>
+        <link href="https://www.firezone.dev/blog/introducing-sanstun"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Are most of you using HN Replies? Or what else do you use?]]></title>
+        <id>https://news.ycombinator.com/item?id=50311495</id>
+        <link href="https://news.ycombinator.com/item?id=50311495"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Channel Binding]]></title>
+        <id>https://blog.prosody.im/channel-binding/</id>
+        <link href="https://blog.prosody.im/channel-binding/"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security Podcast]]></title>
+        <id>https://risky.biz/SNAKEOILERS24PT2/</id>
+        <link href="https://risky.biz/SNAKEOILERS24PT2/"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI raises less than half of $30B target]]></title>
+        <id>https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</id>
+        <link href="https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boost your app's speed and efficiency – Meet with Apple [video]]]></title>
+        <id>https://www.youtube.com/watch?v=2juDbUA2zlA</id>
+        <link href="https://www.youtube.com/watch?v=2juDbUA2zlA"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First response from the Project Suncatcher prototype satellite]]></title>
+        <id>https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/</id>
+        <link href="https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/"/>
+        <updated>2026-10-30T16:00:00.000Z</updated>
+        <published>2026-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built an Android app that translates text and turns it into MP3 audio]]></title>
+        <id>https://play.google.com/store/apps/details?id=com.audiocraft.app&amp;hl=en_US</id>
+        <link href="https://play.google.com/store/apps/details?id=com.audiocraft.app&amp;hl=en_US"/>
         <updated>2026-10-30T16:00:00.000Z</updated>
         <published>2026-10-30T16:00:00.000Z</published>
     </entry>
