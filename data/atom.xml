@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-01T07:02:49.141Z</updated>
+    <updated>2026-11-01T10:03:53.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,13 +36,6 @@
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale]]></title>
-        <id>https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/</id>
-        <link href="https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenAI reportedly lowers funding target for new round]]></title>
         <id>https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/</id>
         <link href="https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"/>
@@ -50,212 +43,58 @@
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How HN: Nexus Doctor – A multi-language OS diagnostic engine (Rust/COBOL/Ruby)]]></title>
-        <id>https://github.com/Aissamohammedi88/nexus-doctor.sh</id>
-        <link href="https://github.com/Aissamohammedi88/nexus-doctor.sh"/>
+        <title type="html"><![CDATA[4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale]]></title>
+        <id>https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/</id>
+        <link href="https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"/>
         <updated>2026-10-31T16:00:00.000Z</updated>
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Resticker – A tiny macOS menu bar app for reliable restic backups]]></title>
-        <id>https://github.com/marcboeker/resticker</id>
-        <link href="https://github.com/marcboeker/resticker"/>
+        <title type="html"><![CDATA[Securing Internet-Critical Software: How We Could Have Backdoored Bash]]></title>
+        <id>https://www.hacktron.ai/blog/hacking-gnu-savannah</id>
+        <link href="https://www.hacktron.ai/blog/hacking-gnu-savannah"/>
         <updated>2026-10-31T16:00:00.000Z</updated>
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bastard]]></title>
-        <id>https://bez-lightyear.bearblog.dev/bastard/</id>
-        <link href="https://bez-lightyear.bearblog.dev/bastard/"/>
+        <title type="html"><![CDATA[Show HN: Rust crawler for SEO and content audits, with optional LLM review]]></title>
+        <id>https://crawler.siteone.io/</id>
+        <link href="https://crawler.siteone.io/"/>
         <updated>2026-10-31T16:00:00.000Z</updated>
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: StackVitals – CI failure triage and DORA metrics, no server]]></title>
-        <id>https://github.com/stackvitals/stackvitals</id>
-        <link href="https://github.com/stackvitals/stackvitals"/>
+        <title type="html"><![CDATA[Magic vs. Wonder: memories of a distant future]]></title>
+        <id>https://news.ycombinator.com/item?id=50324043</id>
+        <link href="https://news.ycombinator.com/item?id=50324043"/>
         <updated>2026-10-31T16:00:00.000Z</updated>
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Working at Big Tech Companies Can Be a Trap (2019) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=6amgO4dIotk</id>
-        <link href="https://www.youtube.com/watch?v=6amgO4dIotk"/>
+        <title type="html"><![CDATA[IEEE Wipes Out 1,417 Papers over Sold Authorship]]></title>
+        <id>https://www.nature.com/articles/d41586-026-03455-8</id>
+        <link href="https://www.nature.com/articles/d41586-026-03455-8"/>
         <updated>2026-10-31T16:00:00.000Z</updated>
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Map Shows Nations Urging People to Stockpile Food as France Issues Warning]]></title>
-        <id>https://www.newsweek.com/map-shows-countries-urging-residents-to-stockpile-food-12629524</id>
-        <link href="https://www.newsweek.com/map-shows-countries-urging-residents-to-stockpile-food-12629524"/>
+        <title type="html"><![CDATA[Show HN: Portr – Expose local HTTP, TCP or WS connections to the public internet]]></title>
+        <id>https://github.com/amalshaji/portr</id>
+        <link href="https://github.com/amalshaji/portr"/>
         <updated>2026-10-31T16:00:00.000Z</updated>
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SenseNova-6.8-Code2Video]]></title>
-        <id>https://huggingface.co/sensenova/SenseNova-6.8-Code2Video</id>
-        <link href="https://huggingface.co/sensenova/SenseNova-6.8-Code2Video"/>
+        <title type="html"><![CDATA[Towards Digital Garden]]></title>
+        <id>https://jaydip.me/notes</id>
+        <link href="https://jaydip.me/notes"/>
         <updated>2026-10-31T16:00:00.000Z</updated>
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: TariffPedia – HS code lookup and import duty comparison]]></title>
-        <id>https://tariffpedia.com/</id>
-        <link href="https://tariffpedia.com/"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Make Python Great Again – Free tools and desktop apps built with Python]]></title>
-        <id>https://pythongreatagain.com/</id>
-        <link href="https://pythongreatagain.com/"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer of Math Exposition Archive]]></title>
-        <id>https://some.3b1b.co/archive</id>
-        <link href="https://some.3b1b.co/archive"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medo: A modern UHD 4K open source Media editor for Haiku OS in less than 1.44MB]]></title>
-        <id>https://github.com/smallstepforman/Medo</id>
-        <link href="https://github.com/smallstepforman/Medo"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elsag SignalTrace maps cars using phone, car radio, headphone, watch, key finder]]></title>
-        <id>https://www.leonardocompany-us.com/lpr/elsag-signaltrace</id>
-        <link href="https://www.leonardocompany-us.com/lpr/elsag-signaltrace"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WiCi: Connecting GPUs over WiFi]]></title>
-        <id>https://wici.ai</id>
-        <link href="https://wici.ai"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Analog Video Feedback Fractals]]></title>
-        <id>https://www.youtube.com/watch?v=znkzM9-FVzw</id>
-        <link href="https://www.youtube.com/watch?v=znkzM9-FVzw"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Formalities]]></title>
-        <id>https://pluralistic.net/2026/10/31/burn-berne/</id>
-        <link href="https://pluralistic.net/2026/10/31/burn-berne/"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'm building a public goods funding mechanism. Roast my design]]></title>
-        <id>https://agentbook2.whf.bz/t/88/i-m-building-a-public-goods-funding-mechanism-roast-my-design</id>
-        <link href="https://agentbook2.whf.bz/t/88/i-m-building-a-public-goods-funding-mechanism-roast-my-design"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Nvidia RE-USE speech enhancement model running in the browser on WebGPU]]></title>
-        <id>https://re-use-demo.geronimo-labs.com</id>
-        <link href="https://re-use-demo.geronimo-labs.com"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Download Spotify track URLs for free]]></title>
-        <id>https://github.com/gabrielfalcao/spotify-download-tracks-puppeteer</id>
-        <link href="https://github.com/gabrielfalcao/spotify-download-tracks-puppeteer"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: InterviewFit: learn the approach, not the answer]]></title>
-        <id>https://interviewfit.io/dev/coding/sets/starter-50</id>
-        <link href="https://interviewfit.io/dev/coding/sets/starter-50"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[London police arrest 139 as hundreds protest Palestine Action ban]]></title>
-        <id>https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban</id>
-        <link href="https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: HackerNewsTV – Daily YouTube playlist of latest HN videos]]></title>
-        <id>https://news.ycombinator.com/item?id=50321248</id>
-        <link href="https://news.ycombinator.com/item?id=50321248"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A coding agent that fits in 636 KB – no Node, no Python, no NPM]]></title>
-        <id>https://github.com/descz/delta</id>
-        <link href="https://github.com/descz/delta"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek put the architecture for their always-on autonomous agent on GitHub]]></title>
-        <id>https://github.com/deepseek-ai/dsh-superagent-prototype</id>
-        <link href="https://github.com/deepseek-ai/dsh-superagent-prototype"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI's blow to mathematicians: They have annihilated my field of research]]></title>
-        <id>https://www.lemonde.fr/en/science/article/2026/10/12/openai-s-latest-blow-to-mathematicians-they-have-annihilated-my-field-of-research_6758515_10.html</id>
-        <link href="https://www.lemonde.fr/en/science/article/2026/10/12/openai-s-latest-blow-to-mathematicians-they-have-annihilated-my-field-of-research_6758515_10.html"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A developer recreated a 1990s 486 PC in JavaScript]]></title>
-        <id>https://www.tomshardware.com/video-games/retro-gaming/developer-builds-a-complete-intel-486-pc-emulator-in-a-browser-100-percent-pure-javascript-retro486-includes-modular-tabs-for-screen-motherboard-storage-expansion-cards-and-more</id>
-        <link href="https://www.tomshardware.com/video-games/retro-gaming/developer-builds-a-complete-intel-486-pc-emulator-in-a-browser-100-percent-pure-javascript-retro486-includes-modular-tabs-for-screen-motherboard-storage-expansion-cards-and-more"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frontiers – Association between statin therapy and dementia risk]]></title>
-        <id>https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1915633/full</id>
-        <link href="https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1915633/full"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Made Me Homeless]]></title>
-        <id>https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59</id>
-        <link href="https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ns-3 NetAnim trace viewer in the browser]]></title>
-        <id>https://netanim.voypalante.com</id>
-        <link href="https://netanim.voypalante.com"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When a wedding fell apart, 11 strangers helped create something unforgettable]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cx4g1vdyzem6o</id>
-        <link href="https://www.bbc.co.uk/news/articles/cx4g1vdyzem6o"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earliest spoken audio of endangered U.S. language discovered]]></title>
-        <id>https://www.cam.ac.uk/stories/louisiana-creole-earliest-spoken-audio</id>
-        <link href="https://www.cam.ac.uk/stories/louisiana-creole-earliest-spoken-audio"/>
+        <title type="html"><![CDATA[OpenIDEA: The IDE you know, rebuilt in Rust]]></title>
+        <id>https://github.com/l0ng-ai/openidea</id>
+        <link href="https://github.com/l0ng-ai/openidea"/>
         <updated>2026-10-31T16:00:00.000Z</updated>
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
@@ -267,6 +106,216 @@
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Earliest spoken audio of endangered U.S. language discovered]]></title>
+        <id>https://www.cam.ac.uk/stories/louisiana-creole-earliest-spoken-audio</id>
+        <link href="https://www.cam.ac.uk/stories/louisiana-creole-earliest-spoken-audio"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When a wedding fell apart, 11 strangers helped create something unforgettable]]></title>
+        <id>https://www.bbc.co.uk/news/articles/cx4g1vdyzem6o</id>
+        <link href="https://www.bbc.co.uk/news/articles/cx4g1vdyzem6o"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ns-3 NetAnim trace viewer in the browser]]></title>
+        <id>https://netanim.voypalante.com</id>
+        <link href="https://netanim.voypalante.com"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Made Me Homeless]]></title>
+        <id>https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59</id>
+        <link href="https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frontiers – Association between statin therapy and dementia risk]]></title>
+        <id>https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1915633/full</id>
+        <link href="https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1915633/full"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A developer recreated a 1990s 486 PC in JavaScript]]></title>
+        <id>https://www.tomshardware.com/video-games/retro-gaming/developer-builds-a-complete-intel-486-pc-emulator-in-a-browser-100-percent-pure-javascript-retro486-includes-modular-tabs-for-screen-motherboard-storage-expansion-cards-and-more</id>
+        <link href="https://www.tomshardware.com/video-games/retro-gaming/developer-builds-a-complete-intel-486-pc-emulator-in-a-browser-100-percent-pure-javascript-retro486-includes-modular-tabs-for-screen-motherboard-storage-expansion-cards-and-more"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI's blow to mathematicians: They have annihilated my field of research]]></title>
+        <id>https://www.lemonde.fr/en/science/article/2026/10/12/openai-s-latest-blow-to-mathematicians-they-have-annihilated-my-field-of-research_6758515_10.html</id>
+        <link href="https://www.lemonde.fr/en/science/article/2026/10/12/openai-s-latest-blow-to-mathematicians-they-have-annihilated-my-field-of-research_6758515_10.html"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek put the architecture for their always-on autonomous agent on GitHub]]></title>
+        <id>https://github.com/deepseek-ai/dsh-superagent-prototype</id>
+        <link href="https://github.com/deepseek-ai/dsh-superagent-prototype"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A coding agent that fits in 636 KB – no Node, no Python, no NPM]]></title>
+        <id>https://github.com/descz/delta</id>
+        <link href="https://github.com/descz/delta"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: HackerNewsTV – Daily YouTube playlist of latest HN videos]]></title>
+        <id>https://news.ycombinator.com/item?id=50321248</id>
+        <link href="https://news.ycombinator.com/item?id=50321248"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[London police arrest 139 as hundreds protest Palestine Action ban]]></title>
+        <id>https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban</id>
+        <link href="https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: InterviewFit: learn the approach, not the answer]]></title>
+        <id>https://interviewfit.io/dev/coding/sets/starter-50</id>
+        <link href="https://interviewfit.io/dev/coding/sets/starter-50"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Download Spotify track URLs for free]]></title>
+        <id>https://github.com/gabrielfalcao/spotify-download-tracks-puppeteer</id>
+        <link href="https://github.com/gabrielfalcao/spotify-download-tracks-puppeteer"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Nvidia RE-USE speech enhancement model running in the browser on WebGPU]]></title>
+        <id>https://re-use-demo.geronimo-labs.com</id>
+        <link href="https://re-use-demo.geronimo-labs.com"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm building a public goods funding mechanism. Roast my design]]></title>
+        <id>https://agentbook2.whf.bz/t/88/i-m-building-a-public-goods-funding-mechanism-roast-my-design</id>
+        <link href="https://agentbook2.whf.bz/t/88/i-m-building-a-public-goods-funding-mechanism-roast-my-design"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Formalities]]></title>
+        <id>https://pluralistic.net/2026/10/31/burn-berne/</id>
+        <link href="https://pluralistic.net/2026/10/31/burn-berne/"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Analog Video Feedback Fractals]]></title>
+        <id>https://www.youtube.com/watch?v=znkzM9-FVzw</id>
+        <link href="https://www.youtube.com/watch?v=znkzM9-FVzw"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WiCi: Connecting GPUs over WiFi]]></title>
+        <id>https://wici.ai</id>
+        <link href="https://wici.ai"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elsag SignalTrace maps cars using phone, car radio, headphone, watch, key finder]]></title>
+        <id>https://www.leonardocompany-us.com/lpr/elsag-signaltrace</id>
+        <link href="https://www.leonardocompany-us.com/lpr/elsag-signaltrace"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Medo: A modern UHD 4K open source Media editor for Haiku OS in less than 1.44MB]]></title>
+        <id>https://github.com/smallstepforman/Medo</id>
+        <link href="https://github.com/smallstepforman/Medo"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summer of Math Exposition Archive]]></title>
+        <id>https://some.3b1b.co/archive</id>
+        <link href="https://some.3b1b.co/archive"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Make Python Great Again – Free tools and desktop apps built with Python]]></title>
+        <id>https://pythongreatagain.com/</id>
+        <link href="https://pythongreatagain.com/"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: TariffPedia – HS code lookup and import duty comparison]]></title>
+        <id>https://tariffpedia.com/</id>
+        <link href="https://tariffpedia.com/"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SenseNova-6.8-Code2Video]]></title>
+        <id>https://huggingface.co/sensenova/SenseNova-6.8-Code2Video</id>
+        <link href="https://huggingface.co/sensenova/SenseNova-6.8-Code2Video"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Map Shows Nations Urging People to Stockpile Food as France Issues Warning]]></title>
+        <id>https://www.newsweek.com/map-shows-countries-urging-residents-to-stockpile-food-12629524</id>
+        <link href="https://www.newsweek.com/map-shows-countries-urging-residents-to-stockpile-food-12629524"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working at Big Tech Companies Can Be a Trap (2019) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=6amgO4dIotk</id>
+        <link href="https://www.youtube.com/watch?v=6amgO4dIotk"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: StackVitals – CI failure triage and DORA metrics, no server]]></title>
+        <id>https://github.com/stackvitals/stackvitals</id>
+        <link href="https://github.com/stackvitals/stackvitals"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bastard]]></title>
+        <id>https://bez-lightyear.bearblog.dev/bastard/</id>
+        <link href="https://bez-lightyear.bearblog.dev/bastard/"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Resticker – A tiny macOS menu bar app for reliable restic backups]]></title>
+        <id>https://github.com/marcboeker/resticker</id>
+        <link href="https://github.com/marcboeker/resticker"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How HN: Nexus Doctor – A multi-language OS diagnostic engine (Rust/COBOL/Ruby)]]></title>
+        <id>https://github.com/Aissamohammedi88/nexus-doctor.sh</id>
+        <link href="https://github.com/Aissamohammedi88/nexus-doctor.sh"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <published>2026-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[datasette-llm 0.1a9]]></title>
         <id>https://simonwillison.net/2026/Oct/31/datasette-llm/</id>
         <link href="https://simonwillison.net/2026/Oct/31/datasette-llm/"/>
@@ -274,93 +323,44 @@
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built a Multi-Core Client-Side Video Clipper & YouTube-to-Shorts Studio in Pure WebAssembly (Zero Server Cost)]]></title>
-        <id>https://dev.to/aiviewz_team/how-i-built-a-multi-core-client-side-video-clipper-youtube-to-shorts-studio-in-pure-webassembly-1h9k</id>
-        <link href="https://dev.to/aiviewz_team/how-i-built-a-multi-core-client-side-video-clipper-youtube-to-shorts-studio-in-pure-webassembly-1h9k"/>
+        <title type="html"><![CDATA[Reading the National Weather Service gridpoint forecast for a school morning]]></title>
+        <id>https://dev.to/simplemorse/reading-the-national-weather-service-gridpoint-forecast-for-a-school-morning-26if</id>
+        <link href="https://dev.to/simplemorse/reading-the-national-weather-service-gridpoint-forecast-for-a-school-morning-26if"/>
         <updated>2026-10-31T16:00:00.000Z</updated>
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js Prefetching in App Router: How `<Link>` Partial Prefetch Works and Why Your Pages Still Feel Slow]]></title>
-        <id>https://dev.to/jsmanifest/nextjs-prefetching-in-app-router-how-partial-prefetch-works-and-why-your-pages-still-5bfa</id>
-        <link href="https://dev.to/jsmanifest/nextjs-prefetching-in-app-router-how-partial-prefetch-works-and-why-your-pages-still-5bfa"/>
+        <title type="html"><![CDATA[A static Three.js map app: the build and QA checks we run]]></title>
+        <id>https://dev.to/pounce_za_f19a8e5c4630000/a-static-threejs-map-app-the-build-and-qa-checks-we-run-1df2</id>
+        <link href="https://dev.to/pounce_za_f19a8e5c4630000/a-static-threejs-map-app-the-build-and-qa-checks-we-run-1df2"/>
         <updated>2026-10-31T16:00:00.000Z</updated>
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Routing Works in Next.js: Pages, Layouts and Links Explained]]></title>
-        <id>https://dev.to/kushkrg/how-routing-works-in-nextjs-pages-layouts-and-links-explained-111k</id>
-        <link href="https://dev.to/kushkrg/how-routing-works-in-nextjs-pages-layouts-and-links-explained-111k"/>
+        <title type="html"><![CDATA[What 21 model tests check in a static map explorer]]></title>
+        <id>https://dev.to/pounce_za_f19a8e5c4630000/what-21-model-tests-check-in-a-static-map-explorer-5hmp</id>
+        <link href="https://dev.to/pounce_za_f19a8e5c4630000/what-21-model-tests-check-in-a-static-map-explorer-5hmp"/>
         <updated>2026-10-31T16:00:00.000Z</updated>
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hidden Objects: an escape room where the narrator would rather you stayed]]></title>
-        <id>https://dev.to/abisoye/hidden-objects-an-escape-room-where-the-narrator-would-rather-you-stayed-5a65</id>
-        <link href="https://dev.to/abisoye/hidden-objects-an-escape-room-where-the-narrator-would-rather-you-stayed-5a65"/>
+        <title type="html"><![CDATA[I Built Hush Relay: A Self-Hosted Encrypted Messenger Using Vanilla JavaScript and One PHP File]]></title>
+        <id>https://dev.to/vrfrequency/i-built-hush-relay-a-self-hosted-encrypted-messenger-using-vanilla-javascript-and-one-php-file-4bpd</id>
+        <link href="https://dev.to/vrfrequency/i-built-hush-relay-a-self-hosted-encrypted-messenger-using-vanilla-javascript-and-one-php-file-4bpd"/>
         <updated>2026-10-31T16:00:00.000Z</updated>
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSON-LD Schema for Calculator Pages]]></title>
-        <id>https://dev.to/studentcalctools/json-ld-schema-for-calculator-pages-51pk</id>
-        <link href="https://dev.to/studentcalctools/json-ld-schema-for-calculator-pages-51pk"/>
+        <title type="html"><![CDATA[Ingesting YouTube Transcripts, Reddit Discussions & Documentation into AI / LLM RAG Pipelines (Python & Node.js)]]></title>
+        <id>https://dev.to/tungnguyen84/ingesting-youtube-transcripts-reddit-discussions-documentation-into-ai-llm-rag-pipelines-130m</id>
+        <link href="https://dev.to/tungnguyen84/ingesting-youtube-transcripts-reddit-discussions-documentation-into-ai-llm-rag-pipelines-130m"/>
         <updated>2026-10-31T16:00:00.000Z</updated>
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Escape Room Night — free browser escape rooms you can play with friends]]></title>
-        <id>https://dev.to/hzm3836/escape-room-night-free-browser-escape-rooms-you-can-play-with-friends-4h1d</id>
-        <link href="https://dev.to/hzm3836/escape-room-night-free-browser-escape-rooms-you-can-play-with-friends-4h1d"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What I learned building a Chrome extension for X growth as a student founder]]></title>
-        <id>https://dev.to/shahriar_ahmed_937be55f35/what-i-learned-building-a-chrome-extension-for-x-growth-as-a-student-founder-g23</id>
-        <link href="https://dev.to/shahriar_ahmed_937be55f35/what-i-learned-building-a-chrome-extension-for-x-growth-as-a-student-founder-g23"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detect a GIF file before choosing its browser preview]]></title>
-        <id>https://dev.to/evanmercerdev/detect-a-gif-file-before-choosing-its-browser-preview-55hd</id>
-        <link href="https://dev.to/evanmercerdev/detect-a-gif-file-before-choosing-its-browser-preview-55hd"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Online Math Utilities and Calculators for Students]]></title>
-        <id>https://dev.to/calcsolver/building-online-math-utilities-and-calculators-for-students-91h</id>
-        <link href="https://dev.to/calcsolver/building-online-math-utilities-and-calculators-for-students-91h"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your test data is lying to you: realistic addresses, phones and check digits for 40 countries]]></title>
-        <id>https://dev.to/emin3me_271a007b94fedfbe9/your-test-data-is-lying-to-you-realistic-addresses-phones-and-check-digits-for-40-countries-4jb6</id>
-        <link href="https://dev.to/emin3me_271a007b94fedfbe9/your-test-data-is-lying-to-you-realistic-addresses-phones-and-check-digits-for-40-countries-4jb6"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create an Interactive Audio Story Generator]]></title>
-        <id>https://dev.to/voice_developer/create-an-interactive-audio-story-generator-2am5</id>
-        <link href="https://dev.to/voice_developer/create-an-interactive-audio-story-generator-2am5"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Label Promise.any() inputs so AggregateError.errors drive retries not mysteries]]></title>
-        <id>https://dev.to/chriserodriguez/label-promiseany-inputs-so-aggregateerrorerrors-drive-retries-not-mysteries-1338</id>
-        <link href="https://dev.to/chriserodriguez/label-promiseany-inputs-so-aggregateerrorerrors-drive-retries-not-mysteries-1338"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why does setTimeout(0) run after your Promise? The event loop, step by step]]></title>
-        <id>https://dev.to/haiduc0147/why-does-settimeout0-run-after-your-promise-the-event-loop-step-by-step-3m0p</id>
-        <link href="https://dev.to/haiduc0147/why-does-settimeout0-run-after-your-promise-the-event-loop-step-by-step-3m0p"/>
+        <title type="html"><![CDATA[How to Build an Automated B2B Lead Generation Pipeline: Scraping Google Maps, Company Websites & GitHub Contributors with Node.js & Python]]></title>
+        <id>https://dev.to/tungnguyen84/how-to-build-an-automated-b2b-lead-generation-pipeline-scraping-google-maps-company-websites--2kie</id>
+        <link href="https://dev.to/tungnguyen84/how-to-build-an-automated-b2b-lead-generation-pipeline-scraping-google-maps-company-websites--2kie"/>
         <updated>2026-10-31T16:00:00.000Z</updated>
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
