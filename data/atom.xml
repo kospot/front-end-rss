@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-01T15:03:46.360Z</updated>
+    <updated>2026-11-01T22:01:42.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,51 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Get in the spirit with these horrors from YouTube]]></title>
-        <id>https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror</id>
-        <link href="https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror"/>
+        <title type="html"><![CDATA[Apple’s HomeView could add security camera features]]></title>
+        <id>https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features</id>
+        <link href="https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features"/>
+        <updated>2026-11-01T16:00:00.000Z</updated>
+        <published>2026-11-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI can make tech CEOs’ lives easier. What about everyone else?]]></title>
+        <id>https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/</id>
+        <link href="https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"/>
+        <updated>2026-11-01T16:00:00.000Z</updated>
+        <published>2026-11-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transparent Image Fallback System with Canvas API]]></title>
+        <id>https://dev.to/removephotobg/transparent-image-fallback-system-with-canvas-api-1j2d</id>
+        <link href="https://dev.to/removephotobg/transparent-image-fallback-system-with-canvas-api-1j2d"/>
+        <updated>2026-11-01T16:00:00.000Z</updated>
+        <published>2026-11-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 2026 JS Desktop Runtime Showdown: Electron vs NW.js vs Neutralino vs Adrenaline]]></title>
+        <id>https://dev.to/m5dev/the-2026-js-desktop-runtime-showdown-electron-vs-nwjs-vs-neutralino-vs-adrenaline-2l96</id>
+        <link href="https://dev.to/m5dev/the-2026-js-desktop-runtime-showdown-electron-vs-nwjs-vs-neutralino-vs-adrenaline-2l96"/>
+        <updated>2026-11-01T16:00:00.000Z</updated>
+        <published>2026-11-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Defending AI Agents Against Prompt Injection and PII Leakage at the Network Edge (Sub-20ms Cloudflare Worker)]]></title>
+        <id>https://dev.to/duongynhi000005oss/defending-ai-agents-against-prompt-injection-and-pii-leakage-at-the-network-edge-sub-20ms-18bi</id>
+        <link href="https://dev.to/duongynhi000005oss/defending-ai-agents-against-prompt-injection-and-pii-leakage-at-the-network-edge-sub-20ms-18bi"/>
+        <updated>2026-11-01T16:00:00.000Z</updated>
+        <published>2026-11-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compressing an Image to an Exact KB Target in the Browser (No Upload, Just Canvas)]]></title>
+        <id>https://dev.to/reallyoffers/compressing-an-image-to-an-exact-kb-target-in-the-browser-no-upload-just-canvas-4jhb</id>
+        <link href="https://dev.to/reallyoffers/compressing-an-image-to-an-exact-kb-target-in-the-browser-no-upload-just-canvas-4jhb"/>
+        <updated>2026-11-01T16:00:00.000Z</updated>
+        <published>2026-11-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built an AI Tamagotchi before Meta could]]></title>
+        <id>https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code</id>
+        <link href="https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"/>
         <updated>2026-10-31T16:00:00.000Z</updated>
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
@@ -29,9 +71,9 @@
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built an AI Tamagotchi before Meta could]]></title>
-        <id>https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code</id>
-        <link href="https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"/>
+        <title type="html"><![CDATA[Get in the spirit with these horrors from YouTube]]></title>
+        <id>https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror</id>
+        <link href="https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror"/>
         <updated>2026-10-31T16:00:00.000Z</updated>
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
@@ -57,16 +99,16 @@
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI reportedly lowers funding target for new round]]></title>
-        <id>https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/</id>
-        <link href="https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"/>
+        <title type="html"><![CDATA[4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale]]></title>
+        <id>https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/</id>
+        <link href="https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"/>
         <updated>2026-10-31T16:00:00.000Z</updated>
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale]]></title>
-        <id>https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/</id>
-        <link href="https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"/>
+        <title type="html"><![CDATA[OpenAI reportedly lowers funding target for new round]]></title>
+        <id>https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/</id>
+        <link href="https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"/>
         <updated>2026-10-31T16:00:00.000Z</updated>
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>
@@ -319,48 +361,6 @@
         <title type="html"><![CDATA[Elsag SignalTrace maps cars using phone, car radio, headphone, watch, key finder]]></title>
         <id>https://www.leonardocompany-us.com/lpr/elsag-signaltrace</id>
         <link href="https://www.leonardocompany-us.com/lpr/elsag-signaltrace"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medo: A modern UHD 4K open source Media editor for Haiku OS in less than 1.44MB]]></title>
-        <id>https://github.com/smallstepforman/Medo</id>
-        <link href="https://github.com/smallstepforman/Medo"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer of Math Exposition Archive]]></title>
-        <id>https://some.3b1b.co/archive</id>
-        <link href="https://some.3b1b.co/archive"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Make Python Great Again – Free tools and desktop apps built with Python]]></title>
-        <id>https://pythongreatagain.com/</id>
-        <link href="https://pythongreatagain.com/"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: TariffPedia – HS code lookup and import duty comparison]]></title>
-        <id>https://tariffpedia.com/</id>
-        <link href="https://tariffpedia.com/"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SenseNova-6.8-Code2Video]]></title>
-        <id>https://huggingface.co/sensenova/SenseNova-6.8-Code2Video</id>
-        <link href="https://huggingface.co/sensenova/SenseNova-6.8-Code2Video"/>
-        <updated>2026-10-31T16:00:00.000Z</updated>
-        <published>2026-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Map Shows Nations Urging People to Stockpile Food as France Issues Warning]]></title>
-        <id>https://www.newsweek.com/map-shows-countries-urging-residents-to-stockpile-food-12629524</id>
-        <link href="https://www.newsweek.com/map-shows-countries-urging-residents-to-stockpile-food-12629524"/>
         <updated>2026-10-31T16:00:00.000Z</updated>
         <published>2026-10-31T16:00:00.000Z</published>
     </entry>

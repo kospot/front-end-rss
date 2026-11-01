@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-01 23:03:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-02 06:01:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -16,8 +16,8 @@
 - [2026-10-16-Claude-Code-Git-Integration-in-2026:-How-the-Agent-Reads-Diffs,-Stages-Hunks,-and-Decides-When-to-Commit](https://dev.to/jsmanifest/claude-code-git-integration-in-2026-how-the-agent-reads-diffs-stages-hunks-and-decides-when-to-39m3) 
 - [2026-10-12-How-to-Build-a-Multi-Currency-Price-Engine-for-a-Digital-Storefront](https://dev.to/kadokey/how-to-build-a-multi-currency-price-engine-for-a-digital-storefront-2k00) 
 - [2026-10-10-What-the-first-digits-of-a-card-number-tell-you-BIN-basics-for-developers](https://dev.to/zikcards/what-the-first-digits-of-a-card-number-tell-you-bin-basics-for-developers-4g18) 
-- [2026-10-09-EU-Digital-Identity-Wallets-are-due-by-24-December-2026:-what-changes-for-apps-that-scan-passports](https://dev.to/doc_cheap/eu-digital-identity-wallets-are-due-by-24-december-2026-what-changes-for-apps-that-scan-passports-4dfa) 
 - [2026-10-09-Your-cache-key-is-already-in-git's-index](https://dev.to/vzn-vx/your-cache-key-is-already-in-gits-index-2b7o) 
+- [2026-10-09-EU-Digital-Identity-Wallets-are-due-by-24-December-2026:-what-changes-for-apps-that-scan-passports](https://dev.to/doc_cheap/eu-digital-identity-wallets-are-due-by-24-december-2026-what-changes-for-apps-that-scan-passports-4dfa) 
 - [2026-10-08-I-used-GitHub-as-the-backend-for-a-shared-photo-album](https://dev.to/arya422/i-used-github-as-the-backend-for-a-shared-photo-album-3pfp) 
 - [2026-10-07-Open-Generative-AI-GitHub-Repo:-A-Self-Hosting-Teardown-2026](https://dev.to/larssaleh/open-generative-ai-github-repo-a-self-hosting-teardown-2026-ajg) 
 - [2026-10-06-I-IPO'd-my-GitHub-profile.-You-can-buy-shares-in-me.](https://dev.to/vineetjk/i-ipod-my-github-profile-you-can-buy-shares-in-me-2mio) 
@@ -94,7 +94,6 @@
 - [2026-10-06-Google-Wallet-for-Android-adds-12th-digital-U.S.-state-ID](https://9to5google.com/2026/10/05/google-wallet-id-oklahoma/) 
 - [2026-10-04-Show-HN:-Create-Git-workflows-using-Jev](https://github.com/Ayush0054/metis) 
 - [2026-10-04-VGHF-Digital-Archive-passes-5000-magazines.-Here's-what's-next](https://gamehistory.org/5k-magazines/) 
-- [2026-10-03-BT-accused-of-'bullying'-customers-by-pausing-broadband-in-digital-landline-push](https://www.theguardian.com/business/2026/oct/03/bt-customers-broadband-digital-landline-switch-internet) 
 - [2026-10-22-Greenlight-Family-Hub-2026:-Finally,-a-Digital-Wall-Calendar-With-a-Voice-Assistant](https://www.wired.com/story/greenlight-hub-voice-assistant-feature/) 
 - [2026-10-21-Best-Gifts-for-Mom-2026:-Digital-Wall-Calendars,-Better-Bags,-Personalized-Jewelry,-and-More](https://www.wired.com/story/best-gifts-for-moms-2026/) 
 - [2026-10-19-How-the-Xbox’s-Disc-to-Digital-Program-Works](https://www.wired.com/story/xbox-disc-to-digital/) 
