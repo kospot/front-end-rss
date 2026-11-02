@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-11-02 21:03:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-03 06:01:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS-Tricks
 
 
 
 
+- [2026-11-02-What’s-!important-#20:-GTA-6-Scroll-Effects,-Scrollspies,-random](https://css-tricks.com/whats-important-20/) 
 - [2026-10-29-The-Frankenstein-Table](https://css-tricks.com/the-frankenstein-table/) 
 - [2026-10-27-What’s-!important-#19:-CSS-Refraction-Effects,-Scroll-State-Queries,-@custom-media,-and-More](https://css-tricks.com/whats-important-19/) 
 - [2026-10-26-CSS-Tricks-has-a-new-owner!](https://css-tricks.com/css-tricks-has-a-new-owner/) 
