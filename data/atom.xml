@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-03T02:01:54.512Z</updated>
+    <updated>2026-11-03T04:05:30.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -71,6 +71,20 @@
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses]]></title>
+        <id>https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/</id>
+        <link href="https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them]]></title>
+        <id>https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/</id>
+        <link href="https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Snap settles lawsuit accusing platform of fueling teen depression and eating disorders]]></title>
         <id>https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/</id>
         <link href="https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/"/>
@@ -78,72 +92,65 @@
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google search has gone from being handy to useless (cartoon)]]></title>
-        <id>https://www.theguardian.com/commentisfree/picture/2026/nov/02/google-search-has-gone-from-being-very-handy-to-useless</id>
-        <link href="https://www.theguardian.com/commentisfree/picture/2026/nov/02/google-search-has-gone-from-being-very-handy-to-useless"/>
+        <title type="html"><![CDATA[Show HN: CheapGPT – a free local AI assistant powered by Chrome's Gemini Nano]]></title>
+        <id>https://www.predatorray.me/CheapGPT/</id>
+        <link href="https://www.predatorray.me/CheapGPT/"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On-device re-write via WebLLM in a Chrome extension]]></title>
-        <id>https://chromewebstore.google.com/detail/restated-rewrite-tone-on/lhfidcgfjjiiodkbnikdcnanckmbpimo</id>
-        <link href="https://chromewebstore.google.com/detail/restated-rewrite-tone-on/lhfidcgfjjiiodkbnikdcnanckmbpimo"/>
+        <title type="html"><![CDATA[New Fast Reactor Runs on Nuclear Waste]]></title>
+        <id>https://engineerine.com/nuclear-waste-fuel-reactor/</id>
+        <link href="https://engineerine.com/nuclear-waste-fuel-reactor/"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: HackerTV – HN's most-recommended YT videos as 24/7 TV channels]]></title>
-        <id>https://hackertv.org</id>
-        <link href="https://hackertv.org"/>
+        <title type="html"><![CDATA[This Week in Plasma: An Avalanche of Performance Improvements and Bug Fixes]]></title>
+        <id>https://blogs.kde.org/2026/10/31/this-week-in-plasma-an-avalanche-of-performance-improvements-and-bug-fixes/</id>
+        <link href="https://blogs.kde.org/2026/10/31/this-week-in-plasma-an-avalanche-of-performance-improvements-and-bug-fixes/"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Binge watch ideas from the best people across different domains]]></title>
-        <id>https://www.stealbrains.com/tv</id>
-        <link href="https://www.stealbrains.com/tv"/>
+        <title type="html"><![CDATA[Show HN: TheirShelf – Book recommendations by founders, scientists, and thinkers]]></title>
+        <id>https://theirshelf.org</id>
+        <link href="https://theirshelf.org"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Maksym Radziwill–'The quasi-Riemann Hypothesis' [video]]]></title>
-        <id>https://www.youtube.com/watch?v=kYCOOyYkit8</id>
-        <link href="https://www.youtube.com/watch?v=kYCOOyYkit8"/>
+        <title type="html"><![CDATA[Djs: A JavaScript and ts engine for pi's codemode by earendil]]></title>
+        <id>https://earendil-works.github.io/djs/introduction.html</id>
+        <link href="https://earendil-works.github.io/djs/introduction.html"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pando - OpenAI's alternative to Git for source control]]></title>
-        <id>https://twitter.com/OpenAIDevs/status/2117408792346509663</id>
-        <link href="https://twitter.com/OpenAIDevs/status/2117408792346509663"/>
+        <title type="html"><![CDATA[Software freedom is about our human desire to share, tinker, and collaborate]]></title>
+        <id>https://educatingtobehuman.org/software-freedom-and-the-case-for-open-with-matthias-kirschner</id>
+        <link href="https://educatingtobehuman.org/software-freedom-and-the-case-for-open-with-matthias-kirschner"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: ChatGPT sees something else in this image]]></title>
-        <id>https://gavin.wtf/blog/chat-gpt-cant-see-this/</id>
-        <link href="https://gavin.wtf/blog/chat-gpt-cant-see-this/"/>
+        <title type="html"><![CDATA[Show HN: I built a little browser game to practice Vim commands]]></title>
+        <id>https://hjkl.duy.run</id>
+        <link href="https://hjkl.duy.run"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tender bond between male donkey and bull baffles scientists]]></title>
-        <id>https://www.theguardian.com/science/2026/nov/02/tender-bond-male-donkey-bull-baffles-scientists</id>
-        <link href="https://www.theguardian.com/science/2026/nov/02/tender-bond-male-donkey-bull-baffles-scientists"/>
+        <title type="html"><![CDATA[Show HN: Rustable is an open source database client built in Rust]]></title>
+        <id>https://rustable.app</id>
+        <link href="https://rustable.app"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Ford Privacy Promise: You're in Control of Your Data]]></title>
-        <id>https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise</id>
-        <link href="https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise"/>
-        <updated>2026-11-02T16:00:00.000Z</updated>
-        <published>2026-11-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BYD sold more EVs last month than the US did all quarter, topping 300,000]]></title>
-        <id>https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/</id>
-        <link href="https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/"/>
+        <title type="html"><![CDATA[A step-by-step guide for how to kill the line-by-line code review]]></title>
+        <id>https://thenewstack.io/ai-code-review-invariants/</id>
+        <link href="https://thenewstack.io/ai-code-review-invariants/"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
@@ -155,9 +162,79 @@
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A step-by-step guide for how to kill the line-by-line code review]]></title>
-        <id>https://thenewstack.io/ai-code-review-invariants/</id>
-        <link href="https://thenewstack.io/ai-code-review-invariants/"/>
+        <title type="html"><![CDATA[BYD sold more EVs last month than the US did all quarter, topping 300,000]]></title>
+        <id>https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/</id>
+        <link href="https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ford Privacy Promise: You're in Control of Your Data]]></title>
+        <id>https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise</id>
+        <link href="https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tender bond between male donkey and bull baffles scientists]]></title>
+        <id>https://www.theguardian.com/science/2026/nov/02/tender-bond-male-donkey-bull-baffles-scientists</id>
+        <link href="https://www.theguardian.com/science/2026/nov/02/tender-bond-male-donkey-bull-baffles-scientists"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: ChatGPT sees something else in this image]]></title>
+        <id>https://gavin.wtf/blog/chat-gpt-cant-see-this/</id>
+        <link href="https://gavin.wtf/blog/chat-gpt-cant-see-this/"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pando - OpenAI's alternative to Git for source control]]></title>
+        <id>https://twitter.com/OpenAIDevs/status/2117408792346509663</id>
+        <link href="https://twitter.com/OpenAIDevs/status/2117408792346509663"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maksym Radziwill–'The quasi-Riemann Hypothesis' [video]]]></title>
+        <id>https://www.youtube.com/watch?v=kYCOOyYkit8</id>
+        <link href="https://www.youtube.com/watch?v=kYCOOyYkit8"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Binge watch ideas from the best people across different domains]]></title>
+        <id>https://www.stealbrains.com/tv</id>
+        <link href="https://www.stealbrains.com/tv"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: HackerTV – HN's most-recommended YT videos as 24/7 TV channels]]></title>
+        <id>https://hackertv.org</id>
+        <link href="https://hackertv.org"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On-device re-write via WebLLM in a Chrome extension]]></title>
+        <id>https://chromewebstore.google.com/detail/restated-rewrite-tone-on/lhfidcgfjjiiodkbnikdcnanckmbpimo</id>
+        <link href="https://chromewebstore.google.com/detail/restated-rewrite-tone-on/lhfidcgfjjiiodkbnikdcnanckmbpimo"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google search has gone from being handy to useless (cartoon)]]></title>
+        <id>https://www.theguardian.com/commentisfree/picture/2026/nov/02/google-search-has-gone-from-being-very-handy-to-useless</id>
+        <link href="https://www.theguardian.com/commentisfree/picture/2026/nov/02/google-search-has-gone-from-being-very-handy-to-useless"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rewarding defenders with bigger bug bounties]]></title>
+        <id>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</id>
+        <link href="https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
@@ -265,114 +342,37 @@ https://github.com/evoluteur/platonic-solids
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A lost response is not a failed write: design retries around intent]]></title>
-        <id>https://dev.to/teasateam/a-lost-response-is-not-a-failed-write-design-retries-around-intent-36e3</id>
-        <link href="https://dev.to/teasateam/a-lost-response-is-not-a-failed-write-design-retries-around-intent-36e3"/>
+        <title type="html"><![CDATA['.map is not a function' — You're Not Holding an Array]]></title>
+        <id>https://dev.to/systemcraftdev/map-is-not-a-function-youre-not-holding-an-array-2c5e</id>
+        <link href="https://dev.to/systemcraftdev/map-is-not-a-function-youre-not-holding-an-array-2c5e"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zero-Dependency Architecture: Why We Built KVDock with 0 External Dependencies]]></title>
-        <id>https://dev.to/zisamglitch/zero-dependency-architecture-why-we-built-kvdock-with-0-external-dependencies-50fj</id>
-        <link href="https://dev.to/zisamglitch/zero-dependency-architecture-why-we-built-kvdock-with-0-external-dependencies-50fj"/>
+        <title type="html"><![CDATA[Building a Zero-Server In-Browser Invoice Generator: Client-Side PDF Generation Without Subscriptions]]></title>
+        <id>https://dev.to/uchitchakma/building-a-zero-server-in-browser-invoice-generator-client-side-pdf-generation-without-5bj6</id>
+        <link href="https://dev.to/uchitchakma/building-a-zero-server-in-browser-invoice-generator-client-side-pdf-generation-without-5bj6"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Integrating ElevenLabs with Next.js: Step-by-Step Guide]]></title>
-        <id>https://dev.to/voice_developer/integrating-elevenlabs-with-nextjs-step-by-step-guide-28ee</id>
-        <link href="https://dev.to/voice_developer/integrating-elevenlabs-with-nextjs-step-by-step-guide-28ee"/>
+        <title type="html"><![CDATA[How the OnePassApps Vote Board Counts: Ties, Ordering and the Sign-In Gate]]></title>
+        <id>https://dev.to/onepassapps/how-the-onepassapps-vote-board-counts-ties-ordering-and-the-sign-in-gate-54nl</id>
+        <link href="https://dev.to/onepassapps/how-the-onepassapps-vote-board-counts-ties-ordering-and-the-sign-in-gate-54nl"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTMX + Alpine.js: Building a SPA Feel Without a Client-Rendered App]]></title>
-        <id>https://dev.to/towami/htmx-alpinejs-building-a-spa-feel-without-a-client-rendered-app-4cjf</id>
-        <link href="https://dev.to/towami/htmx-alpinejs-building-a-spa-feel-without-a-client-rendered-app-4cjf"/>
+        <title type="html"><![CDATA[Vibecoding Fullstack (Next.js + FastAPI) with $0 Subscription using Freebuff AI]]></title>
+        <id>https://dev.to/trn_ngcduynhbvak/vibecoding-fullstack-nextjs-fastapi-with-0-subscription-using-freebuff-ai-3742</id>
+        <link href="https://dev.to/trn_ngcduynhbvak/vibecoding-fullstack-nextjs-fastapi-with-0-subscription-using-freebuff-ai-3742"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Prevent leaked asyncio workers by making task ownership explicit]]></title>
-        <id>https://dev.to/chriserodriguez/prevent-leaked-asyncio-workers-by-making-task-ownership-explicit-5050</id>
-        <link href="https://dev.to/chriserodriguez/prevent-leaked-asyncio-workers-by-making-task-ownership-explicit-5050"/>
-        <updated>2026-11-02T16:00:00.000Z</updated>
-        <published>2026-11-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Locks and draft recovery: which browser edge cases am I missing?]]></title>
-        <id>https://dev.to/lartuen/web-locks-and-draft-recovery-which-browser-edge-cases-am-i-missing-5324</id>
-        <link href="https://dev.to/lartuen/web-locks-and-draft-recovery-which-browser-edge-cases-am-i-missing-5324"/>
-        <updated>2026-11-02T16:00:00.000Z</updated>
-        <published>2026-11-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What migrating a Vuetify 2 dashboard to Vue 3 actually took]]></title>
-        <id>https://dev.to/sayedesmail/what-migrating-a-vuetify-2-dashboard-to-vue-3-actually-took-2nih</id>
-        <link href="https://dev.to/sayedesmail/what-migrating-a-vuetify-2-dashboard-to-vue-3-actually-took-2nih"/>
-        <updated>2026-11-02T16:00:00.000Z</updated>
-        <published>2026-11-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Every Backend Needs Multi-Tier Caching (L1 RAM + L2 Redis)]]></title>
-        <id>https://dev.to/zisamglitch/why-every-backend-needs-multi-tier-caching-l1-ram-l2-redis-16cj</id>
-        <link href="https://dev.to/zisamglitch/why-every-backend-needs-multi-tier-caching-l1-ram-l2-redis-16cj"/>
-        <updated>2026-11-02T16:00:00.000Z</updated>
-        <published>2026-11-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day 26 of My React Learning Journey 🚀 | useEffect Hook and Component Lifecycle]]></title>
-        <id>https://dev.to/saravanan_cn_183fcba7cc7a/day-26-of-my-react-learning-journey-useeffect-hook-and-component-lifecycle-2mh1</id>
-        <link href="https://dev.to/saravanan_cn_183fcba7cc7a/day-26-of-my-react-learning-journey-useeffect-hook-and-component-lifecycle-2mh1"/>
-        <updated>2026-11-02T16:00:00.000Z</updated>
-        <published>2026-11-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript 7 upgrade: the two silent default changes and the missing compiler API]]></title>
-        <id>https://dev.to/boranfurkan/typescript-7-upgrade-the-two-silent-default-changes-and-the-missing-compiler-api-hie</id>
-        <link href="https://dev.to/boranfurkan/typescript-7-upgrade-the-two-silent-default-changes-and-the-missing-compiler-api-hie"/>
-        <updated>2026-11-02T16:00:00.000Z</updated>
-        <published>2026-11-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A 2.4-Billion-View TikTok Came Back as 1,894,967,296 and Took the Whole Average With It]]></title>
-        <id>https://dev.to/matveyg/a-24-billion-view-tiktok-came-back-as-1894967296-and-took-the-whole-average-with-it-1032</id>
-        <link href="https://dev.to/matveyg/a-24-billion-view-tiktok-came-back-as-1894967296-and-took-the-whole-average-with-it-1032"/>
-        <updated>2026-11-02T16:00:00.000Z</updated>
-        <published>2026-11-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Owen Sound: From Transit Budgets to Ride Targets]]></title>
-        <id>https://dev.to/andriizvorygin/owen-sound-from-transit-budgets-to-ride-targets-42jf</id>
-        <link href="https://dev.to/andriizvorygin/owen-sound-from-transit-budgets-to-ride-targets-42jf"/>
-        <updated>2026-11-02T16:00:00.000Z</updated>
-        <published>2026-11-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Before React: Everything You Need to Know]]></title>
-        <id>https://dev.to/hamedfarazi/javascript-before-react-everything-you-need-to-know-4gne</id>
-        <link href="https://dev.to/hamedfarazi/javascript-before-react-everything-you-need-to-know-4gne"/>
-        <updated>2026-11-02T16:00:00.000Z</updated>
-        <published>2026-11-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Word.LineFormat lost 8 documented properties in Office.js 16.0.20619]]></title>
-        <id>https://dev.to/r0men_/wordlineformat-lost-8-documented-properties-in-officejs-16020619-1h85</id>
-        <link href="https://dev.to/r0men_/wordlineformat-lost-8-documented-properties-in-officejs-16020619-1h85"/>
-        <updated>2026-11-02T16:00:00.000Z</updated>
-        <published>2026-11-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ShipFast Alternative for Next.js App Router (2026): Honest Comparison]]></title>
-        <id>https://dev.to/jakemcdonald/shipfast-alternative-for-nextjs-app-router-2026-honest-comparison-3p45</id>
-        <link href="https://dev.to/jakemcdonald/shipfast-alternative-for-nextjs-app-router-2026-honest-comparison-3p45"/>
-        <updated>2026-11-02T16:00:00.000Z</updated>
-        <published>2026-11-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[German Income Tax Calculation in JavaScript]]></title>
-        <id>https://dev.to/tanzeel_abbas_1288a9e8d4c/german-income-tax-calculation-in-javascript-1ja2</id>
-        <link href="https://dev.to/tanzeel_abbas_1288a9e8d4c/german-income-tax-calculation-in-javascript-1ja2"/>
+        <title type="html"><![CDATA[I Built a Client-Side WebP to PNG Converter: 5 Lessons]]></title>
+        <id>https://dev.to/bowentse/i-built-a-client-side-webp-to-png-converter-5-lessons-27ma</id>
+        <link href="https://dev.to/bowentse/i-built-a-client-side-webp-to-png-converter-5-lessons-27ma"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
