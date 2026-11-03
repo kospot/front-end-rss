@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-03T00:02:48.297Z</updated>
+    <updated>2026-11-03T02:01:54.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等]]></title>
+        <id>https://sspai.com/post/118232</id>
+        <link href="https://sspai.com/post/118232"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple set an iPhone sales record even without a new standard iPhone]]></title>
         <id>https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings</id>
@@ -71,37 +78,44 @@
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A step-by-step guide for how to kill the line-by-line code review]]></title>
-        <id>https://thenewstack.io/ai-code-review-invariants/</id>
-        <link href="https://thenewstack.io/ai-code-review-invariants/"/>
+        <title type="html"><![CDATA[Google search has gone from being handy to useless (cartoon)]]></title>
+        <id>https://www.theguardian.com/commentisfree/picture/2026/nov/02/google-search-has-gone-from-being-very-handy-to-useless</id>
+        <link href="https://www.theguardian.com/commentisfree/picture/2026/nov/02/google-search-has-gone-from-being-very-handy-to-useless"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Trail Commons – A new open map of mountain bike trails]]></title>
-        <id>https://trailcommons.app/posts/announcing-trail-commons</id>
-        <link href="https://trailcommons.app/posts/announcing-trail-commons"/>
+        <title type="html"><![CDATA[On-device re-write via WebLLM in a Chrome extension]]></title>
+        <id>https://chromewebstore.google.com/detail/restated-rewrite-tone-on/lhfidcgfjjiiodkbnikdcnanckmbpimo</id>
+        <link href="https://chromewebstore.google.com/detail/restated-rewrite-tone-on/lhfidcgfjjiiodkbnikdcnanckmbpimo"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BYD sold more EVs last month than the US did all quarter, topping 300,000]]></title>
-        <id>https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/</id>
-        <link href="https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/"/>
+        <title type="html"><![CDATA[Show HN: HackerTV – HN's most-recommended YT videos as 24/7 TV channels]]></title>
+        <id>https://hackertv.org</id>
+        <link href="https://hackertv.org"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Ford Privacy Promise: You're in Control of Your Data]]></title>
-        <id>https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise</id>
-        <link href="https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise"/>
+        <title type="html"><![CDATA[Show HN: Binge watch ideas from the best people across different domains]]></title>
+        <id>https://www.stealbrains.com/tv</id>
+        <link href="https://www.stealbrains.com/tv"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tender bond between male donkey and bull baffles scientists]]></title>
-        <id>https://www.theguardian.com/science/2026/nov/02/tender-bond-male-donkey-bull-baffles-scientists</id>
-        <link href="https://www.theguardian.com/science/2026/nov/02/tender-bond-male-donkey-bull-baffles-scientists"/>
+        <title type="html"><![CDATA[Maksym Radziwill–'The quasi-Riemann Hypothesis' [video]]]></title>
+        <id>https://www.youtube.com/watch?v=kYCOOyYkit8</id>
+        <link href="https://www.youtube.com/watch?v=kYCOOyYkit8"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pando - OpenAI's alternative to Git for source control]]></title>
+        <id>https://twitter.com/OpenAIDevs/status/2117408792346509663</id>
+        <link href="https://twitter.com/OpenAIDevs/status/2117408792346509663"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
@@ -113,51 +127,58 @@
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Agent Memory That Learns, Forgets and Stays Permissioned: A Week of Evidence]]></title>
-        <id>https://pub.towardsai.net/agent-memory-that-learns-forgets-and-stays-permissioned-a-week-of-evidence-dda3a08e3725?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/agent-memory-that-learns-forgets-and-stays-permissioned-a-week-of-evidence-dda3a08e3725?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Tender bond between male donkey and bull baffles scientists]]></title>
+        <id>https://www.theguardian.com/science/2026/nov/02/tender-bond-male-donkey-bull-baffles-scientists</id>
+        <link href="https://www.theguardian.com/science/2026/nov/02/tender-bond-male-donkey-bull-baffles-scientists"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Breaks When Your Knowledge Graph Goes Stale: A Small .NET Drift Experiment]]></title>
-        <id>https://pub.towardsai.net/what-breaks-when-your-knowledge-graph-goes-stale-a-small-net-drift-experiment-d464d11c4a17?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/what-breaks-when-your-knowledge-graph-goes-stale-a-small-net-drift-experiment-d464d11c4a17?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The Ford Privacy Promise: You're in Control of Your Data]]></title>
+        <id>https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise</id>
+        <link href="https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Route First, Retrieve Second, But Never Trust the Router’s Confidence]]></title>
-        <id>https://pub.towardsai.net/route-first-retrieve-second-but-never-trust-the-routers-confidence-f86ac0367a3d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/route-first-retrieve-second-but-never-trust-the-routers-confidence-f86ac0367a3d?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[BYD sold more EVs last month than the US did all quarter, topping 300,000]]></title>
+        <id>https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/</id>
+        <link href="https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LLM Post-Training: Feedback Design and Algorithm Selection]]></title>
-        <id>https://pub.towardsai.net/llm-post-training-feedback-design-and-algorithm-selection-47d3cf4cbae3?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/llm-post-training-feedback-design-and-algorithm-selection-47d3cf4cbae3?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Trail Commons – A new open map of mountain bike trails]]></title>
+        <id>https://trailcommons.app/posts/announcing-trail-commons</id>
+        <link href="https://trailcommons.app/posts/announcing-trail-commons"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Day 38/100] Knowledge Graph Memory for AI Agents: Neo4j, Memgraph, and Zep]]></title>
-        <id>https://pub.towardsai.net/day-38-100-knowledge-graph-memory-for-ai-agents-neo4j-memgraph-and-zep-a72dbc5cf558?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/day-38-100-knowledge-graph-memory-for-ai-agents-neo4j-memgraph-and-zep-a72dbc5cf558?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[A step-by-step guide for how to kill the line-by-line code review]]></title>
+        <id>https://thenewstack.io/ai-code-review-invariants/</id>
+        <link href="https://thenewstack.io/ai-code-review-invariants/"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rust Is Becoming the Layer Generative AI Runs On: 10 Repos Trending This Week]]></title>
-        <id>https://pub.towardsai.net/rust-is-becoming-the-layer-generative-ai-runs-on-10-repos-trending-this-week-b0ce27b855ef?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/rust-is-becoming-the-layer-generative-ai-runs-on-10-repos-trending-this-week-b0ce27b855ef?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Your RAG Retriever Is Fast but Not Smart: Hybrid Search and Re-Ranking in LangChain]]></title>
+        <id>https://pub.towardsai.net/your-rag-retriever-is-fast-but-not-smart-hybrid-search-and-re-ranking-in-langchain-c81565304ad9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-rag-retriever-is-fast-but-not-smart-hybrid-search-and-re-ranking-in-langchain-c81565304ad9?source=rss----98111c9905da---4"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Machines That Forget on Purpose]]></title>
-        <id>https://pub.towardsai.net/machines-that-forget-on-purpose-0636d0e0bdd1?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/machines-that-forget-on-purpose-0636d0e0bdd1?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Hands-On: An Agent in Plain Python, No Framework]]></title>
+        <id>https://pub.towardsai.net/hands-on-an-agent-in-plain-python-no-framework-fa282930b978?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/hands-on-an-agent-in-plain-python-no-framework-fa282930b978?source=rss----98111c9905da---4"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Day 39/100] Teaching an AI Agent to Forget: Memory Compression and Decay]]></title>
+        <id>https://pub.towardsai.net/day-39-100-teaching-an-ai-agent-to-forget-memory-compression-and-decay-1ca7c47e48de?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/day-39-100-teaching-an-ai-agent-to-forget-memory-compression-and-decay-1ca7c47e48de?source=rss----98111c9905da---4"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
@@ -169,9 +190,51 @@
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Day 39/100] Teaching an AI Agent to Forget: Memory Compression and Decay]]></title>
-        <id>https://pub.towardsai.net/day-39-100-teaching-an-ai-agent-to-forget-memory-compression-and-decay-1ca7c47e48de?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/day-39-100-teaching-an-ai-agent-to-forget-memory-compression-and-decay-1ca7c47e48de?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Machines That Forget on Purpose]]></title>
+        <id>https://pub.towardsai.net/machines-that-forget-on-purpose-0636d0e0bdd1?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/machines-that-forget-on-purpose-0636d0e0bdd1?source=rss----98111c9905da---4"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust Is Becoming the Layer Generative AI Runs On: 10 Repos Trending This Week]]></title>
+        <id>https://pub.towardsai.net/rust-is-becoming-the-layer-generative-ai-runs-on-10-repos-trending-this-week-b0ce27b855ef?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/rust-is-becoming-the-layer-generative-ai-runs-on-10-repos-trending-this-week-b0ce27b855ef?source=rss----98111c9905da---4"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Day 38/100] Knowledge Graph Memory for AI Agents: Neo4j, Memgraph, and Zep]]></title>
+        <id>https://pub.towardsai.net/day-38-100-knowledge-graph-memory-for-ai-agents-neo4j-memgraph-and-zep-a72dbc5cf558?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/day-38-100-knowledge-graph-memory-for-ai-agents-neo4j-memgraph-and-zep-a72dbc5cf558?source=rss----98111c9905da---4"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM Post-Training: Feedback Design and Algorithm Selection]]></title>
+        <id>https://pub.towardsai.net/llm-post-training-feedback-design-and-algorithm-selection-47d3cf4cbae3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/llm-post-training-feedback-design-and-algorithm-selection-47d3cf4cbae3?source=rss----98111c9905da---4"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Route First, Retrieve Second, But Never Trust the Router’s Confidence]]></title>
+        <id>https://pub.towardsai.net/route-first-retrieve-second-but-never-trust-the-routers-confidence-f86ac0367a3d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/route-first-retrieve-second-but-never-trust-the-routers-confidence-f86ac0367a3d?source=rss----98111c9905da---4"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Breaks When Your Knowledge Graph Goes Stale: A Small .NET Drift Experiment]]></title>
+        <id>https://pub.towardsai.net/what-breaks-when-your-knowledge-graph-goes-stale-a-small-net-drift-experiment-d464d11c4a17?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/what-breaks-when-your-knowledge-graph-goes-stale-a-small-net-drift-experiment-d464d11c4a17?source=rss----98111c9905da---4"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent Memory That Learns, Forgets and Stays Permissioned: A Week of Evidence]]></title>
+        <id>https://pub.towardsai.net/agent-memory-that-learns-forgets-and-stays-permissioned-a-week-of-evidence-dda3a08e3725?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/agent-memory-that-learns-forgets-and-stays-permissioned-a-week-of-evidence-dda3a08e3725?source=rss----98111c9905da---4"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
@@ -202,93 +265,65 @@ https://github.com/evoluteur/platonic-solids
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How We Engineered a Zero-Friction Real Estate CRM with React, Vite SSG, and 167 Prerendered Routes]]></title>
-        <id>https://dev.to/bhai_bhaimovies_46364f54/how-we-engineered-a-zero-friction-real-estate-crm-with-react-vite-ssg-and-167-prerendered-routes-2e8l</id>
-        <link href="https://dev.to/bhai_bhaimovies_46364f54/how-we-engineered-a-zero-friction-real-estate-crm-with-react-vite-ssg-and-167-prerendered-routes-2e8l"/>
+        <title type="html"><![CDATA[A lost response is not a failed write: design retries around intent]]></title>
+        <id>https://dev.to/teasateam/a-lost-response-is-not-a-failed-write-design-retries-around-intent-36e3</id>
+        <link href="https://dev.to/teasateam/a-lost-response-is-not-a-failed-write-design-retries-around-intent-36e3"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building an Enterprise-Grade Contact Form in React with Zod and CSS Modules]]></title>
-        <id>https://dev.to/ekosarya/building-an-enterprise-grade-contact-form-in-react-with-zod-and-css-modules-bi4</id>
-        <link href="https://dev.to/ekosarya/building-an-enterprise-grade-contact-form-in-react-with-zod-and-css-modules-bi4"/>
+        <title type="html"><![CDATA[Zero-Dependency Architecture: Why We Built KVDock with 0 External Dependencies]]></title>
+        <id>https://dev.to/zisamglitch/zero-dependency-architecture-why-we-built-kvdock-with-0-external-dependencies-50fj</id>
+        <link href="https://dev.to/zisamglitch/zero-dependency-architecture-why-we-built-kvdock-with-0-external-dependencies-50fj"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Scan QR Code from PDF Documents Online Without Uploading Files]]></title>
-        <id>https://dev.to/craftrex/how-to-scan-qr-code-from-pdf-documents-online-without-uploading-files-2gen</id>
-        <link href="https://dev.to/craftrex/how-to-scan-qr-code-from-pdf-documents-online-without-uploading-files-2gen"/>
+        <title type="html"><![CDATA[Integrating ElevenLabs with Next.js: Step-by-Step Guide]]></title>
+        <id>https://dev.to/voice_developer/integrating-elevenlabs-with-nextjs-step-by-step-guide-28ee</id>
+        <link href="https://dev.to/voice_developer/integrating-elevenlabs-with-nextjs-step-by-step-guide-28ee"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built a Privacy-Focused Loan Calculator with Pure JavaScript and Chart.js]]></title>
-        <id>https://dev.to/huali/how-i-built-a-privacy-focused-loan-calculator-with-pure-javascript-and-chartjs-kb3</id>
-        <link href="https://dev.to/huali/how-i-built-a-privacy-focused-loan-calculator-with-pure-javascript-and-chartjs-kb3"/>
+        <title type="html"><![CDATA[HTMX + Alpine.js: Building a SPA Feel Without a Client-Rendered App]]></title>
+        <id>https://dev.to/towami/htmx-alpinejs-building-a-spa-feel-without-a-client-rendered-app-4cjf</id>
+        <link href="https://dev.to/towami/htmx-alpinejs-building-a-spa-feel-without-a-client-rendered-app-4cjf"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Convert PNG to JPEG or WebP in the Browser: What Happens to Transparency]]></title>
-        <id>https://dev.to/onepassapps/convert-png-to-jpeg-or-webp-in-the-browser-what-happens-to-transparency-2hjg</id>
-        <link href="https://dev.to/onepassapps/convert-png-to-jpeg-or-webp-in-the-browser-what-happens-to-transparency-2hjg"/>
+        <title type="html"><![CDATA[Prevent leaked asyncio workers by making task ownership explicit]]></title>
+        <id>https://dev.to/chriserodriguez/prevent-leaked-asyncio-workers-by-making-task-ownership-explicit-5050</id>
+        <link href="https://dev.to/chriserodriguez/prevent-leaked-asyncio-workers-by-making-task-ownership-explicit-5050"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pagination SEO in 2026: rel=next is dead, and these 5 checks matter instead]]></title>
-        <id>https://dev.to/seotto/pagination-seo-in-2026-relnext-is-dead-and-these-5-checks-matter-instead-16e0</id>
-        <link href="https://dev.to/seotto/pagination-seo-in-2026-relnext-is-dead-and-these-5-checks-matter-instead-16e0"/>
+        <title type="html"><![CDATA[Web Locks and draft recovery: which browser edge cases am I missing?]]></title>
+        <id>https://dev.to/lartuen/web-locks-and-draft-recovery-which-browser-edge-cases-am-i-missing-5324</id>
+        <link href="https://dev.to/lartuen/web-locks-and-draft-recovery-which-browser-edge-cases-am-i-missing-5324"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Core Web Vitals regressed and you found out 4 weeks later: catching it with the CrUX API and a lab gate]]></title>
-        <id>https://dev.to/seotto/core-web-vitals-regressed-and-you-found-out-4-weeks-later-catching-it-with-the-crux-api-and-a-lab-3lk5</id>
-        <link href="https://dev.to/seotto/core-web-vitals-regressed-and-you-found-out-4-weeks-later-catching-it-with-the-crux-api-and-a-lab-3lk5"/>
+        <title type="html"><![CDATA[What migrating a Vuetify 2 dashboard to Vue 3 actually took]]></title>
+        <id>https://dev.to/sayedesmail/what-migrating-a-vuetify-2-dashboard-to-vue-3-actually-took-2nih</id>
+        <link href="https://dev.to/sayedesmail/what-migrating-a-vuetify-2-dashboard-to-vue-3-actually-took-2nih"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[German Income Tax Calculation in JavaScript]]></title>
-        <id>https://dev.to/tanzeel_abbas_1288a9e8d4c/german-income-tax-calculation-in-javascript-1ja2</id>
-        <link href="https://dev.to/tanzeel_abbas_1288a9e8d4c/german-income-tax-calculation-in-javascript-1ja2"/>
+        <title type="html"><![CDATA[Why Every Backend Needs Multi-Tier Caching (L1 RAM + L2 Redis)]]></title>
+        <id>https://dev.to/zisamglitch/why-every-backend-needs-multi-tier-caching-l1-ram-l2-redis-16cj</id>
+        <link href="https://dev.to/zisamglitch/why-every-backend-needs-multi-tier-caching-l1-ram-l2-redis-16cj"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ShipFast Alternative for Next.js App Router (2026): Honest Comparison]]></title>
-        <id>https://dev.to/jakemcdonald/shipfast-alternative-for-nextjs-app-router-2026-honest-comparison-3p45</id>
-        <link href="https://dev.to/jakemcdonald/shipfast-alternative-for-nextjs-app-router-2026-honest-comparison-3p45"/>
-        <updated>2026-11-02T16:00:00.000Z</updated>
-        <published>2026-11-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Word.LineFormat lost 8 documented properties in Office.js 16.0.20619]]></title>
-        <id>https://dev.to/r0men_/wordlineformat-lost-8-documented-properties-in-officejs-16020619-1h85</id>
-        <link href="https://dev.to/r0men_/wordlineformat-lost-8-documented-properties-in-officejs-16020619-1h85"/>
-        <updated>2026-11-02T16:00:00.000Z</updated>
-        <published>2026-11-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Before React: Everything You Need to Know]]></title>
-        <id>https://dev.to/hamedfarazi/javascript-before-react-everything-you-need-to-know-4gne</id>
-        <link href="https://dev.to/hamedfarazi/javascript-before-react-everything-you-need-to-know-4gne"/>
-        <updated>2026-11-02T16:00:00.000Z</updated>
-        <published>2026-11-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Owen Sound: From Transit Budgets to Ride Targets]]></title>
-        <id>https://dev.to/andriizvorygin/owen-sound-from-transit-budgets-to-ride-targets-42jf</id>
-        <link href="https://dev.to/andriizvorygin/owen-sound-from-transit-budgets-to-ride-targets-42jf"/>
-        <updated>2026-11-02T16:00:00.000Z</updated>
-        <published>2026-11-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A 2.4-Billion-View TikTok Came Back as 1,894,967,296 and Took the Whole Average With It]]></title>
-        <id>https://dev.to/matveyg/a-24-billion-view-tiktok-came-back-as-1894967296-and-took-the-whole-average-with-it-1032</id>
-        <link href="https://dev.to/matveyg/a-24-billion-view-tiktok-came-back-as-1894967296-and-took-the-whole-average-with-it-1032"/>
+        <title type="html"><![CDATA[Day 26 of My React Learning Journey 🚀 | useEffect Hook and Component Lifecycle]]></title>
+        <id>https://dev.to/saravanan_cn_183fcba7cc7a/day-26-of-my-react-learning-journey-useeffect-hook-and-component-lifecycle-2mh1</id>
+        <link href="https://dev.to/saravanan_cn_183fcba7cc7a/day-26-of-my-react-learning-journey-useeffect-hook-and-component-lifecycle-2mh1"/>
         <updated>2026-11-02T16:00:00.000Z</updated>
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
@@ -300,80 +335,45 @@ https://github.com/evoluteur/platonic-solids
         <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验]]></title>
-        <id>https://sspai.com/post/118122</id>
-        <link href="https://sspai.com/post/118122"/>
-        <updated>2026-11-01T16:00:00.000Z</updated>
-        <published>2026-11-01T16:00:00.000Z</published>
+        <title type="html"><![CDATA[A 2.4-Billion-View TikTok Came Back as 1,894,967,296 and Took the Whole Average With It]]></title>
+        <id>https://dev.to/matveyg/a-24-billion-view-tiktok-came-back-as-1894967296-and-took-the-whole-average-with-it-1032</id>
+        <link href="https://dev.to/matveyg/a-24-billion-view-tiktok-came-back-as-1894967296-and-took-the-whole-average-with-it-1032"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX could buy Boost Mobile as part of its big mobile carrier plans]]></title>
-        <id>https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report</id>
-        <link href="https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report"/>
-        <updated>2026-11-01T16:00:00.000Z</updated>
-        <published>2026-11-01T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Owen Sound: From Transit Budgets to Ride Targets]]></title>
+        <id>https://dev.to/andriizvorygin/owen-sound-from-transit-budgets-to-ride-targets-42jf</id>
+        <link href="https://dev.to/andriizvorygin/owen-sound-from-transit-budgets-to-ride-targets-42jf"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple’s HomeView could add security camera features]]></title>
-        <id>https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features</id>
-        <link href="https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features"/>
-        <updated>2026-11-01T16:00:00.000Z</updated>
-        <published>2026-11-01T16:00:00.000Z</published>
+        <title type="html"><![CDATA[JavaScript Before React: Everything You Need to Know]]></title>
+        <id>https://dev.to/hamedfarazi/javascript-before-react-everything-you-need-to-know-4gne</id>
+        <link href="https://dev.to/hamedfarazi/javascript-before-react-everything-you-need-to-know-4gne"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[More European supermarkets are getting their freezers hacked]]></title>
-        <id>https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack</id>
-        <link href="https://www.theverge.com/tech/1024300/europe-freezer-fridge-hack-cyberattack"/>
-        <updated>2026-11-01T16:00:00.000Z</updated>
-        <published>2026-11-01T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Word.LineFormat lost 8 documented properties in Office.js 16.0.20619]]></title>
+        <id>https://dev.to/r0men_/wordlineformat-lost-8-documented-properties-in-officejs-16020619-1h85</id>
+        <link href="https://dev.to/r0men_/wordlineformat-lost-8-documented-properties-in-officejs-16020619-1h85"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18 Best Gifts for PC Gamers (2026): Headsets, Desks, Monitors]]></title>
-        <id>https://www.wired.com/gallery/gift-ideas-for-pc-gamers/</id>
-        <link href="https://www.wired.com/gallery/gift-ideas-for-pc-gamers/"/>
-        <updated>2026-11-01T16:00:00.000Z</updated>
-        <published>2026-11-01T16:00:00.000Z</published>
+        <title type="html"><![CDATA[ShipFast Alternative for Next.js App Router (2026): Honest Comparison]]></title>
+        <id>https://dev.to/jakemcdonald/shipfast-alternative-for-nextjs-app-router-2026-honest-comparison-3p45</id>
+        <link href="https://dev.to/jakemcdonald/shipfast-alternative-for-nextjs-app-router-2026-honest-comparison-3p45"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Birdbuddy vs. Birdfy: Which Budget Smart Feeder Should You Buy? (2026)]]></title>
-        <id>https://www.wired.com/story/birdbuddy-nook-vs-birdfy-rookie/</id>
-        <link href="https://www.wired.com/story/birdbuddy-nook-vs-birdfy-rookie/"/>
-        <updated>2026-11-01T16:00:00.000Z</updated>
-        <published>2026-11-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get 25 Percent Off My Favorite Renter-Friendly Storage Lockers]]></title>
-        <id>https://www.wired.com/story/mustard-made-sale-october-2026/</id>
-        <link href="https://www.wired.com/story/mustard-made-sale-october-2026/"/>
-        <updated>2026-11-01T16:00:00.000Z</updated>
-        <published>2026-11-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ford launches a ‘privacy promise’ and explains how and why it uses customer data]]></title>
-        <id>https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/</id>
-        <link href="https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/"/>
-        <updated>2026-11-01T16:00:00.000Z</updated>
-        <published>2026-11-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI can make tech CEOs’ lives easier. What about everyone else?]]></title>
-        <id>https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/</id>
-        <link href="https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"/>
-        <updated>2026-11-01T16:00:00.000Z</updated>
-        <published>2026-11-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Borrowed reading: stories from our extended colleagues]]></title>
-        <id>https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/</id>
-        <link href="https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/"/>
-        <updated>2026-11-01T16:00:00.000Z</updated>
-        <published>2026-11-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries]]></title>
-        <id>https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/</id>
-        <link href="https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/"/>
-        <updated>2026-11-01T16:00:00.000Z</updated>
-        <published>2026-11-01T16:00:00.000Z</published>
+        <title type="html"><![CDATA[German Income Tax Calculation in JavaScript]]></title>
+        <id>https://dev.to/tanzeel_abbas_1288a9e8d4c/german-income-tax-calculation-in-javascript-1ja2</id>
+        <link href="https://dev.to/tanzeel_abbas_1288a9e8d4c/german-income-tax-calculation-in-javascript-1ja2"/>
+        <updated>2026-11-02T16:00:00.000Z</updated>
+        <published>2026-11-02T16:00:00.000Z</published>
     </entry>
 </feed>
