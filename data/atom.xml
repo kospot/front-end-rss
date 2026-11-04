@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-04T02:03:08.299Z</updated>
+    <updated>2026-11-04T04:04:12.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -85,142 +85,58 @@
         <published>2026-11-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI is quietly renaming data centers 'compute campuses']]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses"/>
+        <title type="html"><![CDATA[Show HN: Brim – Use the iPhone Duo's whole outer display in Safari]]></title>
+        <id>https://brim-app-rho.vercel.app/</id>
+        <link href="https://brim-app-rho.vercel.app/"/>
         <updated>2026-11-03T16:00:00.000Z</updated>
         <published>2026-11-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Pauseless – Free silence/filler-word remover from videos, on-browser]]></title>
-        <id>https://tahaygun.github.io/pauseless/</id>
-        <link href="https://tahaygun.github.io/pauseless/"/>
+        <title type="html"><![CDATA[Audrey: The Early 2000's Failed Internet Appliance [video]]]></title>
+        <id>https://www.youtube.com/watch?v=TyXtBrC1Fv0</id>
+        <link href="https://www.youtube.com/watch?v=TyXtBrC1Fv0"/>
         <updated>2026-11-03T16:00:00.000Z</updated>
         <published>2026-11-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Library of Babel]]></title>
-        <id>https://libraryofbabel.app/</id>
-        <link href="https://libraryofbabel.app/"/>
+        <title type="html"><![CDATA[Show HN: Rendering 3D Models in the Terminal]]></title>
+        <id>https://muratbayraktar.dev/blog/3d-rendering-in-the-terminal/</id>
+        <link href="https://muratbayraktar.dev/blog/3d-rendering-in-the-terminal/"/>
         <updated>2026-11-03T16:00:00.000Z</updated>
         <published>2026-11-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dam and Joysound Came to Dominate Karaoke in Japan]]></title>
-        <id>https://www.tokyodev.com/articles/how-dam-and-joysound-came-to-dominate-karaoke-in-japan</id>
-        <link href="https://www.tokyodev.com/articles/how-dam-and-joysound-came-to-dominate-karaoke-in-japan"/>
+        <title type="html"><![CDATA[Show HN: Railyard – Git-push deploys and OSS templates on your own VPS]]></title>
+        <id>https://railyard.run/</id>
+        <link href="https://railyard.run/"/>
         <updated>2026-11-03T16:00:00.000Z</updated>
         <published>2026-11-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mozilla soliciting feedback on Firefox 160's new mini window feature]]></title>
-        <id>https://connect.mozilla.org/t5/discussions/mini-window-beta-is-going-live-in-firefox-160-and-we-want-your/m-p/145805</id>
-        <link href="https://connect.mozilla.org/t5/discussions/mini-window-beta-is-going-live-in-firefox-160-and-we-want-your/m-p/145805"/>
+        <title type="html"><![CDATA[SemiconductorX – The Chip Supply Chain, from Quartz to Module]]></title>
+        <id>https://semiconductorx.com/</id>
+        <link href="https://semiconductorx.com/"/>
         <updated>2026-11-03T16:00:00.000Z</updated>
         <published>2026-11-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[More daily API calls than Google searches, now applied to LLM inference]]></title>
-        <id>https://inference.alchemy.com</id>
-        <link href="https://inference.alchemy.com"/>
+        <title type="html"><![CDATA[Distinct cellular and genetic differences in colorectal cancer in young patients]]></title>
+        <id>https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients</id>
+        <link href="https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients"/>
         <updated>2026-11-03T16:00:00.000Z</updated>
         <published>2026-11-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zod: TypeScript-first schema validation with static type inference]]></title>
-        <id>https://zod.dev/</id>
-        <link href="https://zod.dev/"/>
+        <title type="html"><![CDATA[Arrows to arrows, categories to queries (2025)]]></title>
+        <id>https://reasonablypolymorphic.com/blog/arrows-to-arrows/</id>
+        <link href="https://reasonablypolymorphic.com/blog/arrows-to-arrows/"/>
         <updated>2026-11-03T16:00:00.000Z</updated>
         <published>2026-11-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TanStack Query: The server-state standard for modern front end apps]]></title>
-        <id>https://tanstack.com/query/latest</id>
-        <link href="https://tanstack.com/query/latest"/>
-        <updated>2026-11-03T16:00:00.000Z</updated>
-        <published>2026-11-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TanStack: Headless, type-safe, composable tools for building modern web apps]]></title>
-        <id>https://tanstack.com/</id>
-        <link href="https://tanstack.com/"/>
-        <updated>2026-11-03T16:00:00.000Z</updated>
-        <published>2026-11-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fal raises Series E and F]]></title>
-        <id>https://fal.ai/blog/series-e-f</id>
-        <link href="https://fal.ai/blog/series-e-f"/>
-        <updated>2026-11-03T16:00:00.000Z</updated>
-        <published>2026-11-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safari introduces Adaptive Dark Mode in 27.3]]></title>
-        <id>https://webkit.org/blog/18541/introducing-adaptive-dark-mode/</id>
-        <link href="https://webkit.org/blog/18541/introducing-adaptive-dark-mode/"/>
-        <updated>2026-11-03T16:00:00.000Z</updated>
-        <published>2026-11-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Small Print, see when an MCP server changes what it tells your agent]]></title>
-        <id>https://smallprint.dev</id>
-        <link href="https://smallprint.dev"/>
-        <updated>2026-11-03T16:00:00.000Z</updated>
-        <published>2026-11-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hedge Fund Presentations by Renowned Activist Investors]]></title>
-        <id>https://www.10xebitda.com/hedge-fund-presentations/</id>
-        <link href="https://www.10xebitda.com/hedge-fund-presentations/"/>
-        <updated>2026-11-03T16:00:00.000Z</updated>
-        <published>2026-11-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adamanteum: A local, MIT knowledge atlas your notes and any AI can both read]]></title>
-        <id>https://github.com/ohhbeehave35-commits/adamanteum-community</id>
-        <link href="https://github.com/ohhbeehave35-commits/adamanteum-community"/>
-        <updated>2026-11-03T16:00:00.000Z</updated>
-        <published>2026-11-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What a Compromised VS Code Extension Could Do Before You Write a Line of Code]]></title>
-        <id>https://octri.dev/blog/compromised-vs-code-extension</id>
-        <link href="https://octri.dev/blog/compromised-vs-code-extension"/>
-        <updated>2026-11-03T16:00:00.000Z</updated>
-        <published>2026-11-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Netflix Crisis Isn't What It Seems [video]]]></title>
-        <id>https://www.theringer.com/podcasts/plain-english-with-derek-thompson/2026/10/30/the-netflix-crisis-isnt-what-it-seems</id>
-        <link href="https://www.theringer.com/podcasts/plain-english-with-derek-thompson/2026/10/30/the-netflix-crisis-isnt-what-it-seems"/>
-        <updated>2026-11-03T16:00:00.000Z</updated>
-        <published>2026-11-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Craft CMS 5.12.0: Added an authenticated HTTP MCP server]]></title>
-        <id>https://github.com/craftcms/cms/releases/tag/5.12.0</id>
-        <link href="https://github.com/craftcms/cms/releases/tag/5.12.0"/>
-        <updated>2026-11-03T16:00:00.000Z</updated>
-        <published>2026-11-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Things I believed about coding agents]]></title>
-        <id>https://alonbochman.substack.com/p/seven-things-i-believed-about-coding</id>
-        <link href="https://alonbochman.substack.com/p/seven-things-i-believed-about-coding"/>
-        <updated>2026-11-03T16:00:00.000Z</updated>
-        <published>2026-11-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canva CEO's letter to staff: Major restructuring affecting 22% of employees]]></title>
-        <id>https://www.canva.com/newsroom/news/canva-team-update/</id>
-        <link href="https://www.canva.com/newsroom/news/canva-team-update/"/>
-        <updated>2026-11-03T16:00:00.000Z</updated>
-        <published>2026-11-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Accounts to Get SpaceX Shares from Shotwell in December]]></title>
-        <id>https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html</id>
-        <link href="https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html"/>
+        <title type="html"><![CDATA[Online reviews favor e-bikes sold online. Bike-shop e-bikes barely get reviewed]]></title>
+        <id>https://www.bettascore.ai/research/online-vs-bike-shop-ebikes</id>
+        <link href="https://www.bettascore.ai/research/online-vs-bike-shop-ebikes"/>
         <updated>2026-11-03T16:00:00.000Z</updated>
         <published>2026-11-03T16:00:00.000Z</published>
     </entry>
@@ -232,9 +148,142 @@
         <published>2026-11-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Online reviews favor e-bikes sold online. Bike-shop e-bikes barely get reviewed]]></title>
-        <id>https://www.bettascore.ai/research/online-vs-bike-shop-ebikes</id>
-        <link href="https://www.bettascore.ai/research/online-vs-bike-shop-ebikes"/>
+        <title type="html"><![CDATA[Trump Accounts to Get SpaceX Shares from Shotwell in December]]></title>
+        <id>https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html</id>
+        <link href="https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html"/>
+        <updated>2026-11-03T16:00:00.000Z</updated>
+        <published>2026-11-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canva CEO's letter to staff: Major restructuring affecting 22% of employees]]></title>
+        <id>https://www.canva.com/newsroom/news/canva-team-update/</id>
+        <link href="https://www.canva.com/newsroom/news/canva-team-update/"/>
+        <updated>2026-11-03T16:00:00.000Z</updated>
+        <published>2026-11-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Things I believed about coding agents]]></title>
+        <id>https://alonbochman.substack.com/p/seven-things-i-believed-about-coding</id>
+        <link href="https://alonbochman.substack.com/p/seven-things-i-believed-about-coding"/>
+        <updated>2026-11-03T16:00:00.000Z</updated>
+        <published>2026-11-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Craft CMS 5.12.0: Added an authenticated HTTP MCP server]]></title>
+        <id>https://github.com/craftcms/cms/releases/tag/5.12.0</id>
+        <link href="https://github.com/craftcms/cms/releases/tag/5.12.0"/>
+        <updated>2026-11-03T16:00:00.000Z</updated>
+        <published>2026-11-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Netflix Crisis Isn't What It Seems [video]]]></title>
+        <id>https://www.theringer.com/podcasts/plain-english-with-derek-thompson/2026/10/30/the-netflix-crisis-isnt-what-it-seems</id>
+        <link href="https://www.theringer.com/podcasts/plain-english-with-derek-thompson/2026/10/30/the-netflix-crisis-isnt-what-it-seems"/>
+        <updated>2026-11-03T16:00:00.000Z</updated>
+        <published>2026-11-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What a Compromised VS Code Extension Could Do Before You Write a Line of Code]]></title>
+        <id>https://octri.dev/blog/compromised-vs-code-extension</id>
+        <link href="https://octri.dev/blog/compromised-vs-code-extension"/>
+        <updated>2026-11-03T16:00:00.000Z</updated>
+        <published>2026-11-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adamanteum: A local, MIT knowledge atlas your notes and any AI can both read]]></title>
+        <id>https://github.com/ohhbeehave35-commits/adamanteum-community</id>
+        <link href="https://github.com/ohhbeehave35-commits/adamanteum-community"/>
+        <updated>2026-11-03T16:00:00.000Z</updated>
+        <published>2026-11-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hedge Fund Presentations by Renowned Activist Investors]]></title>
+        <id>https://www.10xebitda.com/hedge-fund-presentations/</id>
+        <link href="https://www.10xebitda.com/hedge-fund-presentations/"/>
+        <updated>2026-11-03T16:00:00.000Z</updated>
+        <published>2026-11-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Small Print, see when an MCP server changes what it tells your agent]]></title>
+        <id>https://smallprint.dev</id>
+        <link href="https://smallprint.dev"/>
+        <updated>2026-11-03T16:00:00.000Z</updated>
+        <published>2026-11-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safari introduces Adaptive Dark Mode in 27.3]]></title>
+        <id>https://webkit.org/blog/18541/introducing-adaptive-dark-mode/</id>
+        <link href="https://webkit.org/blog/18541/introducing-adaptive-dark-mode/"/>
+        <updated>2026-11-03T16:00:00.000Z</updated>
+        <published>2026-11-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fal raises Series E and F]]></title>
+        <id>https://fal.ai/blog/series-e-f</id>
+        <link href="https://fal.ai/blog/series-e-f"/>
+        <updated>2026-11-03T16:00:00.000Z</updated>
+        <published>2026-11-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TanStack: Headless, type-safe, composable tools for building modern web apps]]></title>
+        <id>https://tanstack.com/</id>
+        <link href="https://tanstack.com/"/>
+        <updated>2026-11-03T16:00:00.000Z</updated>
+        <published>2026-11-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TanStack Query: The server-state standard for modern front end apps]]></title>
+        <id>https://tanstack.com/query/latest</id>
+        <link href="https://tanstack.com/query/latest"/>
+        <updated>2026-11-03T16:00:00.000Z</updated>
+        <published>2026-11-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zod: TypeScript-first schema validation with static type inference]]></title>
+        <id>https://zod.dev/</id>
+        <link href="https://zod.dev/"/>
+        <updated>2026-11-03T16:00:00.000Z</updated>
+        <published>2026-11-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More daily API calls than Google searches, now applied to LLM inference]]></title>
+        <id>https://inference.alchemy.com</id>
+        <link href="https://inference.alchemy.com"/>
+        <updated>2026-11-03T16:00:00.000Z</updated>
+        <published>2026-11-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla soliciting feedback on Firefox 160's new mini window feature]]></title>
+        <id>https://connect.mozilla.org/t5/discussions/mini-window-beta-is-going-live-in-firefox-160-and-we-want-your/m-p/145805</id>
+        <link href="https://connect.mozilla.org/t5/discussions/mini-window-beta-is-going-live-in-firefox-160-and-we-want-your/m-p/145805"/>
+        <updated>2026-11-03T16:00:00.000Z</updated>
+        <published>2026-11-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dam and Joysound Came to Dominate Karaoke in Japan]]></title>
+        <id>https://www.tokyodev.com/articles/how-dam-and-joysound-came-to-dominate-karaoke-in-japan</id>
+        <link href="https://www.tokyodev.com/articles/how-dam-and-joysound-came-to-dominate-karaoke-in-japan"/>
+        <updated>2026-11-03T16:00:00.000Z</updated>
+        <published>2026-11-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Library of Babel]]></title>
+        <id>https://libraryofbabel.app/</id>
+        <link href="https://libraryofbabel.app/"/>
+        <updated>2026-11-03T16:00:00.000Z</updated>
+        <published>2026-11-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Pauseless – Free silence/filler-word remover from videos, on-browser]]></title>
+        <id>https://tahaygun.github.io/pauseless/</id>
+        <link href="https://tahaygun.github.io/pauseless/"/>
+        <updated>2026-11-03T16:00:00.000Z</updated>
+        <published>2026-11-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI is quietly renaming data centers 'compute campuses']]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses"/>
         <updated>2026-11-03T16:00:00.000Z</updated>
         <published>2026-11-03T16:00:00.000Z</published>
     </entry>
@@ -253,86 +302,30 @@
         <published>2026-11-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What broke when I moved Grafana Faro to OpenTelemetry JS 3.0]]></title>
-        <id>https://dev.to/adityareddy_dev/what-broke-when-i-moved-grafana-faro-to-opentelemetry-js-30-imb</id>
-        <link href="https://dev.to/adityareddy_dev/what-broke-when-i-moved-grafana-faro-to-opentelemetry-js-30-imb"/>
+        <title type="html"><![CDATA[Three.js Gaussian Splats: Gaussian-Splat-Lite, Spark and Radix on One Desktop]]></title>
+        <id>https://dev.to/alicia_lu/threejs-gaussian-splats-gaussian-splat-lite-spark-and-radix-on-one-desktop-3i35</id>
+        <link href="https://dev.to/alicia_lu/threejs-gaussian-splats-gaussian-splat-lite-spark-and-radix-on-one-desktop-3i35"/>
         <updated>2026-11-03T16:00:00.000Z</updated>
         <published>2026-11-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSV to JSON: the three cases that break every naive parser]]></title>
-        <id>https://dev.to/ii-x-ai/csv-to-json-the-three-cases-that-break-every-naive-parser-2idl</id>
-        <link href="https://dev.to/ii-x-ai/csv-to-json-the-three-cases-that-break-every-naive-parser-2idl"/>
+        <title type="html"><![CDATA[Build a Warrior Game on AWS: A Serverless Action-Adventure Game]]></title>
+        <id>https://dev.to/omayrashraf/build-a-warrior-game-on-aws-a-serverless-action-adventure-game-571k</id>
+        <link href="https://dev.to/omayrashraf/build-a-warrior-game-on-aws-a-serverless-action-adventure-game-571k"/>
         <updated>2026-11-03T16:00:00.000Z</updated>
         <published>2026-11-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A tiny read-only scanner for AI-related names in API client config folders]]></title>
-        <id>https://dev.to/hiegbr/a-tiny-read-only-scanner-for-ai-related-names-in-api-client-config-folders-402m</id>
-        <link href="https://dev.to/hiegbr/a-tiny-read-only-scanner-for-ai-related-names-in-api-client-config-folders-402m"/>
+        <title type="html"><![CDATA[This cache has a 0% hit rate, and there's no bug]]></title>
+        <id>https://dev.to/haiduc0147/this-cache-has-a-0-hit-rate-and-theres-no-bug-16d</id>
+        <link href="https://dev.to/haiduc0147/this-cache-has-a-0-hit-rate-and-theres-no-bug-16d"/>
         <updated>2026-11-03T16:00:00.000Z</updated>
         <published>2026-11-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Isometric SVG diagrams for technical docs with Claude Code]]></title>
-        <id>https://dev.to/mohd_yusufkhan_6c2088c04/isometric-svg-diagrams-for-technical-docs-with-claude-code-1b7l</id>
-        <link href="https://dev.to/mohd_yusufkhan_6c2088c04/isometric-svg-diagrams-for-technical-docs-with-claude-code-1b7l"/>
-        <updated>2026-11-03T16:00:00.000Z</updated>
-        <published>2026-11-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Idempotent USDT Payment Webhooks: Avoiding Double Fulfilment]]></title>
-        <id>https://dev.to/pandawm/idempotent-usdt-payment-webhooks-avoiding-double-fulfilment-3hjm</id>
-        <link href="https://dev.to/pandawm/idempotent-usdt-payment-webhooks-avoiding-double-fulfilment-3hjm"/>
-        <updated>2026-11-03T16:00:00.000Z</updated>
-        <published>2026-11-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Tiny Node Script That Flags Broken Hreflang Targets Before Release]]></title>
-        <id>https://dev.to/pandawm/a-tiny-node-script-that-flags-broken-hreflang-targets-before-release-103n</id>
-        <link href="https://dev.to/pandawm/a-tiny-node-script-that-flags-broken-hreflang-targets-before-release-103n"/>
-        <updated>2026-11-03T16:00:00.000Z</updated>
-        <published>2026-11-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How far you can get with Expo on iOS before Apple asks for $99]]></title>
-        <id>https://dev.to/expo/how-far-you-can-get-with-expo-on-ios-before-apple-asks-for-99-dhb</id>
-        <link href="https://dev.to/expo/how-far-you-can-get-with-expo-on-ios-before-apple-asks-for-99-dhb"/>
-        <updated>2026-11-03T16:00:00.000Z</updated>
-        <published>2026-11-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parsing Run Times in a Calculator: mm:ss, Seconds, and the Ties That Cost Points]]></title>
-        <id>https://dev.to/leenecasella/parsing-run-times-in-a-calculator-mmss-seconds-and-the-ties-that-cost-points-208f</id>
-        <link href="https://dev.to/leenecasella/parsing-run-times-in-a-calculator-mmss-seconds-and-the-ties-that-cost-points-208f"/>
-        <updated>2026-11-03T16:00:00.000Z</updated>
-        <published>2026-11-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The maths behind an options yield matrix (and why raw premium misleads you)]]></title>
-        <id>https://dev.to/optionsmatrixpro/the-maths-behind-an-options-yield-matrix-and-why-raw-premium-misleads-you-24o6</id>
-        <link href="https://dev.to/optionsmatrixpro/the-maths-behind-an-options-yield-matrix-and-why-raw-premium-misleads-you-24o6"/>
-        <updated>2026-11-03T16:00:00.000Z</updated>
-        <published>2026-11-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lessons from shipping a Telegram Mini App game solo]]></title>
-        <id>https://dev.to/__afa7c575bd/lessons-from-shipping-a-telegram-mini-app-game-solo-2enp</id>
-        <link href="https://dev.to/__afa7c575bd/lessons-from-shipping-a-telegram-mini-app-game-solo-2enp"/>
-        <updated>2026-11-03T16:00:00.000Z</updated>
-        <published>2026-11-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Write Your Chrome MV3 Background Worker Like It Never Dies]]></title>
-        <id>https://dev.to/dmitry_cherstvyi_0c87fabd/write-your-chrome-mv3-background-worker-like-it-never-dies-11dj</id>
-        <link href="https://dev.to/dmitry_cherstvyi_0c87fabd/write-your-chrome-mv3-background-worker-like-it-never-dies-11dj"/>
-        <updated>2026-11-03T16:00:00.000Z</updated>
-        <published>2026-11-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keyboard-aware forms in React Native and Expo, with a Save button that rides the keyboard]]></title>
-        <id>https://dev.to/zaynsaul/keyboard-aware-forms-in-react-native-and-expo-with-a-save-button-that-rides-the-keyboard-250l</id>
-        <link href="https://dev.to/zaynsaul/keyboard-aware-forms-in-react-native-and-expo-with-a-save-button-that-rides-the-keyboard-250l"/>
+        <title type="html"><![CDATA[Taming Shopify Post-Purchase: Building a Custom Tracking Widget]]></title>
+        <id>https://dev.to/sellermind/taming-shopify-post-purchase-building-a-custom-tracking-widget-a6f</id>
+        <link href="https://dev.to/sellermind/taming-shopify-post-purchase-building-a-custom-tracking-widget-a6f"/>
         <updated>2026-11-03T16:00:00.000Z</updated>
         <published>2026-11-03T16:00:00.000Z</published>
     </entry>
@@ -344,24 +337,31 @@
         <published>2026-11-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Multi-Column Different-Speed Scrolling]]></title>
-        <id>https://blog.master.dev/multi-column-different-speed-scrolling/</id>
-        <link href="https://blog.master.dev/multi-column-different-speed-scrolling/"/>
+        <title type="html"><![CDATA[Keyboard-aware forms in React Native and Expo, with a Save button that rides the keyboard]]></title>
+        <id>https://dev.to/zaynsaul/keyboard-aware-forms-in-react-native-and-expo-with-a-save-button-that-rides-the-keyboard-250l</id>
+        <link href="https://dev.to/zaynsaul/keyboard-aware-forms-in-react-native-and-expo-with-a-save-button-that-rides-the-keyboard-250l"/>
         <updated>2026-11-03T16:00:00.000Z</updated>
         <published>2026-11-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等]]></title>
-        <id>https://sspai.com/post/118232</id>
-        <link href="https://sspai.com/post/118232"/>
-        <updated>2026-11-02T16:00:00.000Z</updated>
-        <published>2026-11-02T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Write Your Chrome MV3 Background Worker Like It Never Dies]]></title>
+        <id>https://dev.to/dmitry_cherstvyi_0c87fabd/write-your-chrome-mv3-background-worker-like-it-never-dies-11dj</id>
+        <link href="https://dev.to/dmitry_cherstvyi_0c87fabd/write-your-chrome-mv3-background-worker-like-it-never-dies-11dj"/>
+        <updated>2026-11-03T16:00:00.000Z</updated>
+        <published>2026-11-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Redmagic upgrades its liquid-cooled gaming phone with extra RGBs]]></title>
-        <id>https://www.theverge.com/gadgets/1024504/redmagic-12-pro-liquid-cooling-rgb-lighting-185hz-camera</id>
-        <link href="https://www.theverge.com/gadgets/1024504/redmagic-12-pro-liquid-cooling-rgb-lighting-185hz-camera"/>
-        <updated>2026-11-02T16:00:00.000Z</updated>
-        <published>2026-11-02T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Lessons from shipping a Telegram Mini App game solo]]></title>
+        <id>https://dev.to/__afa7c575bd/lessons-from-shipping-a-telegram-mini-app-game-solo-2enp</id>
+        <link href="https://dev.to/__afa7c575bd/lessons-from-shipping-a-telegram-mini-app-game-solo-2enp"/>
+        <updated>2026-11-03T16:00:00.000Z</updated>
+        <published>2026-11-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The maths behind an options yield matrix (and why raw premium misleads you)]]></title>
+        <id>https://dev.to/optionsmatrixpro/the-maths-behind-an-options-yield-matrix-and-why-raw-premium-misleads-you-24o6</id>
+        <link href="https://dev.to/optionsmatrixpro/the-maths-behind-an-options-yield-matrix-and-why-raw-premium-misleads-you-24o6"/>
+        <updated>2026-11-03T16:00:00.000Z</updated>
+        <published>2026-11-03T16:00:00.000Z</published>
     </entry>
 </feed>
