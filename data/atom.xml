@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-05T13:03:03.903Z</updated>
+    <updated>2026-11-05T15:05:17.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,37 +15,44 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Discord is ditching Electron and its new app uses less RAM]]></title>
-        <id>https://www.theverge.com/news/1027379/discord-ditching-electron-web-app</id>
-        <link href="https://www.theverge.com/news/1027379/discord-ditching-electron-web-app"/>
+        <title type="html"><![CDATA[WhatsApp will let you invite friends to events who aren’t on the app]]></title>
+        <id>https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app</id>
+        <link href="https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app"/>
         <updated>2026-11-04T16:00:00.000Z</updated>
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon is getting back into restaurant delivery with Uber Eats team-up]]></title>
-        <id>https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership</id>
-        <link href="https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership"/>
+        <title type="html"><![CDATA[You can post AI music straight to SoundCloud from ElevenLabs]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs"/>
         <updated>2026-11-04T16:00:00.000Z</updated>
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[X says its updated web app is way faster]]></title>
-        <id>https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster</id>
-        <link href="https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster"/>
+        <title type="html"><![CDATA[You can edit your videos with AI on Instagram&#8217;s new desktop Edits app]]></title>
+        <id>https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp</id>
+        <link href="https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp"/>
         <updated>2026-11-04T16:00:00.000Z</updated>
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[17 better ways Elon Musk could have wasted $446 million]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich"/>
+        <title type="html"><![CDATA[Tech is about to get hammered in Congress]]></title>
+        <id>https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy</id>
+        <link href="https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy"/>
         <updated>2026-11-04T16:00:00.000Z</updated>
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bose’s QuietComfort Headphones are more than half off]]></title>
-        <id>https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale"/>
+        <title type="html"><![CDATA[The M6 MacBook Pro is probably the last of its kind]]></title>
+        <id>https://www.theverge.com/tech/1027250/m6-macbook-pro-review</id>
+        <link href="https://www.theverge.com/tech/1027250/m6-macbook-pro-review"/>
+        <updated>2026-11-04T16:00:00.000Z</updated>
+        <published>2026-11-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My therapist thinks I should chuck the Amazon Bee Frontier out a window]]></title>
+        <id>https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables</id>
+        <link href="https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables"/>
         <updated>2026-11-04T16:00:00.000Z</updated>
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
@@ -57,9 +64,37 @@
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My therapist thinks I should chuck the Amazon Bee Frontier out a window]]></title>
-        <id>https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables</id>
-        <link href="https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables"/>
+        <title type="html"><![CDATA[Bose’s QuietComfort Headphones are more than half off]]></title>
+        <id>https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale"/>
+        <updated>2026-11-04T16:00:00.000Z</updated>
+        <published>2026-11-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17 better ways Elon Musk could have wasted $446 million]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich"/>
+        <updated>2026-11-04T16:00:00.000Z</updated>
+        <published>2026-11-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X says its updated web app is way faster]]></title>
+        <id>https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster</id>
+        <link href="https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster"/>
+        <updated>2026-11-04T16:00:00.000Z</updated>
+        <published>2026-11-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon is getting back into restaurant delivery with Uber Eats team-up]]></title>
+        <id>https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership</id>
+        <link href="https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership"/>
+        <updated>2026-11-04T16:00:00.000Z</updated>
+        <published>2026-11-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discord is ditching Electron and its new app uses less RAM]]></title>
+        <id>https://www.theverge.com/news/1027379/discord-ditching-electron-web-app</id>
+        <link href="https://www.theverge.com/news/1027379/discord-ditching-electron-web-app"/>
         <updated>2026-11-04T16:00:00.000Z</updated>
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
@@ -326,41 +361,6 @@
         <title type="html"><![CDATA[Discord is getting GPUI rewrite]]></title>
         <id>https://old.reddit.com/r/rust/comments/1xnzn48/discord_is_getting_gpui_rewrite/</id>
         <link href="https://old.reddit.com/r/rust/comments/1xnzn48/discord_is_getting_gpui_rewrite/"/>
-        <updated>2026-11-04T16:00:00.000Z</updated>
-        <published>2026-11-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baidu dropped ERNIE 5.5 Flash Base]]></title>
-        <id>https://ernie.baidu.com/release/ernie-5-5-flash-base/</id>
-        <link href="https://ernie.baidu.com/release/ernie-5-5-flash-base/"/>
-        <updated>2026-11-04T16:00:00.000Z</updated>
-        <published>2026-11-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pointer Provenance in Rust vs. C++: Pointers Are Not Just Glorified Ints]]></title>
-        <id>https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/</id>
-        <link href="https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/"/>
-        <updated>2026-11-04T16:00:00.000Z</updated>
-        <published>2026-11-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seagate: Hyperscalers Hot for HAMR]]></title>
-        <id>https://www.blocksandfiles.com/disk/2026/10/29/seagate-hyperscalers-hot-for-hamr/5306231</id>
-        <link href="https://www.blocksandfiles.com/disk/2026/10/29/seagate-hyperscalers-hot-for-hamr/5306231"/>
-        <updated>2026-11-04T16:00:00.000Z</updated>
-        <published>2026-11-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unreal Engine 6 at Unreal Fest Tokyo 2026 – No C++, No Blueprints [video]]]></title>
-        <id>https://www.youtube.com/watch?v=i0wZCIhqveQ</id>
-        <link href="https://www.youtube.com/watch?v=i0wZCIhqveQ"/>
-        <updated>2026-11-04T16:00:00.000Z</updated>
-        <published>2026-11-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability]]></title>
-        <id>https://hachyderm.io/@damienmiller/117563026759098135</id>
-        <link href="https://hachyderm.io/@damienmiller/117563026759098135"/>
         <updated>2026-11-04T16:00:00.000Z</updated>
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
