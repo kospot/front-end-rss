@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-06T07:05:07.157Z</updated>
+    <updated>2026-11-06T10:04:24.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -57,289 +57,44 @@
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digital Hygiene]]></title>
-        <id>https://karpathy.bearblog.dev/digital-hygiene/</id>
-        <link href="https://karpathy.bearblog.dev/digital-hygiene/"/>
+        <title type="html"><![CDATA[Map tool – Colorize the world beautiful and ugly]]></title>
+        <id>https://beautiful.foodbatch.com/</id>
+        <link href="https://beautiful.foodbatch.com/"/>
         <updated>2026-11-05T16:00:00.000Z</updated>
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The quiet disappearance of the non-technical engineering manager]]></title>
-        <id>https://medium.com/@emilyhustlenyc/the-quiet-disappearance-of-the-non-technical-engineering-manager-b394d9d6931d</id>
-        <link href="https://medium.com/@emilyhustlenyc/the-quiet-disappearance-of-the-non-technical-engineering-manager-b394d9d6931d"/>
+        <title type="html"><![CDATA[Astroengrams: Rethinking the Cellular Substrate for Memory]]></title>
+        <id>https://www.nature.com/articles/s41583-025-01012-2</id>
+        <link href="https://www.nature.com/articles/s41583-025-01012-2"/>
         <updated>2026-11-05T16:00:00.000Z</updated>
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Groundbreaking Upgrade to SVG Is Approaching: Linked Parameters Are Almost Here]]></title>
-        <id>https://blog.kizu.dev/link-parameters-soon/</id>
-        <link href="https://blog.kizu.dev/link-parameters-soon/"/>
+        <title type="html"><![CDATA[Technical/eng breakdown of Framer's Lighthouse 13.6 optimizations]]></title>
+        <id>https://www.framer.com/blog/lighthouse-13-6/</id>
+        <link href="https://www.framer.com/blog/lighthouse-13-6/"/>
         <updated>2026-11-05T16:00:00.000Z</updated>
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Mantis – AI agents browse 36% faster than with Playwright MCP]]></title>
-        <id>https://github.com/perzianhq/mantis</id>
-        <link href="https://github.com/perzianhq/mantis"/>
+        <title type="html"><![CDATA[The XML-First vs. JSON-First Dilemma]]></title>
+        <id>https://www.xml.com/articles/2025/11/21/xml-first-vs-json-first-publishing/</id>
+        <link href="https://www.xml.com/articles/2025/11/21/xml-first-vs-json-first-publishing/"/>
         <updated>2026-11-05T16:00:00.000Z</updated>
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WhatsFlow CRM – Client-side sales pipeline and receipts for WhatsApp Web]]></title>
-        <id>https://chromewebstore.google.com/detail/whatsflow-crm-seller-vaul/dkhhcnchpoopgkdphmjiljfldinpmibk</id>
-        <link href="https://chromewebstore.google.com/detail/whatsflow-crm-seller-vaul/dkhhcnchpoopgkdphmjiljfldinpmibk"/>
+        <title type="html"><![CDATA[EIC receives just nine applications for €100M defence scale-up call]]></title>
+        <id>https://eic.ec.europa.eu/news/overview-eic-step-scale-defence-call-submissions-2026-10-29_en</id>
+        <link href="https://eic.ec.europa.eu/news/overview-eic-step-scale-defence-call-submissions-2026-10-29_en"/>
         <updated>2026-11-05T16:00:00.000Z</updated>
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Hitchhiker's Guide to Training on Compute Islands]]></title>
-        <id>https://www.coreauto.com/hitchhikers-guide-to-training-on-compute-islands</id>
-        <link href="https://www.coreauto.com/hitchhikers-guide-to-training-on-compute-islands"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canadian hybrid-electric aircraft could reduce northern Ontario medevac times]]></title>
-        <id>https://www.ctvnews.ca/canada/article/could-this-canadian-hybrid-electric-aircraft-reduce-northern-ontario-medevac-times/</id>
-        <link href="https://www.ctvnews.ca/canada/article/could-this-canadian-hybrid-electric-aircraft-reduce-northern-ontario-medevac-times/"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern Java at Stripe: Language upgrades as a service]]></title>
-        <id>https://stripe.dev/blog/modern-java-at-stripe-language-upgrades-as-a-service</id>
-        <link href="https://stripe.dev/blog/modern-java-at-stripe-language-upgrades-as-a-service"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: BollyQuiz for Diwali House Parties]]></title>
-        <id>https://bollyquiz.com/</id>
-        <link href="https://bollyquiz.com/"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switch to Safari]]></title>
-        <id>https://mjtsai.com/blog/2026/11/05/switch-to-safari/</id>
-        <link href="https://mjtsai.com/blog/2026/11/05/switch-to-safari/"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three way Git merging with meld]]></title>
-        <id>https://lukas.zapletalovi.com/posts/2012/three-way-git-merging-with-meld/</id>
-        <link href="https://lukas.zapletalovi.com/posts/2012/three-way-git-merging-with-meld/"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moving a Go CMS to encoding/JSON/v2]]></title>
-        <id>https://hatamoto.dev/post/moving-hatamoto-to-encoding-json-v2</id>
-        <link href="https://hatamoto.dev/post/moving-hatamoto-to-encoding-json-v2"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reachmap]]></title>
-        <id>https://reachmap.app/</id>
-        <link href="https://reachmap.app/"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EA re-releases 25 classic games, restores Wing Commander and Road Rash FMVs]]></title>
-        <id>https://www.ea.com/news/ea-classics-launch</id>
-        <link href="https://www.ea.com/news/ea-classics-launch"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ancient warriors got high on cannabis, burial mound reveals]]></title>
-        <id>https://www.thetimes.com/uk/history/article/scythians-cannabis-siberia-tunnug-herodotus-pm6vs6rlk</id>
-        <link href="https://www.thetimes.com/uk/history/article/scythians-cannabis-siberia-tunnug-herodotus-pm6vs6rlk"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Regulators approve generic HIV-prevention drug for low-income countries]]></title>
-        <id>https://apnews.com/article/generic-lenacapavir-gilead-who-prep-hiv-c3537796e84c54d60179eba3c56561e6</id>
-        <link href="https://apnews.com/article/generic-lenacapavir-gilead-who-prep-hiv-c3537796e84c54d60179eba3c56561e6"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FrontierPhysics: Evaluating Agents for End-to-End Physics Research]]></title>
-        <id>https://arxiv.org/abs/2611.06910</id>
-        <link href="https://arxiv.org/abs/2611.06910"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proled XDR Display Technology Overview [pdf]]]></title>
-        <id>https://www.apple.com/macbook-pro/proled-xdr-display/pdf/PROLED_XDR_Display_Technical_Paper.pdf</id>
-        <link href="https://www.apple.com/macbook-pro/proled-xdr-display/pdf/PROLED_XDR_Display_Technical_Paper.pdf"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Web Page Minification with VitePress]]></title>
-        <id>https://meiert.com/blog/web-page-minification-with-vitepress/</id>
-        <link href="https://meiert.com/blog/web-page-minification-with-vitepress/"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supermicro Super AI Station Review: The AI Server That Doubles as a Workstation]]></title>
-        <id>https://www.servethehome.com/supermicro-super-ai-station-review-the-ai-server-that-doubles-as-a-workstation/</id>
-        <link href="https://www.servethehome.com/supermicro-super-ai-station-review-the-ai-server-that-doubles-as-a-workstation/"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mosaic – a tool to understand and simulate random architectures]]></title>
-        <id>https://github.com/xleelz/mosaic</id>
-        <link href="https://github.com/xleelz/mosaic"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Look at Datastar]]></title>
-        <id>https://noteflakes.com/articles/2026-11-04-datastar</id>
-        <link href="https://noteflakes.com/articles/2026-11-04-datastar"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meridian: Web-browser built on GPUI and Servo]]></title>
-        <id>https://tangled.org/oppi.li/meridian</id>
-        <link href="https://tangled.org/oppi.li/meridian"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setting a new standard for responsible AI infrastructure]]></title>
-        <id>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/</id>
-        <link href="https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Family Digital Legacy – An air-gapped pure HTML vault with WebCrypto]]></title>
-        <id>https://github.com/andresgonzalezperez-hash/legado-digital-familiar</id>
-        <link href="https://github.com/andresgonzalezperez-hash/legado-digital-familiar"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Specgit]]></title>
-        <id>https://specgit.com</id>
-        <link href="https://specgit.com"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'm an Engineer. This ChatGPT Test Scared Me [video]]]></title>
-        <id>https://www.youtube.com/watch?v=TUqScwjnO_k</id>
-        <link href="https://www.youtube.com/watch?v=TUqScwjnO_k"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Stenvakt, a server hardening and patching tool]]></title>
-        <id>https://stenvakt.com/</id>
-        <link href="https://stenvakt.com/"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bruster – Rust browser automation tool and MCP]]></title>
-        <id>https://github.com/aliilyas/bruster</id>
-        <link href="https://github.com/aliilyas/bruster"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video.js: The Documentary]]></title>
-        <id>https://www.youtube.com/watch?v=Kpka8SYbosg</id>
-        <link href="https://www.youtube.com/watch?v=Kpka8SYbosg"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A primer on GPUs and kernel optimization]]></title>
-        <id>https://www.nabo.dev/blogs/kernel-primer</id>
-        <link href="https://www.nabo.dev/blogs/kernel-primer"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Built this app from scratch come check it out tell me what you think?]]></title>
-        <id>https://trumpbot.rip/api/replays/089b5578ed9c709d1457ada82e37d99c0fbc9babadfa9ea1</id>
-        <link href="https://trumpbot.rip/api/replays/089b5578ed9c709d1457ada82e37d99c0fbc9babadfa9ea1"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why do Japanese use -San at end of names? [video]]]></title>
-        <id>https://www.youtube.com/shorts/eYIHBr9LJio</id>
-        <link href="https://www.youtube.com/shorts/eYIHBr9LJio"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS patients to get blood tests designed to detect several cancers at once]]></title>
-        <id>https://www.independent.co.uk/news/uk/home-news/multi-cancer-blood-test-new-nhs-trial-b3079091.html</id>
-        <link href="https://www.independent.co.uk/news/uk/home-news/multi-cancer-blood-test-new-nhs-trial-b3079091.html"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Northstar: A New Booster Engine with More Thrust and Less Mass]]></title>
-        <id>https://www.blueorigin.com/news/introducing-northstar-new-booster-engine</id>
-        <link href="https://www.blueorigin.com/news/introducing-northstar-new-booster-engine"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia CEO called in by lawmakers over ties to alleged Chinese spy]]></title>
-        <id>https://www.axios.com/2026/11/05/jensen-huang-nvidia-congress-china</id>
-        <link href="https://www.axios.com/2026/11/05/jensen-huang-nvidia-congress-china"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Queen's University Belfast students find Neptune's elusive Trojan asteroids]]></title>
-        <id>https://phys.org/news/2026-11-queen-university-belfast-students-neptune.html</id>
-        <link href="https://phys.org/news/2026-11-queen-university-belfast-students-neptune.html"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code, but for SEO]]></title>
-        <id>https://twitter.com/brodieseo/status/2118299596292305356</id>
-        <link href="https://twitter.com/brodieseo/status/2118299596292305356"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Move fast and don't break (safety critical) things]]></title>
-        <id>https://bscholl.substack.com/p/move-fast-and-dont-break-safety-critical</id>
-        <link href="https://bscholl.substack.com/p/move-fast-and-dont-break-safety-critical"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Warns Midterm Backlash Threatens AI Data Centers]]></title>
-        <id>https://epyhia.com/meta-warns-midterm-backlash-threatens-ai-data-centers-goldman-sees-45</id>
-        <link href="https://epyhia.com/meta-warns-midterm-backlash-threatens-ai-data-centers-goldman-sees-45"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are We Cooked? CMU Faculty on AI, Careers and Learning [video]]]></title>
-        <id>https://www.youtube.com/watch?v=U2DDKdUvq6k</id>
-        <link href="https://www.youtube.com/watch?v=U2DDKdUvq6k"/>
+        <title type="html"><![CDATA[How can obedient agents behave badly?]]></title>
+        <id>https://www.turing.ac.uk/blog/how-can-obedient-agents-behave-badly</id>
+        <link href="https://www.turing.ac.uk/blog/how-can-obedient-agents-behave-badly"/>
         <updated>2026-11-05T16:00:00.000Z</updated>
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
@@ -351,16 +106,261 @@
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Australian universities are creating AI-native graduates]]></title>
-        <id>https://openai.com/index/australian-universities-ai-native-graduates</id>
-        <link href="https://openai.com/index/australian-universities-ai-native-graduates"/>
+        <title type="html"><![CDATA[Are We Cooked? CMU Faculty on AI, Careers and Learning [video]]]></title>
+        <id>https://www.youtube.com/watch?v=U2DDKdUvq6k</id>
+        <link href="https://www.youtube.com/watch?v=U2DDKdUvq6k"/>
         <updated>2026-11-05T16:00:00.000Z</updated>
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Forget Me: Deletion in a System Designed to Remember]]></title>
-        <id>https://pub.towardsai.net/forget-me-deletion-in-a-system-designed-to-remember-c011b906428d?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/forget-me-deletion-in-a-system-designed-to-remember-c011b906428d?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Meta Warns Midterm Backlash Threatens AI Data Centers]]></title>
+        <id>https://epyhia.com/meta-warns-midterm-backlash-threatens-ai-data-centers-goldman-sees-45</id>
+        <link href="https://epyhia.com/meta-warns-midterm-backlash-threatens-ai-data-centers-goldman-sees-45"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Move fast and don't break (safety critical) things]]></title>
+        <id>https://bscholl.substack.com/p/move-fast-and-dont-break-safety-critical</id>
+        <link href="https://bscholl.substack.com/p/move-fast-and-dont-break-safety-critical"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code, but for SEO]]></title>
+        <id>https://twitter.com/brodieseo/status/2118299596292305356</id>
+        <link href="https://twitter.com/brodieseo/status/2118299596292305356"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Queen's University Belfast students find Neptune's elusive Trojan asteroids]]></title>
+        <id>https://phys.org/news/2026-11-queen-university-belfast-students-neptune.html</id>
+        <link href="https://phys.org/news/2026-11-queen-university-belfast-students-neptune.html"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia CEO called in by lawmakers over ties to alleged Chinese spy]]></title>
+        <id>https://www.axios.com/2026/11/05/jensen-huang-nvidia-congress-china</id>
+        <link href="https://www.axios.com/2026/11/05/jensen-huang-nvidia-congress-china"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Northstar: A New Booster Engine with More Thrust and Less Mass]]></title>
+        <id>https://www.blueorigin.com/news/introducing-northstar-new-booster-engine</id>
+        <link href="https://www.blueorigin.com/news/introducing-northstar-new-booster-engine"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHS patients to get blood tests designed to detect several cancers at once]]></title>
+        <id>https://www.independent.co.uk/news/uk/home-news/multi-cancer-blood-test-new-nhs-trial-b3079091.html</id>
+        <link href="https://www.independent.co.uk/news/uk/home-news/multi-cancer-blood-test-new-nhs-trial-b3079091.html"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why do Japanese use -San at end of names? [video]]]></title>
+        <id>https://www.youtube.com/shorts/eYIHBr9LJio</id>
+        <link href="https://www.youtube.com/shorts/eYIHBr9LJio"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Built this app from scratch come check it out tell me what you think?]]></title>
+        <id>https://trumpbot.rip/api/replays/089b5578ed9c709d1457ada82e37d99c0fbc9babadfa9ea1</id>
+        <link href="https://trumpbot.rip/api/replays/089b5578ed9c709d1457ada82e37d99c0fbc9babadfa9ea1"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A primer on GPUs and kernel optimization]]></title>
+        <id>https://www.nabo.dev/blogs/kernel-primer</id>
+        <link href="https://www.nabo.dev/blogs/kernel-primer"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video.js: The Documentary]]></title>
+        <id>https://www.youtube.com/watch?v=Kpka8SYbosg</id>
+        <link href="https://www.youtube.com/watch?v=Kpka8SYbosg"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bruster – Rust browser automation tool and MCP]]></title>
+        <id>https://github.com/aliilyas/bruster</id>
+        <link href="https://github.com/aliilyas/bruster"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Stenvakt, a server hardening and patching tool]]></title>
+        <id>https://stenvakt.com/</id>
+        <link href="https://stenvakt.com/"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm an Engineer. This ChatGPT Test Scared Me [video]]]></title>
+        <id>https://www.youtube.com/watch?v=TUqScwjnO_k</id>
+        <link href="https://www.youtube.com/watch?v=TUqScwjnO_k"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Specgit]]></title>
+        <id>https://specgit.com</id>
+        <link href="https://specgit.com"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Family Digital Legacy – An air-gapped pure HTML vault with WebCrypto]]></title>
+        <id>https://github.com/andresgonzalezperez-hash/legado-digital-familiar</id>
+        <link href="https://github.com/andresgonzalezperez-hash/legado-digital-familiar"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting a new standard for responsible AI infrastructure]]></title>
+        <id>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/</id>
+        <link href="https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meridian: Web-browser built on GPUI and Servo]]></title>
+        <id>https://tangled.org/oppi.li/meridian</id>
+        <link href="https://tangled.org/oppi.li/meridian"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Look at Datastar]]></title>
+        <id>https://noteflakes.com/articles/2026-11-04-datastar</id>
+        <link href="https://noteflakes.com/articles/2026-11-04-datastar"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mosaic – a tool to understand and simulate random architectures]]></title>
+        <id>https://github.com/xleelz/mosaic</id>
+        <link href="https://github.com/xleelz/mosaic"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supermicro Super AI Station Review: The AI Server That Doubles as a Workstation]]></title>
+        <id>https://www.servethehome.com/supermicro-super-ai-station-review-the-ai-server-that-doubles-as-a-workstation/</id>
+        <link href="https://www.servethehome.com/supermicro-super-ai-station-review-the-ai-server-that-doubles-as-a-workstation/"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Web Page Minification with VitePress]]></title>
+        <id>https://meiert.com/blog/web-page-minification-with-vitepress/</id>
+        <link href="https://meiert.com/blog/web-page-minification-with-vitepress/"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proled XDR Display Technology Overview [pdf]]]></title>
+        <id>https://www.apple.com/macbook-pro/proled-xdr-display/pdf/PROLED_XDR_Display_Technical_Paper.pdf</id>
+        <link href="https://www.apple.com/macbook-pro/proled-xdr-display/pdf/PROLED_XDR_Display_Technical_Paper.pdf"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FrontierPhysics: Evaluating Agents for End-to-End Physics Research]]></title>
+        <id>https://arxiv.org/abs/2611.06910</id>
+        <link href="https://arxiv.org/abs/2611.06910"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regulators approve generic HIV-prevention drug for low-income countries]]></title>
+        <id>https://apnews.com/article/generic-lenacapavir-gilead-who-prep-hiv-c3537796e84c54d60179eba3c56561e6</id>
+        <link href="https://apnews.com/article/generic-lenacapavir-gilead-who-prep-hiv-c3537796e84c54d60179eba3c56561e6"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ancient warriors got high on cannabis, burial mound reveals]]></title>
+        <id>https://www.thetimes.com/uk/history/article/scythians-cannabis-siberia-tunnug-herodotus-pm6vs6rlk</id>
+        <link href="https://www.thetimes.com/uk/history/article/scythians-cannabis-siberia-tunnug-herodotus-pm6vs6rlk"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EA re-releases 25 classic games, restores Wing Commander and Road Rash FMVs]]></title>
+        <id>https://www.ea.com/news/ea-classics-launch</id>
+        <link href="https://www.ea.com/news/ea-classics-launch"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reachmap]]></title>
+        <id>https://reachmap.app/</id>
+        <link href="https://reachmap.app/"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moving a Go CMS to encoding/JSON/v2]]></title>
+        <id>https://hatamoto.dev/post/moving-hatamoto-to-encoding-json-v2</id>
+        <link href="https://hatamoto.dev/post/moving-hatamoto-to-encoding-json-v2"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three way Git merging with meld]]></title>
+        <id>https://lukas.zapletalovi.com/posts/2012/three-way-git-merging-with-meld/</id>
+        <link href="https://lukas.zapletalovi.com/posts/2012/three-way-git-merging-with-meld/"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch to Safari]]></title>
+        <id>https://mjtsai.com/blog/2026/11/05/switch-to-safari/</id>
+        <link href="https://mjtsai.com/blog/2026/11/05/switch-to-safari/"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: BollyQuiz for Diwali House Parties]]></title>
+        <id>https://bollyquiz.com/</id>
+        <link href="https://bollyquiz.com/"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern Java at Stripe: Language upgrades as a service]]></title>
+        <id>https://stripe.dev/blog/modern-java-at-stripe-language-upgrades-as-a-service</id>
+        <link href="https://stripe.dev/blog/modern-java-at-stripe-language-upgrades-as-a-service"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canadian hybrid-electric aircraft could reduce northern Ontario medevac times]]></title>
+        <id>https://www.ctvnews.ca/canada/article/could-this-canadian-hybrid-electric-aircraft-reduce-northern-ontario-medevac-times/</id>
+        <link href="https://www.ctvnews.ca/canada/article/could-this-canadian-hybrid-electric-aircraft-reduce-northern-ontario-medevac-times/"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hitchhiker's Guide to Training on Compute Islands]]></title>
+        <id>https://www.coreauto.com/hitchhikers-guide-to-training-on-compute-islands</id>
+        <link href="https://www.coreauto.com/hitchhikers-guide-to-training-on-compute-islands"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsFlow CRM – Client-side sales pipeline and receipts for WhatsApp Web]]></title>
+        <id>https://chromewebstore.google.com/detail/whatsflow-crm-seller-vaul/dkhhcnchpoopgkdphmjiljfldinpmibk</id>
+        <link href="https://chromewebstore.google.com/detail/whatsflow-crm-seller-vaul/dkhhcnchpoopgkdphmjiljfldinpmibk"/>
         <updated>2026-11-05T16:00:00.000Z</updated>
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
