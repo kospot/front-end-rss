@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-05T22:01:20.426Z</updated>
+    <updated>2026-11-06T00:06:00.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,20 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;]]></title>
+        <id>https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile</id>
+        <link href="https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Best VPN Services (2026), Tested and Reviewed]]></title>
+        <id>https://www.wired.com/gallery/best-vpn/</id>
+        <link href="https://www.wired.com/gallery/best-vpn/"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Blue Tsunami Swept Doctors and Scientists Into Office]]></title>
         <id>https://www.wired.com/story/the-blue-tsunami-swept-doctors-and-scientists-into-office/</id>
         <link href="https://www.wired.com/story/the-blue-tsunami-swept-doctors-and-scientists-into-office/"/>
@@ -22,9 +36,9 @@
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta says US users can now video chat with their Muse AI avatar]]></title>
-        <id>https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/</id>
-        <link href="https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"/>
+        <title type="html"><![CDATA[Meta, Google, and TikTok sue California AG over teen social media law]]></title>
+        <id>https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/</id>
+        <link href="https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/"/>
         <updated>2026-11-05T16:00:00.000Z</updated>
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
@@ -36,37 +50,51 @@
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Look at Datastar]]></title>
-        <id>https://noteflakes.com/articles/2026-11-04-datastar</id>
-        <link href="https://noteflakes.com/articles/2026-11-04-datastar"/>
+        <title type="html"><![CDATA[Meta says US users can now video chat with their Muse AI avatar]]></title>
+        <id>https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/</id>
+        <link href="https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"/>
         <updated>2026-11-05T16:00:00.000Z</updated>
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meridian: Web-browser built on GPUI and Servo]]></title>
-        <id>https://tangled.org/oppi.li/meridian</id>
-        <link href="https://tangled.org/oppi.li/meridian"/>
+        <title type="html"><![CDATA[Why do Japanese use -San at end of names? [video]]]></title>
+        <id>https://www.youtube.com/shorts/eYIHBr9LJio</id>
+        <link href="https://www.youtube.com/shorts/eYIHBr9LJio"/>
         <updated>2026-11-05T16:00:00.000Z</updated>
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Setting a new standard for responsible AI infrastructure]]></title>
-        <id>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/</id>
-        <link href="https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/"/>
+        <title type="html"><![CDATA[Built this app from scratch come check it out tell me what you think?]]></title>
+        <id>https://trumpbot.rip/api/replays/089b5578ed9c709d1457ada82e37d99c0fbc9babadfa9ea1</id>
+        <link href="https://trumpbot.rip/api/replays/089b5578ed9c709d1457ada82e37d99c0fbc9babadfa9ea1"/>
         <updated>2026-11-05T16:00:00.000Z</updated>
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Family Digital Legacy – An air-gapped pure HTML vault with WebCrypto]]></title>
-        <id>https://github.com/andresgonzalezperez-hash/legado-digital-familiar</id>
-        <link href="https://github.com/andresgonzalezperez-hash/legado-digital-familiar"/>
+        <title type="html"><![CDATA[A primer on GPUs and kernel optimization]]></title>
+        <id>https://www.nabo.dev/blogs/kernel-primer</id>
+        <link href="https://www.nabo.dev/blogs/kernel-primer"/>
         <updated>2026-11-05T16:00:00.000Z</updated>
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Specgit]]></title>
-        <id>https://specgit.com</id>
-        <link href="https://specgit.com"/>
+        <title type="html"><![CDATA[Video.js: The Documentary]]></title>
+        <id>https://www.youtube.com/watch?v=Kpka8SYbosg</id>
+        <link href="https://www.youtube.com/watch?v=Kpka8SYbosg"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bruster – Rust browser automation tool and MCP]]></title>
+        <id>https://github.com/aliilyas/bruster</id>
+        <link href="https://github.com/aliilyas/bruster"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Stenvakt, a server hardening and patching tool]]></title>
+        <id>https://stenvakt.com/</id>
+        <link href="https://stenvakt.com/"/>
         <updated>2026-11-05T16:00:00.000Z</updated>
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
@@ -78,9 +106,58 @@
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Claude Code Setup I Wish I Had on Day One]]></title>
-        <id>https://pub.towardsai.net/the-claude-code-setup-i-wish-i-had-on-day-one-14157454a8ce?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-claude-code-setup-i-wish-i-had-on-day-one-14157454a8ce?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Specgit]]></title>
+        <id>https://specgit.com</id>
+        <link href="https://specgit.com"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Family Digital Legacy – An air-gapped pure HTML vault with WebCrypto]]></title>
+        <id>https://github.com/andresgonzalezperez-hash/legado-digital-familiar</id>
+        <link href="https://github.com/andresgonzalezperez-hash/legado-digital-familiar"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting a new standard for responsible AI infrastructure]]></title>
+        <id>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/</id>
+        <link href="https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meridian: Web-browser built on GPUI and Servo]]></title>
+        <id>https://tangled.org/oppi.li/meridian</id>
+        <link href="https://tangled.org/oppi.li/meridian"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Look at Datastar]]></title>
+        <id>https://noteflakes.com/articles/2026-11-04-datastar</id>
+        <link href="https://noteflakes.com/articles/2026-11-04-datastar"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forget Me: Deletion in a System Designed to Remember]]></title>
+        <id>https://pub.towardsai.net/forget-me-deletion-in-a-system-designed-to-remember-c011b906428d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/forget-me-deletion-in-a-system-designed-to-remember-c011b906428d?source=rss----98111c9905da---4"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Prompting AI to Code. There’s a Much Faster Way to Build Software]]></title>
+        <id>https://pub.towardsai.net/stop-prompting-ai-to-code-theres-a-much-faster-way-to-build-software-ec5fe416ce5a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/stop-prompting-ai-to-code-theres-a-much-faster-way-to-build-software-ec5fe416ce5a?source=rss----98111c9905da---4"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Tried to Make an AI Agent Fail Silently]]></title>
+        <id>https://pub.towardsai.net/we-tried-to-make-an-ai-agent-fail-silently-0cd14d4b5dd6?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/we-tried-to-make-an-ai-agent-fail-silently-0cd14d4b5dd6?source=rss----98111c9905da---4"/>
         <updated>2026-11-05T16:00:00.000Z</updated>
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
@@ -92,9 +169,16 @@
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We Tried to Make an AI Agent Fail Silently]]></title>
-        <id>https://pub.towardsai.net/we-tried-to-make-an-ai-agent-fail-silently-0cd14d4b5dd6?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/we-tried-to-make-an-ai-agent-fail-silently-0cd14d4b5dd6?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The Claude Code Setup I Wish I Had on Day One]]></title>
+        <id>https://pub.towardsai.net/the-claude-code-setup-i-wish-i-had-on-day-one-14157454a8ce?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-claude-code-setup-i-wish-i-had-on-day-one-14157454a8ce?source=rss----98111c9905da---4"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips]]></title>
+        <id>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</id>
+        <link href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"/>
         <updated>2026-11-05T16:00:00.000Z</updated>
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
@@ -113,37 +197,23 @@
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Video editing has two clocks: map source and output time in JavaScript]]></title>
-        <id>https://dev.to/valmera/video-editing-has-two-clocks-map-source-and-output-time-in-javascript-3c96</id>
-        <link href="https://dev.to/valmera/video-editing-has-two-clocks-map-source-and-output-time-in-javascript-3c96"/>
+        <title type="html"><![CDATA[Building a free embeddable widget that earns attribution honestly: iframe + credit line design]]></title>
+        <id>https://dev.to/meetandplay/building-a-free-embeddable-widget-that-earns-attribution-honestly-iframe-credit-line-design-56dl</id>
+        <link href="https://dev.to/meetandplay/building-a-free-embeddable-widget-that-earns-attribution-honestly-iframe-credit-line-design-56dl"/>
         <updated>2026-11-05T16:00:00.000Z</updated>
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[react-mobx-manager 4.6.0: persisting MobX stores without rewriting all of them]]></title>
-        <id>https://dev.to/lomray-software/react-mobx-manager-460-persisting-mobx-stores-without-rewriting-all-of-them-2fb7</id>
-        <link href="https://dev.to/lomray-software/react-mobx-manager-460-persisting-mobx-stores-without-rewriting-all-of-them-2fb7"/>
+        <title type="html"><![CDATA[Solved: The Web Has Native Partials. Introducing the Remote Module Definition Pattern.]]></title>
+        <id>https://dev.to/cscarlson/solved-the-web-has-native-partials-introducing-the-remote-module-definition-pattern-1a1e</id>
+        <link href="https://dev.to/cscarlson/solved-the-web-has-native-partials-introducing-the-remote-module-definition-pattern-1a1e"/>
         <updated>2026-11-05T16:00:00.000Z</updated>
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Node.js HTTP backpressure must count bytes, not string length]]></title>
-        <id>https://dev.to/ali_ahmed_44ee99051e327ce/why-nodejs-http-backpressure-must-count-bytes-not-string-length-4554</id>
-        <link href="https://dev.to/ali_ahmed_44ee99051e327ce/why-nodejs-http-backpressure-must-count-bytes-not-string-length-4554"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built 6 Niche Calculator Sites with Astro — Here's the Full Stack and Monetization Plan]]></title>
-        <id>https://dev.to/sahamo/i-built-6-niche-calculator-sites-with-astro-heres-the-full-stack-and-monetization-plan-59na</id>
-        <link href="https://dev.to/sahamo/i-built-6-niche-calculator-sites-with-astro-heres-the-full-stack-and-monetization-plan-59na"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mining 14,351 Chess Puzzles with Stockfish 18 (and the Illegal-FEN Trap in chess.js)]]></title>
-        <id>https://dev.to/mincho_milev_c7753077d5af/mining-14351-chess-puzzles-with-stockfish-18-and-the-illegal-fen-trap-in-chessjs-3o5i</id>
-        <link href="https://dev.to/mincho_milev_c7753077d5af/mining-14351-chess-puzzles-with-stockfish-18-and-the-illegal-fen-trap-in-chessjs-3o5i"/>
+        <title type="html"><![CDATA[How ServiceTitan API v2 Rate Limits and Webhooks Actually Break During Ad Bursts (And How We Fixed It)]]></title>
+        <id>https://dev.to/kallowaythayer/how-servicetitan-api-v2-rate-limits-and-webhooks-actually-break-during-ad-bursts-and-how-we-fixed-1jj6</id>
+        <link href="https://dev.to/kallowaythayer/how-servicetitan-api-v2-rate-limits-and-webhooks-actually-break-during-ad-bursts-and-how-we-fixed-1jj6"/>
         <updated>2026-11-05T16:00:00.000Z</updated>
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
@@ -155,72 +225,44 @@
         <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discord is ditching Electron and its new app uses less RAM]]></title>
-        <id>https://www.theverge.com/news/1027379/discord-ditching-electron-web-app</id>
-        <link href="https://www.theverge.com/news/1027379/discord-ditching-electron-web-app"/>
-        <updated>2026-11-04T16:00:00.000Z</updated>
-        <published>2026-11-04T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Mining 14,351 Chess Puzzles with Stockfish 18 (and the Illegal-FEN Trap in chess.js)]]></title>
+        <id>https://dev.to/mincho_milev_c7753077d5af/mining-14351-chess-puzzles-with-stockfish-18-and-the-illegal-fen-trap-in-chessjs-3o5i</id>
+        <link href="https://dev.to/mincho_milev_c7753077d5af/mining-14351-chess-puzzles-with-stockfish-18-and-the-illegal-fen-trap-in-chessjs-3o5i"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon is getting back into restaurant delivery with Uber Eats team-up]]></title>
-        <id>https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership</id>
-        <link href="https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership"/>
-        <updated>2026-11-04T16:00:00.000Z</updated>
-        <published>2026-11-04T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I Built 6 Niche Calculator Sites with Astro — Here's the Full Stack and Monetization Plan]]></title>
+        <id>https://dev.to/sahamo/i-built-6-niche-calculator-sites-with-astro-heres-the-full-stack-and-monetization-plan-59na</id>
+        <link href="https://dev.to/sahamo/i-built-6-niche-calculator-sites-with-astro-heres-the-full-stack-and-monetization-plan-59na"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[X says its updated web app is way faster]]></title>
-        <id>https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster</id>
-        <link href="https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster"/>
-        <updated>2026-11-04T16:00:00.000Z</updated>
-        <published>2026-11-04T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Why Node.js HTTP backpressure must count bytes, not string length]]></title>
+        <id>https://dev.to/ali_ahmed_44ee99051e327ce/why-nodejs-http-backpressure-must-count-bytes-not-string-length-4554</id>
+        <link href="https://dev.to/ali_ahmed_44ee99051e327ce/why-nodejs-http-backpressure-must-count-bytes-not-string-length-4554"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[17 better ways Elon Musk could have wasted $446 million]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich"/>
-        <updated>2026-11-04T16:00:00.000Z</updated>
-        <published>2026-11-04T16:00:00.000Z</published>
+        <title type="html"><![CDATA[react-mobx-manager 4.6.0: persisting MobX stores without rewriting all of them]]></title>
+        <id>https://dev.to/lomray-software/react-mobx-manager-460-persisting-mobx-stores-without-rewriting-all-of-them-2fb7</id>
+        <link href="https://dev.to/lomray-software/react-mobx-manager-460-persisting-mobx-stores-without-rewriting-all-of-them-2fb7"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bose’s QuietComfort Headphones are more than half off]]></title>
-        <id>https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale"/>
-        <updated>2026-11-04T16:00:00.000Z</updated>
-        <published>2026-11-04T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Video editing has two clocks: map source and output time in JavaScript]]></title>
+        <id>https://dev.to/valmera/video-editing-has-two-clocks-map-source-and-output-time-in-javascript-3c96</id>
+        <link href="https://dev.to/valmera/video-editing-has-two-clocks-map-source-and-output-time-in-javascript-3c96"/>
+        <updated>2026-11-05T16:00:00.000Z</updated>
+        <published>2026-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xbox previews two new ways to control cloud games]]></title>
-        <id>https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller</id>
-        <link href="https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller"/>
-        <updated>2026-11-04T16:00:00.000Z</updated>
-        <published>2026-11-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My therapist thinks I should chuck the Amazon Bee Frontier out a window]]></title>
-        <id>https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables</id>
-        <link href="https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables"/>
-        <updated>2026-11-04T16:00:00.000Z</updated>
-        <published>2026-11-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The M6 MacBook Pro is probably the last of its kind]]></title>
-        <id>https://www.theverge.com/tech/1027250/m6-macbook-pro-review</id>
-        <link href="https://www.theverge.com/tech/1027250/m6-macbook-pro-review"/>
-        <updated>2026-11-04T16:00:00.000Z</updated>
-        <published>2026-11-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech is about to get hammered in Congress]]></title>
-        <id>https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy</id>
-        <link href="https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy"/>
-        <updated>2026-11-04T16:00:00.000Z</updated>
-        <published>2026-11-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can edit your videos with AI on Instagram&#8217;s new desktop Edits app]]></title>
-        <id>https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp</id>
-        <link href="https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp"/>
+        <title type="html"><![CDATA[WhatsApp will let you invite friends to events who aren’t on the app]]></title>
+        <id>https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app</id>
+        <link href="https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app"/>
         <updated>2026-11-04T16:00:00.000Z</updated>
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
@@ -232,72 +274,72 @@
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WhatsApp will let you invite friends to events who aren’t on the app]]></title>
-        <id>https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app</id>
-        <link href="https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app"/>
+        <title type="html"><![CDATA[You can edit your videos with AI on Instagram&#8217;s new desktop Edits app]]></title>
+        <id>https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp</id>
+        <link href="https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp"/>
         <updated>2026-11-04T16:00:00.000Z</updated>
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple MacBook Pro OLED (2026) Review: The Best Comes at a Cost]]></title>
-        <id>https://www.wired.com/review/apple-macbook-pro-oled-2026/</id>
-        <link href="https://www.wired.com/review/apple-macbook-pro-oled-2026/"/>
+        <title type="html"><![CDATA[Tech is about to get hammered in Congress]]></title>
+        <id>https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy</id>
+        <link href="https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy"/>
         <updated>2026-11-04T16:00:00.000Z</updated>
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work]]></title>
-        <id>https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/</id>
-        <link href="https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/"/>
+        <title type="html"><![CDATA[The M6 MacBook Pro is probably the last of its kind]]></title>
+        <id>https://www.theverge.com/tech/1027250/m6-macbook-pro-review</id>
+        <link href="https://www.theverge.com/tech/1027250/m6-macbook-pro-review"/>
         <updated>2026-11-04T16:00:00.000Z</updated>
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Wireless Chargers (2026): My Picks After Testing 100+]]></title>
-        <id>https://www.wired.com/gallery/best-wireless-chargers/</id>
-        <link href="https://www.wired.com/gallery/best-wireless-chargers/"/>
+        <title type="html"><![CDATA[My therapist thinks I should chuck the Amazon Bee Frontier out a window]]></title>
+        <id>https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables</id>
+        <link href="https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables"/>
         <updated>2026-11-04T16:00:00.000Z</updated>
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The ‘Ocarina of Time’ Remake Is Finally Here, but Why Does Link Look so Yassified?]]></title>
-        <id>https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/</id>
-        <link href="https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/"/>
+        <title type="html"><![CDATA[Xbox previews two new ways to control cloud games]]></title>
+        <id>https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller</id>
+        <link href="https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller"/>
         <updated>2026-11-04T16:00:00.000Z</updated>
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’]]></title>
-        <id>https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/</id>
-        <link href="https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/"/>
+        <title type="html"><![CDATA[Bose’s QuietComfort Headphones are more than half off]]></title>
+        <id>https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale"/>
         <updated>2026-11-04T16:00:00.000Z</updated>
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Quest Promo Codes and Coupons for November 2026]]></title>
-        <id>https://www.wired.com/story/meta-quest-promo-code/</id>
-        <link href="https://www.wired.com/story/meta-quest-promo-code/"/>
+        <title type="html"><![CDATA[17 better ways Elon Musk could have wasted $446 million]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich"/>
         <updated>2026-11-04T16:00:00.000Z</updated>
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nomad Goods Promo Codes: Get 25% Off in November 2026]]></title>
-        <id>https://www.wired.com/story/nomad-discount-code/</id>
-        <link href="https://www.wired.com/story/nomad-discount-code/"/>
+        <title type="html"><![CDATA[X says its updated web app is way faster]]></title>
+        <id>https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster</id>
+        <link href="https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster"/>
         <updated>2026-11-04T16:00:00.000Z</updated>
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[B&H Photo Promo Codes and Deals This November 2026]]></title>
-        <id>https://www.wired.com/story/bh-photo-coupon/</id>
-        <link href="https://www.wired.com/story/bh-photo-coupon/"/>
+        <title type="html"><![CDATA[Amazon is getting back into restaurant delivery with Uber Eats team-up]]></title>
+        <id>https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership</id>
+        <link href="https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership"/>
         <updated>2026-11-04T16:00:00.000Z</updated>
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out]]></title>
-        <id>https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/</id>
-        <link href="https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/"/>
+        <title type="html"><![CDATA[Discord is ditching Electron and its new app uses less RAM]]></title>
+        <id>https://www.theverge.com/news/1027379/discord-ditching-electron-web-app</id>
+        <link href="https://www.theverge.com/news/1027379/discord-ditching-electron-web-app"/>
         <updated>2026-11-04T16:00:00.000Z</updated>
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
@@ -309,58 +351,16 @@
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TikTok quietly launches a stand-alone TikTok Shop app]]></title>
-        <id>https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/</id>
-        <link href="https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/"/>
+        <title type="html"><![CDATA[Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out]]></title>
+        <id>https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/</id>
+        <link href="https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/"/>
         <updated>2026-11-04T16:00:00.000Z</updated>
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure]]></title>
-        <id>https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/</id>
-        <link href="https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"/>
-        <updated>2026-11-04T16:00:00.000Z</updated>
-        <published>2026-11-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RadianX promises solar-powered devices that never need charging]]></title>
-        <id>https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/</id>
-        <link href="https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/"/>
-        <updated>2026-11-04T16:00:00.000Z</updated>
-        <published>2026-11-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Box taps Nvidia’s Nemotron for new agent-first content retrieval system]]></title>
-        <id>https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/</id>
-        <link href="https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/"/>
-        <updated>2026-11-04T16:00:00.000Z</updated>
-        <published>2026-11-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple is reportedly cutting budgets for its internal AI usage]]></title>
-        <id>https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/</id>
-        <link href="https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"/>
-        <updated>2026-11-04T16:00:00.000Z</updated>
-        <published>2026-11-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta acquires AI coding startup Conductor]]></title>
-        <id>https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/</id>
-        <link href="https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"/>
-        <updated>2026-11-04T16:00:00.000Z</updated>
-        <published>2026-11-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet]]></title>
-        <id>https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/</id>
-        <link href="https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/"/>
-        <updated>2026-11-04T16:00:00.000Z</updated>
-        <published>2026-11-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling]]></title>
-        <id>https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/</id>
-        <link href="https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/"/>
+        <title type="html"><![CDATA[B&H Photo Promo Codes and Deals This November 2026]]></title>
+        <id>https://www.wired.com/story/bh-photo-coupon/</id>
+        <link href="https://www.wired.com/story/bh-photo-coupon/"/>
         <updated>2026-11-04T16:00:00.000Z</updated>
         <published>2026-11-04T16:00:00.000Z</published>
     </entry>
