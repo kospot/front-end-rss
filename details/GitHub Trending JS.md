@@ -1,214 +1,208 @@
-:alarm_clock: 更新时间: 2026-11-07 10:02:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-08 06:01:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## GitHub Trending JS
 
 
 
 
-- [2026-11-07-sveltejs/svelte](https://github.com/sveltejs/svelte) 
-- [2026-11-07-fastify/fastify](https://github.com/fastify/fastify) 
-- [2026-11-07-Yu9191/wloc](https://github.com/Yu9191/wloc) 
-- [2026-11-07-simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 
-- [2026-11-07-sveltejs/kit](https://github.com/sveltejs/kit) 
-- [2026-11-07-HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay) 
-- [2026-11-07-expressjs/express](https://github.com/expressjs/express) 
-- [2026-11-07-mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) 
+- [2026-11-08-cobusgreyling/grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) 
+- [2026-11-08-babygoton/WorkDaddy](https://github.com/babygoton/WorkDaddy) 
 - [2026-11-07--Announcing-Parcel-3-Alpha-](
 https://v3.parceljs.org/blog/v3-alpha/?ck_subscriber_id=2125261785
 ) 
+- [2026-11-07-mnfst/awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) 
+- [2026-11-07-expressjs/express](https://github.com/expressjs/express) 
+- [2026-11-07-HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay) 
+- [2026-11-07-sveltejs/kit](https://github.com/sveltejs/kit) 
+- [2026-11-07-simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) 
+- [2026-11-07-Yu9191/wloc](https://github.com/Yu9191/wloc) 
+- [2026-11-07-fastify/fastify](https://github.com/fastify/fastify) 
+- [2026-11-07-sveltejs/svelte](https://github.com/sveltejs/svelte) 
 - [2026-11-06--Goyangi:-watch-what-Claude-Code-is-doing,-live:-every-step,-tool-call,-subagent,-token-and-cost-in-a-side-panel-](
 https://github.com/netil/goyangi
 ) 
-- [2026-11-05-Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) 
-- [2026-11-05-HunYiSage/dsh-purge](https://github.com/HunYiSage/dsh-purge) 
 - [2026-11-05-jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) 
-- [2026-11-04-michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) 
-- [2026-11-04-ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) 
+- [2026-11-05-HunYiSage/dsh-purge](https://github.com/HunYiSage/dsh-purge) 
+- [2026-11-05-Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) 
 - [2026-11-04-vercel/next.js](https://github.com/vercel/next.js) 
-- [2026-11-03--React-Forms-and-React.memo:-Understanding-What-Actually-Re-Renders-](
-https://reactdevelopment.substack.com/p/react-forms-and-reactmemo-understanding
-) 
+- [2026-11-04-ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) 
+- [2026-11-04-michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) 
+- [2026-11-03-webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) 
+- [2026-11-03-csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) 
 - [2026-11-03--Turn-the-five-Platonic-solids-in-3D,-show-their-duals,-and-read-their-measurements-](
 https://github.com/evoluteur/platonic-solids
 ) 
-- [2026-11-03-csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) 
-- [2026-11-03-webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) 
-- [2026-11-02--We-Migrated-10,144-Tests-from-Jest-to-Vitest-in-3-Weeks:-The-Honest,-AI-Assisted-Truth-](
-https://dev.to/subito/we-migrated-10144-tests-from-jest-to-vitest-in-3-weeks-the-honest-ai-assisted-truth-527
+- [2026-11-03--React-Forms-and-React.memo:-Understanding-What-Actually-Re-Renders-](
+https://reactdevelopment.substack.com/p/react-forms-and-reactmemo-understanding
 ) 
+- [2026-11-02-fleetbase/fleetbase](https://github.com/fleetbase/fleetbase) 
 - [2026-11-02--Sharing-Application-State-in-a-URL-](
 https://ivakin.dev/blog/state-in-url
 ) 
-- [2026-11-02-fleetbase/fleetbase](https://github.com/fleetbase/fleetbase) 
-- [2026-11-01-techjarves/Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio) 
+- [2026-11-02--We-Migrated-10,144-Tests-from-Jest-to-Vitest-in-3-Weeks:-The-Honest,-AI-Assisted-Truth-](
+https://dev.to/subito/we-migrated-10144-tests-from-jest-to-vitest-in-3-weeks-the-honest-ai-assisted-truth-527
+) 
 - [2026-11-01-coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) 
-- [2026-10-31-openai/plugins](https://github.com/openai/plugins) 
+- [2026-11-01-techjarves/Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio) 
+- [2026-10-31-maillab/cloud-mail](https://github.com/maillab/cloud-mail) 
+- [2026-10-31-DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) 
+- [2026-10-31-bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) 
+- [2026-10-31-vernesong/OpenClash](https://github.com/vernesong/OpenClash) 
 - [2026-10-31--Sacred-Geometry-Generator:-draw,-tune,-and-export-Vesica-Piscis,-Seed-of-Life,-Flower-of-Life,-Metatron's-Cube,-and-the-Golden-Spiral-as-SVG-](
 https://github.com/evoluteur/sacred-geometry
 ) 
-- [2026-10-31-vernesong/OpenClash](https://github.com/vernesong/OpenClash) 
-- [2026-10-31-bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) 
-- [2026-10-31-DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) 
-- [2026-10-31-maillab/cloud-mail](https://github.com/maillab/cloud-mail) 
+- [2026-10-31-openai/plugins](https://github.com/openai/plugins) 
+- [2026-10-30-IamRamgarhia/Free-GST-Billing-Software](https://github.com/IamRamgarhia/Free-GST-Billing-Software) 
+- [2026-10-30-Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) 
+- [2026-10-30-phaserjs/phaser](https://github.com/phaserjs/phaser) 
+- [2026-10-30-QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) 
+- [2026-10-30-open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) 
 - [2026-10-30--Reads-Are-Subscriptions---Migrating-from-Zustand-to-Coaction-](
 https://dev.to/unadlib/reads-are-subscriptions-migrating-from-zustand-to-coaction-3228
-) 
-- [2026-10-30-open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) 
-- [2026-10-30-QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) 
-- [2026-10-30-phaserjs/phaser](https://github.com/phaserjs/phaser) 
-- [2026-10-30-Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) 
-- [2026-10-30-IamRamgarhia/Free-GST-Billing-Software](https://github.com/IamRamgarhia/Free-GST-Billing-Software) 
-- [2026-10-29-webpack/webpack](https://github.com/webpack/webpack) 
-- [2026-10-29-Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) 
-- [2026-10-29--binaural-beats:-Simple-web-page-to-play-binaural-beats-for-sleep,-meditation,-relaxation,-and-focus-](
-https://github.com/evoluteur/binaural-beats
 ) 
 - [2026-10-29--Type-safe-OpenAPI-requests-that-follow-your-document-exactly-](
 https://github.com/jskits/openapi-chain
 ) 
-- [2026-10-28--Vite+-1.0-is-out-](
-https://voidzero.dev/posts/announcing-vite-plus-1-0
+- [2026-10-29--binaural-beats:-Simple-web-page-to-play-binaural-beats-for-sleep,-meditation,-relaxation,-and-focus-](
+https://github.com/evoluteur/binaural-beats
 ) 
-- [2026-10-28--toast-queue-—-Accessible,-customizable-toast-notifications-for-modern-web-apps-](
-https://toast-queue.js.org
+- [2026-10-29-Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) 
+- [2026-10-29-webpack/webpack](https://github.com/webpack/webpack) 
+- [2026-10-28-DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) 
+- [2026-10-28-mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) 
+- [2026-10-28--I-built-a-flight-recorder-for-AI-sessions-](
+https://dev.to/allthingssmitty/i-built-a-flight-recorder-for-ai-sessions-4o8h
 ) 
 - [2026-10-28--We-built-a-fast-data-grid-across-React,-Vue-&amp;-Svelte-–-here's-what-we-learned-](
 https://svar.dev/blog/building-data-grid-in-react-vue-svelte/
 ) 
-- [2026-10-28--I-built-a-flight-recorder-for-AI-sessions-](
-https://dev.to/allthingssmitty/i-built-a-flight-recorder-for-ai-sessions-4o8h
+- [2026-10-28--toast-queue-—-Accessible,-customizable-toast-notifications-for-modern-web-apps-](
+https://toast-queue.js.org
 ) 
-- [2026-10-28-mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) 
-- [2026-10-28-DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) 
-- [2026-10-27-ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) 
-- [2026-10-27-chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) 
-- [2026-10-27-babalae/bettergi-scripts-list](https://github.com/babalae/bettergi-scripts-list) 
-- [2026-10-27-darkzOGx/youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) 
-- [2026-10-27-github/awesome-copilot](https://github.com/github/awesome-copilot) 
-- [2026-10-27-FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 
-- [2026-10-27-QCYTSN/dsh-dafeiyu](https://github.com/QCYTSN/dsh-dafeiyu) 
-- [2026-10-27-mrdoob/three.js](https://github.com/mrdoob/three.js) 
-- [2026-10-27-byoungd/up](https://github.com/byoungd/up) 
-- [2026-10-27-juliangarnier/anime](https://github.com/juliangarnier/anime) 
-- [2026-10-27-processing/p5.js](https://github.com/processing/p5.js) 
-- [2026-10-27-hanliang97/MatrixMedia](https://github.com/hanliang97/MatrixMedia) 
+- [2026-10-28--Vite+-1.0-is-out-](
+https://voidzero.dev/posts/announcing-vite-plus-1-0
+) 
 - [2026-10-27-algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 
-- [2026-10-25-affaan-m/ECC](https://github.com/affaan-m/ECC) 
-- [2026-10-25-is-a-dev/register](https://github.com/is-a-dev/register) 
-- [2026-10-25-maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) 
-- [2026-10-25-WebKit/WebKit](https://github.com/WebKit/WebKit) 
-- [2026-10-25-tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) 
-- [2026-10-25-nodejs/node](https://github.com/nodejs/node) 
-- [2026-10-25--Node.JS-Built-Ins-That-Replaced-NPM-Packages-](
-https://flaviocopes.com/node-builtins/
-) 
+- [2026-10-27-hanliang97/MatrixMedia](https://github.com/hanliang97/MatrixMedia) 
+- [2026-10-27-processing/p5.js](https://github.com/processing/p5.js) 
+- [2026-10-27-juliangarnier/anime](https://github.com/juliangarnier/anime) 
+- [2026-10-27-byoungd/up](https://github.com/byoungd/up) 
+- [2026-10-27-mrdoob/three.js](https://github.com/mrdoob/three.js) 
+- [2026-10-27-QCYTSN/dsh-dafeiyu](https://github.com/QCYTSN/dsh-dafeiyu) 
+- [2026-10-27-FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 
+- [2026-10-27-github/awesome-copilot](https://github.com/github/awesome-copilot) 
+- [2026-10-27-darkzOGx/youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) 
+- [2026-10-27-babalae/bettergi-scripts-list](https://github.com/babalae/bettergi-scripts-list) 
+- [2026-10-27-chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) 
+- [2026-10-27-ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) 
 - [2026-10-25--Self-hosted-alternative-to-Vercel-and-Coolify.-Git-push,-HTTPS,-logs,-rollback.-No-Kubernetes.-](
 http://levelrail.com/
 ) 
-- [2026-10-24-OpenSenseNova/SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) 
-- [2026-10-24-OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) 
+- [2026-10-25--Node.JS-Built-Ins-That-Replaced-NPM-Packages-](
+https://flaviocopes.com/node-builtins/
+) 
+- [2026-10-25-nodejs/node](https://github.com/nodejs/node) 
+- [2026-10-25-tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) 
+- [2026-10-25-WebKit/WebKit](https://github.com/WebKit/WebKit) 
+- [2026-10-25-maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) 
+- [2026-10-25-is-a-dev/register](https://github.com/is-a-dev/register) 
+- [2026-10-25-affaan-m/ECC](https://github.com/affaan-m/ECC) 
 - [2026-10-24-louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) 
-- [2026-10-23-projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) 
-- [2026-10-23-mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) 
+- [2026-10-24-OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) 
+- [2026-10-24-OpenSenseNova/SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) 
 - [2026-10-23-DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) 
-- [2026-10-22--Repo-Atlas---Any-GitHub-user’s-work,-mapped-and-clustered,-with-stale-favorites-flagged.-](
-https://github.com/evoluteur/repo-atlas
-) 
-- [2026-10-22-NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) 
-- [2026-10-22--How-React-Keeps-You-Logged-In-With-JWT-and-Zustand-](
-https://www.jstools.space/blog/react-jwt-zustand/
-) 
-- [2026-10-22--structured-filter-react:-React-component-for-structured-queries-](
-https://github.com/evoluteur/structured-filter-react
+- [2026-10-23-mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) 
+- [2026-10-23-projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) 
+- [2026-10-22-adobe/skills](https://github.com/adobe/skills) 
+- [2026-10-22--ExhoJS-Meta:-I'm-Going-Home-](
+https://www.echojs.com/news/43449
 ) 
 - [2026-10-22--Tibetan-Singing-Bowls:-Strike-or-rub-a-set-of-virtual-Tibetan-singing-bowls---synthesized-in-the-browser-with-Web-Audio,-with-the-beating-overtones-of-the-real-thing-](
 https://github.com/evoluteur/tibetan-singing-bowls
 ) 
-- [2026-10-22--ExhoJS-Meta:-I'm-Going-Home-](
-https://www.echojs.com/news/43449
+- [2026-10-22--structured-filter-react:-React-component-for-structured-queries-](
+https://github.com/evoluteur/structured-filter-react
 ) 
-- [2026-10-22-adobe/skills](https://github.com/adobe/skills) 
-- [2026-10-21--SVAR-Gantt-v2.8-for-React,-Svelte,-Vue:-upgraded-scheduling-engine-&amp;-live-updates-](
-https://svar.dev/blog/svar-gantt-2-8-released/
+- [2026-10-22--How-React-Keeps-You-Logged-In-With-JWT-and-Zustand-](
+https://www.jstools.space/blog/react-jwt-zustand/
 ) 
-- [2026-10-21-cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) 
-- [2026-10-21-WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) 
-- [2026-10-21--Full-port-of-CossUI-components-to-Svelte-](
-https://cossui-svelte.com/
+- [2026-10-22-NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) 
+- [2026-10-22--Repo-Atlas---Any-GitHub-user’s-work,-mapped-and-clustered,-with-stale-favorites-flagged.-](
+https://github.com/evoluteur/repo-atlas
+) 
+- [2026-10-21-xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) 
+- [2026-10-21-shaobeichen/dsh-pocket](https://github.com/shaobeichen/dsh-pocket) 
+- [2026-10-21--Draw-a-mandala-with-mirrored-symmetry-and-export-it-as-PNG-or-SVG.-](
+https://github.com/evoluteur/mandala-maker
 ) 
 - [2026-10-21--Vovk.ts-–-Turn-Next.js-route-handlers-into-MCP-tools-and-typed-clients-](
 https://vovk.dev
 ) 
-- [2026-10-21--Draw-a-mandala-with-mirrored-symmetry-and-export-it-as-PNG-or-SVG.-](
-https://github.com/evoluteur/mandala-maker
+- [2026-10-21--Full-port-of-CossUI-components-to-Svelte-](
+https://cossui-svelte.com/
 ) 
-- [2026-10-21-shaobeichen/dsh-pocket](https://github.com/shaobeichen/dsh-pocket) 
-- [2026-10-21-xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) 
-- [2026-10-20--Levelrail:-free,-self-hosted-alternative-to-Vercel,-Heroku,-Railway,-Coolify-and-Dokku-](
-https://github.com/glincker/levelrail
+- [2026-10-21-WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) 
+- [2026-10-21-cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) 
+- [2026-10-21--SVAR-Gantt-v2.8-for-React,-Svelte,-Vue:-upgraded-scheduling-engine-&amp;-live-updates-](
+https://svar.dev/blog/svar-gantt-2-8-released/
 ) 
 - [2026-10-20--kafka-harbor:-the-Kafka-layer-every-Node.js-team-rebuilds-by-hand,-done-once-](
 https://dev.to/pinceladasdaweb/kafka-harbor-the-kafka-layer-every-nodejs-team-rebuilds-by-hand-done-once-35id
 ) 
-- [2026-10-19-YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) 
-- [2026-10-19--Supapower---A-sync-engine-that-keeps-a-local-PGlite-database-in-sync-with-Supabase,-inspired-by-PowerSync-](
-https://github.com/aboviq/supapower
+- [2026-10-20--Levelrail:-free,-self-hosted-alternative-to-Vercel,-Heroku,-Railway,-Coolify-and-Dokku-](
+https://github.com/glincker/levelrail
 ) 
+- [2026-10-19-datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) 
+- [2026-10-19-flizzywine/dsh-tavern](https://github.com/flizzywine/dsh-tavern) 
 - [2026-10-19--Croft:-Typed-data-pipeline-–-in-TypeScript-and-DuckDB-](
 https://croft.zabaca.com/
 ) 
-- [2026-10-19-flizzywine/dsh-tavern](https://github.com/flizzywine/dsh-tavern) 
-- [2026-10-19-datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) 
-- [2026-10-18-guoyue2010/lxmusic-](https://github.com/guoyue2010/lxmusic-) 
-- [2026-10-18-hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) 
-- [2026-10-18-DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 
+- [2026-10-19--Supapower---A-sync-engine-that-keeps-a-local-PGlite-database-in-sync-with-Supabase,-inspired-by-PowerSync-](
+https://github.com/aboviq/supapower
+) 
+- [2026-10-19-YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) 
 - [2026-10-18--My-idempotency-library-had-one-job.-A-dropped-connection-made-it-run-the-payment-twice.-](
 https://dev.to/pinceladasdaweb/my-idempotency-library-had-one-job-a-dropped-connection-made-it-run-the-payment-twice-nnh
 ) 
-- [2026-10-17-superdesigndev/superdesign-skill](https://github.com/superdesigndev/superdesign-skill) 
-- [2026-10-17-kunchenguid/lavish-axi](https://github.com/kunchenguid/lavish-axi) 
+- [2026-10-18-DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) 
+- [2026-10-18-hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) 
+- [2026-10-18-guoyue2010/lxmusic-](https://github.com/guoyue2010/lxmusic-) 
 - [2026-10-17-withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) 
-- [2026-10-16--"half-open"-twice-is-not-the-same-state:-the-bug-that-shaped-breakwater-1.0-](
-https://dev.to/pinceladasdaweb/half-open-twice-is-not-the-same-state-the-bug-that-shaped-breakwater-10-4m6c
-) 
+- [2026-10-17-kunchenguid/lavish-axi](https://github.com/kunchenguid/lavish-axi) 
+- [2026-10-17-superdesigndev/superdesign-skill](https://github.com/superdesigndev/superdesign-skill) 
 - [2026-10-16--billboard.js-4.1.0:-Live-resizing,-configurable-subchart,-React-subpath-&amp;-CSP-safe-worker-](
 https://netil.medium.com/billboard-js-4-1-0-live-resizing-configurable-subchart-react-subpath-csp-safe-worker-e1a6fd0ece88
 ) 
-- [2026-10-15-itsPLK/ps5-payload-manager](https://github.com/itsPLK/ps5-payload-manager) 
-- [2026-10-15-usebruno/bruno](https://github.com/usebruno/bruno) 
+- [2026-10-16--"half-open"-twice-is-not-the-same-state:-the-bug-that-shaped-breakwater-1.0-](
+https://dev.to/pinceladasdaweb/half-open-twice-is-not-the-same-state-the-bug-that-shaped-breakwater-10-4m6c
+) 
 - [2026-10-15--From-1,256ms-to-96ms:-Fixing-INP-in-a-Massive-React-Dropdown-](
 https://dev.to/subito/from-1256ms-to-96ms-fixing-inp-in-a-massive-react-dropdown-16l7
 ) 
-- [2026-10-14-react/react](https://github.com/react/react) 
-- [2026-10-14-plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) 
-- [2026-10-14-sandeco/reversa](https://github.com/sandeco/reversa) 
-- [2026-10-14-jquery/jquery](https://github.com/jquery/jquery) 
+- [2026-10-15-usebruno/bruno](https://github.com/usebruno/bruno) 
+- [2026-10-15-itsPLK/ps5-payload-manager](https://github.com/itsPLK/ps5-payload-manager) 
 - [2026-10-14--Framework-for-building-REST-APIs-for-CRUD-with-models-rather-than-code-](
 https://github.com/evoluteur/evolutility-server-node
 ) 
-- [2026-10-13-citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) 
-- [2026-10-13-truelockmc/streambert](https://github.com/truelockmc/streambert) 
+- [2026-10-14-jquery/jquery](https://github.com/jquery/jquery) 
+- [2026-10-14-sandeco/reversa](https://github.com/sandeco/reversa) 
+- [2026-10-14-plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) 
+- [2026-10-14-react/react](https://github.com/react/react) 
+- [2026-10-13-drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) 
 - [2026-10-13--Mutative-v2---better-immutability-and-faster-immutable-updates-](
 https://github.com/unadlib/mutative
 ) 
-- [2026-10-13-drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) 
-- [2026-10-11--theAuth:-open-source-TypeScript-auth-for-AI-agents,-with-an-MCP-OAuth-2.1-server-](
-https://github.com/glincker/theauth
-) 
+- [2026-10-13-truelockmc/streambert](https://github.com/truelockmc/streambert) 
+- [2026-10-13-citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) 
+- [2026-10-11-MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) 
+- [2026-10-11-greensock/GSAP](https://github.com/greensock/GSAP) 
+- [2026-10-11-freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) 
+- [2026-10-11-poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) 
+- [2026-10-11-chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 
+- [2026-10-11-mui/material-ui](https://github.com/mui/material-ui) 
 - [2026-10-11--React-Router-v8-in-Action:-Lazy-Loading-and-Nested-Routes-](
 https://reactdevelopment.substack.com/p/react-router-v8-in-action-lazy-loading
 ) 
-- [2026-10-11-mui/material-ui](https://github.com/mui/material-ui) 
-- [2026-10-11-chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 
-- [2026-10-11-poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) 
-- [2026-10-11-freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) 
-- [2026-10-11-greensock/GSAP](https://github.com/greensock/GSAP) 
-- [2026-10-11-MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) 
-- [2026-10-09-Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) 
-- [2026-10-09-chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) 
-- [2026-10-09-chaolucky18/xuexitongScript](https://github.com/chaolucky18/xuexitongScript) 
-- [2026-10-09-songquanpeng/one-api](https://github.com/songquanpeng/one-api) 
-- [2026-10-09-XCQ0607/lxserver](https://github.com/XCQ0607/lxserver) 
-- [2026-10-09--Cymatics:-Play-a-frequency-and-watch-the-sand-settle-into-its-Chladni-figure,-computed-from-the-wave-equation-](
-https://github.com/evoluteur/cymatics
+- [2026-10-11--theAuth:-open-source-TypeScript-auth-for-AI-agents,-with-an-MCP-OAuth-2.1-server-](
+https://github.com/glincker/theauth
 ) 
