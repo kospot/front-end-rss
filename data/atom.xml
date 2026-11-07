@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-07T00:04:31.462Z</updated>
+    <updated>2026-11-07T02:02:48.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -204,16 +204,9 @@
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[sveltejs/svelte]]></title>
-        <id>https://github.com/sveltejs/svelte</id>
-        <link href="https://github.com/sveltejs/svelte"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fastify/fastify]]></title>
-        <id>https://github.com/fastify/fastify</id>
-        <link href="https://github.com/fastify/fastify"/>
+        <title type="html"><![CDATA[expressjs/express]]></title>
+        <id>https://github.com/expressjs/express</id>
+        <link href="https://github.com/expressjs/express"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
@@ -225,93 +218,58 @@
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[expressjs/express]]></title>
-        <id>https://github.com/expressjs/express</id>
-        <link href="https://github.com/expressjs/express"/>
+        <title type="html"><![CDATA[fastify/fastify]]></title>
+        <id>https://github.com/fastify/fastify</id>
+        <link href="https://github.com/fastify/fastify"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Keeping a synthetic voice in sync with a YouTube video: seeks, speed caps and ducking]]></title>
-        <id>https://dev.to/hssolution/keeping-a-synthetic-voice-in-sync-with-a-youtube-video-seeks-speed-caps-and-ducking-3c6b</id>
-        <link href="https://dev.to/hssolution/keeping-a-synthetic-voice-in-sync-with-a-youtube-video-seeks-speed-caps-and-ducking-3c6b"/>
+        <title type="html"><![CDATA[sveltejs/svelte]]></title>
+        <id>https://github.com/sveltejs/svelte</id>
+        <link href="https://github.com/sveltejs/svelte"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Client-Side Image Compressor: No Server, No Upload, Just JavaScript]]></title>
-        <id>https://dev.to/toolenix/building-a-client-side-image-compressor-no-server-no-upload-just-javascript-281</id>
-        <link href="https://dev.to/toolenix/building-a-client-side-image-compressor-no-server-no-upload-just-javascript-281"/>
+        <title type="html"><![CDATA[Reject Unsafe Integer Quantities Before Summing an Order Import]]></title>
+        <id>https://dev.to/tom_8d160ea57bf5c0395981d/reject-unsafe-integer-quantities-before-summing-an-order-import-2ll9</id>
+        <link href="https://dev.to/tom_8d160ea57bf5c0395981d/reject-unsafe-integer-quantities-before-summing-an-order-import-2ll9"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Limitcast weekly update, Nov 6: safer trimming and clearer results]]></title>
-        <id>https://dev.to/samstull9007/limitcast-weekly-update-nov-6-safer-trimming-and-clearer-results-20mf</id>
-        <link href="https://dev.to/samstull9007/limitcast-weekly-update-nov-6-safer-trimming-and-clearer-results-20mf"/>
+        <title type="html"><![CDATA[How I built a zero-dependency MCP server for AI web browsing]]></title>
+        <id>https://dev.to/doujiaozh/how-i-built-a-zero-dependency-mcp-server-for-ai-web-browsing-293o</id>
+        <link href="https://dev.to/doujiaozh/how-i-built-a-zero-dependency-mcp-server-for-ai-web-browsing-293o"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show Dev: iLinked – Converts long URLs to Keywords, QR Codes and shorten them]]></title>
-        <id>https://dev.to/denis_kullu/show-dev-ilinked-converts-long-urls-to-keywords-qr-codes-and-shorten-them-48od</id>
-        <link href="https://dev.to/denis_kullu/show-dev-ilinked-converts-long-urls-to-keywords-qr-codes-and-shorten-them-48od"/>
+        <title type="html"><![CDATA[Making a push-your-luck browser game with no server]]></title>
+        <id>https://dev.to/hobbybuilder/making-a-push-your-luck-browser-game-with-no-server-1bi2</id>
+        <link href="https://dev.to/hobbybuilder/making-a-push-your-luck-browser-game-with-no-server-1bi2"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Debugged My Browser RAW Preview by Moving One Boundary]]></title>
-        <id>https://dev.to/ybouane/i-debugged-my-browser-raw-preview-by-moving-one-boundary-39nd</id>
-        <link href="https://dev.to/ybouane/i-debugged-my-browser-raw-preview-by-moving-one-boundary-39nd"/>
+        <title type="html"><![CDATA[Open Graph Previews Breaking on Social Shares: A Debugging Scenario]]></title>
+        <id>https://dev.to/jaybarker/open-graph-previews-breaking-on-social-shares-a-debugging-scenario-574i</id>
+        <link href="https://dev.to/jaybarker/open-graph-previews-breaking-on-social-shares-a-debugging-scenario-574i"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Paletas accesibles: calcular contraste WCAG desde colores HEX con JavaScript]]></title>
-        <id>https://dev.to/appinitdev/paletas-accesibles-calcular-contraste-wcag-desde-colores-hex-con-javascript-12ka</id>
-        <link href="https://dev.to/appinitdev/paletas-accesibles-calcular-contraste-wcag-desde-colores-hex-con-javascript-12ka"/>
+        <title type="html"><![CDATA[Choosing Cloud Storage for Signed Documents and Browser Uploads: 3 Trade-offs]]></title>
+        <id>https://dev.to/tatefletcher6754/choosing-cloud-storage-for-signed-documents-and-browser-uploads-3-trade-offs-2j5a</id>
+        <link href="https://dev.to/tatefletcher6754/choosing-cloud-storage-for-signed-documents-and-browser-uploads-3-trade-offs-2j5a"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BoopFace: an MIT-licensed SVG robot avatar Web Component for AI agents]]></title>
-        <id>https://dev.to/cxartlab/boopface-an-mit-licensed-svg-robot-avatar-web-component-for-ai-agents-3nai</id>
-        <link href="https://dev.to/cxartlab/boopface-an-mit-licensed-svg-robot-avatar-web-component-for-ai-agents-3nai"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cuadrícula para calcar sin deformar la imagen: coordenadas y escalado en Canvas]]></title>
-        <id>https://dev.to/appinitdev/cuadricula-para-calcar-sin-deformar-la-imagen-coordenadas-y-escalado-en-canvas-16pn</id>
-        <link href="https://dev.to/appinitdev/cuadricula-para-calcar-sin-deformar-la-imagen-coordenadas-y-escalado-en-canvas-16pn"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A valid JWT signature won’t save you if the secret is ‘secret’]]></title>
-        <id>https://dev.to/oopssec-store/a-valid-jwt-signature-wont-save-you-if-the-secret-is-secret-3a5n</id>
-        <link href="https://dev.to/oopssec-store/a-valid-jwt-signature-wont-save-you-if-the-secret-is-secret-3a5n"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Async States That Keep Forms Honest]]></title>
-        <id>https://dev.to/ryanlee91/react-async-states-that-keep-forms-honest-mnc</id>
-        <link href="https://dev.to/ryanlee91/react-async-states-that-keep-forms-honest-mnc"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Six React chart libraries against hand-written SVG: what I found]]></title>
-        <id>https://dev.to/gusevp/six-react-chart-libraries-against-hand-written-svg-what-i-found-46ib</id>
-        <link href="https://dev.to/gusevp/six-react-chart-libraries-against-hand-written-svg-what-i-found-46ib"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add AI Narration to Your Blog Posts]]></title>
-        <id>https://dev.to/voice_developer/how-to-add-ai-narration-to-your-blog-posts-4513</id>
-        <link href="https://dev.to/voice_developer/how-to-add-ai-narration-to-your-blog-posts-4513"/>
+        <title type="html"><![CDATA[Exploded view animation in code: make "how it works" explainer reels]]></title>
+        <id>https://dev.to/mohd_yusufkhan_6c2088c04/exploded-view-animation-in-code-make-how-it-works-explainer-reels-51bd</id>
+        <link href="https://dev.to/mohd_yusufkhan_6c2088c04/exploded-view-animation-in-code-make-how-it-works-explainer-reels-51bd"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
@@ -323,45 +281,87 @@
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RSS Club: CSS-Tricks Redesign Preview]]></title>
-        <id>https://css-tricks.com/css-tricks-redesign-preview/</id>
-        <link href="https://css-tricks.com/css-tricks-redesign-preview/"/>
+        <title type="html"><![CDATA[How to Add AI Narration to Your Blog Posts]]></title>
+        <id>https://dev.to/voice_developer/how-to-add-ai-narration-to-your-blog-posts-4513</id>
+        <link href="https://dev.to/voice_developer/how-to-add-ai-narration-to-your-blog-posts-4513"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stranger Things is getting a live-action spinoff called Other Worlds]]></title>
-        <id>https://www.theverge.com/entertainment/1028608/other-worlds-a-stranger-things-adventure-netflix-announce-trailer</id>
-        <link href="https://www.theverge.com/entertainment/1028608/other-worlds-a-stranger-things-adventure-netflix-announce-trailer"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Six React chart libraries against hand-written SVG: what I found]]></title>
+        <id>https://dev.to/gusevp/six-react-chart-libraries-against-hand-written-svg-what-i-found-46ib</id>
+        <link href="https://dev.to/gusevp/six-react-chart-libraries-against-hand-written-svg-what-i-found-46ib"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;]]></title>
-        <id>https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile</id>
-        <link href="https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[React Async States That Keep Forms Honest]]></title>
+        <id>https://dev.to/ryanlee91/react-async-states-that-keep-forms-honest-mnc</id>
+        <link href="https://dev.to/ryanlee91/react-async-states-that-keep-forms-honest-mnc"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[After printing 40,000 whistles, this is the 3D printer I’d buy]]></title>
-        <id>https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review</id>
-        <link href="https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[A valid JWT signature won’t save you if the secret is ‘secret’]]></title>
+        <id>https://dev.to/oopssec-store/a-valid-jwt-signature-wont-save-you-if-the-secret-is-secret-3a5n</id>
+        <link href="https://dev.to/oopssec-store/a-valid-jwt-signature-wont-save-you-if-the-secret-is-secret-3a5n"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares]]></title>
-        <id>https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor</id>
-        <link href="https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Cuadrícula para calcar sin deformar la imagen: coordenadas y escalado en Canvas]]></title>
+        <id>https://dev.to/appinitdev/cuadricula-para-calcar-sin-deformar-la-imagen-coordenadas-y-escalado-en-canvas-16pn</id>
+        <link href="https://dev.to/appinitdev/cuadricula-para-calcar-sin-deformar-la-imagen-coordenadas-y-escalado-en-canvas-16pn"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6 Best VPN Services (2026), Tested and Reviewed]]></title>
-        <id>https://www.wired.com/gallery/best-vpn/</id>
-        <link href="https://www.wired.com/gallery/best-vpn/"/>
-        <updated>2026-11-05T16:00:00.000Z</updated>
-        <published>2026-11-05T16:00:00.000Z</published>
+        <title type="html"><![CDATA[BoopFace: an MIT-licensed SVG robot avatar Web Component for AI agents]]></title>
+        <id>https://dev.to/cxartlab/boopface-an-mit-licensed-svg-robot-avatar-web-component-for-ai-agents-3nai</id>
+        <link href="https://dev.to/cxartlab/boopface-an-mit-licensed-svg-robot-avatar-web-component-for-ai-agents-3nai"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paletas accesibles: calcular contraste WCAG desde colores HEX con JavaScript]]></title>
+        <id>https://dev.to/appinitdev/paletas-accesibles-calcular-contraste-wcag-desde-colores-hex-con-javascript-12ka</id>
+        <link href="https://dev.to/appinitdev/paletas-accesibles-calcular-contraste-wcag-desde-colores-hex-con-javascript-12ka"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Debugged My Browser RAW Preview by Moving One Boundary]]></title>
+        <id>https://dev.to/ybouane/i-debugged-my-browser-raw-preview-by-moving-one-boundary-39nd</id>
+        <link href="https://dev.to/ybouane/i-debugged-my-browser-raw-preview-by-moving-one-boundary-39nd"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show Dev: iLinked – Converts long URLs to Keywords, QR Codes and shorten them]]></title>
+        <id>https://dev.to/denis_kullu/show-dev-ilinked-converts-long-urls-to-keywords-qr-codes-and-shorten-them-48od</id>
+        <link href="https://dev.to/denis_kullu/show-dev-ilinked-converts-long-urls-to-keywords-qr-codes-and-shorten-them-48od"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Limitcast weekly update, Nov 6: safer trimming and clearer results]]></title>
+        <id>https://dev.to/samstull9007/limitcast-weekly-update-nov-6-safer-trimming-and-clearer-results-20mf</id>
+        <link href="https://dev.to/samstull9007/limitcast-weekly-update-nov-6-safer-trimming-and-clearer-results-20mf"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Client-Side Image Compressor: No Server, No Upload, Just JavaScript]]></title>
+        <id>https://dev.to/toolenix/building-a-client-side-image-compressor-no-server-no-upload-just-javascript-281</id>
+        <link href="https://dev.to/toolenix/building-a-client-side-image-compressor-no-server-no-upload-just-javascript-281"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keeping a synthetic voice in sync with a YouTube video: seeks, speed caps and ducking]]></title>
+        <id>https://dev.to/hssolution/keeping-a-synthetic-voice-in-sync-with-a-youtube-video-seeks-speed-caps-and-ducking-3c6b</id>
+        <link href="https://dev.to/hssolution/keeping-a-synthetic-voice-in-sync-with-a-youtube-video-seeks-speed-caps-and-ducking-3c6b"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
     </entry>
 </feed>

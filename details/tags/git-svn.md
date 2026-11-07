@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-07 08:04:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-07 10:02:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -16,8 +16,8 @@
 - [2026-10-16-Claude-Code-Git-Integration-in-2026:-How-the-Agent-Reads-Diffs,-Stages-Hunks,-and-Decides-When-to-Commit](https://dev.to/jsmanifest/claude-code-git-integration-in-2026-how-the-agent-reads-diffs-stages-hunks-and-decides-when-to-39m3) 
 - [2026-10-12-How-to-Build-a-Multi-Currency-Price-Engine-for-a-Digital-Storefront](https://dev.to/kadokey/how-to-build-a-multi-currency-price-engine-for-a-digital-storefront-2k00) 
 - [2026-10-10-What-the-first-digits-of-a-card-number-tell-you-BIN-basics-for-developers](https://dev.to/zikcards/what-the-first-digits-of-a-card-number-tell-you-bin-basics-for-developers-4g18) 
-- [2026-10-09-Your-cache-key-is-already-in-git's-index](https://dev.to/vzn-vx/your-cache-key-is-already-in-gits-index-2b7o) 
 - [2026-10-09-EU-Digital-Identity-Wallets-are-due-by-24-December-2026:-what-changes-for-apps-that-scan-passports](https://dev.to/doc_cheap/eu-digital-identity-wallets-are-due-by-24-december-2026-what-changes-for-apps-that-scan-passports-4dfa) 
+- [2026-10-09-Your-cache-key-is-already-in-git's-index](https://dev.to/vzn-vx/your-cache-key-is-already-in-gits-index-2b7o) 
 - [2026-10-27-github/awesome-copilot](https://github.com/github/awesome-copilot) 
 - [2026-10-25-maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) 
 - [2026-11-06-Inside-GitHub’s-new-Git-storage-architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/) 
