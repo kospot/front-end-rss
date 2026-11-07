@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-07T13:02:43.798Z</updated>
+    <updated>2026-11-07T15:03:10.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,23 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium]]></title>
-        <id>https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shure’s popular podcasting and streaming mic is almost $50 off]]></title>
-        <id>https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now]]></title>
-        <id>https://www.theverge.com/tech/1028871/meta-muse-ai-spaces</id>
-        <link href="https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"/>
+        <title type="html"><![CDATA[Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions]]></title>
+        <id>https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news</id>
+        <link href="https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
@@ -43,9 +29,23 @@
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions]]></title>
-        <id>https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news</id>
-        <link href="https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news"/>
+        <title type="html"><![CDATA[Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now]]></title>
+        <id>https://www.theverge.com/tech/1028871/meta-muse-ai-spaces</id>
+        <link href="https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shure’s popular podcasting and streaming mic is almost $50 off]]></title>
+        <id>https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium]]></title>
+        <id>https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
@@ -78,275 +78,86 @@
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Web Potions – let ChatGPT or Claude restyle the web you browse]]></title>
-        <id>https://github.com/leofritsch/web-potions</id>
-        <link href="https://github.com/leofritsch/web-potions"/>
+        <title type="html"><![CDATA[A ten-minute guide to electrical theory]]></title>
+        <id>https://kevinboone.me/electricity.html</id>
+        <link href="https://kevinboone.me/electricity.html"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meridian – a web browser for macOS built on GPUI and Servo]]></title>
-        <id>https://op.tngl.io/meridian/</id>
-        <link href="https://op.tngl.io/meridian/"/>
+        <title type="html"><![CDATA[Show HN: Certadomain – Free DMARC, subdomain takeover and lookalike checks]]></title>
+        <id>https://certadomain.com/en/index.html</id>
+        <link href="https://certadomain.com/en/index.html"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Weekend at Bernie's II]]></title>
-        <id>https://nesbitt.io/2026/11/06/weekend-at-bernies-ii.html</id>
-        <link href="https://nesbitt.io/2026/11/06/weekend-at-bernies-ii.html"/>
+        <title type="html"><![CDATA[One-day knowledge tests hide forgetting: LoRA 96% to 26.7% over four nights]]></title>
+        <id>https://huggingface.co/datasets/fintanlabs/overnight-four-nights-2026-11</id>
+        <link href="https://huggingface.co/datasets/fintanlabs/overnight-four-nights-2026-11"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pull-request previews for every client branch, without a Vercel bill]]></title>
-        <id>https://railyard.run/blog/pr-previews-per-client-branch-no-vercel-bill/</id>
-        <link href="https://railyard.run/blog/pr-previews-per-client-branch-no-vercel-bill/"/>
+        <title type="html"><![CDATA[Dependencies in Linux Binaries (2024)]]></title>
+        <id>http://thelittleengineerthatcould.blogspot.com/2024/04/hidden-dependencies-in-linux-binaries.html</id>
+        <link href="http://thelittleengineerthatcould.blogspot.com/2024/04/hidden-dependencies-in-linux-binaries.html"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AirPods 3 head tracking on Linux, and first documentation of Apple RemoteHID]]></title>
-        <id>https://github.com/starman-tech/mousepods</id>
-        <link href="https://github.com/starman-tech/mousepods"/>
+        <title type="html"><![CDATA[Sendspin: Whole-home audio, without the lock-in]]></title>
+        <id>https://www.sendspin-audio.com/</id>
+        <link href="https://www.sendspin-audio.com/"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Climate skeptics used AI to review their work. It told them they were biased]]></title>
-        <id>https://thebulletin.org/2026/10/climate-skeptics-used-ai-to-review-their-work-it-told-them-they-were-biased/</id>
-        <link href="https://thebulletin.org/2026/10/climate-skeptics-used-ai-to-review-their-work-it-told-them-they-were-biased/"/>
+        <title type="html"><![CDATA[AI agents are getting more complex. Developers shouldn't have to babysit them]]></title>
+        <id>https://thenewstack.io/harness-engineering-coding-agents/</id>
+        <link href="https://thenewstack.io/harness-engineering-coding-agents/"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why astrophysics needs to abandon the 'Big Questions'?]]></title>
-        <id>https://aeon.co/essays/why-astrophysics-needs-to-abandon-the-big-questions</id>
-        <link href="https://aeon.co/essays/why-astrophysics-needs-to-abandon-the-big-questions"/>
+        <title type="html"><![CDATA[Every Mac comes with an (undocumented) family member classifier]]></title>
+        <id>https://8rank.ai/game/apple-intelligence-personal-knowledge-graph</id>
+        <link href="https://8rank.ai/game/apple-intelligence-personal-knowledge-graph"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[British soldier ignored order to pull his SIM card, then got blackmailed]]></title>
-        <id>https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/</id>
-        <link href="https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/"/>
+        <title type="html"><![CDATA[Project Reclaimer: One Engine for Every Bungie Halo]]></title>
+        <id>https://projectreclaimer.dev</id>
+        <link href="https://projectreclaimer.dev"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Galactica, a TypeScript codebase map for developers and agents]]></title>
-        <id>https://github.com/cognitap/galactica</id>
-        <link href="https://github.com/cognitap/galactica"/>
+        <title type="html"><![CDATA[Number of Tries Using Coding Agents May Say More About Standards Than Competence]]></title>
+        <id>https://codemanship.wordpress.com/2026/11/07/how-many-tries-we-need-using-coding-agents-may-say-more-about-standards-than-competence/</id>
+        <link href="https://codemanship.wordpress.com/2026/11/07/how-many-tries-we-need-using-coding-agents-may-say-more-about-standards-than-competence/"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Components of Agent Memory]]></title>
-        <id>https://www.anthropic.com/research/components-of-agent-memory</id>
-        <link href="https://www.anthropic.com/research/components-of-agent-memory"/>
+        <title type="html"><![CDATA[Show HN: FastVM – MicroVMs that sleep on idle and wake when packets arrive]]></title>
+        <id>https://github.com/tuananh/fastvm</id>
+        <link href="https://github.com/tuananh/fastvm"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Slonbase – A PocketBase like back end built on PostgreSQL]]></title>
-        <id>https://github.com/ayeshrodz/slonbase</id>
-        <link href="https://github.com/ayeshrodz/slonbase"/>
+        <title type="html"><![CDATA[Best Restaurant in Abu Dhabi for Seafood Lovers – Shams Al Bahar]]></title>
+        <id>https://shamsalbahar.com</id>
+        <link href="https://shamsalbahar.com"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cyber Crime Investigation Masterclass – Complete Course (14 Video Chapters)]]></title>
-        <id>https://www.youtube.com/playlist?list=PLXMaCa5cj96E</id>
-        <link href="https://www.youtube.com/playlist?list=PLXMaCa5cj96E"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stream generative UI with JSON-render]]></title>
-        <id>https://vercel.com/changelog/json-render-and-chat-sdk-agents</id>
-        <link href="https://vercel.com/changelog/json-render-and-chat-sdk-agents"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Logic Using Waves: Photonic Gates [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ln0zZcQXv38</id>
-        <link href="https://www.youtube.com/watch?v=ln0zZcQXv38"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Major strawberry grower for Driscoll's calls it quits in coastal California]]></title>
-        <id>https://www.sfgate.com/centralcoast/article/california-berry-grower-layoffs-22514855.php</id>
-        <link href="https://www.sfgate.com/centralcoast/article/california-berry-grower-layoffs-22514855.php"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unix Won over the World [video]]]></title>
-        <id>https://www.youtube.com/watch?v=QpZTYUkYs3w</id>
-        <link href="https://www.youtube.com/watch?v=QpZTYUkYs3w"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dark personality levels relate to people's job interests and chosen careers]]></title>
-        <id>https://psychology.ku.dk/news/2026/dark-personality-levels-relate-to-peoples-job-interests-and-chosen-careers/</id>
-        <link href="https://psychology.ku.dk/news/2026/dark-personality-levels-relate-to-peoples-job-interests-and-chosen-careers/"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: What tech companies do you think have a good moral compass?]]></title>
-        <id>https://news.ycombinator.com/item?id=50402106</id>
-        <link href="https://news.ycombinator.com/item?id=50402106"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: How you guys setup multi-models agentic workflow]]></title>
-        <id>https://news.ycombinator.com/item?id=50400117</id>
-        <link href="https://news.ycombinator.com/item?id=50400117"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terra Tempora: we shouldn't entrust our understanding of history to AI]]></title>
-        <id>https://scholar.social/@JubalBarca/117570024280604981</id>
-        <link href="https://scholar.social/@JubalBarca/117570024280604981"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Together Compiler: Continual Compilation for AI Inference]]></title>
-        <id>https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference</id>
-        <link href="https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Cinnamon – a household AI agent with shared context and memories]]></title>
-        <id>https://getcinnamon.ai/</id>
-        <link href="https://getcinnamon.ai/"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amutable Foundations: A Technical Overview]]></title>
-        <id>https://amutable.com/blog/amutable-foundations-technical-overview</id>
-        <link href="https://amutable.com/blog/amutable-foundations-technical-overview"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proprietory Firmware Bullshit]]></title>
-        <id>https://news.ycombinator.com/item?id=50399984</id>
-        <link href="https://news.ycombinator.com/item?id=50399984"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[San Francisco IGN Review (parody) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=yDwJPzPx8So</id>
-        <link href="https://www.youtube.com/watch?v=yDwJPzPx8So"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Susan Blackmore: Memes and "Temes" (2008) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=fQ_9-Qx5Hz4</id>
-        <link href="https://www.youtube.com/watch?v=fQ_9-Qx5Hz4"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Vitekube – Vitest on real Kubernetes clusters]]></title>
-        <id>https://github.com/vitekube/vitekube</id>
-        <link href="https://github.com/vitekube/vitekube"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FMF Jailbreak Rating Framework for Frontier Cyber Threats]]></title>
-        <id>https://www.frontiermodelforum.org/updates/introducing-the-fmf-jailbreak-rating-framework-for-frontier-cyber-threats/</id>
-        <link href="https://www.frontiermodelforum.org/updates/introducing-the-fmf-jailbreak-rating-framework-for-frontier-cyber-threats/"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: We built an async interview engine to get published on HackerNoon]]></title>
-        <id>https://journalistic.tech/</id>
-        <link href="https://journalistic.tech/"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Are AI-written reviews a safety risk? Evidence from ICLR2027 scores]]></title>
-        <id>https://news.ycombinator.com/item?id=50398781</id>
-        <link href="https://news.ycombinator.com/item?id=50398781"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mineral-forming method removes over 99% of radioactive technetium from waste]]></title>
-        <id>https://phys.org/news/2026-11-mineral-method-radioactive-technetium-liquid.html</id>
-        <link href="https://phys.org/news/2026-11-mineral-method-radioactive-technetium-liquid.html"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthrax outbreak in Africa's oldest national park kills hippos]]></title>
-        <id>https://abcnews.com/International/anthrax-outbreak-virunga-national-park-kills-dozens-hippos/story?id=137877263</id>
-        <link href="https://abcnews.com/International/anthrax-outbreak-virunga-national-park-kills-dozens-hippos/story?id=137877263"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Measuring how AI agents handle everyday wet-lab science]]></title>
-        <id>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/</id>
-        <link href="https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My personal Navier-Stokes or How Claude rebuilt the game we wrote in high school]]></title>
-        <id>https://writing.pointnine.com/p/my-personal-navier-stokes-or-how</id>
-        <link href="https://writing.pointnine.com/p/my-personal-navier-stokes-or-how"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robodienst]]></title>
-        <id>https://robodienst.com/supply-chain/unitree-g1</id>
-        <link href="https://robodienst.com/supply-chain/unitree-g1"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Big Deal (TV Series)]]></title>
-        <id>https://en.wikipedia.org/wiki/No_Big_Deal_(TV_series)</id>
-        <link href="https://en.wikipedia.org/wiki/No_Big_Deal_(TV_series)"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta introduces Spaces: custom app views built by your Muse agent]]></title>
-        <id>https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/</id>
-        <link href="https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lighting the Skies]]></title>
-        <id>https://computer.rip/2026-10-25-searchlights.html</id>
-        <link href="https://computer.rip/2026-10-25-searchlights.html"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Did prediction markets do any predicting this midterms?]]></title>
-        <id>https://app.artifactbin.dev/@vivek/AQTt2H-did-prediction-markets-predict-the-midterms</id>
-        <link href="https://app.artifactbin.dev/@vivek/AQTt2H-did-prediction-markets-predict-the-midterms"/>
+        <title type="html"><![CDATA[How close are Ubuntu 26.04's Rust coreutils to GNU? I diffed 27 utilities]]></title>
+        <id>https://github.com/karolkulesza/port-anything/tree/main/showcases/ubuntu-uutils</id>
+        <link href="https://github.com/karolkulesza/port-anything/tree/main/showcases/ubuntu-uutils"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
@@ -358,9 +169,198 @@
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How close are Ubuntu 26.04's Rust coreutils to GNU? I diffed 27 utilities]]></title>
-        <id>https://github.com/karolkulesza/port-anything/tree/main/showcases/ubuntu-uutils</id>
-        <link href="https://github.com/karolkulesza/port-anything/tree/main/showcases/ubuntu-uutils"/>
+        <title type="html"><![CDATA[Show HN: Did prediction markets do any predicting this midterms?]]></title>
+        <id>https://app.artifactbin.dev/@vivek/AQTt2H-did-prediction-markets-predict-the-midterms</id>
+        <link href="https://app.artifactbin.dev/@vivek/AQTt2H-did-prediction-markets-predict-the-midterms"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lighting the Skies]]></title>
+        <id>https://computer.rip/2026-10-25-searchlights.html</id>
+        <link href="https://computer.rip/2026-10-25-searchlights.html"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta introduces Spaces: custom app views built by your Muse agent]]></title>
+        <id>https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/</id>
+        <link href="https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Big Deal (TV Series)]]></title>
+        <id>https://en.wikipedia.org/wiki/No_Big_Deal_(TV_series)</id>
+        <link href="https://en.wikipedia.org/wiki/No_Big_Deal_(TV_series)"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robodienst]]></title>
+        <id>https://robodienst.com/supply-chain/unitree-g1</id>
+        <link href="https://robodienst.com/supply-chain/unitree-g1"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My personal Navier-Stokes or How Claude rebuilt the game we wrote in high school]]></title>
+        <id>https://writing.pointnine.com/p/my-personal-navier-stokes-or-how</id>
+        <link href="https://writing.pointnine.com/p/my-personal-navier-stokes-or-how"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring how AI agents handle everyday wet-lab science]]></title>
+        <id>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/</id>
+        <link href="https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthrax outbreak in Africa's oldest national park kills hippos]]></title>
+        <id>https://abcnews.com/International/anthrax-outbreak-virunga-national-park-kills-dozens-hippos/story?id=137877263</id>
+        <link href="https://abcnews.com/International/anthrax-outbreak-virunga-national-park-kills-dozens-hippos/story?id=137877263"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mineral-forming method removes over 99% of radioactive technetium from waste]]></title>
+        <id>https://phys.org/news/2026-11-mineral-method-radioactive-technetium-liquid.html</id>
+        <link href="https://phys.org/news/2026-11-mineral-method-radioactive-technetium-liquid.html"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Are AI-written reviews a safety risk? Evidence from ICLR2027 scores]]></title>
+        <id>https://news.ycombinator.com/item?id=50398781</id>
+        <link href="https://news.ycombinator.com/item?id=50398781"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: We built an async interview engine to get published on HackerNoon]]></title>
+        <id>https://journalistic.tech/</id>
+        <link href="https://journalistic.tech/"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FMF Jailbreak Rating Framework for Frontier Cyber Threats]]></title>
+        <id>https://www.frontiermodelforum.org/updates/introducing-the-fmf-jailbreak-rating-framework-for-frontier-cyber-threats/</id>
+        <link href="https://www.frontiermodelforum.org/updates/introducing-the-fmf-jailbreak-rating-framework-for-frontier-cyber-threats/"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Vitekube – Vitest on real Kubernetes clusters]]></title>
+        <id>https://github.com/vitekube/vitekube</id>
+        <link href="https://github.com/vitekube/vitekube"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Susan Blackmore: Memes and "Temes" (2008) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=fQ_9-Qx5Hz4</id>
+        <link href="https://www.youtube.com/watch?v=fQ_9-Qx5Hz4"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[San Francisco IGN Review (parody) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=yDwJPzPx8So</id>
+        <link href="https://www.youtube.com/watch?v=yDwJPzPx8So"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proprietory Firmware Bullshit]]></title>
+        <id>https://news.ycombinator.com/item?id=50399984</id>
+        <link href="https://news.ycombinator.com/item?id=50399984"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amutable Foundations: A Technical Overview]]></title>
+        <id>https://amutable.com/blog/amutable-foundations-technical-overview</id>
+        <link href="https://amutable.com/blog/amutable-foundations-technical-overview"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Cinnamon – a household AI agent with shared context and memories]]></title>
+        <id>https://getcinnamon.ai/</id>
+        <link href="https://getcinnamon.ai/"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Together Compiler: Continual Compilation for AI Inference]]></title>
+        <id>https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference</id>
+        <link href="https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terra Tempora: we shouldn't entrust our understanding of history to AI]]></title>
+        <id>https://scholar.social/@JubalBarca/117570024280604981</id>
+        <link href="https://scholar.social/@JubalBarca/117570024280604981"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: How you guys setup multi-models agentic workflow]]></title>
+        <id>https://news.ycombinator.com/item?id=50400117</id>
+        <link href="https://news.ycombinator.com/item?id=50400117"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: What tech companies do you think have a good moral compass?]]></title>
+        <id>https://news.ycombinator.com/item?id=50402106</id>
+        <link href="https://news.ycombinator.com/item?id=50402106"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark personality levels relate to people's job interests and chosen careers]]></title>
+        <id>https://psychology.ku.dk/news/2026/dark-personality-levels-relate-to-peoples-job-interests-and-chosen-careers/</id>
+        <link href="https://psychology.ku.dk/news/2026/dark-personality-levels-relate-to-peoples-job-interests-and-chosen-careers/"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unix Won over the World [video]]]></title>
+        <id>https://www.youtube.com/watch?v=QpZTYUkYs3w</id>
+        <link href="https://www.youtube.com/watch?v=QpZTYUkYs3w"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Major strawberry grower for Driscoll's calls it quits in coastal California]]></title>
+        <id>https://www.sfgate.com/centralcoast/article/california-berry-grower-layoffs-22514855.php</id>
+        <link href="https://www.sfgate.com/centralcoast/article/california-berry-grower-layoffs-22514855.php"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Logic Using Waves: Photonic Gates [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ln0zZcQXv38</id>
+        <link href="https://www.youtube.com/watch?v=ln0zZcQXv38"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stream generative UI with JSON-render]]></title>
+        <id>https://vercel.com/changelog/json-render-and-chat-sdk-agents</id>
+        <link href="https://vercel.com/changelog/json-render-and-chat-sdk-agents"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber Crime Investigation Masterclass – Complete Course (14 Video Chapters)]]></title>
+        <id>https://www.youtube.com/playlist?list=PLXMaCa5cj96E</id>
+        <link href="https://www.youtube.com/playlist?list=PLXMaCa5cj96E"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
