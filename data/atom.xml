@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-07T02:02:48.340Z</updated>
+    <updated>2026-11-07T04:03:18.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -78,93 +78,51 @@
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: How you guys setup multi-models agentic workflow]]></title>
-        <id>https://news.ycombinator.com/item?id=50400117</id>
-        <link href="https://news.ycombinator.com/item?id=50400117"/>
+        <title type="html"><![CDATA[Show HN: Did prediction markets do any predicting this midterms?]]></title>
+        <id>https://app.artifactbin.dev/@vivek/AQTt2H-did-prediction-markets-predict-the-midterms</id>
+        <link href="https://app.artifactbin.dev/@vivek/AQTt2H-did-prediction-markets-predict-the-midterms"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Terra Tempora: we shouldn't entrust our understanding of history to AI]]></title>
-        <id>https://scholar.social/@JubalBarca/117570024280604981</id>
-        <link href="https://scholar.social/@JubalBarca/117570024280604981"/>
+        <title type="html"><![CDATA[Lighting the Skies]]></title>
+        <id>https://computer.rip/2026-10-25-searchlights.html</id>
+        <link href="https://computer.rip/2026-10-25-searchlights.html"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Together Compiler: Continual Compilation for AI Inference]]></title>
-        <id>https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference</id>
-        <link href="https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference"/>
+        <title type="html"><![CDATA[Meta introduces Spaces: custom app views built by your Muse agent]]></title>
+        <id>https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/</id>
+        <link href="https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Cinnamon – a household AI agent with shared context and memories]]></title>
-        <id>https://getcinnamon.ai/</id>
-        <link href="https://getcinnamon.ai/"/>
+        <title type="html"><![CDATA[No Big Deal (TV Series)]]></title>
+        <id>https://en.wikipedia.org/wiki/No_Big_Deal_(TV_series)</id>
+        <link href="https://en.wikipedia.org/wiki/No_Big_Deal_(TV_series)"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amutable Foundations: A Technical Overview]]></title>
-        <id>https://amutable.com/blog/amutable-foundations-technical-overview</id>
-        <link href="https://amutable.com/blog/amutable-foundations-technical-overview"/>
+        <title type="html"><![CDATA[Robodienst]]></title>
+        <id>https://robodienst.com/supply-chain/unitree-g1</id>
+        <link href="https://robodienst.com/supply-chain/unitree-g1"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Proprietory Firmware Bullshit]]></title>
-        <id>https://news.ycombinator.com/item?id=50399984</id>
-        <link href="https://news.ycombinator.com/item?id=50399984"/>
+        <title type="html"><![CDATA[My personal Navier-Stokes or How Claude rebuilt the game we wrote in high school]]></title>
+        <id>https://writing.pointnine.com/p/my-personal-navier-stokes-or-how</id>
+        <link href="https://writing.pointnine.com/p/my-personal-navier-stokes-or-how"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[San Francisco IGN Review (parody) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=yDwJPzPx8So</id>
-        <link href="https://www.youtube.com/watch?v=yDwJPzPx8So"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Susan Blackmore: Memes and "Temes" (2008) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=fQ_9-Qx5Hz4</id>
-        <link href="https://www.youtube.com/watch?v=fQ_9-Qx5Hz4"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Vitekube – Vitest on real Kubernetes clusters]]></title>
-        <id>https://github.com/vitekube/vitekube</id>
-        <link href="https://github.com/vitekube/vitekube"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FMF Jailbreak Rating Framework for Frontier Cyber Threats]]></title>
-        <id>https://www.frontiermodelforum.org/updates/introducing-the-fmf-jailbreak-rating-framework-for-frontier-cyber-threats/</id>
-        <link href="https://www.frontiermodelforum.org/updates/introducing-the-fmf-jailbreak-rating-framework-for-frontier-cyber-threats/"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: We built an async interview engine to get published on HackerNoon]]></title>
-        <id>https://journalistic.tech/</id>
-        <link href="https://journalistic.tech/"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Are AI-written reviews a safety risk? Evidence from ICLR2027 scores]]></title>
-        <id>https://news.ycombinator.com/item?id=50398781</id>
-        <link href="https://news.ycombinator.com/item?id=50398781"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mineral-forming method removes over 99% of radioactive technetium from waste]]></title>
-        <id>https://phys.org/news/2026-11-mineral-method-radioactive-technetium-liquid.html</id>
-        <link href="https://phys.org/news/2026-11-mineral-method-radioactive-technetium-liquid.html"/>
+        <title type="html"><![CDATA[Measuring how AI agents handle everyday wet-lab science]]></title>
+        <id>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/</id>
+        <link href="https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
@@ -176,9 +134,93 @@
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measuring how AI agents handle everyday wet-lab science]]></title>
-        <id>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/</id>
-        <link href="https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/"/>
+        <title type="html"><![CDATA[Mineral-forming method removes over 99% of radioactive technetium from waste]]></title>
+        <id>https://phys.org/news/2026-11-mineral-method-radioactive-technetium-liquid.html</id>
+        <link href="https://phys.org/news/2026-11-mineral-method-radioactive-technetium-liquid.html"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Are AI-written reviews a safety risk? Evidence from ICLR2027 scores]]></title>
+        <id>https://news.ycombinator.com/item?id=50398781</id>
+        <link href="https://news.ycombinator.com/item?id=50398781"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: We built an async interview engine to get published on HackerNoon]]></title>
+        <id>https://journalistic.tech/</id>
+        <link href="https://journalistic.tech/"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FMF Jailbreak Rating Framework for Frontier Cyber Threats]]></title>
+        <id>https://www.frontiermodelforum.org/updates/introducing-the-fmf-jailbreak-rating-framework-for-frontier-cyber-threats/</id>
+        <link href="https://www.frontiermodelforum.org/updates/introducing-the-fmf-jailbreak-rating-framework-for-frontier-cyber-threats/"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Vitekube – Vitest on real Kubernetes clusters]]></title>
+        <id>https://github.com/vitekube/vitekube</id>
+        <link href="https://github.com/vitekube/vitekube"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Susan Blackmore: Memes and "Temes" (2008) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=fQ_9-Qx5Hz4</id>
+        <link href="https://www.youtube.com/watch?v=fQ_9-Qx5Hz4"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[San Francisco IGN Review (parody) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=yDwJPzPx8So</id>
+        <link href="https://www.youtube.com/watch?v=yDwJPzPx8So"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proprietory Firmware Bullshit]]></title>
+        <id>https://news.ycombinator.com/item?id=50399984</id>
+        <link href="https://news.ycombinator.com/item?id=50399984"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amutable Foundations: A Technical Overview]]></title>
+        <id>https://amutable.com/blog/amutable-foundations-technical-overview</id>
+        <link href="https://amutable.com/blog/amutable-foundations-technical-overview"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Cinnamon – a household AI agent with shared context and memories]]></title>
+        <id>https://getcinnamon.ai/</id>
+        <link href="https://getcinnamon.ai/"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Together Compiler: Continual Compilation for AI Inference]]></title>
+        <id>https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference</id>
+        <link href="https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terra Tempora: we shouldn't entrust our understanding of history to AI]]></title>
+        <id>https://scholar.social/@JubalBarca/117570024280604981</id>
+        <link href="https://scholar.social/@JubalBarca/117570024280604981"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: How you guys setup multi-models agentic workflow]]></title>
+        <id>https://news.ycombinator.com/item?id=50400117</id>
+        <link href="https://news.ycombinator.com/item?id=50400117"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
@@ -232,121 +274,51 @@
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reject Unsafe Integer Quantities Before Summing an Order Import]]></title>
-        <id>https://dev.to/tom_8d160ea57bf5c0395981d/reject-unsafe-integer-quantities-before-summing-an-order-import-2ll9</id>
-        <link href="https://dev.to/tom_8d160ea57bf5c0395981d/reject-unsafe-integer-quantities-before-summing-an-order-import-2ll9"/>
+        <title type="html"><![CDATA[How to Check Schema.org Structured Data Support: A Practical Guide for Developers]]></title>
+        <id>https://dev.to/qbmfx_academy_6272b667918/how-to-check-schemaorg-structured-data-support-a-practical-guide-for-developers-10e9</id>
+        <link href="https://dev.to/qbmfx_academy_6272b667918/how-to-check-schemaorg-structured-data-support-a-practical-guide-for-developers-10e9"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I built a zero-dependency MCP server for AI web browsing]]></title>
-        <id>https://dev.to/doujiaozh/how-i-built-a-zero-dependency-mcp-server-for-ai-web-browsing-293o</id>
-        <link href="https://dev.to/doujiaozh/how-i-built-a-zero-dependency-mcp-server-for-ai-web-browsing-293o"/>
+        <title type="html"><![CDATA[How to Learn WebSockets (Without Relearning Handshake and Frames Every Time)]]></title>
+        <id>https://dev.to/spartanrich430/how-to-learn-websockets-without-relearning-handshake-and-frames-every-time-4d3b</id>
+        <link href="https://dev.to/spartanrich430/how-to-learn-websockets-without-relearning-handshake-and-frames-every-time-4d3b"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making a push-your-luck browser game with no server]]></title>
-        <id>https://dev.to/hobbybuilder/making-a-push-your-luck-browser-game-with-no-server-1bi2</id>
-        <link href="https://dev.to/hobbybuilder/making-a-push-your-luck-browser-game-with-no-server-1bi2"/>
+        <title type="html"><![CDATA[A 31-character name froze this Node server for 6 seconds]]></title>
+        <id>https://dev.to/haiduc0147/a-31-character-name-froze-this-node-server-for-6-seconds-1g39</id>
+        <link href="https://dev.to/haiduc0147/a-31-character-name-froze-this-node-server-for-6-seconds-1g39"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Graph Previews Breaking on Social Shares: A Debugging Scenario]]></title>
-        <id>https://dev.to/jaybarker/open-graph-previews-breaking-on-social-shares-a-debugging-scenario-574i</id>
-        <link href="https://dev.to/jaybarker/open-graph-previews-breaking-on-social-shares-a-debugging-scenario-574i"/>
+        <title type="html"><![CDATA[I Built a Zero-Backend Unit Converter: 5 Lessons for Devs]]></title>
+        <id>https://dev.to/bowentse/i-built-a-zero-backend-unit-converter-5-lessons-for-devs-4le8</id>
+        <link href="https://dev.to/bowentse/i-built-a-zero-backend-unit-converter-5-lessons-for-devs-4le8"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Choosing Cloud Storage for Signed Documents and Browser Uploads: 3 Trade-offs]]></title>
-        <id>https://dev.to/tatefletcher6754/choosing-cloud-storage-for-signed-documents-and-browser-uploads-3-trade-offs-2j5a</id>
-        <link href="https://dev.to/tatefletcher6754/choosing-cloud-storage-for-signed-documents-and-browser-uploads-3-trade-offs-2j5a"/>
+        <title type="html"><![CDATA[The Developer Guide to Shopify Tracking: App Embeds vs Theme Hacks]]></title>
+        <id>https://dev.to/sellermind/the-developer-guide-to-shopify-tracking-app-embeds-vs-theme-hacks-26lh</id>
+        <link href="https://dev.to/sellermind/the-developer-guide-to-shopify-tracking-app-embeds-vs-theme-hacks-26lh"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exploded view animation in code: make "how it works" explainer reels]]></title>
-        <id>https://dev.to/mohd_yusufkhan_6c2088c04/exploded-view-animation-in-code-make-how-it-works-explainer-reels-51bd</id>
-        <link href="https://dev.to/mohd_yusufkhan_6c2088c04/exploded-view-animation-in-code-make-how-it-works-explainer-reels-51bd"/>
+        <title type="html"><![CDATA[Writing a JavaScript Fee Engine to Protect My Etsy Margins]]></title>
+        <id>https://dev.to/sellermind/writing-a-javascript-fee-engine-to-protect-my-etsy-margins-53p</id>
+        <link href="https://dev.to/sellermind/writing-a-javascript-fee-engine-to-protect-my-etsy-margins-53p"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[QR Code Error Correction: What L, M, Q and H Actually Change in the File You Get]]></title>
-        <id>https://dev.to/onepassapps/qr-code-error-correction-what-l-m-q-and-h-actually-change-in-the-file-you-get-53h1</id>
-        <link href="https://dev.to/onepassapps/qr-code-error-correction-what-l-m-q-and-h-actually-change-in-the-file-you-get-53h1"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add AI Narration to Your Blog Posts]]></title>
-        <id>https://dev.to/voice_developer/how-to-add-ai-narration-to-your-blog-posts-4513</id>
-        <link href="https://dev.to/voice_developer/how-to-add-ai-narration-to-your-blog-posts-4513"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Six React chart libraries against hand-written SVG: what I found]]></title>
-        <id>https://dev.to/gusevp/six-react-chart-libraries-against-hand-written-svg-what-i-found-46ib</id>
-        <link href="https://dev.to/gusevp/six-react-chart-libraries-against-hand-written-svg-what-i-found-46ib"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Async States That Keep Forms Honest]]></title>
-        <id>https://dev.to/ryanlee91/react-async-states-that-keep-forms-honest-mnc</id>
-        <link href="https://dev.to/ryanlee91/react-async-states-that-keep-forms-honest-mnc"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A valid JWT signature won’t save you if the secret is ‘secret’]]></title>
-        <id>https://dev.to/oopssec-store/a-valid-jwt-signature-wont-save-you-if-the-secret-is-secret-3a5n</id>
-        <link href="https://dev.to/oopssec-store/a-valid-jwt-signature-wont-save-you-if-the-secret-is-secret-3a5n"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cuadrícula para calcar sin deformar la imagen: coordenadas y escalado en Canvas]]></title>
-        <id>https://dev.to/appinitdev/cuadricula-para-calcar-sin-deformar-la-imagen-coordenadas-y-escalado-en-canvas-16pn</id>
-        <link href="https://dev.to/appinitdev/cuadricula-para-calcar-sin-deformar-la-imagen-coordenadas-y-escalado-en-canvas-16pn"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BoopFace: an MIT-licensed SVG robot avatar Web Component for AI agents]]></title>
-        <id>https://dev.to/cxartlab/boopface-an-mit-licensed-svg-robot-avatar-web-component-for-ai-agents-3nai</id>
-        <link href="https://dev.to/cxartlab/boopface-an-mit-licensed-svg-robot-avatar-web-component-for-ai-agents-3nai"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paletas accesibles: calcular contraste WCAG desde colores HEX con JavaScript]]></title>
-        <id>https://dev.to/appinitdev/paletas-accesibles-calcular-contraste-wcag-desde-colores-hex-con-javascript-12ka</id>
-        <link href="https://dev.to/appinitdev/paletas-accesibles-calcular-contraste-wcag-desde-colores-hex-con-javascript-12ka"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Debugged My Browser RAW Preview by Moving One Boundary]]></title>
-        <id>https://dev.to/ybouane/i-debugged-my-browser-raw-preview-by-moving-one-boundary-39nd</id>
-        <link href="https://dev.to/ybouane/i-debugged-my-browser-raw-preview-by-moving-one-boundary-39nd"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show Dev: iLinked – Converts long URLs to Keywords, QR Codes and shorten them]]></title>
-        <id>https://dev.to/denis_kullu/show-dev-ilinked-converts-long-urls-to-keywords-qr-codes-and-shorten-them-48od</id>
-        <link href="https://dev.to/denis_kullu/show-dev-ilinked-converts-long-urls-to-keywords-qr-codes-and-shorten-them-48od"/>
-        <updated>2026-11-06T16:00:00.000Z</updated>
-        <published>2026-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Limitcast weekly update, Nov 6: safer trimming and clearer results]]></title>
-        <id>https://dev.to/samstull9007/limitcast-weekly-update-nov-6-safer-trimming-and-clearer-results-20mf</id>
-        <link href="https://dev.to/samstull9007/limitcast-weekly-update-nov-6-safer-trimming-and-clearer-results-20mf"/>
+        <title type="html"><![CDATA[Keeping a synthetic voice in sync with a YouTube video: seeks, speed caps and ducking]]></title>
+        <id>https://dev.to/hssolution/keeping-a-synthetic-voice-in-sync-with-a-youtube-video-seeks-speed-caps-and-ducking-3c6b</id>
+        <link href="https://dev.to/hssolution/keeping-a-synthetic-voice-in-sync-with-a-youtube-video-seeks-speed-caps-and-ducking-3c6b"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
@@ -358,9 +330,37 @@
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Keeping a synthetic voice in sync with a YouTube video: seeks, speed caps and ducking]]></title>
-        <id>https://dev.to/hssolution/keeping-a-synthetic-voice-in-sync-with-a-youtube-video-seeks-speed-caps-and-ducking-3c6b</id>
-        <link href="https://dev.to/hssolution/keeping-a-synthetic-voice-in-sync-with-a-youtube-video-seeks-speed-caps-and-ducking-3c6b"/>
+        <title type="html"><![CDATA[Limitcast weekly update, Nov 6: safer trimming and clearer results]]></title>
+        <id>https://dev.to/samstull9007/limitcast-weekly-update-nov-6-safer-trimming-and-clearer-results-20mf</id>
+        <link href="https://dev.to/samstull9007/limitcast-weekly-update-nov-6-safer-trimming-and-clearer-results-20mf"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show Dev: iLinked – Converts long URLs to Keywords, QR Codes and shorten them]]></title>
+        <id>https://dev.to/denis_kullu/show-dev-ilinked-converts-long-urls-to-keywords-qr-codes-and-shorten-them-48od</id>
+        <link href="https://dev.to/denis_kullu/show-dev-ilinked-converts-long-urls-to-keywords-qr-codes-and-shorten-them-48od"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Debugged My Browser RAW Preview by Moving One Boundary]]></title>
+        <id>https://dev.to/ybouane/i-debugged-my-browser-raw-preview-by-moving-one-boundary-39nd</id>
+        <link href="https://dev.to/ybouane/i-debugged-my-browser-raw-preview-by-moving-one-boundary-39nd"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paletas accesibles: calcular contraste WCAG desde colores HEX con JavaScript]]></title>
+        <id>https://dev.to/appinitdev/paletas-accesibles-calcular-contraste-wcag-desde-colores-hex-con-javascript-12ka</id>
+        <link href="https://dev.to/appinitdev/paletas-accesibles-calcular-contraste-wcag-desde-colores-hex-con-javascript-12ka"/>
+        <updated>2026-11-06T16:00:00.000Z</updated>
+        <published>2026-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BoopFace: an MIT-licensed SVG robot avatar Web Component for AI agents]]></title>
+        <id>https://dev.to/cxartlab/boopface-an-mit-licensed-svg-robot-avatar-web-component-for-ai-agents-3nai</id>
+        <link href="https://dev.to/cxartlab/boopface-an-mit-licensed-svg-robot-avatar-web-component-for-ai-agents-3nai"/>
         <updated>2026-11-06T16:00:00.000Z</updated>
         <published>2026-11-06T16:00:00.000Z</published>
     </entry>
