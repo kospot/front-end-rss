@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-08T07:02:21.376Z</updated>
+    <updated>2026-11-08T10:04:32.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,135 +29,58 @@
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digital Presenteeism as a Stratified Signalling System [pdf]]]></title>
-        <id>https://www.productivity.ac.uk/wp-content/uploads/2026/11/WP083-Digital-Presenteeism-November-2026.pdf</id>
-        <link href="https://www.productivity.ac.uk/wp-content/uploads/2026/11/WP083-Digital-Presenteeism-November-2026.pdf"/>
+        <title type="html"><![CDATA[Unified Grid: How We Re-Architected Slack for Our Largest Customers]]></title>
+        <id>https://slack.engineering/unified-grid-how-we-re-architected-slack-for-our-largest-customers/</id>
+        <link href="https://slack.engineering/unified-grid-how-we-re-architected-slack-for-our-largest-customers/"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Joe Rogan Experience #2578 – Calley Means [video]]]></title>
-        <id>https://www.youtube.com/watch?v=dMBBOawFy_4</id>
-        <link href="https://www.youtube.com/watch?v=dMBBOawFy_4"/>
+        <title type="html"><![CDATA[GitHub Down Again?]]></title>
+        <id>https://github.com/torvalds/linux</id>
+        <link href="https://github.com/torvalds/linux"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dual JWT Authentication: Security, Redis, and Trade-Offs]]></title>
-        <id>https://www.jstools.space/blog/dual-jwt-authentication/</id>
-        <link href="https://www.jstools.space/blog/dual-jwt-authentication/"/>
+        <title type="html"><![CDATA[Is the era of the educated elite over? (M.Gove, T.Debbonaire, D.Susskind) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=3gZMT_NRWJE</id>
+        <link href="https://www.youtube.com/watch?v=3gZMT_NRWJE"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ace: GitHub Next's open-source tool for multiplayer agentic development]]></title>
-        <id>https://ace.githubnext.com/</id>
-        <link href="https://ace.githubnext.com/"/>
+        <title type="html"><![CDATA[What Can AI Hack? Inside Frontier Labs' Tests]]></title>
+        <id>https://dorcohen.dev/posts/what-can-ai-actually-hack/</id>
+        <link href="https://dorcohen.dev/posts/what-can-ai-actually-hack/"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub PR volume is spiking beyond prev peak period (March)]]></title>
-        <id>https://twitter.com/backnotprop/status/2119211018966757669</id>
-        <link href="https://twitter.com/backnotprop/status/2119211018966757669"/>
+        <title type="html"><![CDATA[Arete-27B: Training methodology and accepted factual inaccuracies]]></title>
+        <id>https://rentry.co/qqq47kpa</id>
+        <link href="https://rentry.co/qqq47kpa"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peter Watts: Conscious Ants and Human Hives (2018) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=v4uwaw_5Q3I</id>
-        <link href="https://www.youtube.com/watch?v=v4uwaw_5Q3I"/>
+        <title type="html"><![CDATA[Taiwan sets new short-selling limits to aid beaten stock market 1d •]]></title>
+        <id>https://www.msn.com/en-us/money/top-stocks/taiwan-sets-new-short-selling-limits-to-aid-beaten-stock-market/ar-AA2gTsSA</id>
+        <link href="https://www.msn.com/en-us/money/top-stocks/taiwan-sets-new-short-selling-limits-to-aid-beaten-stock-market/ar-AA2gTsSA"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ugh Fields]]></title>
-        <id>https://www.lesswrong.com/posts/EFQ3F6kmt4WHXRqik/ugh-fields</id>
-        <link href="https://www.lesswrong.com/posts/EFQ3F6kmt4WHXRqik/ugh-fields"/>
+        <title type="html"><![CDATA[AI Companies Want to Buy Your Work Files and Emails]]></title>
+        <id>https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/</id>
+        <link href="https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Sentient, Your Coding Agent Shouldn't Be a Black Box]]></title>
-        <id>https://nosaka.ai/sentient/</id>
-        <link href="https://nosaka.ai/sentient/"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Nobuild TypeScript web framework with zero dependencies]]></title>
-        <id>https://ohne.dev/</id>
-        <link href="https://ohne.dev/"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open source Chrome plugin for lowercased browsing]]></title>
-        <id>https://chromewebstore.google.com/detail/lowercase-is-a-mood/pdbkpobppnhekkcnahnabccppcbmahbe</id>
-        <link href="https://chromewebstore.google.com/detail/lowercase-is-a-mood/pdbkpobppnhekkcnahnabccppcbmahbe"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amutable Foundations: A Technical Overview]]></title>
-        <id>https://lwn.net/Articles/1105934/</id>
-        <link href="https://lwn.net/Articles/1105934/"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The French Cake Cooked on a Spit (2018) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=havcACdx0Y0</id>
-        <link href="https://www.youtube.com/watch?v=havcACdx0Y0"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Behavior Gap: Why Investors Earn Less Than Their Own Funds [video]]]></title>
-        <id>https://www.youtube.com/watch?v=Fnmhunxb2l0</id>
-        <link href="https://www.youtube.com/watch?v=Fnmhunxb2l0"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Billion Watts in the Speaker [video]]]></title>
-        <id>https://www.youtube.com/watch?v=PHOcTXYaMfg</id>
-        <link href="https://www.youtube.com/watch?v=PHOcTXYaMfg"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vimium2: Vimium fork that also works inside extensions like PDF readers]]></title>
-        <id>https://github.com/jaywonchung/vimium2</id>
-        <link href="https://github.com/jaywonchung/vimium2"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nuclear scientists as assassination targets (2012)]]></title>
-        <id>https://journals.sagepub.com/doi/full/10.1177/0096340211433019</id>
-        <link href="https://journals.sagepub.com/doi/full/10.1177/0096340211433019"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebRTC for Node.js, React Native and Browser]]></title>
-        <id>https://github.com/LuKks/webrtc-runtime</id>
-        <link href="https://github.com/LuKks/webrtc-runtime"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building trust, an LLM thought experiment]]></title>
-        <id>https://lucaskostka.com/posts/building-trust-llm-thought-experiment</id>
-        <link href="https://lucaskostka.com/posts/building-trust-llm-thought-experiment"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harness adapters: Safe RL for efficient agentic development]]></title>
-        <id>https://huggingface.co/blog/harness-hub/harness-adapters</id>
-        <link href="https://huggingface.co/blog/harness-hub/harness-adapters"/>
+        <title type="html"><![CDATA[My $2k Chinese Electric Truck: 5 Years Later [video]]]></title>
+        <id>https://www.youtube.com/watch?v=JIPXsvWPcGI</id>
+        <link href="https://www.youtube.com/watch?v=JIPXsvWPcGI"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
@@ -169,9 +92,135 @@
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My $2k Chinese Electric Truck: 5 Years Later [video]]]></title>
-        <id>https://www.youtube.com/watch?v=JIPXsvWPcGI</id>
-        <link href="https://www.youtube.com/watch?v=JIPXsvWPcGI"/>
+        <title type="html"><![CDATA[Harness adapters: Safe RL for efficient agentic development]]></title>
+        <id>https://huggingface.co/blog/harness-hub/harness-adapters</id>
+        <link href="https://huggingface.co/blog/harness-hub/harness-adapters"/>
+        <updated>2026-11-07T16:00:00.000Z</updated>
+        <published>2026-11-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building trust, an LLM thought experiment]]></title>
+        <id>https://lucaskostka.com/posts/building-trust-llm-thought-experiment</id>
+        <link href="https://lucaskostka.com/posts/building-trust-llm-thought-experiment"/>
+        <updated>2026-11-07T16:00:00.000Z</updated>
+        <published>2026-11-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebRTC for Node.js, React Native and Browser]]></title>
+        <id>https://github.com/LuKks/webrtc-runtime</id>
+        <link href="https://github.com/LuKks/webrtc-runtime"/>
+        <updated>2026-11-07T16:00:00.000Z</updated>
+        <published>2026-11-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuclear scientists as assassination targets (2012)]]></title>
+        <id>https://journals.sagepub.com/doi/full/10.1177/0096340211433019</id>
+        <link href="https://journals.sagepub.com/doi/full/10.1177/0096340211433019"/>
+        <updated>2026-11-07T16:00:00.000Z</updated>
+        <published>2026-11-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vimium2: Vimium fork that also works inside extensions like PDF readers]]></title>
+        <id>https://github.com/jaywonchung/vimium2</id>
+        <link href="https://github.com/jaywonchung/vimium2"/>
+        <updated>2026-11-07T16:00:00.000Z</updated>
+        <published>2026-11-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Billion Watts in the Speaker [video]]]></title>
+        <id>https://www.youtube.com/watch?v=PHOcTXYaMfg</id>
+        <link href="https://www.youtube.com/watch?v=PHOcTXYaMfg"/>
+        <updated>2026-11-07T16:00:00.000Z</updated>
+        <published>2026-11-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Behavior Gap: Why Investors Earn Less Than Their Own Funds [video]]]></title>
+        <id>https://www.youtube.com/watch?v=Fnmhunxb2l0</id>
+        <link href="https://www.youtube.com/watch?v=Fnmhunxb2l0"/>
+        <updated>2026-11-07T16:00:00.000Z</updated>
+        <published>2026-11-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The French Cake Cooked on a Spit (2018) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=havcACdx0Y0</id>
+        <link href="https://www.youtube.com/watch?v=havcACdx0Y0"/>
+        <updated>2026-11-07T16:00:00.000Z</updated>
+        <published>2026-11-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amutable Foundations: A Technical Overview]]></title>
+        <id>https://lwn.net/Articles/1105934/</id>
+        <link href="https://lwn.net/Articles/1105934/"/>
+        <updated>2026-11-07T16:00:00.000Z</updated>
+        <published>2026-11-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open source Chrome plugin for lowercased browsing]]></title>
+        <id>https://chromewebstore.google.com/detail/lowercase-is-a-mood/pdbkpobppnhekkcnahnabccppcbmahbe</id>
+        <link href="https://chromewebstore.google.com/detail/lowercase-is-a-mood/pdbkpobppnhekkcnahnabccppcbmahbe"/>
+        <updated>2026-11-07T16:00:00.000Z</updated>
+        <published>2026-11-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Nobuild TypeScript web framework with zero dependencies]]></title>
+        <id>https://ohne.dev/</id>
+        <link href="https://ohne.dev/"/>
+        <updated>2026-11-07T16:00:00.000Z</updated>
+        <published>2026-11-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Sentient, Your Coding Agent Shouldn't Be a Black Box]]></title>
+        <id>https://nosaka.ai/sentient/</id>
+        <link href="https://nosaka.ai/sentient/"/>
+        <updated>2026-11-07T16:00:00.000Z</updated>
+        <published>2026-11-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ugh Fields]]></title>
+        <id>https://www.lesswrong.com/posts/EFQ3F6kmt4WHXRqik/ugh-fields</id>
+        <link href="https://www.lesswrong.com/posts/EFQ3F6kmt4WHXRqik/ugh-fields"/>
+        <updated>2026-11-07T16:00:00.000Z</updated>
+        <published>2026-11-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peter Watts: Conscious Ants and Human Hives (2018) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=v4uwaw_5Q3I</id>
+        <link href="https://www.youtube.com/watch?v=v4uwaw_5Q3I"/>
+        <updated>2026-11-07T16:00:00.000Z</updated>
+        <published>2026-11-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub PR volume is spiking beyond prev peak period (March)]]></title>
+        <id>https://twitter.com/backnotprop/status/2119211018966757669</id>
+        <link href="https://twitter.com/backnotprop/status/2119211018966757669"/>
+        <updated>2026-11-07T16:00:00.000Z</updated>
+        <published>2026-11-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ace: GitHub Next's open-source tool for multiplayer agentic development]]></title>
+        <id>https://ace.githubnext.com/</id>
+        <link href="https://ace.githubnext.com/"/>
+        <updated>2026-11-07T16:00:00.000Z</updated>
+        <published>2026-11-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dual JWT Authentication: Security, Redis, and Trade-Offs]]></title>
+        <id>https://www.jstools.space/blog/dual-jwt-authentication/</id>
+        <link href="https://www.jstools.space/blog/dual-jwt-authentication/"/>
+        <updated>2026-11-07T16:00:00.000Z</updated>
+        <published>2026-11-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joe Rogan Experience #2578 – Calley Means [video]]]></title>
+        <id>https://www.youtube.com/watch?v=dMBBOawFy_4</id>
+        <link href="https://www.youtube.com/watch?v=dMBBOawFy_4"/>
+        <updated>2026-11-07T16:00:00.000Z</updated>
+        <published>2026-11-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Presenteeism as a Stratified Signalling System [pdf]]]></title>
+        <id>https://www.productivity.ac.uk/wp-content/uploads/2026/11/WP083-Digital-Presenteeism-November-2026.pdf</id>
+        <link href="https://www.productivity.ac.uk/wp-content/uploads/2026/11/WP083-Digital-Presenteeism-November-2026.pdf"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
@@ -250,135 +299,86 @@ https://github.com/evoluteur/cymatics
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChunkLoadError After a Next.js Deploy: Your CDN Cached the HTML]]></title>
-        <id>https://dev.to/kausarraza/chunkloaderror-after-a-nextjs-deploy-your-cdn-cached-the-html-1fp6</id>
-        <link href="https://dev.to/kausarraza/chunkloaderror-after-a-nextjs-deploy-your-cdn-cached-the-html-1fp6"/>
+        <title type="html"><![CDATA[I built a free audio cutter, joiner and voice recorder that never uploads your audio]]></title>
+        <id>https://dev.to/loonaautomation/i-built-a-free-audio-cutter-joiner-and-voice-recorder-that-never-uploads-your-audio-1g10</id>
+        <link href="https://dev.to/loonaautomation/i-built-a-free-audio-cutter-joiner-and-voice-recorder-that-never-uploads-your-audio-1g10"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built a Free, Ad-Free Loan Calculator Using Pure HTML, Chart.js, and AI]]></title>
-        <id>https://dev.to/huali/how-i-built-a-free-ad-free-loan-calculator-using-pure-html-chartjs-and-ai-aol</id>
-        <link href="https://dev.to/huali/how-i-built-a-free-ad-free-loan-calculator-using-pure-html-chartjs-and-ai-aol"/>
+        <title type="html"><![CDATA[auth-verify: JWT, OTP, Passkeys and More in One Node.js Library]]></title>
+        <id>https://dev.to/jahongir2007/auth-verify-jwt-otp-passkeys-and-more-in-one-nodejs-library-im8</id>
+        <link href="https://dev.to/jahongir2007/auth-verify-jwt-otp-passkeys-and-more-in-one-nodejs-library-im8"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mistral Small: 58 empty replies in 300 tool calls, and the retry loop]]></title>
-        <id>https://dev.to/grain64/mistral-small-58-empty-replies-in-300-tool-calls-and-the-retry-loop-22gh</id>
-        <link href="https://dev.to/grain64/mistral-small-58-empty-replies-in-300-tool-calls-and-the-retry-loop-22gh"/>
+        <title type="html"><![CDATA[Chanakya AI — A Unified All-in-One Creative AI Studio Built on Pure Native Web Standards]]></title>
+        <id>https://dev.to/chanakyaai/chanakya-ai-a-unified-all-in-one-creative-ai-studio-built-on-pure-native-web-standards-4mb3</id>
+        <link href="https://dev.to/chanakyaai/chanakya-ai-a-unified-all-in-one-creative-ai-studio-built-on-pure-native-web-standards-4mb3"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5-Star Reviews to Cancel a 1-Star: The Math in 3 Formulas]]></title>
-        <id>https://dev.to/extensionbooster/5-star-reviews-to-cancel-a-1-star-the-math-in-3-formulas-1p25</id>
-        <link href="https://dev.to/extensionbooster/5-star-reviews-to-cancel-a-1-star-the-math-in-3-formulas-1p25"/>
+        <title type="html"><![CDATA[Every Ambient Noise WAV We Export Is One 12-Second Loop, Repeated Five Times]]></title>
+        <id>https://dev.to/onepassapps/every-ambient-noise-wav-we-export-is-one-12-second-loop-repeated-five-times-2jff</id>
+        <link href="https://dev.to/onepassapps/every-ambient-noise-wav-we-export-is-one-12-second-loop-repeated-five-times-2jff"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Ran a JSON-LD Audit on 25 Pages of My Own Sites. 21 Say They Were Modified Today.]]></title>
-        <id>https://dev.to/posting-dude/i-ran-a-json-ld-audit-on-25-pages-of-my-own-sites-21-say-they-were-modified-today-25fb</id>
-        <link href="https://dev.to/posting-dude/i-ran-a-json-ld-audit-on-25-pages-of-my-own-sites-21-say-they-were-modified-today-25fb"/>
+        <title type="html"><![CDATA[Building a Real-Time Cricket Broadcast Engine in a Single Zero-Build HTML File]]></title>
+        <id>https://dev.to/technical_stuff/building-a-real-time-cricket-broadcast-engine-in-a-single-zero-build-html-file-396d</id>
+        <link href="https://dev.to/technical_stuff/building-a-real-time-cricket-broadcast-engine-in-a-single-zero-build-html-file-396d"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[500 Weibo Profile Rows Carried No IP Region. 30 of 36 Search Rows Did]]></title>
-        <id>https://dev.to/matveyg/500-weibo-profile-rows-carried-no-ip-region-30-of-36-search-rows-did-1goo</id>
-        <link href="https://dev.to/matveyg/500-weibo-profile-rows-carried-no-ip-region-30-of-36-search-rows-did-1goo"/>
+        <title type="html"><![CDATA[The Cloud Tax on Video: Rethinking Our 'Serverless' Defaults]]></title>
+        <id>https://dev.to/khaithisran/the-cloud-tax-on-video-rethinking-our-serverless-defaults-1l5g</id>
+        <link href="https://dev.to/khaithisran/the-cloud-tax-on-video-rethinking-our-serverless-defaults-1l5g"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why We Built an In-Browser Screenshot Redactor with Zero Server Uploads]]></title>
-        <id>https://dev.to/powerechozhang/why-we-built-an-in-browser-screenshot-redactor-with-zero-server-uploads-hij</id>
-        <link href="https://dev.to/powerechozhang/why-we-built-an-in-browser-screenshot-redactor-with-zero-server-uploads-hij"/>
+        <title type="html"><![CDATA[Turning a video clip into a game sprite sheet in the browser]]></title>
+        <id>https://dev.to/arbnoravar28995/turning-a-video-clip-into-a-game-sprite-sheet-in-the-browser-2h2b</id>
+        <link href="https://dev.to/arbnoravar28995/turning-a-video-clip-into-a-game-sprite-sheet-in-the-browser-2h2b"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Animate display: none in Pure CSS! Modern @starting-style & allow-discrete Explained]]></title>
-        <id>https://dev.to/cascadedev/animate-display-none-in-pure-css-modern-starting-style-allow-discrete-explained-54j0</id>
-        <link href="https://dev.to/cascadedev/animate-display-none-in-pure-css-modern-starting-style-allow-discrete-explained-54j0"/>
+        <title type="html"><![CDATA[One photo, three face shape tools, three answers: how an on-device classifier works]]></title>
+        <id>https://dev.to/thefacereport/one-photo-three-face-shape-tools-three-answers-how-an-on-device-classifier-works-4nn6</id>
+        <link href="https://dev.to/thefacereport/one-photo-three-face-shape-tools-three-answers-how-an-on-device-classifier-works-4nn6"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Validating 10,000-Row CSV Uploads in 20ms Before Touching Your Server (React + IndexedDB)]]></title>
-        <id>https://dev.to/endlessfountain/validating-10000-row-csv-uploads-in-20ms-before-touching-your-server-react-indexeddb-2h4b</id>
-        <link href="https://dev.to/endlessfountain/validating-10000-row-csv-uploads-in-20ms-before-touching-your-server-react-indexeddb-2h4b"/>
+        <title type="html"><![CDATA[Estimating screen-sharing bitrate: what bpp actually means and when it lies]]></title>
+        <id>https://dev.to/devinios/estimating-screen-sharing-bitrate-what-bpp-actually-means-and-when-it-lies-1l00</id>
+        <link href="https://dev.to/devinios/estimating-screen-sharing-bitrate-what-bpp-actually-means-and-when-it-lies-1l00"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Password Generator: Why Math.random() Passwords Get Cracked (and What to Use Instead)]]></title>
-        <id>https://dev.to/meng_meng_56f17e28e55f140/password-generator-why-mathrandom-passwords-get-cracked-and-what-to-use-instead-2pg0</id>
-        <link href="https://dev.to/meng_meng_56f17e28e55f140/password-generator-why-mathrandom-passwords-get-cracked-and-what-to-use-instead-2pg0"/>
+        <title type="html"><![CDATA[Comparing Next.js Edge and Node.js: a successful build is not a successful request]]></title>
+        <id>https://dev.to/hirodeath/comparing-nextjs-edge-and-nodejs-a-successful-build-is-not-a-successful-request-4cf3</id>
+        <link href="https://dev.to/hirodeath/comparing-nextjs-edge-and-nodejs-a-successful-build-is-not-a-successful-request-4cf3"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Image Studio's Quality Slider: Twelve Measured Sizes and the PNG That Got Bigger]]></title>
-        <id>https://dev.to/onepassapps/the-image-studios-quality-slider-twelve-measured-sizes-and-the-png-that-got-bigger-2ne7</id>
-        <link href="https://dev.to/onepassapps/the-image-studios-quality-slider-twelve-measured-sizes-and-the-png-that-got-bigger-2ne7"/>
+        <title type="html"><![CDATA[The Duty on the Invoice Is Never the Duty You Pay: Stacking the Real Cost of Importing]]></title>
+        <id>https://dev.to/ke_ja_6b55/the-duty-on-the-invoice-is-never-the-duty-you-pay-stacking-the-real-cost-of-importing-2jjp</id>
+        <link href="https://dev.to/ke_ja_6b55/the-duty-on-the-invoice-is-never-the-duty-you-pay-stacking-the-real-cost-of-importing-2jjp"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Data URI vs Blob URL: Which Should You Use for Images?]]></title>
-        <id>https://dev.to/toolstead/data-uri-vs-blob-url-which-should-you-use-for-images-2m9b</id>
-        <link href="https://dev.to/toolstead/data-uri-vs-blob-url-which-should-you-use-for-images-2m9b"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Got 200+ Visitors in 20 Days: Refactoring a Pure PHP Toolbox & Adding Client-Side Security]]></title>
-        <id>https://dev.to/laing_lii_8c1214ffb0b60ec/how-i-got-200-visitors-in-20-days-refactoring-a-pure-php-toolbox-adding-client-side-security-kb6</id>
-        <link href="https://dev.to/laing_lii_8c1214ffb0b60ec/how-i-got-200-visitors-in-20-days-refactoring-a-pure-php-toolbox-adding-client-side-security-kb6"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Preview a tattoo in the browser: client-side canvas compositing without uploading your photo]]></title>
-        <id>https://dev.to/havey_bachand_04f8879200a/preview-a-tattoo-in-the-browser-client-side-canvas-compositing-without-uploading-your-photo-6ob</id>
-        <link href="https://dev.to/havey_bachand_04f8879200a/preview-a-tattoo-in-the-browser-client-side-canvas-compositing-without-uploading-your-photo-6ob"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[domFramework (dfw)]]></title>
-        <id>https://dev.to/aadswebdesign/domframework-dfw-2peo</id>
-        <link href="https://dev.to/aadswebdesign/domframework-dfw-2peo"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Prism2D.js: Open-Source 2D Game Engine for JavaScript Developers with Sample Game Coin Adventure]]></title>
-        <id>https://dev.to/pavkode/introducing-prism2djs-open-source-2d-game-engine-for-javascript-developers-with-sample-game-coin-1i9k</id>
-        <link href="https://dev.to/pavkode/introducing-prism2djs-open-source-2d-game-engine-for-javascript-developers-with-sample-game-coin-1i9k"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Tracking-Link Contract of app.onepassapps.com: 56 URLs, One Redirect That Keeps Your Parameters]]></title>
-        <id>https://dev.to/onepassapps/the-tracking-link-contract-of-apponepassappscom-56-urls-one-redirect-that-keeps-your-parameters-o8e</id>
-        <link href="https://dev.to/onepassapps/the-tracking-link-contract-of-apponepassappscom-56-urls-one-redirect-that-keeps-your-parameters-o8e"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compress to exactly 200 KB: how exact-target image compression works in your browser]]></title>
-        <id>https://dev.to/farbodf/compress-to-exactly-200-kb-how-exact-target-image-compression-works-in-your-browser-4k8p</id>
-        <link href="https://dev.to/farbodf/compress-to-exactly-200-kb-how-exact-target-image-compression-works-in-your-browser-4k8p"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I grew tired of portfolio-builders, so I made `npm create portfoliable@latest`]]></title>
-        <id>https://dev.to/schimanko/i-grew-tired-of-portfolio-builders-so-i-made-npm-create-portfoliablelatest-1pfk</id>
-        <link href="https://dev.to/schimanko/i-grew-tired-of-portfolio-builders-so-i-made-npm-create-portfoliablelatest-1pfk"/>
+        <title type="html"><![CDATA[How I Built a Custom Shopify Tracking Widget to Tame WISMO]]></title>
+        <id>https://dev.to/sellermind/how-i-built-a-custom-shopify-tracking-widget-to-tame-wismo-3emk</id>
+        <link href="https://dev.to/sellermind/how-i-built-a-custom-shopify-tracking-widget-to-tame-wismo-3emk"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
