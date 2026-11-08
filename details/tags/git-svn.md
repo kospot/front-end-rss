@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-08 23:03:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-09 06:02:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -15,7 +15,6 @@
 - [2026-10-19-Unix-Timestamp-and-Epoch-Time-Explained:-10-Digit-vs-13-Digit-Precision,-Leap-Second-Smearing,-Timezone-Traps,-and-the-Year](https://dev.to/tinali7564eng/unix-timestamp-and-epoch-time-explained-10-digit-vs-13-digit-precision-leap-second-smearing-3djp) 
 - [2026-10-16-Claude-Code-Git-Integration-in-2026:-How-the-Agent-Reads-Diffs,-Stages-Hunks,-and-Decides-When-to-Commit](https://dev.to/jsmanifest/claude-code-git-integration-in-2026-how-the-agent-reads-diffs-stages-hunks-and-decides-when-to-39m3) 
 - [2026-10-12-How-to-Build-a-Multi-Currency-Price-Engine-for-a-Digital-Storefront](https://dev.to/kadokey/how-to-build-a-multi-currency-price-engine-for-a-digital-storefront-2k00) 
-- [2026-10-10-What-the-first-digits-of-a-card-number-tell-you-BIN-basics-for-developers](https://dev.to/zikcards/what-the-first-digits-of-a-card-number-tell-you-bin-basics-for-developers-4g18) 
 - [2026-11-08--pathmask-matches-relative-paths-against-patterns-in-the-syntax-of-.gitignore-](
 https://github.com/webdiscus/pathmask
 ) 
@@ -94,8 +93,6 @@ https://github.com/webdiscus/pathmask
 - [2026-10-12-Maybe-a-better-way-to-track-the-release-history-of-a-Git-repo](https://blog.plover.com/prog/git/history-proposal.html) 
 - [2026-10-11-Cloudflare-D1+R2-buckets-for-Git-but-github.com-FTW](https://mainbrella.com/blog/cloudflare-d1-r2-git-github-ftw/) 
 - [2026-10-11-Show-HN:-Throw-Alice-and-Bob-into-Sagittarius-A*](https://github.com/steveking-gh/black-hole-lab) 
-- [2026-10-10-GitSwarm:-Decentralized-Compounding-Inference](https://veds12.github.io/git-swarm/) 
-- [2026-10-10-Shape-sensing-sheet-digitally-tracks-its-own-movement-as-it-bends-and-twists](https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008) 
 - [2026-11-06-Physicl-raises-$10M-to-make-the-digital-world-real-enough-for-robots](https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/) 
 - [2026-11-06-Greenlight-Family-Hub-Digital-Wall-Calendar-Black-Friday-Sale-2026](https://www.wired.com/story/greenlight-hub-black-friday-deal-2026/) 
 - [2026-10-22-Greenlight-Family-Hub-2026:-Finally,-a-Digital-Wall-Calendar-With-a-Voice-Assistant](https://www.wired.com/story/greenlight-hub-voice-assistant-feature/) 

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-08T15:03:16.272Z</updated>
+    <updated>2026-11-08T22:02:07.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,86 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Chatbots might be coming to Apple’s HomeView]]></title>
-        <id>https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview</id>
-        <link href="https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview"/>
+        <title type="html"><![CDATA[Apps to distract you from the endless cycle of doomscrolling]]></title>
+        <id>https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/</id>
+        <link href="https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.]]></title>
+        <id>https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/</id>
+        <link href="https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Agents Remember: A Simple Guide to Memory, Vector Search, and RAG]]></title>
+        <id>https://pub.towardsai.net/how-ai-agents-remember-a-simple-guide-to-memory-vector-search-and-rag-8a7aebb1c129?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-ai-agents-remember-a-simple-guide-to-memory-vector-search-and-rag-8a7aebb1c129?source=rss----98111c9905da---4"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Ollama and MLX Settings to Optimise for a Local LLM on a Mac in 2026]]></title>
+        <id>https://pub.towardsai.net/5-ollama-and-mlx-settings-to-optimise-for-a-local-llm-on-a-mac-in-2026-f3d4bbfdfb07?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/5-ollama-and-mlx-settings-to-optimise-for-a-local-llm-on-a-mac-in-2026-f3d4bbfdfb07?source=rss----98111c9905da---4"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new chapter for TypeScript - 10x performance boost]]></title>
+        <id>https://dev.to/hugaidas/a-new-chapter-for-typescript-10x-performance-boost-4b13</id>
+        <link href="https://dev.to/hugaidas/a-new-chapter-for-typescript-10x-performance-boost-4b13"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Voice-Over Tool for YouTube Videos]]></title>
+        <id>https://dev.to/voice_developer/how-to-build-a-voice-over-tool-for-youtube-videos-55c0</id>
+        <link href="https://dev.to/voice_developer/how-to-build-a-voice-over-tool-for-youtube-videos-55c0"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular Change Detection Strategy: A Guide]]></title>
+        <id>https://dev.to/moclaudius/angular-change-detection-strategy-a-guide-pcc</id>
+        <link href="https://dev.to/moclaudius/angular-change-detection-strategy-a-guide-pcc"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Calculator in Firefox: Why I Put Math on the New Tab]]></title>
+        <id>https://dev.to/weatherclockdash/quick-calculator-in-firefox-why-i-put-math-on-the-new-tab-39jp</id>
+        <link href="https://dev.to/weatherclockdash/quick-calculator-in-firefox-why-i-put-math-on-the-new-tab-39jp"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speed Dial for Firefox: Rebuilding a Classic Browser Feature]]></title>
+        <id>https://dev.to/weatherclockdash/speed-dial-for-firefox-rebuilding-a-classic-browser-feature-74l</id>
+        <link href="https://dev.to/weatherclockdash/speed-dial-for-firefox-rebuilding-a-classic-browser-feature-74l"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Planning in the Browser: Why I Put My To-Do List on the Firefox New Tab]]></title>
+        <id>https://dev.to/weatherclockdash/daily-planning-in-the-browser-why-i-put-my-to-do-list-on-the-firefox-new-tab-5e4h</id>
+        <link href="https://dev.to/weatherclockdash/daily-planning-in-the-browser-why-i-put-my-to-do-list-on-the-firefox-new-tab-5e4h"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Habit Tracking in the Browser: How I Built a Monthly Streak Grid for Firefox]]></title>
+        <id>https://dev.to/weatherclockdash/habit-tracking-in-the-browser-how-i-built-a-monthly-streak-grid-for-firefox-bn8</id>
+        <link href="https://dev.to/weatherclockdash/habit-tracking-in-the-browser-how-i-built-a-monthly-streak-grid-for-firefox-bn8"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Costco members can get $5 off the reimagined Ocarina of Time]]></title>
+        <id>https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
@@ -29,9 +106,23 @@
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Costco members can get $5 off the reimagined Ocarina of Time]]></title>
-        <id>https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale"/>
+        <title type="html"><![CDATA[Chatbots might be coming to Apple’s HomeView]]></title>
+        <id>https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview</id>
+        <link href="https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview"/>
+        <updated>2026-11-07T16:00:00.000Z</updated>
+        <published>2026-11-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good]]></title>
+        <id>https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/</id>
+        <link href="https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/"/>
+        <updated>2026-11-07T16:00:00.000Z</updated>
+        <published>2026-11-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A 55-Year-Old Math Problem Was Solved—This Time by Humans]]></title>
+        <id>https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/</id>
+        <link href="https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
@@ -270,97 +361,6 @@
         <title type="html"><![CDATA[Dual JWT Authentication: Security, Redis, and Trade-Offs]]></title>
         <id>https://www.jstools.space/blog/dual-jwt-authentication/</id>
         <link href="https://www.jstools.space/blog/dual-jwt-authentication/"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joe Rogan Experience #2578 – Calley Means [video]]]></title>
-        <id>https://www.youtube.com/watch?v=dMBBOawFy_4</id>
-        <link href="https://www.youtube.com/watch?v=dMBBOawFy_4"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Presenteeism as a Stratified Signalling System [pdf]]]></title>
-        <id>https://www.productivity.ac.uk/wp-content/uploads/2026/11/WP083-Digital-Presenteeism-November-2026.pdf</id>
-        <link href="https://www.productivity.ac.uk/wp-content/uploads/2026/11/WP083-Digital-Presenteeism-November-2026.pdf"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: No more code reviews. Fuzz instead]]></title>
-        <id>https://news.ycombinator.com/item?id=50412646</id>
-        <link href="https://news.ycombinator.com/item?id=50412646"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Tragedy of the Oxide Root of Trust]]></title>
-        <id>https://danielmangum.com/posts/tragedy-oxide-rot/</id>
-        <link href="https://danielmangum.com/posts/tragedy-oxide-rot/"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The price of the Raspberry Pi has gone over $350. This is insane]]></title>
-        <id>https://news.ycombinator.com/item?id=50412719</id>
-        <link href="https://news.ycombinator.com/item?id=50412719"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAM-Altman: a bash script that emails Sam Altman about your unused RAM]]></title>
-        <id>https://ram-altman.lol/</id>
-        <link href="https://ram-altman.lol/"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High level API for local LLMs in Node]]></title>
-        <id>https://github.com/CREATORS-INDUSTRIES/llm</id>
-        <link href="https://github.com/CREATORS-INDUSTRIES/llm"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Maintainable PHP Applications: Patterns and Principles]]></title>
-        <id>https://codyssey.dev/courses/building-maintainable-php-applications-patterns-and-principles</id>
-        <link href="https://codyssey.dev/courses/building-maintainable-php-applications-patterns-and-principles"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVi, a pre-LLM fork of Vim]]></title>
-        <id>https://evi-editor.codeberg.page/</id>
-        <link href="https://evi-editor.codeberg.page/"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code Usage Limits Explained: How to Make Your Usage Last Longer]]></title>
-        <id>https://pub.towardsai.net/claude-code-usage-limits-explained-how-to-make-your-usage-last-longer-c36e5d7c1a2c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/claude-code-usage-limits-explained-how-to-make-your-usage-last-longer-c36e5d7c1a2c?source=rss----98111c9905da---4"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fourier Transform Is Just a Change of Basis]]></title>
-        <id>https://pub.towardsai.net/the-fourier-transform-is-just-a-change-of-basis-925bb871463b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-fourier-transform-is-just-a-change-of-basis-925bb871463b?source=rss----98111c9905da---4"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Predicts Machine Failures in Garment Factories]]></title>
-        <id>https://pub.towardsai.net/how-ai-predicts-machine-failures-in-garment-factories-0c244af5b514?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-ai-predicts-machine-failures-in-garment-factories-0c244af5b514?source=rss----98111c9905da---4"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Day 41/100] RAG Fundamentals: Why Your LLM Needs Retrieval, Not a Bigger Context Window]]></title>
-        <id>https://pub.towardsai.net/day-41-100-rag-fundamentals-why-your-llm-needs-retrieval-not-a-bigger-context-window-d34826a68e2f?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/day-41-100-rag-fundamentals-why-your-llm-needs-retrieval-not-a-bigger-context-window-d34826a68e2f?source=rss----98111c9905da---4"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
