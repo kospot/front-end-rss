@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-09T02:03:27.545Z</updated>
+    <updated>2026-11-09T04:04:27.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,58 +29,86 @@
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Revolut Cut AI Costs 90% and Started Shipping Faster]]></title>
-        <id>https://linas.substack.com/p/revolut-ai-coding-costs-open-source-models</id>
-        <link href="https://linas.substack.com/p/revolut-ai-coding-costs-open-source-models"/>
+        <title type="html"><![CDATA[Pay per pre-configured GPU hour or per token for open-source LLM inference?]]></title>
+        <id>https://news.ycombinator.com/item?id=50420874</id>
+        <link href="https://news.ycombinator.com/item?id=50420874"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Video of Jensen Huang after learning about the Chinese honeypot scandal]]></title>
-        <id>https://twitter.com/thomasunise/status/2119605573234970966</id>
-        <link href="https://twitter.com/thomasunise/status/2119605573234970966"/>
+        <title type="html"><![CDATA[Praxia [video]]]></title>
+        <id>https://www.youtube.com/watch?v=vxB-jh96kVY</id>
+        <link href="https://www.youtube.com/watch?v=vxB-jh96kVY"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Workers Call for Accountable AI]]></title>
-        <id>https://dash.palform.app/fill/org_0R2JXZPZ7PFWX/form_0R8K0PRYXGM71?f=fat_0R9JYW9RTDRDS</id>
-        <link href="https://dash.palform.app/fill/org_0R2JXZPZ7PFWX/form_0R8K0PRYXGM71?f=fat_0R9JYW9RTDRDS"/>
+        <title type="html"><![CDATA[A Critique of GPUI]]></title>
+        <id>https://blog.zortax.de/posts/a-critique-of-gpui</id>
+        <link href="https://blog.zortax.de/posts/a-critique-of-gpui"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adapting for a World of Software Factories]]></title>
-        <id>https://twitter.com/zachlloydtweets/status/2104957956794057068</id>
-        <link href="https://twitter.com/zachlloydtweets/status/2104957956794057068"/>
+        <title type="html"><![CDATA[P2P model hosting and inference WebGPU,libp2p,IPFS]]></title>
+        <id>https://metaversejs.github.io/peercompute/inference/</id>
+        <link href="https://metaversejs.github.io/peercompute/inference/"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dodo – A Community Fork of Deno]]></title>
-        <id>https://github.com/are-we-dodo-yet/dodo</id>
-        <link href="https://github.com/are-we-dodo-yet/dodo"/>
+        <title type="html"><![CDATA[Anthropic, stop silently degrading models. You will undermine trust]]></title>
+        <id>https://www.reddit.com/r/ClaudeCode/comments/1xqtslm/rant_anthropic_stop_silently_degrading_models/</id>
+        <link href="https://www.reddit.com/r/ClaudeCode/comments/1xqtslm/rant_anthropic_stop_silently_degrading_models/"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RetroWEB 2.0: a forwarding proxy for old browsers]]></title>
-        <id>https://bjornsblog.nl/retroweb-now-works-as-a-real-web-proxy/</id>
-        <link href="https://bjornsblog.nl/retroweb-now-works-as-a-real-web-proxy/"/>
+        <title type="html"><![CDATA[Show HN: Mindfries- AI Interviewer based on real eng skill not on L**tC*de]]></title>
+        <id>https://company.mindfries.com/login</id>
+        <link href="https://company.mindfries.com/login"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build the Future: Paul Graham and Amjad Masad [video]]]></title>
-        <id>https://www.youtube.com/watch?v=Q78dJ0vkWe8</id>
-        <link href="https://www.youtube.com/watch?v=Q78dJ0vkWe8"/>
+        <title type="html"><![CDATA[A 24-hour fast triggers a microbiome repair response in the gut]]></title>
+        <id>https://www.pnas.org/doi/10.1073/pnas.2529215123</id>
+        <link href="https://www.pnas.org/doi/10.1073/pnas.2529215123"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I shipped a CLI and what I run is a proxy]]></title>
-        <id>https://avelino.run/mcp-cli-became-a-proxy/</id>
-        <link href="https://avelino.run/mcp-cli-became-a-proxy/"/>
+        <title type="html"><![CDATA[Type in Any Task. Get the Best AI Model for It]]></title>
+        <id>https://taskrouter.com/tasks</id>
+        <link href="https://taskrouter.com/tasks"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rust I Wanted Had No Future (2023)]]></title>
+        <id>https://web.archive.org/web/20230629213449/https://graydon2.dreamwidth.org/307291.html</id>
+        <link href="https://web.archive.org/web/20230629213449/https://graydon2.dreamwidth.org/307291.html"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a repeatable PHP-to-Java migration engine with Kiro]]></title>
+        <id>https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A 100KB SVG that does real-time 3D PCA and convex hulls on CMS open data]]></title>
+        <id>https://zenodo.org/records/24068477</id>
+        <link href="https://zenodo.org/records/24068477"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Last Man (1805)]]></title>
+        <id>https://www.weslpress.org/9780819566089/the-last-man/</id>
+        <link href="https://www.weslpress.org/9780819566089/the-last-man/"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
@@ -92,9 +120,58 @@
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Last Man (1805)]]></title>
-        <id>https://www.weslpress.org/9780819566089/the-last-man/</id>
-        <link href="https://www.weslpress.org/9780819566089/the-last-man/"/>
+        <title type="html"><![CDATA[I shipped a CLI and what I run is a proxy]]></title>
+        <id>https://avelino.run/mcp-cli-became-a-proxy/</id>
+        <link href="https://avelino.run/mcp-cli-became-a-proxy/"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build the Future: Paul Graham and Amjad Masad [video]]]></title>
+        <id>https://www.youtube.com/watch?v=Q78dJ0vkWe8</id>
+        <link href="https://www.youtube.com/watch?v=Q78dJ0vkWe8"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RetroWEB 2.0: a forwarding proxy for old browsers]]></title>
+        <id>https://bjornsblog.nl/retroweb-now-works-as-a-real-web-proxy/</id>
+        <link href="https://bjornsblog.nl/retroweb-now-works-as-a-real-web-proxy/"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dodo – A Community Fork of Deno]]></title>
+        <id>https://github.com/are-we-dodo-yet/dodo</id>
+        <link href="https://github.com/are-we-dodo-yet/dodo"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adapting for a World of Software Factories]]></title>
+        <id>https://twitter.com/zachlloydtweets/status/2104957956794057068</id>
+        <link href="https://twitter.com/zachlloydtweets/status/2104957956794057068"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Workers Call for Accountable AI]]></title>
+        <id>https://dash.palform.app/fill/org_0R2JXZPZ7PFWX/form_0R8K0PRYXGM71?f=fat_0R9JYW9RTDRDS</id>
+        <link href="https://dash.palform.app/fill/org_0R2JXZPZ7PFWX/form_0R8K0PRYXGM71?f=fat_0R9JYW9RTDRDS"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video of Jensen Huang after learning about the Chinese honeypot scandal]]></title>
+        <id>https://twitter.com/thomasunise/status/2119605573234970966</id>
+        <link href="https://twitter.com/thomasunise/status/2119605573234970966"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolut Cut AI Costs 90% and Started Shipping Faster]]></title>
+        <id>https://linas.substack.com/p/revolut-ai-coding-costs-open-source-models</id>
+        <link href="https://linas.substack.com/p/revolut-ai-coding-costs-open-source-models"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
@@ -120,79 +197,72 @@
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Production-Grade WhatsApp Cloud API Customer Support Bot in Node.js]]></title>
-        <id>https://dev.to/abinschandran/how-to-build-a-production-grade-whatsapp-cloud-api-customer-support-bot-in-nodejs-2mno</id>
-        <link href="https://dev.to/abinschandran/how-to-build-a-production-grade-whatsapp-cloud-api-customer-support-bot-in-nodejs-2mno"/>
+        <title type="html"><![CDATA[How to Make a Bicep Heart AI Video: Validate the Whole MP4, Not Just the Poster]]></title>
+        <id>https://dev.to/_ed179994b6c24a61b5e3db/how-to-make-a-bicep-heart-ai-video-validate-the-whole-mp4-not-just-the-poster-3c2h</id>
+        <link href="https://dev.to/_ed179994b6c24a61b5e3db/how-to-make-a-bicep-heart-ai-video-validate-the-whole-mp4-not-just-the-poster-3c2h"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Email Signature HTML: The Markup OnePassApps Writes and What It Omits]]></title>
-        <id>https://dev.to/onepassapps/email-signature-html-the-markup-onepassapps-writes-and-what-it-omits-20lm</id>
-        <link href="https://dev.to/onepassapps/email-signature-html-the-markup-onepassapps-writes-and-what-it-omits-20lm"/>
+        <title type="html"><![CDATA[Building a Zero-Limit In-Browser P2P Video Conferencing & 4K Screen Sharing Platform with WebRTC Mesh]]></title>
+        <id>https://dev.to/uchitchakma/building-a-zero-limit-in-browser-p2p-video-conferencing-4k-screen-sharing-platform-with-webrtc-3e7</id>
+        <link href="https://dev.to/uchitchakma/building-a-zero-limit-in-browser-p2p-video-conferencing-4k-screen-sharing-platform-with-webrtc-3e7"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A new chapter for TypeScript - 10x performance boost]]></title>
-        <id>https://dev.to/hugaidas/a-new-chapter-for-typescript-10x-performance-boost-4b13</id>
-        <link href="https://dev.to/hugaidas/a-new-chapter-for-typescript-10x-performance-boost-4b13"/>
+        <title type="html"><![CDATA[How to Automate WCAG 2.1 & APCA Color Contrast Audits (and Auto-Fix Failing Hex Codes) in Node.js]]></title>
+        <id>https://dev.to/artuturoh/how-to-automate-wcag-21-apca-color-contrast-audits-and-auto-fix-failing-hex-codes-in-nodejs-27jn</id>
+        <link href="https://dev.to/artuturoh/how-to-automate-wcag-21-apca-color-contrast-audits-and-auto-fix-failing-hex-codes-in-nodejs-27jn"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Voice-Over Tool for YouTube Videos]]></title>
-        <id>https://dev.to/voice_developer/how-to-build-a-voice-over-tool-for-youtube-videos-55c0</id>
-        <link href="https://dev.to/voice_developer/how-to-build-a-voice-over-tool-for-youtube-videos-55c0"/>
+        <title type="html"><![CDATA[Do NEXT_PUBLIC values change at startup? Run one Next.js build with two environments]]></title>
+        <id>https://dev.to/hirodeath/do-nextpublic-values-change-at-startup-run-one-nextjs-build-with-two-environments-1i1b</id>
+        <link href="https://dev.to/hirodeath/do-nextpublic-values-change-at-startup-run-one-nextjs-build-with-two-environments-1i1b"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Angular Change Detection Strategy: A Guide]]></title>
-        <id>https://dev.to/moclaudius/angular-change-detection-strategy-a-guide-pcc</id>
-        <link href="https://dev.to/moclaudius/angular-change-detection-strategy-a-guide-pcc"/>
+        <title type="html"><![CDATA[09/11 - Start Intermediate HTML and CSS]]></title>
+        <id>https://dev.to/learner666/0911-start-intermediate-html-and-css-508k</id>
+        <link href="https://dev.to/learner666/0911-start-intermediate-html-and-css-508k"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quick Calculator in Firefox: Why I Put Math on the New Tab]]></title>
-        <id>https://dev.to/weatherclockdash/quick-calculator-in-firefox-why-i-put-math-on-the-new-tab-39jp</id>
-        <link href="https://dev.to/weatherclockdash/quick-calculator-in-firefox-why-i-put-math-on-the-new-tab-39jp"/>
+        <title type="html"><![CDATA[I Built a Zero-Backend Currency Converter: 5 Travel Lessons]]></title>
+        <id>https://dev.to/bowentse/i-built-a-zero-backend-currency-converter-5-travel-lessons-eh2</id>
+        <link href="https://dev.to/bowentse/i-built-a-zero-backend-currency-converter-5-travel-lessons-eh2"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Speed Dial for Firefox: Rebuilding a Classic Browser Feature]]></title>
-        <id>https://dev.to/weatherclockdash/speed-dial-for-firefox-rebuilding-a-classic-browser-feature-74l</id>
-        <link href="https://dev.to/weatherclockdash/speed-dial-for-firefox-rebuilding-a-classic-browser-feature-74l"/>
+        <title type="html"><![CDATA[Three.js Exploded View: Explode a Real Multi-Part GLB (and What It Costs in Draw Calls)]]></title>
+        <id>https://dev.to/alicia_lu/threejs-exploded-view-explode-a-real-multi-part-glb-and-what-it-costs-in-draw-calls-283g</id>
+        <link href="https://dev.to/alicia_lu/threejs-exploded-view-explode-a-real-multi-part-glb-and-what-it-costs-in-draw-calls-283g"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Daily Planning in the Browser: Why I Put My To-Do List on the Firefox New Tab]]></title>
-        <id>https://dev.to/weatherclockdash/daily-planning-in-the-browser-why-i-put-my-to-do-list-on-the-firefox-new-tab-5e4h</id>
-        <link href="https://dev.to/weatherclockdash/daily-planning-in-the-browser-why-i-put-my-to-do-list-on-the-firefox-new-tab-5e4h"/>
+        <title type="html"><![CDATA[CSS Without Runtime Overhead: Meet traceless-style — Build-Time Atomic CSS with Accessibility Built In]]></title>
+        <id>https://dev.to/jenny_akhi_aade503c2764f6/css-without-runtime-overhead-meet-traceless-style-build-time-atomic-css-with-accessibility-built-21kk</id>
+        <link href="https://dev.to/jenny_akhi_aade503c2764f6/css-without-runtime-overhead-meet-traceless-style-build-time-atomic-css-with-accessibility-built-21kk"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Habit Tracking in the Browser: How I Built a Monthly Streak Grid for Firefox]]></title>
-        <id>https://dev.to/weatherclockdash/habit-tracking-in-the-browser-how-i-built-a-monthly-streak-grid-for-firefox-bn8</id>
-        <link href="https://dev.to/weatherclockdash/habit-tracking-in-the-browser-how-i-built-a-monthly-streak-grid-for-firefox-bn8"/>
+        <title type="html"><![CDATA[A Unix timestamp has no unit: the four ways JavaScript reads your date wrong]]></title>
+        <id>https://dev.to/li_yi_dcec96bf2647dec1b7e/a-unix-timestamp-has-no-unit-the-four-ways-javascript-reads-your-date-wrong-20m1</id>
+        <link href="https://dev.to/li_yi_dcec96bf2647dec1b7e/a-unix-timestamp-has-no-unit-the-four-ways-javascript-reads-your-date-wrong-20m1"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RAG Pipeline Utils v3.8.3: A Clearer npm Page (No Code Changes)]]></title>
-        <id>https://dev.to/devildev/rag-pipeline-utils-v383-a-clearer-npm-page-no-code-changes-41hc</id>
-        <link href="https://dev.to/devildev/rag-pipeline-utils-v383-a-clearer-npm-page-no-code-changes-41hc"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PrivaSVG: image-to-SVG vectorization in the browser with Rust and WebAssembly]]></title>
-        <id>https://dev.to/haidaresber/privasvg-image-to-svg-vectorization-in-the-browser-with-rust-and-webassembly-4inb</id>
-        <link href="https://dev.to/haidaresber/privasvg-image-to-svg-vectorization-in-the-browser-with-rust-and-webassembly-4inb"/>
+        <title type="html"><![CDATA[Porting SwiftUI Spring Animations to JavaScript for Consistent Cross-Platform Behavior (Windows, Mac)]]></title>
+        <id>https://dev.to/pavkode/porting-swiftui-spring-animations-to-javascript-for-consistent-cross-platform-behavior-windows-5da1</id>
+        <link href="https://dev.to/pavkode/porting-swiftui-spring-animations-to-javascript-for-consistent-cross-platform-behavior-windows-5da1"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
@@ -204,9 +274,79 @@
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Porting SwiftUI Spring Animations to JavaScript for Consistent Cross-Platform Behavior (Windows, Mac)]]></title>
-        <id>https://dev.to/pavkode/porting-swiftui-spring-animations-to-javascript-for-consistent-cross-platform-behavior-windows-5da1</id>
-        <link href="https://dev.to/pavkode/porting-swiftui-spring-animations-to-javascript-for-consistent-cross-platform-behavior-windows-5da1"/>
+        <title type="html"><![CDATA[PrivaSVG: image-to-SVG vectorization in the browser with Rust and WebAssembly]]></title>
+        <id>https://dev.to/haidaresber/privasvg-image-to-svg-vectorization-in-the-browser-with-rust-and-webassembly-4inb</id>
+        <link href="https://dev.to/haidaresber/privasvg-image-to-svg-vectorization-in-the-browser-with-rust-and-webassembly-4inb"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAG Pipeline Utils v3.8.3: A Clearer npm Page (No Code Changes)]]></title>
+        <id>https://dev.to/devildev/rag-pipeline-utils-v383-a-clearer-npm-page-no-code-changes-41hc</id>
+        <link href="https://dev.to/devildev/rag-pipeline-utils-v383-a-clearer-npm-page-no-code-changes-41hc"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Habit Tracking in the Browser: How I Built a Monthly Streak Grid for Firefox]]></title>
+        <id>https://dev.to/weatherclockdash/habit-tracking-in-the-browser-how-i-built-a-monthly-streak-grid-for-firefox-bn8</id>
+        <link href="https://dev.to/weatherclockdash/habit-tracking-in-the-browser-how-i-built-a-monthly-streak-grid-for-firefox-bn8"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Planning in the Browser: Why I Put My To-Do List on the Firefox New Tab]]></title>
+        <id>https://dev.to/weatherclockdash/daily-planning-in-the-browser-why-i-put-my-to-do-list-on-the-firefox-new-tab-5e4h</id>
+        <link href="https://dev.to/weatherclockdash/daily-planning-in-the-browser-why-i-put-my-to-do-list-on-the-firefox-new-tab-5e4h"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speed Dial for Firefox: Rebuilding a Classic Browser Feature]]></title>
+        <id>https://dev.to/weatherclockdash/speed-dial-for-firefox-rebuilding-a-classic-browser-feature-74l</id>
+        <link href="https://dev.to/weatherclockdash/speed-dial-for-firefox-rebuilding-a-classic-browser-feature-74l"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Calculator in Firefox: Why I Put Math on the New Tab]]></title>
+        <id>https://dev.to/weatherclockdash/quick-calculator-in-firefox-why-i-put-math-on-the-new-tab-39jp</id>
+        <link href="https://dev.to/weatherclockdash/quick-calculator-in-firefox-why-i-put-math-on-the-new-tab-39jp"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular Change Detection Strategy: A Guide]]></title>
+        <id>https://dev.to/moclaudius/angular-change-detection-strategy-a-guide-pcc</id>
+        <link href="https://dev.to/moclaudius/angular-change-detection-strategy-a-guide-pcc"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Voice-Over Tool for YouTube Videos]]></title>
+        <id>https://dev.to/voice_developer/how-to-build-a-voice-over-tool-for-youtube-videos-55c0</id>
+        <link href="https://dev.to/voice_developer/how-to-build-a-voice-over-tool-for-youtube-videos-55c0"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new chapter for TypeScript - 10x performance boost]]></title>
+        <id>https://dev.to/hugaidas/a-new-chapter-for-typescript-10x-performance-boost-4b13</id>
+        <link href="https://dev.to/hugaidas/a-new-chapter-for-typescript-10x-performance-boost-4b13"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Email Signature HTML: The Markup OnePassApps Writes and What It Omits]]></title>
+        <id>https://dev.to/onepassapps/email-signature-html-the-markup-onepassapps-writes-and-what-it-omits-20lm</id>
+        <link href="https://dev.to/onepassapps/email-signature-html-the-markup-onepassapps-writes-and-what-it-omits-20lm"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Production-Grade WhatsApp Cloud API Customer Support Bot in Node.js]]></title>
+        <id>https://dev.to/abinschandran/how-to-build-a-production-grade-whatsapp-cloud-api-customer-support-bot-in-nodejs-2mno</id>
+        <link href="https://dev.to/abinschandran/how-to-build-a-production-grade-whatsapp-cloud-api-customer-support-bot-in-nodejs-2mno"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
@@ -221,146 +361,6 @@
         <title type="html"><![CDATA[There’s no slowing down media’s pivot-to-video 2.0]]></title>
         <id>https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot</id>
         <link href="https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Costco members can get $5 off the reimagined Ocarina of Time]]></title>
-        <id>https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good]]></title>
-        <id>https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/</id>
-        <link href="https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A 55-Year-Old Math Problem Was Solved—This Time by Humans]]></title>
-        <id>https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/</id>
-        <link href="https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parents want safer phones for kids. These companies are answering the call.]]></title>
-        <id>https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/</id>
-        <link href="https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Missing Undo Button for Coding Agents [video]]]></title>
-        <id>https://www.youtube.com/watch?v=BT1Mo-fD-g0</id>
-        <link href="https://www.youtube.com/watch?v=BT1Mo-fD-g0"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valence: A language of homonymy and structural ambiguity]]></title>
-        <id>https://danieltemkin.com/Esolangs/Valence/About</id>
-        <link href="https://danieltemkin.com/Esolangs/Valence/About"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'm not a fan of Deno's security model (2024)]]></title>
-        <id>https://goldstein.lol/posts/deno-security/</id>
-        <link href="https://goldstein.lol/posts/deno-security/"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We review 4x more AI code without reading every line]]></title>
-        <id>https://thenewstack.io/scale-ai-code-reviews/</id>
-        <link href="https://thenewstack.io/scale-ai-code-reviews/"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Climate change transforms the colors of our world]]></title>
-        <id>https://apps.npr.org/color-climate-change-coral-lakes/</id>
-        <link href="https://apps.npr.org/color-climate-change-coral-lakes/"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RedisME: Redis GUI in the World]]></title>
-        <id>https://www.hepengju.com/</id>
-        <link href="https://www.hepengju.com/"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Controversy Surrounding Anduril Industries]]></title>
-        <id>https://discourse.haskell.org/t/controversy-surrounding-anduril-industries/10253?page=4</id>
-        <link href="https://discourse.haskell.org/t/controversy-surrounding-anduril-industries/10253?page=4"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unified Grid: How We Re-Architected Slack for Our Largest Customers]]></title>
-        <id>https://slack.engineering/unified-grid-how-we-re-architected-slack-for-our-largest-customers/</id>
-        <link href="https://slack.engineering/unified-grid-how-we-re-architected-slack-for-our-largest-customers/"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Down Again?]]></title>
-        <id>https://github.com/torvalds/linux</id>
-        <link href="https://github.com/torvalds/linux"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is the era of the educated elite over? (M.Gove, T.Debbonaire, D.Susskind) [video]]]></title>
-        <id>https://www.youtube.com/watch?v=3gZMT_NRWJE</id>
-        <link href="https://www.youtube.com/watch?v=3gZMT_NRWJE"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Can AI Hack? Inside Frontier Labs' Tests]]></title>
-        <id>https://dorcohen.dev/posts/what-can-ai-actually-hack/</id>
-        <link href="https://dorcohen.dev/posts/what-can-ai-actually-hack/"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arete-27B: Training methodology and accepted factual inaccuracies]]></title>
-        <id>https://rentry.co/qqq47kpa</id>
-        <link href="https://rentry.co/qqq47kpa"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taiwan sets new short-selling limits to aid beaten stock market 1d •]]></title>
-        <id>https://www.msn.com/en-us/money/top-stocks/taiwan-sets-new-short-selling-limits-to-aid-beaten-stock-market/ar-AA2gTsSA</id>
-        <link href="https://www.msn.com/en-us/money/top-stocks/taiwan-sets-new-short-selling-limits-to-aid-beaten-stock-market/ar-AA2gTsSA"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Companies Want to Buy Your Work Files and Emails]]></title>
-        <id>https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/</id>
-        <link href="https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My $2k Chinese Electric Truck: 5 Years Later [video]]]></title>
-        <id>https://www.youtube.com/watch?v=JIPXsvWPcGI</id>
-        <link href="https://www.youtube.com/watch?v=JIPXsvWPcGI"/>
-        <updated>2026-11-07T16:00:00.000Z</updated>
-        <published>2026-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When ChatGPT Broke a Field: An Oral History]]></title>
-        <id>https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/</id>
-        <link href="https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/"/>
         <updated>2026-11-07T16:00:00.000Z</updated>
         <published>2026-11-07T16:00:00.000Z</published>
     </entry>
