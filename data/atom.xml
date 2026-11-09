@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-09T07:02:46.441Z</updated>
+    <updated>2026-11-09T10:03:53.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[天花板上的白色盒子，是怎样保护我们的安全的？]]></title>
+        <id>https://sspai.com/post/118029</id>
+        <link href="https://sspai.com/post/118029"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DHS Has Used This Controversial Investigative Tool 185,000 Times Since Trump Took Office]]></title>
+        <id>https://www.wired.com/story/dhs-has-used-this-controversial-investigative-tool-185000-times-since-trump-took-office/</id>
+        <link href="https://www.wired.com/story/dhs-has-used-this-controversial-investigative-tool-185000-times-since-trump-took-office/"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.]]></title>
         <id>https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/</id>
@@ -29,198 +43,44 @@
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WindyMaps – Free offline maps, 1h/1km weather and route trip planner]]></title>
-        <id>https://windymapy.com</id>
-        <link href="https://windymapy.com"/>
+        <title type="html"><![CDATA[DIY Injection Molding: Making Plastic Recycling Accessible to All]]></title>
+        <id>https://www.youtube.com/watch?v=XxiLs3mAZJ8</id>
+        <link href="https://www.youtube.com/watch?v=XxiLs3mAZJ8"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CoreWeave Is Under Review by a Major Partner (Microsoft)]]></title>
-        <id>https://simplywall.st/stocks/us/software/nasdaq-crwv/coreweave/news/coreweave-crwv-is-under-review-by-a-major-ai-infrastructure</id>
-        <link href="https://simplywall.st/stocks/us/software/nasdaq-crwv/coreweave/news/coreweave-crwv-is-under-review-by-a-major-ai-infrastructure"/>
+        <title type="html"><![CDATA[Show HN: Fs-relay – Mount remote folders over HTTP 10x faster than s3fs (Go)]]></title>
+        <id>https://jadmadi.net/posts/mounting-remote-directories-over-http/</id>
+        <link href="https://jadmadi.net/posts/mounting-remote-directories-over-http/"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Studies: Does working life change our personality?]]></title>
-        <id>https://wiwi.uni-mainz.de/en/2026/09/08/studies-working-life-personality/</id>
-        <link href="https://wiwi.uni-mainz.de/en/2026/09/08/studies-working-life-personality/"/>
+        <title type="html"><![CDATA[C64 Demo Effect Explained: The Bumpmapped Rain in Lunatico]]></title>
+        <id>https://www.youtube.com/watch?v=F2TkzDaa8A4</id>
+        <link href="https://www.youtube.com/watch?v=F2TkzDaa8A4"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[China Newspaper Dismisses Jensen Huang Spy Claim, Warns on Ties]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-11-09/china-newspaper-dismisses-jensen-huang-spy-claim-warns-on-ties</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-11-09/china-newspaper-dismisses-jensen-huang-spy-claim-warns-on-ties"/>
+        <title type="html"><![CDATA[Add ARKit blendshapes to MetaHumans via CLI tool]]></title>
+        <id>https://holotype.com.sg/news/2026-11-03-bake-arkit-blendshapes-metahuman-dna-cli/</id>
+        <link href="https://holotype.com.sg/news/2026-11-03-bake-arkit-blendshapes-metahuman-dna-cli/"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Github.com 504 Gateway Timeout due to surge in anonymous users]]></title>
-        <id>https://www.githubstatus.com/incidents/c9px7cw2ghrs</id>
-        <link href="https://www.githubstatus.com/incidents/c9px7cw2ghrs"/>
+        <title type="html"><![CDATA[Porting a Flash game to DOS (without AI) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=5r-NeMRsfdw</id>
+        <link href="https://www.youtube.com/watch?v=5r-NeMRsfdw"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oriental Men's operating system [video]]]></title>
-        <id>https://www.youtube.com/watch?v=qvcwnwoQbWI</id>
-        <link href="https://www.youtube.com/watch?v=qvcwnwoQbWI"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A bot attack forced me to rebuild my tools on Cloudflare Workers]]></title>
-        <id>https://sitetoolsbox.com/article.php?id=52</id>
-        <link href="https://sitetoolsbox.com/article.php?id=52"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you help falsify this speculative quantum foundations idea?]]></title>
-        <id>https://zenodo.org/records/24072504</id>
-        <link href="https://zenodo.org/records/24072504"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revolut Cut AI Costs 90% and Started Shipping Faster]]></title>
-        <id>https://linas.substack.com/p/revolut-ai-coding-costs-open-source-models</id>
-        <link href="https://linas.substack.com/p/revolut-ai-coding-costs-open-source-models"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video of Jensen Huang after learning about the Chinese honeypot scandal]]></title>
-        <id>https://twitter.com/thomasunise/status/2119605573234970966</id>
-        <link href="https://twitter.com/thomasunise/status/2119605573234970966"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Workers Call for Accountable AI]]></title>
-        <id>https://dash.palform.app/fill/org_0R2JXZPZ7PFWX/form_0R8K0PRYXGM71?f=fat_0R9JYW9RTDRDS</id>
-        <link href="https://dash.palform.app/fill/org_0R2JXZPZ7PFWX/form_0R8K0PRYXGM71?f=fat_0R9JYW9RTDRDS"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adapting for a World of Software Factories]]></title>
-        <id>https://twitter.com/zachlloydtweets/status/2104957956794057068</id>
-        <link href="https://twitter.com/zachlloydtweets/status/2104957956794057068"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dodo – A Community Fork of Deno]]></title>
-        <id>https://github.com/are-we-dodo-yet/dodo</id>
-        <link href="https://github.com/are-we-dodo-yet/dodo"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RetroWEB 2.0: a forwarding proxy for old browsers]]></title>
-        <id>https://bjornsblog.nl/retroweb-now-works-as-a-real-web-proxy/</id>
-        <link href="https://bjornsblog.nl/retroweb-now-works-as-a-real-web-proxy/"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build the Future: Paul Graham and Amjad Masad [video]]]></title>
-        <id>https://www.youtube.com/watch?v=Q78dJ0vkWe8</id>
-        <link href="https://www.youtube.com/watch?v=Q78dJ0vkWe8"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I shipped a CLI and what I run is a proxy]]></title>
-        <id>https://avelino.run/mcp-cli-became-a-proxy/</id>
-        <link href="https://avelino.run/mcp-cli-became-a-proxy/"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anybody Have Proxy Links?]]></title>
-        <id>https://news.ycombinator.com/item?id=50418930</id>
-        <link href="https://news.ycombinator.com/item?id=50418930"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Last Man (1805)]]></title>
-        <id>https://www.weslpress.org/9780819566089/the-last-man/</id>
-        <link href="https://www.weslpress.org/9780819566089/the-last-man/"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A 100KB SVG that does real-time 3D PCA and convex hulls on CMS open data]]></title>
-        <id>https://zenodo.org/records/24068477</id>
-        <link href="https://zenodo.org/records/24068477"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a repeatable PHP-to-Java migration engine with Kiro]]></title>
-        <id>https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/</id>
-        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rust I Wanted Had No Future (2023)]]></title>
-        <id>https://web.archive.org/web/20230629213449/https://graydon2.dreamwidth.org/307291.html</id>
-        <link href="https://web.archive.org/web/20230629213449/https://graydon2.dreamwidth.org/307291.html"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Type in Any Task. Get the Best AI Model for It]]></title>
-        <id>https://taskrouter.com/tasks</id>
-        <link href="https://taskrouter.com/tasks"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A 24-hour fast triggers a microbiome repair response in the gut]]></title>
-        <id>https://www.pnas.org/doi/10.1073/pnas.2529215123</id>
-        <link href="https://www.pnas.org/doi/10.1073/pnas.2529215123"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Mindfries- AI Interviewer based on real eng skill not on L**tC*de]]></title>
-        <id>https://company.mindfries.com/login</id>
-        <link href="https://company.mindfries.com/login"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic, stop silently degrading models. You will undermine trust]]></title>
-        <id>https://www.reddit.com/r/ClaudeCode/comments/1xqtslm/rant_anthropic_stop_silently_degrading_models/</id>
-        <link href="https://www.reddit.com/r/ClaudeCode/comments/1xqtslm/rant_anthropic_stop_silently_degrading_models/"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P2P model hosting and inference WebGPU,libp2p,IPFS]]></title>
-        <id>https://metaversejs.github.io/peercompute/inference/</id>
-        <link href="https://metaversejs.github.io/peercompute/inference/"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Critique of GPUI]]></title>
-        <id>https://blog.zortax.de/posts/a-critique-of-gpui</id>
-        <link href="https://blog.zortax.de/posts/a-critique-of-gpui"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Praxia [video]]]></title>
-        <id>https://www.youtube.com/watch?v=vxB-jh96kVY</id>
-        <link href="https://www.youtube.com/watch?v=vxB-jh96kVY"/>
+        <title type="html"><![CDATA[Soviet Disunion]]></title>
+        <id>https://worksinprogress.co/issue/soviet-disunion/</id>
+        <link href="https://worksinprogress.co/issue/soviet-disunion/"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
@@ -232,9 +92,240 @@
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How AI Agents Remember: A Simple Guide to Memory, Vector Search, and RAG]]></title>
-        <id>https://pub.towardsai.net/how-ai-agents-remember-a-simple-guide-to-memory-vector-search-and-rag-8a7aebb1c129?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-ai-agents-remember-a-simple-guide-to-memory-vector-search-and-rag-8a7aebb1c129?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Praxia [video]]]></title>
+        <id>https://www.youtube.com/watch?v=vxB-jh96kVY</id>
+        <link href="https://www.youtube.com/watch?v=vxB-jh96kVY"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Critique of GPUI]]></title>
+        <id>https://blog.zortax.de/posts/a-critique-of-gpui</id>
+        <link href="https://blog.zortax.de/posts/a-critique-of-gpui"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P2P model hosting and inference WebGPU,libp2p,IPFS]]></title>
+        <id>https://metaversejs.github.io/peercompute/inference/</id>
+        <link href="https://metaversejs.github.io/peercompute/inference/"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic, stop silently degrading models. You will undermine trust]]></title>
+        <id>https://www.reddit.com/r/ClaudeCode/comments/1xqtslm/rant_anthropic_stop_silently_degrading_models/</id>
+        <link href="https://www.reddit.com/r/ClaudeCode/comments/1xqtslm/rant_anthropic_stop_silently_degrading_models/"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Mindfries- AI Interviewer based on real eng skill not on L**tC*de]]></title>
+        <id>https://company.mindfries.com/login</id>
+        <link href="https://company.mindfries.com/login"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A 24-hour fast triggers a microbiome repair response in the gut]]></title>
+        <id>https://www.pnas.org/doi/10.1073/pnas.2529215123</id>
+        <link href="https://www.pnas.org/doi/10.1073/pnas.2529215123"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Type in Any Task. Get the Best AI Model for It]]></title>
+        <id>https://taskrouter.com/tasks</id>
+        <link href="https://taskrouter.com/tasks"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rust I Wanted Had No Future (2023)]]></title>
+        <id>https://web.archive.org/web/20230629213449/https://graydon2.dreamwidth.org/307291.html</id>
+        <link href="https://web.archive.org/web/20230629213449/https://graydon2.dreamwidth.org/307291.html"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a repeatable PHP-to-Java migration engine with Kiro]]></title>
+        <id>https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/</id>
+        <link href="https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A 100KB SVG that does real-time 3D PCA and convex hulls on CMS open data]]></title>
+        <id>https://zenodo.org/records/24068477</id>
+        <link href="https://zenodo.org/records/24068477"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Last Man (1805)]]></title>
+        <id>https://www.weslpress.org/9780819566089/the-last-man/</id>
+        <link href="https://www.weslpress.org/9780819566089/the-last-man/"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anybody Have Proxy Links?]]></title>
+        <id>https://news.ycombinator.com/item?id=50418930</id>
+        <link href="https://news.ycombinator.com/item?id=50418930"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I shipped a CLI and what I run is a proxy]]></title>
+        <id>https://avelino.run/mcp-cli-became-a-proxy/</id>
+        <link href="https://avelino.run/mcp-cli-became-a-proxy/"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build the Future: Paul Graham and Amjad Masad [video]]]></title>
+        <id>https://www.youtube.com/watch?v=Q78dJ0vkWe8</id>
+        <link href="https://www.youtube.com/watch?v=Q78dJ0vkWe8"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RetroWEB 2.0: a forwarding proxy for old browsers]]></title>
+        <id>https://bjornsblog.nl/retroweb-now-works-as-a-real-web-proxy/</id>
+        <link href="https://bjornsblog.nl/retroweb-now-works-as-a-real-web-proxy/"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dodo – A Community Fork of Deno]]></title>
+        <id>https://github.com/are-we-dodo-yet/dodo</id>
+        <link href="https://github.com/are-we-dodo-yet/dodo"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adapting for a World of Software Factories]]></title>
+        <id>https://twitter.com/zachlloydtweets/status/2104957956794057068</id>
+        <link href="https://twitter.com/zachlloydtweets/status/2104957956794057068"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Workers Call for Accountable AI]]></title>
+        <id>https://dash.palform.app/fill/org_0R2JXZPZ7PFWX/form_0R8K0PRYXGM71?f=fat_0R9JYW9RTDRDS</id>
+        <link href="https://dash.palform.app/fill/org_0R2JXZPZ7PFWX/form_0R8K0PRYXGM71?f=fat_0R9JYW9RTDRDS"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video of Jensen Huang after learning about the Chinese honeypot scandal]]></title>
+        <id>https://twitter.com/thomasunise/status/2119605573234970966</id>
+        <link href="https://twitter.com/thomasunise/status/2119605573234970966"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolut Cut AI Costs 90% and Started Shipping Faster]]></title>
+        <id>https://linas.substack.com/p/revolut-ai-coding-costs-open-source-models</id>
+        <link href="https://linas.substack.com/p/revolut-ai-coding-costs-open-source-models"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can you help falsify this speculative quantum foundations idea?]]></title>
+        <id>https://zenodo.org/records/24072504</id>
+        <link href="https://zenodo.org/records/24072504"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A bot attack forced me to rebuild my tools on Cloudflare Workers]]></title>
+        <id>https://sitetoolsbox.com/article.php?id=52</id>
+        <link href="https://sitetoolsbox.com/article.php?id=52"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oriental Men's operating system [video]]]></title>
+        <id>https://www.youtube.com/watch?v=qvcwnwoQbWI</id>
+        <link href="https://www.youtube.com/watch?v=qvcwnwoQbWI"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Github.com 504 Gateway Timeout due to surge in anonymous users]]></title>
+        <id>https://www.githubstatus.com/incidents/c9px7cw2ghrs</id>
+        <link href="https://www.githubstatus.com/incidents/c9px7cw2ghrs"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China Newspaper Dismisses Jensen Huang Spy Claim, Warns on Ties]]></title>
+        <id>https://www.bloomberg.com/news/articles/2026-11-09/china-newspaper-dismisses-jensen-huang-spy-claim-warns-on-ties</id>
+        <link href="https://www.bloomberg.com/news/articles/2026-11-09/china-newspaper-dismisses-jensen-huang-spy-claim-warns-on-ties"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Studies: Does working life change our personality?]]></title>
+        <id>https://wiwi.uni-mainz.de/en/2026/09/08/studies-working-life-personality/</id>
+        <link href="https://wiwi.uni-mainz.de/en/2026/09/08/studies-working-life-personality/"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoreWeave Is Under Review by a Major Partner (Microsoft)]]></title>
+        <id>https://simplywall.st/stocks/us/software/nasdaq-crwv/coreweave/news/coreweave-crwv-is-under-review-by-a-major-ai-infrastructure</id>
+        <link href="https://simplywall.st/stocks/us/software/nasdaq-crwv/coreweave/news/coreweave-crwv-is-under-review-by-a-major-ai-infrastructure"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WindyMaps – Free offline maps, 1h/1km weather and route trip planner]]></title>
+        <id>https://windymapy.com</id>
+        <link href="https://windymapy.com"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fine-Tune Qwen2.5 with LoRA and Publish Your Model on Hugging Face: A Step-by-Step Guide]]></title>
+        <id>https://pub.towardsai.net/how-to-fine-tune-qwen2-5-with-lora-and-publish-your-model-on-hugging-face-a-step-by-step-guide-d7188ed330f8?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-fine-tune-qwen2-5-with-lora-and-publish-your-model-on-hugging-face-a-step-by-step-guide-d7188ed330f8?source=rss----98111c9905da---4"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beagle Lesson #3: How to Stop an AI Agent from Changing What You Approved]]></title>
+        <id>https://pub.towardsai.net/beagle-lesson-3-how-to-stop-an-ai-agent-from-changing-what-you-approved-e79593f6fd28?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/beagle-lesson-3-how-to-stop-an-ai-agent-from-changing-what-you-approved-e79593f6fd28?source=rss----98111c9905da---4"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Building AI Agents From Scratch. Try These 12 GitHub Repos]]></title>
+        <id>https://pub.towardsai.net/stop-building-ai-agents-from-scratch-try-these-12-github-repos-8f6ad76f3599?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/stop-building-ai-agents-from-scratch-try-these-12-github-repos-8f6ad76f3599?source=rss----98111c9905da---4"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MAP@k vs Precision@k vs MRR: Building Capability to choose the right one for each situation]]></title>
+        <id>https://pub.towardsai.net/map-k-vs-precision-k-vs-mrr-building-capability-to-choose-the-right-one-for-each-situation-5279e9ad2c8b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/map-k-vs-precision-k-vs-mrr-building-capability-to-choose-the-right-one-for-each-situation-5279e9ad2c8b?source=rss----98111c9905da---4"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building and deploying full blown ChatGPT with ReAct, PostgreSQL, FastAPI, Keycloak and Envoy…]]></title>
+        <id>https://pub.towardsai.net/building-and-deploying-full-blown-chatgpt-with-react-postgresql-fastapi-keycloak-and-envoy-2199e8038d0d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/building-and-deploying-full-blown-chatgpt-with-react-postgresql-fastapi-keycloak-and-envoy-2199e8038d0d?source=rss----98111c9905da---4"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub’s New Copilot Mode Doesn’t Pick One AI Model — It Picks Whichever One The Task Needs]]></title>
+        <id>https://pub.towardsai.net/githubs-new-copilot-mode-doesn-t-pick-one-ai-model-it-picks-whichever-one-the-task-needs-880eaf1c381a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/githubs-new-copilot-mode-doesn-t-pick-one-ai-model-it-picks-whichever-one-the-task-needs-880eaf1c381a?source=rss----98111c9905da---4"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
@@ -246,6 +337,13 @@
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How AI Agents Remember: A Simple Guide to Memory, Vector Search, and RAG]]></title>
+        <id>https://pub.towardsai.net/how-ai-agents-remember-a-simple-guide-to-memory-vector-search-and-rag-8a7aebb1c129?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-ai-agents-remember-a-simple-guide-to-memory-vector-search-and-rag-8a7aebb1c129?source=rss----98111c9905da---4"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[parse_number() as a SQLite extension: C vs Rust]]></title>
         <id>https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/</id>
         <link href="https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/"/>
@@ -253,114 +351,16 @@
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built 59 free browser-based dev tools in vanilla JS — here's what I learned]]></title>
-        <id>https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-5fni</id>
-        <link href="https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-5fni"/>
+        <title type="html"><![CDATA[skif: replacing sherif, syncpack and most of knip with one Rust binary]]></title>
+        <id>https://dev.to/nhirschfeld/skif-replacing-sherif-syncpack-and-most-of-knip-with-one-rust-binary-2ep1</id>
+        <link href="https://dev.to/nhirschfeld/skif-replacing-sherif-syncpack-and-most-of-knip-with-one-rust-binary-2ep1"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Integrate WhatsApp Cloud API into Custom SaaS Platforms: A Step-by-Step Guide]]></title>
-        <id>https://dev.to/abinschandran/how-to-integrate-whatsapp-cloud-api-into-custom-saas-platforms-a-step-by-step-guide-2j00</id>
-        <link href="https://dev.to/abinschandran/how-to-integrate-whatsapp-cloud-api-into-custom-saas-platforms-a-step-by-step-guide-2j00"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Accurate Is Statistical Computation in JavaScript? — A Comparative Analysis: rStats.js vs. R]]></title>
-        <id>https://dev.to/naoyuki_umetani/how-accurate-is-statistical-computation-in-javascript-a-comparative-analysis-rstatsjs-vs-r-37gf</id>
-        <link href="https://dev.to/naoyuki_umetani/how-accurate-is-statistical-computation-in-javascript-a-comparative-analysis-rstatsjs-vs-r-37gf"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Achieving Precision Equal to or Greater Than R in JavaScript: Fundamentals of Double-Double Arithmetic and Its Usage in rStats.js]]></title>
-        <id>https://dev.to/naoyuki_umetani/achieving-precision-equal-to-or-greater-than-r-in-javascript-fundamentals-of-double-double-3gh2</id>
-        <link href="https://dev.to/naoyuki_umetani/achieving-precision-equal-to-or-greater-than-r-in-javascript-fundamentals-of-double-double-3gh2"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When does npm test exit 0 even though the bug is still there?]]></title>
-        <id>https://dev.to/bestaitool/when-does-npm-test-exit-0-even-though-the-bug-is-still-there-4jg2</id>
-        <link href="https://dev.to/bestaitool/when-does-npm-test-exit-0-even-though-the-bug-is-still-there-4jg2"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A 5-second file scan was freezing my phone UI: two worker-thread lanes and a hard timeout in Node.js]]></title>
-        <id>https://dev.to/ashwar_sadh_f7abe6f82c8e9/a-5-second-file-scan-was-freezing-my-phone-ui-two-worker-thread-lanes-and-a-hard-timeout-in-nodejs-1dkl</id>
-        <link href="https://dev.to/ashwar_sadh_f7abe6f82c8e9/a-5-second-file-scan-was-freezing-my-phone-ui-two-worker-thread-lanes-and-a-hard-timeout-in-nodejs-1dkl"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why I Built rStats.js: Bringing Reliable Statistical Computing to JavaScript]]></title>
-        <id>https://dev.to/naoyuki_umetani/why-i-built-rstatsjs-bringing-reliable-statistical-computing-to-javascript-4de6</id>
-        <link href="https://dev.to/naoyuki_umetani/why-i-built-rstatsjs-bringing-reliable-statistical-computing-to-javascript-4de6"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building editable beat templates for a browser video editor]]></title>
-        <id>https://dev.to/martindelophy/building-editable-beat-templates-for-a-browser-video-editor-388p</id>
-        <link href="https://dev.to/martindelophy/building-editable-beat-templates-for-a-browser-video-editor-388p"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Production-Grade WhatsApp Cloud API Customer Support Bot in Node.js]]></title>
-        <id>https://dev.to/abinschandran/how-to-build-a-production-grade-whatsapp-cloud-api-customer-support-bot-in-nodejs-2mno</id>
-        <link href="https://dev.to/abinschandran/how-to-build-a-production-grade-whatsapp-cloud-api-customer-support-bot-in-nodejs-2mno"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Email Signature HTML: The Markup OnePassApps Writes and What It Omits]]></title>
-        <id>https://dev.to/onepassapps/email-signature-html-the-markup-onepassapps-writes-and-what-it-omits-20lm</id>
-        <link href="https://dev.to/onepassapps/email-signature-html-the-markup-onepassapps-writes-and-what-it-omits-20lm"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new chapter for TypeScript - 10x performance boost]]></title>
-        <id>https://dev.to/hugaidas/a-new-chapter-for-typescript-10x-performance-boost-4b13</id>
-        <link href="https://dev.to/hugaidas/a-new-chapter-for-typescript-10x-performance-boost-4b13"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Voice-Over Tool for YouTube Videos]]></title>
-        <id>https://dev.to/voice_developer/how-to-build-a-voice-over-tool-for-youtube-videos-55c0</id>
-        <link href="https://dev.to/voice_developer/how-to-build-a-voice-over-tool-for-youtube-videos-55c0"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angular Change Detection Strategy: A Guide]]></title>
-        <id>https://dev.to/moclaudius/angular-change-detection-strategy-a-guide-pcc</id>
-        <link href="https://dev.to/moclaudius/angular-change-detection-strategy-a-guide-pcc"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Calculator in Firefox: Why I Put Math on the New Tab]]></title>
-        <id>https://dev.to/weatherclockdash/quick-calculator-in-firefox-why-i-put-math-on-the-new-tab-39jp</id>
-        <link href="https://dev.to/weatherclockdash/quick-calculator-in-firefox-why-i-put-math-on-the-new-tab-39jp"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Speed Dial for Firefox: Rebuilding a Classic Browser Feature]]></title>
-        <id>https://dev.to/weatherclockdash/speed-dial-for-firefox-rebuilding-a-classic-browser-feature-74l</id>
-        <link href="https://dev.to/weatherclockdash/speed-dial-for-firefox-rebuilding-a-classic-browser-feature-74l"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Planning in the Browser: Why I Put My To-Do List on the Firefox New Tab]]></title>
-        <id>https://dev.to/weatherclockdash/daily-planning-in-the-browser-why-i-put-my-to-do-list-on-the-firefox-new-tab-5e4h</id>
-        <link href="https://dev.to/weatherclockdash/daily-planning-in-the-browser-why-i-put-my-to-do-list-on-the-firefox-new-tab-5e4h"/>
+        <title type="html"><![CDATA[A Successful HTTP Status Still Needs a Valid Warehouse Response]]></title>
+        <id>https://dev.to/tom_8d160ea57bf5c0395981d/a-successful-http-status-still-needs-a-valid-warehouse-response-1co4</id>
+        <link href="https://dev.to/tom_8d160ea57bf5c0395981d/a-successful-http-status-still-needs-a-valid-warehouse-response-1co4"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
