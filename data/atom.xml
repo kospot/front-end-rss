@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-09T22:01:37.065Z</updated>
+    <updated>2026-11-10T00:06:56.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[The global pledge to use AI for climate good is a cruel joke]]></title>
-        <id>https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31</id>
-        <link href="https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31"/>
+        <title type="html"><![CDATA[What could China get from Jensen Huang?]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang"/>
+        <updated>2026-11-09T16:00:00.000Z</updated>
+        <published>2026-11-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"/>
         <updated>2026-11-09T16:00:00.000Z</updated>
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
@@ -29,9 +36,16 @@
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks]]></title>
-        <id>https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/</id>
-        <link href="https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/"/>
+        <title type="html"><![CDATA[The global pledge to use AI for climate good is a cruel joke]]></title>
+        <id>https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31</id>
+        <link href="https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31"/>
+        <updated>2026-11-09T16:00:00.000Z</updated>
+        <published>2026-11-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal]]></title>
+        <id>https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/</id>
+        <link href="https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"/>
         <updated>2026-11-09T16:00:00.000Z</updated>
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
@@ -43,37 +57,51 @@
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Bottled Reset Rune – auto-use spare Codex resets before they expire]]></title>
-        <id>https://github.com/sufferfml/reset-rune</id>
-        <link href="https://github.com/sufferfml/reset-rune"/>
+        <title type="html"><![CDATA[France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks]]></title>
+        <id>https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/</id>
+        <link href="https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/"/>
         <updated>2026-11-09T16:00:00.000Z</updated>
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USB: A trust layer for AI skills and MCP servers]]></title>
-        <id>https://github.com/PeepSick/usbplus</id>
-        <link href="https://github.com/PeepSick/usbplus"/>
+        <title type="html"><![CDATA[Parents Sue Google over A.I. Safety Risks on School Chromebooks]]></title>
+        <id>https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html</id>
+        <link href="https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html"/>
         <updated>2026-11-09T16:00:00.000Z</updated>
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Agent-email-guard – agent tried to send 400 receipts, stopped at 5]]></title>
-        <id>https://github.com/agentisend/agent-email-guard</id>
-        <link href="https://github.com/agentisend/agent-email-guard"/>
+        <title type="html"><![CDATA[Four Player Wolfenstein 3D built for charity]]></title>
+        <id>https://yeold.press/extra-life-2026-wolf3d-reloaded-a-free-4-player-wolfenstein-built-for-charity/</id>
+        <link href="https://yeold.press/extra-life-2026-wolf3d-reloaded-a-free-4-player-wolfenstein-built-for-charity/"/>
         <updated>2026-11-09T16:00:00.000Z</updated>
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Courses built from Hacker News posts]]></title>
-        <id>https://hackertutorials.com/</id>
-        <link href="https://hackertutorials.com/"/>
+        <title type="html"><![CDATA[CodeRabbit scales agentic software development and ships 20x more]]></title>
+        <id>https://openai.com/index/coderabbit-codex-daybreak/</id>
+        <link href="https://openai.com/index/coderabbit-codex-daybreak/"/>
         <updated>2026-11-09T16:00:00.000Z</updated>
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Emma, a real-time AI video persona from Nuance Labs]]></title>
-        <id>https://app.nuancelabs.ai/try</id>
-        <link href="https://app.nuancelabs.ai/try"/>
+        <title type="html"><![CDATA[A teen used her school Chromebook and Google AI Mode to plan her suicide]]></title>
+        <id>https://mashable.com/tech/google-gemini-chromebook-lawsuit-teen-planned-suicide</id>
+        <link href="https://mashable.com/tech/google-gemini-chromebook-lawsuit-teen-planned-suicide"/>
+        <updated>2026-11-09T16:00:00.000Z</updated>
+        <published>2026-11-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C15T: The open standard for cookie banners]]></title>
+        <id>https://c15t.com</id>
+        <link href="https://c15t.com"/>
+        <updated>2026-11-09T16:00:00.000Z</updated>
+        <published>2026-11-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JoesProxy – The free network workbench for your AI agent]]></title>
+        <id>https://www.joesproxy.com/</id>
+        <link href="https://www.joesproxy.com/"/>
         <updated>2026-11-09T16:00:00.000Z</updated>
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
@@ -85,23 +113,37 @@
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Tried to Trick My Own MCP Server Into Deleting a Database. The Filter Failed.]]></title>
-        <id>https://pub.towardsai.net/i-tried-to-trick-my-own-mcp-server-into-deleting-a-database-the-filter-failed-7197ca5550fa?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-tried-to-trick-my-own-mcp-server-into-deleting-a-database-the-filter-failed-7197ca5550fa?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Emma, a real-time AI video persona from Nuance Labs]]></title>
+        <id>https://app.nuancelabs.ai/try</id>
+        <link href="https://app.nuancelabs.ai/try"/>
         <updated>2026-11-09T16:00:00.000Z</updated>
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Generate Animated GIFs and SVG Icons with the OpenAI Images 2.6 API in Python]]></title>
-        <id>https://pub.towardsai.net/how-to-generate-animated-gifs-and-svg-icons-with-the-openai-images-2-6-api-in-python-8aeac5285d71?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-to-generate-animated-gifs-and-svg-icons-with-the-openai-images-2-6-api-in-python-8aeac5285d71?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Courses built from Hacker News posts]]></title>
+        <id>https://hackertutorials.com/</id>
+        <link href="https://hackertutorials.com/"/>
         <updated>2026-11-09T16:00:00.000Z</updated>
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Decision Model as a Gate: Fast, Well Calibrated, and Still Wrong 16% of the Time]]></title>
-        <id>https://pub.towardsai.net/a-decision-model-as-a-gate-fast-well-calibrated-and-still-wrong-16-of-the-time-2ddb226b1ed5?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/a-decision-model-as-a-gate-fast-well-calibrated-and-still-wrong-16-of-the-time-2ddb226b1ed5?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Agent-email-guard – agent tried to send 400 receipts, stopped at 5]]></title>
+        <id>https://github.com/agentisend/agent-email-guard</id>
+        <link href="https://github.com/agentisend/agent-email-guard"/>
+        <updated>2026-11-09T16:00:00.000Z</updated>
+        <published>2026-11-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USB: A trust layer for AI skills and MCP servers]]></title>
+        <id>https://github.com/PeepSick/usbplus</id>
+        <link href="https://github.com/PeepSick/usbplus"/>
+        <updated>2026-11-09T16:00:00.000Z</updated>
+        <published>2026-11-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Bottled Reset Rune – auto-use spare Codex resets before they expire]]></title>
+        <id>https://github.com/sufferfml/reset-rune</id>
+        <link href="https://github.com/sufferfml/reset-rune"/>
         <updated>2026-11-09T16:00:00.000Z</updated>
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
@@ -113,65 +155,78 @@
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Animate Text on Scroll with SplitFX in 3 Simple Steps]]></title>
-        <id>https://dev.to/youssef-benghazy/animate-text-on-scroll-with-splitfx-in-3-simple-steps-3m4g</id>
-        <link href="https://dev.to/youssef-benghazy/animate-text-on-scroll-with-splitfx-in-3-simple-steps-3m4g"/>
+        <title type="html"><![CDATA[A Decision Model as a Gate: Fast, Well Calibrated, and Still Wrong 16% of the Time]]></title>
+        <id>https://pub.towardsai.net/a-decision-model-as-a-gate-fast-well-calibrated-and-still-wrong-16-of-the-time-2ddb226b1ed5?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/a-decision-model-as-a-gate-fast-well-calibrated-and-still-wrong-16-of-the-time-2ddb226b1ed5?source=rss----98111c9905da---4"/>
         <updated>2026-11-09T16:00:00.000Z</updated>
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Lab to Code #3: Building an Interactive Robot Cell with Python and Three.js]]></title>
-        <id>https://dev.to/ertugrulmutlu/from-lab-to-code-3-building-an-interactive-robot-cell-with-python-and-threejs-2953</id>
-        <link href="https://dev.to/ertugrulmutlu/from-lab-to-code-3-building-an-interactive-robot-cell-with-python-and-threejs-2953"/>
+        <title type="html"><![CDATA[How to Generate Animated GIFs and SVG Icons with the OpenAI Images 2.6 API in Python]]></title>
+        <id>https://pub.towardsai.net/how-to-generate-animated-gifs-and-svg-icons-with-the-openai-images-2-6-api-in-python-8aeac5285d71?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-generate-animated-gifs-and-svg-icons-with-the-openai-images-2-6-api-in-python-8aeac5285d71?source=rss----98111c9905da---4"/>
         <updated>2026-11-09T16:00:00.000Z</updated>
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RBI Reference Rate API: Official INR Rates as JSON]]></title>
-        <id>https://dev.to/allratestodaycom/rbi-reference-rate-api-official-inr-rates-as-json-3bkg</id>
-        <link href="https://dev.to/allratestodaycom/rbi-reference-rate-api-official-inr-rates-as-json-3bkg"/>
+        <title type="html"><![CDATA[I Tried to Trick My Own MCP Server Into Deleting a Database. The Filter Failed.]]></title>
+        <id>https://pub.towardsai.net/i-tried-to-trick-my-own-mcp-server-into-deleting-a-database-the-filter-failed-7197ca5550fa?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-tried-to-trick-my-own-mcp-server-into-deleting-a-database-the-filter-failed-7197ca5550fa?source=rss----98111c9905da---4"/>
         <updated>2026-11-09T16:00:00.000Z</updated>
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Do Firefox Extensions Slow Down Your Browser? What Actually Matters]]></title>
-        <id>https://dev.to/weatherclockdash/do-firefox-extensions-slow-down-your-browser-what-actually-matters-35d1</id>
-        <link href="https://dev.to/weatherclockdash/do-firefox-extensions-slow-down-your-browser-what-actually-matters-35d1"/>
+        <title type="html"><![CDATA[
+theAuth: open-source TypeScript auth for AI agents, with an MCP OAuth 2.1 server
+]]></title>
+        <id>
+https://github.com/glincker/theauth
+</id>
+        <link href="
+https://github.com/glincker/theauth
+"/>
         <updated>2026-11-09T16:00:00.000Z</updated>
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firefox Extensions That Require No Account: Why Local-First Tools Are Better for Most Uses]]></title>
-        <id>https://dev.to/weatherclockdash/firefox-extensions-that-require-no-account-why-local-first-tools-are-better-for-most-uses-39co</id>
-        <link href="https://dev.to/weatherclockdash/firefox-extensions-that-require-no-account-why-local-first-tools-are-better-for-most-uses-39co"/>
+        <title type="html"><![CDATA[How I built a responsive landing page with animated cards in HTML, CSS and JavaScript]]></title>
+        <id>https://dev.to/sebastin_ayora/how-i-built-a-responsive-landing-page-with-animated-cards-in-html-css-and-javascript-3a8</id>
+        <link href="https://dev.to/sebastin_ayora/how-i-built-a-responsive-landing-page-with-animated-cards-in-html-css-and-javascript-3a8"/>
         <updated>2026-11-09T16:00:00.000Z</updated>
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firefox Settings Worth Changing: Privacy, Performance, and Interface Improvements]]></title>
-        <id>https://dev.to/weatherclockdash/firefox-settings-worth-changing-privacy-performance-and-interface-improvements-55a9</id>
-        <link href="https://dev.to/weatherclockdash/firefox-settings-worth-changing-privacy-performance-and-interface-improvements-55a9"/>
+        <title type="html"><![CDATA[서버 없이 HTML 한 장으로 소방 법정 서류 5종 PDF 만들기 (소방안전관리자용 무료 작성기)]]></title>
+        <id>https://dev.to/sobangnote/seobeo-eobsi-html-han-jangeuro-sobang-beobjeong-seoryu-5jong-pdf-mandeulgi-sobanganjeongwanrijayong-muryo-jagseonggi-60m</id>
+        <link href="https://dev.to/sobangnote/seobeo-eobsi-html-han-jangeuro-sobang-beobjeong-seoryu-5jong-pdf-mandeulgi-sobanganjeongwanrijayong-muryo-jagseonggi-60m"/>
         <updated>2026-11-09T16:00:00.000Z</updated>
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Switching from Chrome to Firefox: What Changes and Which Extensions to Install First]]></title>
-        <id>https://dev.to/weatherclockdash/switching-from-chrome-to-firefox-what-changes-and-which-extensions-to-install-first-3l1e</id>
-        <link href="https://dev.to/weatherclockdash/switching-from-chrome-to-firefox-what-changes-and-which-extensions-to-install-first-3l1e"/>
+        <title type="html"><![CDATA[Create an AI Voice Assistant with ElevenLabs and Node.js]]></title>
+        <id>https://dev.to/voice_developer/create-an-ai-voice-assistant-with-elevenlabs-and-nodejs-11d7</id>
+        <link href="https://dev.to/voice_developer/create-an-ai-voice-assistant-with-elevenlabs-and-nodejs-11d7"/>
         <updated>2026-11-09T16:00:00.000Z</updated>
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Install Firefox Extensions: A Complete Beginner Guide]]></title>
-        <id>https://dev.to/weatherclockdash/how-to-install-firefox-extensions-a-complete-beginner-guide-5031</id>
-        <link href="https://dev.to/weatherclockdash/how-to-install-firefox-extensions-a-complete-beginner-guide-5031"/>
+        <title type="html"><![CDATA[How to Build a Zero-Trust Ingestion Cleanroom for Coding Agents]]></title>
+        <id>https://dev.to/johnrc25/how-to-build-a-zero-trust-ingestion-cleanroom-for-coding-agents-1f95</id>
+        <link href="https://dev.to/johnrc25/how-to-build-a-zero-trust-ingestion-cleanroom-for-coding-agents-1f95"/>
         <updated>2026-11-09T16:00:00.000Z</updated>
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Minimal Firefox Extension Setup: Which Extensions Are Worth the Cost]]></title>
-        <id>https://dev.to/weatherclockdash/building-a-minimal-firefox-extension-setup-which-extensions-are-worth-the-cost-1d87</id>
-        <link href="https://dev.to/weatherclockdash/building-a-minimal-firefox-extension-setup-which-extensions-are-worth-the-cost-1d87"/>
+        <title type="html"><![CDATA[Just built a UI library for Hono JSX, check it out!]]></title>
+        <id>https://dev.to/blacksilva/just-built-a-ui-library-for-hono-jsx-check-it-out-d66</id>
+        <link href="https://dev.to/blacksilva/just-built-a-ui-library-for-hono-jsx-check-it-out-d66"/>
+        <updated>2026-11-09T16:00:00.000Z</updated>
+        <published>2026-11-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Headway: A Fast, Lightweight Transit Schedule Lookup from Open GTFS Data]]></title>
+        <id>https://dev.to/shivrajsinhzala/building-headway-a-fast-lightweight-transit-schedule-lookup-from-open-gtfs-data-4bp</id>
+        <link href="https://dev.to/shivrajsinhzala/building-headway-a-fast-lightweight-transit-schedule-lookup-from-open-gtfs-data-4bp"/>
         <updated>2026-11-09T16:00:00.000Z</updated>
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
@@ -183,44 +238,72 @@
         <published>2026-11-09T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Building a Minimal Firefox Extension Setup: Which Extensions Are Worth the Cost]]></title>
+        <id>https://dev.to/weatherclockdash/building-a-minimal-firefox-extension-setup-which-extensions-are-worth-the-cost-1d87</id>
+        <link href="https://dev.to/weatherclockdash/building-a-minimal-firefox-extension-setup-which-extensions-are-worth-the-cost-1d87"/>
+        <updated>2026-11-09T16:00:00.000Z</updated>
+        <published>2026-11-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install Firefox Extensions: A Complete Beginner Guide]]></title>
+        <id>https://dev.to/weatherclockdash/how-to-install-firefox-extensions-a-complete-beginner-guide-5031</id>
+        <link href="https://dev.to/weatherclockdash/how-to-install-firefox-extensions-a-complete-beginner-guide-5031"/>
+        <updated>2026-11-09T16:00:00.000Z</updated>
+        <published>2026-11-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switching from Chrome to Firefox: What Changes and Which Extensions to Install First]]></title>
+        <id>https://dev.to/weatherclockdash/switching-from-chrome-to-firefox-what-changes-and-which-extensions-to-install-first-3l1e</id>
+        <link href="https://dev.to/weatherclockdash/switching-from-chrome-to-firefox-what-changes-and-which-extensions-to-install-first-3l1e"/>
+        <updated>2026-11-09T16:00:00.000Z</updated>
+        <published>2026-11-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox Settings Worth Changing: Privacy, Performance, and Interface Improvements]]></title>
+        <id>https://dev.to/weatherclockdash/firefox-settings-worth-changing-privacy-performance-and-interface-improvements-55a9</id>
+        <link href="https://dev.to/weatherclockdash/firefox-settings-worth-changing-privacy-performance-and-interface-improvements-55a9"/>
+        <updated>2026-11-09T16:00:00.000Z</updated>
+        <published>2026-11-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox Extensions That Require No Account: Why Local-First Tools Are Better for Most Uses]]></title>
+        <id>https://dev.to/weatherclockdash/firefox-extensions-that-require-no-account-why-local-first-tools-are-better-for-most-uses-39co</id>
+        <link href="https://dev.to/weatherclockdash/firefox-extensions-that-require-no-account-why-local-first-tools-are-better-for-most-uses-39co"/>
+        <updated>2026-11-09T16:00:00.000Z</updated>
+        <published>2026-11-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do Firefox Extensions Slow Down Your Browser? What Actually Matters]]></title>
+        <id>https://dev.to/weatherclockdash/do-firefox-extensions-slow-down-your-browser-what-actually-matters-35d1</id>
+        <link href="https://dev.to/weatherclockdash/do-firefox-extensions-slow-down-your-browser-what-actually-matters-35d1"/>
+        <updated>2026-11-09T16:00:00.000Z</updated>
+        <published>2026-11-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RBI Reference Rate API: Official INR Rates as JSON]]></title>
+        <id>https://dev.to/allratestodaycom/rbi-reference-rate-api-official-inr-rates-as-json-3bkg</id>
+        <link href="https://dev.to/allratestodaycom/rbi-reference-rate-api-official-inr-rates-as-json-3bkg"/>
+        <updated>2026-11-09T16:00:00.000Z</updated>
+        <published>2026-11-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Lab to Code #3: Building an Interactive Robot Cell with Python and Three.js]]></title>
+        <id>https://dev.to/ertugrulmutlu/from-lab-to-code-3-building-an-interactive-robot-cell-with-python-and-threejs-2953</id>
+        <link href="https://dev.to/ertugrulmutlu/from-lab-to-code-3-building-an-interactive-robot-cell-with-python-and-threejs-2953"/>
+        <updated>2026-11-09T16:00:00.000Z</updated>
+        <published>2026-11-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animate Text on Scroll with SplitFX in 3 Simple Steps]]></title>
+        <id>https://dev.to/youssef-benghazy/animate-text-on-scroll-with-splitfx-in-3-simple-steps-3m4g</id>
+        <link href="https://dev.to/youssef-benghazy/animate-text-on-scroll-with-splitfx-in-3-simple-steps-3m4g"/>
+        <updated>2026-11-09T16:00:00.000Z</updated>
+        <published>2026-11-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[天花板上的白色盒子，是怎样保护我们的安全的？]]></title>
         <id>https://sspai.com/post/118029</id>
         <link href="https://sspai.com/post/118029"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year]]></title>
-        <id>https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/</id>
-        <link href="https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DHS Has Used This Controversial Investigative Tool 185,000 Times Since Trump Took Office]]></title>
-        <id>https://www.wired.com/story/dhs-has-used-this-controversial-investigative-tool-185000-times-since-trump-took-office/</id>
-        <link href="https://www.wired.com/story/dhs-has-used-this-controversial-investigative-tool-185000-times-since-trump-took-office/"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audioengine Color of the Year Kit Review: Bright Look, Good Sound]]></title>
-        <id>https://www.wired.com/review/audioengine-2026-color-of-the-year-kit/</id>
-        <link href="https://www.wired.com/review/audioengine-2026-color-of-the-year-kit/"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists May Have Discovered a Massive Starless Galaxy]]></title>
-        <id>https://www.wired.com/story/scientists-discover-massive-starless-galaxy/</id>
-        <link href="https://www.wired.com/story/scientists-discover-massive-starless-galaxy/"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Hulu Doc ‘Get Huge’ Shows the Deadly Toll of Looksmaxxing]]></title>
-        <id>https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/</id>
-        <link href="https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
@@ -232,23 +315,37 @@
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta expands Instagram’s AI age-guessing tech globally]]></title>
-        <id>https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/</id>
-        <link href="https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/"/>
+        <title type="html"><![CDATA[New Hulu Doc ‘Get Huge’ Shows the Deadly Toll of Looksmaxxing]]></title>
+        <id>https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/</id>
+        <link href="https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet Drops, the new music app bringing back the fun of sharing songs with friends]]></title>
-        <id>https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/</id>
-        <link href="https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/"/>
+        <title type="html"><![CDATA[Scientists May Have Discovered a Massive Starless Galaxy]]></title>
+        <id>https://www.wired.com/story/scientists-discover-massive-starless-galaxy/</id>
+        <link href="https://www.wired.com/story/scientists-discover-massive-starless-galaxy/"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apps to distract you from the endless cycle of doomscrolling]]></title>
-        <id>https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/</id>
-        <link href="https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/"/>
+        <title type="html"><![CDATA[Audioengine Color of the Year Kit Review: Bright Look, Good Sound]]></title>
+        <id>https://www.wired.com/review/audioengine-2026-color-of-the-year-kit/</id>
+        <link href="https://www.wired.com/review/audioengine-2026-color-of-the-year-kit/"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DHS Has Used This Controversial Investigative Tool 185,000 Times Since Trump Took Office]]></title>
+        <id>https://www.wired.com/story/dhs-has-used-this-controversial-investigative-tool-185000-times-since-trump-took-office/</id>
+        <link href="https://www.wired.com/story/dhs-has-used-this-controversial-investigative-tool-185000-times-since-trump-took-office/"/>
+        <updated>2026-11-08T16:00:00.000Z</updated>
+        <published>2026-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year]]></title>
+        <id>https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/</id>
+        <link href="https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
@@ -260,107 +357,16 @@
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Messages is closing in on RCS video call support]]></title>
-        <id>https://www.androidauthority.com/rcs-video-calls-messages-3716426/</id>
-        <link href="https://www.androidauthority.com/rcs-video-calls-messages-3716426/"/>
+        <title type="html"><![CDATA[Apps to distract you from the endless cycle of doomscrolling]]></title>
+        <id>https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/</id>
+        <link href="https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[C64 Basic Dungeon Crawler: Rats, Shields and Fireball Magic]]></title>
-        <id>https://retrogamecoders.com/c64-basic-dungeon-part12/</id>
-        <link href="https://retrogamecoders.com/c64-basic-dungeon-part12/"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's Talk About Why All This OT Stuff Is Connected]]></title>
-        <id>https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/</id>
-        <link href="https://tisiphone.net/2026/11/08/lets-talk-about-why-all-this-ot-stuff-is-connected/"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thundervim: Vim keybindings for editing email in Thunderbird's compose window]]></title>
-        <id>https://github.com/mre/thundervim</id>
-        <link href="https://github.com/mre/thundervim"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walt (Tap-to-Pay for the Rebels) Gets Sued (Gotta Rename)]]></title>
-        <id>https://walt.is/updates</id>
-        <link href="https://walt.is/updates"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI, Californians, 'translators': Vancouver council went off the rails this week]]></title>
-        <id>https://vancouversun.com/opinion/columnists/ai-slop-californians-and-fivancouver-council-really-goes-off-the-rails</id>
-        <link href="https://vancouversun.com/opinion/columnists/ai-slop-californians-and-fivancouver-council-really-goes-off-the-rails"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hearthscale: Built and run local code, music, image, video models E2E encrypted]]></title>
-        <id>https://hearthscale.com/</id>
-        <link href="https://hearthscale.com/"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We brought ViT-H coordination below a 16 GB memory budget]]></title>
-        <id>https://nodeox.com/blog/vit-h-coordination-memory</id>
-        <link href="https://nodeox.com/blog/vit-h-coordination-memory"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WindyMaps – Free offline maps, 1h/1km weather and route trip planner]]></title>
-        <id>https://windymapy.com</id>
-        <link href="https://windymapy.com"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoreWeave Is Under Review by a Major Partner (Microsoft)]]></title>
-        <id>https://simplywall.st/stocks/us/software/nasdaq-crwv/coreweave/news/coreweave-crwv-is-under-review-by-a-major-ai-infrastructure</id>
-        <link href="https://simplywall.st/stocks/us/software/nasdaq-crwv/coreweave/news/coreweave-crwv-is-under-review-by-a-major-ai-infrastructure"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Studies: Does working life change our personality?]]></title>
-        <id>https://wiwi.uni-mainz.de/en/2026/09/08/studies-working-life-personality/</id>
-        <link href="https://wiwi.uni-mainz.de/en/2026/09/08/studies-working-life-personality/"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China Newspaper Dismisses Jensen Huang Spy Claim, Warns on Ties]]></title>
-        <id>https://www.bloomberg.com/news/articles/2026-11-09/china-newspaper-dismisses-jensen-huang-spy-claim-warns-on-ties</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-11-09/china-newspaper-dismisses-jensen-huang-spy-claim-warns-on-ties"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Github.com 504 Gateway Timeout due to surge in anonymous users]]></title>
-        <id>https://www.githubstatus.com/incidents/c9px7cw2ghrs</id>
-        <link href="https://www.githubstatus.com/incidents/c9px7cw2ghrs"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oriental Men's operating system [video]]]></title>
-        <id>https://www.youtube.com/watch?v=qvcwnwoQbWI</id>
-        <link href="https://www.youtube.com/watch?v=qvcwnwoQbWI"/>
-        <updated>2026-11-08T16:00:00.000Z</updated>
-        <published>2026-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A bot attack forced me to rebuild my tools on Cloudflare Workers]]></title>
-        <id>https://sitetoolsbox.com/article.php?id=52</id>
-        <link href="https://sitetoolsbox.com/article.php?id=52"/>
+        <title type="html"><![CDATA[Meet Drops, the new music app bringing back the fun of sharing songs with friends]]></title>
+        <id>https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/</id>
+        <link href="https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/"/>
         <updated>2026-11-08T16:00:00.000Z</updated>
         <published>2026-11-08T16:00:00.000Z</published>
     </entry>
