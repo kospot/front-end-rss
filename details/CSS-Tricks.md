@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-11-10 10:02:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-11 06:01:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS-Tricks
 
 
 
 
+- [2026-11-11-CSS-Optimization:-Is-Using-Declarations-Just-Once-UDJO-Still-Effective-Today?](https://css-tricks.com/css-using-declarations-just-once/) 
 - [2026-11-09-CSS-Tricks,-Version-20](https://css-tricks.com/css-tricks-version-20/) 
 - [2026-11-07-RSS-Club:-CSS-Tricks-Redesign-Preview](https://css-tricks.com/css-tricks-redesign-preview/) 
 - [2026-11-05-Taming-Typography:-Building-a-Modern-CSS-Reset](https://css-tricks.com/taming-typography-modern-css-reset/) 
