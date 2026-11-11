@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-11 21:03:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-11 23:05:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -7,13 +7,13 @@
 
 
 
-- [2026-11-11-You're-Still-Optimizing-Re-Renders-Wrong:-The-Vue-3-Architecture-That-Outsmarted-the-Virtual-DOM](https://dev.to/smtahosin/youre-still-optimizing-re-renders-wrong-the-vue-3-architecture-that-outsmarted-the-virtual-dom-3fd1) 
 - [2026-11-11-What-a-Number-Guessing-Game-Teaches-About-Binary-Search-and-Vue-State](https://dev.to/begoodtool/what-a-number-guessing-game-teaches-about-binary-search-and-vue-state-445a) 
+- [2026-11-11-You're-Still-Optimizing-Re-Renders-Wrong:-The-Vue-3-Architecture-That-Outsmarted-the-Virtual-DOM](https://dev.to/smtahosin/youre-still-optimizing-re-renders-wrong-the-vue-3-architecture-that-outsmarted-the-virtual-dom-3fd1) 
 - [2026-11-09-Firefox-for-Web-Developers:-DevTools-Advantages-and-Extensions-Worth-Installing](https://dev.to/weatherclockdash/firefox-for-web-developers-devtools-advantages-and-extensions-worth-installing-2if7) 
 - [2026-11-07-Vue.js-for-Beginners:-Build-Interactive-Websites-Without-the-Steep-Learning-Curve](https://dev.to/arhan_khan/vuejs-for-beginners-build-interactive-websites-without-the-steep-learning-curve-4m5g) 
 - [2026-11-04-Engineering-Sector-76:-Building-a-Factorio-Inspired-Dieselpunk-MMO-in-the-Browser-Vue-3,-sass,-Three.js,-GSAP](https://dev.to/manukyan21/engineering-sector-76-building-a-factorio-inspired-dieselpunk-mmo-in-the-browser-vue-3-sass-27ib) 
-- [2026-11-03-Streaming-Markdown-in-Vue:-Rendering-LLM-Tokens-Without-Flicker](https://dev.to/simonhe95/streaming-markdown-in-vue-rendering-llm-tokens-without-flicker-4fne) 
 - [2026-11-03-What-migrating-a-Vuetify-2-dashboard-to-Vue-3-actually-took](https://dev.to/sayedesmail/what-migrating-a-vuetify-2-dashboard-to-vue-3-actually-took-2nih) 
+- [2026-11-03-Streaming-Markdown-in-Vue:-Rendering-LLM-Tokens-Without-Flicker](https://dev.to/simonhe95/streaming-markdown-in-vue-rendering-llm-tokens-without-flicker-4fne) 
 - [2026-11-01-Why-Personal-Branding-in-2026-Is-a-Powerful-Business-Advantage-https://theabin.com/](https://dev.to/abin_8de28b1fac6c29579cf2/why-personal-branding-in-2026-is-a-powerful-business-advantage-33mk) 
 - [2026-10-26-Contributing-to-Vite+-Inside-Stories-—-Vue-Fes-Japan-2026-Speaker-Notes](https://dev.to/naokihaba/contributing-to-vite-inside-stories-vue-fes-japan-2026-speaker-notes-3pm4) 
 - [2026-10-25-My-Vue-Library-Had-99%-Line-Coverage.-Mutation-Testing-Found-Two-Bugs-Anyway.](https://dev.to/navidjaberi/my-vue-library-had-99-line-coverage-mutation-testing-found-two-bugs-anyway-d5b) 
@@ -35,6 +35,7 @@
 - [2026-10-16-Learning-Topology-Aware-Representations-for-Mechanics-Relevant-TPMS-Metamaterials](https://arxiv.org/abs/2610.20684) 
 - [2026-10-15-Demystifying-On-Policy-Distillation:-Where-Does-the-Teacher's-Advantage-Live?](https://arxiv.org/abs/2610.19145) 
 - [2026-10-15-Reinforcement-Learning-via-Advantage-Guidance](https://arxiv.org/abs/2610.19783) 
+- [2026-11-11-Show-HN:-Find-relevant-signals-on-X-for-your-company](https://www.tweexai.com) 
 - [2026-11-01-Why-Design-in-the-1980s-Looked-So-Weird-and-Why-It's-Relevant-Today-video](https://www.youtube.com/watch?v=0zVQ_SibpyM) 
 - [2026-10-31-Good-writing-is-a-business-advantage-2020](http://adaged.blogspot.com/2020/04/good-writing-is-business-advantage.html) 
 - [2026-10-24-Malaysian-PM-Anwar-Bans-Civil-Servants-from-Using-Israel-Developed-Mapping-App](https://thediplomat.com/2026/10/malaysian-pm-anwar-bans-civil-servants-from-using-israel-developed-navigation-app/) 
