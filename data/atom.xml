@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-12T00:02:16.143Z</updated>
+    <updated>2026-11-12T02:02:21.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,72 +36,65 @@
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The $637B Ledger]]></title>
-        <id>https://the-compound-loop.beehiiv.com/p/the-637-billion-ledger</id>
-        <link href="https://the-compound-loop.beehiiv.com/p/the-637-billion-ledger"/>
+        <title type="html"><![CDATA[Build a legal document conflict detector]]></title>
+        <id>https://isaacus.com/blog/build-a-legal-document-conflict-detector</id>
+        <link href="https://isaacus.com/blog/build-a-legal-document-conflict-detector"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: W-ISA – An instruction set for programming LLM weights]]></title>
-        <id>https://github.com/eax/w-isa</id>
-        <link href="https://github.com/eax/w-isa"/>
+        <title type="html"><![CDATA[Despite human sacrifice after El Niño, ancient societies generally peaceful]]></title>
+        <id>https://www.frontiersin.org/news/2026/11/09/despite-sacrificing-people-catastrophic-el-nino-flooding-ancient-societies-generally-peaceful-frontiers-environmental-archaeology</id>
+        <link href="https://www.frontiersin.org/news/2026/11/09/despite-sacrificing-people-catastrophic-el-nino-flooding-ancient-societies-generally-peaceful-frontiers-environmental-archaeology"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get ready for fewer Opus 5.5 em-dashes]]></title>
-        <id>https://micjm.com/blog/get-ready-for-fewer-opus-5.5-em-dashes/</id>
-        <link href="https://micjm.com/blog/get-ready-for-fewer-opus-5.5-em-dashes/"/>
+        <title type="html"><![CDATA[Securing Rust's supply chain with an extended standard library]]></title>
+        <id>https://kerkour.com/rust-supply-chain-security-stdx</id>
+        <link href="https://kerkour.com/rust-supply-chain-security-stdx"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In-depth Analysis of DPRK Contagious Interview campaign]]></title>
-        <id>https://amsterdam-technologies.com/blog/a-very-contagious-interview</id>
-        <link href="https://amsterdam-technologies.com/blog/a-very-contagious-interview"/>
+        <title type="html"><![CDATA[Ask HN: What do your technical interviews look like today? (Nov 2026)]]></title>
+        <id>https://news.ycombinator.com/item?id=50461853</id>
+        <link href="https://news.ycombinator.com/item?id=50461853"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fable 5.2 or Opus? When to use each model in Claude Code [video]]]></title>
-        <id>https://www.youtube.com/watch?v=C33hJGt-ySg</id>
-        <link href="https://www.youtube.com/watch?v=C33hJGt-ySg"/>
+        <title type="html"><![CDATA[Learning from Real-World Experience]]></title>
+        <id>https://www.perplexity.ai/hub/blog/learning-from-real-world-experience</id>
+        <link href="https://www.perplexity.ai/hub/blog/learning-from-real-world-experience"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rust Benchmarking: How to Detect Performance Regressions in CI]]></title>
-        <id>https://hotpath.rs/blog/rust-performance-benchmarking</id>
-        <link href="https://hotpath.rs/blog/rust-performance-benchmarking"/>
+        <title type="html"><![CDATA[Wikimedia Foundation Salaries]]></title>
+        <id>https://meta.wikimedia.org/wiki/Wikimedia_Foundation_salaries</id>
+        <link href="https://meta.wikimedia.org/wiki/Wikimedia_Foundation_salaries"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I can't scale my CI]]></title>
-        <id>https://sjer.red/blog/2026/i-cant-scale-my-ci/</id>
-        <link href="https://sjer.red/blog/2026/i-cant-scale-my-ci/"/>
+        <title type="html"><![CDATA[A verified 2.2M-subscriber YouTube channel promoted a remote-access trojan]]></title>
+        <id>https://blueteam.cool/posts/quantai-fake-youtube-netsupport-rat/</id>
+        <link href="https://blueteam.cool/posts/quantai-fake-youtube-netsupport-rat/"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stripe claimable sandboxes engineering blog post]]></title>
-        <id>https://stripe.dev/blog/claimable-sandboxes-frictionless-stripe-accounts-for-agents</id>
-        <link href="https://stripe.dev/blog/claimable-sandboxes-frictionless-stripe-accounts-for-agents"/>
+        <title type="html"><![CDATA[Show HN: Litek8s – Kubernetes API in one Rust binary, 23 MiB idle]]></title>
+        <id>https://litek8s.dev/</id>
+        <link href="https://litek8s.dev/"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An AI-assisted RP2040 audio board that worked on first spin in 5 days]]></title>
-        <id>https://solderable.dev/blog/fluid</id>
-        <link href="https://solderable.dev/blog/fluid"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keyboard first terminal email client: IMAP/SMTP, Gmail & Outlook; Go + BubbleTea]]></title>
-        <id>https://github.com/allisonhere/tidemail</id>
-        <link href="https://github.com/allisonhere/tidemail"/>
+        <title type="html"><![CDATA[Nintendo Targets Picofly Switch Modchip Firmware in GitHub DMCA Takedown]]></title>
+        <id>https://torrentfreak.com/nintendo-targets-picofly-switch-modchip-firmware-in-github-dmca-takedown/</id>
+        <link href="https://torrentfreak.com/nintendo-targets-picofly-switch-modchip-firmware-in-github-dmca-takedown/"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
@@ -113,16 +106,79 @@
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Positional Encoding From First Principles #0: Where Does a Word Live? (Start Here)]]></title>
-        <id>https://pub.towardsai.net/positional-encoding-from-first-principles-0-where-does-a-word-live-start-here-7afa93e703af?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/positional-encoding-from-first-principles-0-where-does-a-word-live-start-here-7afa93e703af?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Keyboard first terminal email client: IMAP/SMTP, Gmail & Outlook; Go + BubbleTea]]></title>
+        <id>https://github.com/allisonhere/tidemail</id>
+        <link href="https://github.com/allisonhere/tidemail"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beyond Protocol Translation: Building a Stateless MCP-A2A Bridge]]></title>
-        <id>https://pub.towardsai.net/beyond-protocol-translation-building-a-stateless-mcp-a2a-bridge-750a0f0a7804?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/beyond-protocol-translation-building-a-stateless-mcp-a2a-bridge-750a0f0a7804?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[An AI-assisted RP2040 audio board that worked on first spin in 5 days]]></title>
+        <id>https://solderable.dev/blog/fluid</id>
+        <link href="https://solderable.dev/blog/fluid"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stripe claimable sandboxes engineering blog post]]></title>
+        <id>https://stripe.dev/blog/claimable-sandboxes-frictionless-stripe-accounts-for-agents</id>
+        <link href="https://stripe.dev/blog/claimable-sandboxes-frictionless-stripe-accounts-for-agents"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I can't scale my CI]]></title>
+        <id>https://sjer.red/blog/2026/i-cant-scale-my-ci/</id>
+        <link href="https://sjer.red/blog/2026/i-cant-scale-my-ci/"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust Benchmarking: How to Detect Performance Regressions in CI]]></title>
+        <id>https://hotpath.rs/blog/rust-performance-benchmarking</id>
+        <link href="https://hotpath.rs/blog/rust-performance-benchmarking"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fable 5.2 or Opus? When to use each model in Claude Code [video]]]></title>
+        <id>https://www.youtube.com/watch?v=C33hJGt-ySg</id>
+        <link href="https://www.youtube.com/watch?v=C33hJGt-ySg"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In-depth Analysis of DPRK Contagious Interview campaign]]></title>
+        <id>https://amsterdam-technologies.com/blog/a-very-contagious-interview</id>
+        <link href="https://amsterdam-technologies.com/blog/a-very-contagious-interview"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get ready for fewer Opus 5.5 em-dashes]]></title>
+        <id>https://micjm.com/blog/get-ready-for-fewer-opus-5.5-em-dashes/</id>
+        <link href="https://micjm.com/blog/get-ready-for-fewer-opus-5.5-em-dashes/"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: W-ISA – An instruction set for programming LLM weights]]></title>
+        <id>https://github.com/eax/w-isa</id>
+        <link href="https://github.com/eax/w-isa"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The $637B Ledger]]></title>
+        <id>https://the-compound-loop.beehiiv.com/p/the-637-billion-ledger</id>
+        <link href="https://the-compound-loop.beehiiv.com/p/the-637-billion-ledger"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ML From First Principles #0: The Series I Wish I Had (Start Here)]]></title>
+        <id>https://pub.towardsai.net/ml-from-first-principles-0-the-series-i-wish-i-had-start-here-5e7f69949710?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ml-from-first-principles-0-the-series-i-wish-i-had-start-here-5e7f69949710?source=rss----98111c9905da---4"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
@@ -134,9 +190,16 @@
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ML From First Principles #0: The Series I Wish I Had (Start Here)]]></title>
-        <id>https://pub.towardsai.net/ml-from-first-principles-0-the-series-i-wish-i-had-start-here-5e7f69949710?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/ml-from-first-principles-0-the-series-i-wish-i-had-start-here-5e7f69949710?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Beyond Protocol Translation: Building a Stateless MCP-A2A Bridge]]></title>
+        <id>https://pub.towardsai.net/beyond-protocol-translation-building-a-stateless-mcp-a2a-bridge-750a0f0a7804?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/beyond-protocol-translation-building-a-stateless-mcp-a2a-bridge-750a0f0a7804?source=rss----98111c9905da---4"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Positional Encoding From First Principles #0: Where Does a Word Live? (Start Here)]]></title>
+        <id>https://pub.towardsai.net/positional-encoding-from-first-principles-0-where-does-a-word-live-start-here-7afa93e703af?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/positional-encoding-from-first-principles-0-where-does-a-word-live-start-here-7afa93e703af?source=rss----98111c9905da---4"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
@@ -161,72 +224,58 @@ https://github.com/unadlib/mutative
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Siderform: A browser strategy game with vanilla JS, Canvas2D, and PeerJS]]></title>
-        <id>https://dev.to/regixlabs/building-siderform-a-browser-strategy-game-with-vanilla-js-canvas2d-and-peerjs-2n69</id>
-        <link href="https://dev.to/regixlabs/building-siderform-a-browser-strategy-game-with-vanilla-js-canvas2d-and-peerjs-2n69"/>
+        <title type="html"><![CDATA[Measuring the performance cost of JavaScript obfuscation before you ship]]></title>
+        <id>https://dev.to/veilvm/measuring-the-performance-cost-of-javascript-obfuscation-before-you-ship-2hi</id>
+        <link href="https://dev.to/veilvm/measuring-the-performance-cost-of-javascript-obfuscation-before-you-ship-2hi"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making Law Firm Pages Readable for AI Crawlers That Skip JavaScript]]></title>
-        <id>https://dev.to/sbdmarketing/making-law-firm-pages-readable-for-ai-crawlers-that-skip-javascript-589g</id>
-        <link href="https://dev.to/sbdmarketing/making-law-firm-pages-readable-for-ai-crawlers-that-skip-javascript-589g"/>
+        <title type="html"><![CDATA[You probably do not need Electron to ship your HTML app as a desktop program]]></title>
+        <id>https://dev.to/guillaumelessard/you-probably-do-not-need-electron-to-ship-your-html-app-as-a-desktop-program-2511</id>
+        <link href="https://dev.to/guillaumelessard/you-probably-do-not-need-electron-to-ship-your-html-app-as-a-desktop-program-2511"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 6-Phase Forensic SEO Diagnostic Framework for Large-Scale Web Apps]]></title>
-        <id>https://dev.to/mustafa_saad_151952e3db72/the-6-phase-forensic-seo-diagnostic-framework-for-large-scale-web-apps-4pm1</id>
-        <link href="https://dev.to/mustafa_saad_151952e3db72/the-6-phase-forensic-seo-diagnostic-framework-for-large-scale-web-apps-4pm1"/>
+        <title type="html"><![CDATA[How to Build a Pronunciation Guide App with AI Voice]]></title>
+        <id>https://dev.to/voice_developer/how-to-build-a-pronunciation-guide-app-with-ai-voice-2jgh</id>
+        <link href="https://dev.to/voice_developer/how-to-build-a-pronunciation-guide-app-with-ai-voice-2jgh"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moving my portfolio from a Vite SPA to Next.js]]></title>
-        <id>https://dev.to/yodim/moving-my-portfolio-from-a-vite-spa-to-nextjs-285o</id>
-        <link href="https://dev.to/yodim/moving-my-portfolio-from-a-vite-spa-to-nextjs-285o"/>
+        <title type="html"><![CDATA[Adding JavaScript obfuscation to a Vite or webpack build without breaking your app]]></title>
+        <id>https://dev.to/veilvm/adding-javascript-obfuscation-to-a-vite-or-webpack-build-without-breaking-your-app-5541</id>
+        <link href="https://dev.to/veilvm/adding-javascript-obfuscation-to-a-vite-or-webpack-build-without-breaking-your-app-5541"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8 Free CBT Anxiety Tools I Built in Vanilla JS — No Signup, No Backend]]></title>
-        <id>https://dev.to/473185670/8-free-cbt-anxiety-tools-i-built-in-vanilla-js-no-signup-no-backend-5cf7</id>
-        <link href="https://dev.to/473185670/8-free-cbt-anxiety-tools-i-built-in-vanilla-js-no-signup-no-backend-5cf7"/>
+        <title type="html"><![CDATA[Tabs, files and session restore]]></title>
+        <id>https://dev.to/jslab/tabs-files-and-session-restore-3213</id>
+        <link href="https://dev.to/jslab/tabs-files-and-session-restore-3213"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Free CBT Anxiety Tools for Developers — Built in Vanilla JS]]></title>
-        <id>https://dev.to/473185670/free-cbt-anxiety-tools-for-developers-built-in-vanilla-js-22k8</id>
-        <link href="https://dev.to/473185670/free-cbt-anxiety-tools-for-developers-built-in-vanilla-js-22k8"/>
+        <title type="html"><![CDATA[How to get job listings from Greenhouse job boards with an API (Python, Node or no code)]]></title>
+        <id>https://dev.to/hmm_bigman/how-to-get-job-listings-from-greenhouse-job-boards-with-an-api-python-node-or-no-code-1e6n</id>
+        <link href="https://dev.to/hmm_bigman/how-to-get-job-listings-from-greenhouse-job-boards-with-an-api-python-node-or-no-code-1e6n"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to compute US banking days in JavaScript]]></title>
-        <id>https://dev.to/abdulhannan_money/how-to-compute-us-banking-days-in-javascript-4nmm</id>
-        <link href="https://dev.to/abdulhannan_money/how-to-compute-us-banking-days-in-javascript-4nmm"/>
+        <title type="html"><![CDATA[I built a social network with a single HTML file]]></title>
+        <id>https://dev.to/abdo0x/i-built-a-social-network-with-a-single-html-file-3h01</id>
+        <link href="https://dev.to/abdo0x/i-built-a-social-network-with-a-single-html-file-3h01"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How sales teams close faster with booking pages and AI recaps]]></title>
-        <id>https://dev.to/enaviyameet/how-sales-teams-close-faster-with-booking-pages-and-ai-recaps-1od8</id>
-        <link href="https://dev.to/enaviyameet/how-sales-teams-close-faster-with-booking-pages-and-ai-recaps-1od8"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Stock Portfolio Tracker with JavaScript]]></title>
-        <id>https://dev.to/arhan_khan/build-a-stock-portfolio-tracker-with-javascript-3g2a</id>
-        <link href="https://dev.to/arhan_khan/build-a-stock-portfolio-tracker-with-javascript-3g2a"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Daily Habit Tracker with JavaScript]]></title>
-        <id>https://dev.to/arhan_khan/build-a-daily-habit-tracker-with-javascript-13n7</id>
-        <link href="https://dev.to/arhan_khan/build-a-daily-habit-tracker-with-javascript-13n7"/>
+        <title type="html"><![CDATA[Build a Voice-Enabled Documentation Reader]]></title>
+        <id>https://dev.to/voice_developer/build-a-voice-enabled-documentation-reader-jko</id>
+        <link href="https://dev.to/voice_developer/build-a-voice-enabled-documentation-reader-jko"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
@@ -238,9 +287,72 @@ https://github.com/unadlib/mutative
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Voice-Enabled Documentation Reader]]></title>
-        <id>https://dev.to/voice_developer/build-a-voice-enabled-documentation-reader-jko</id>
-        <link href="https://dev.to/voice_developer/build-a-voice-enabled-documentation-reader-jko"/>
+        <title type="html"><![CDATA[Build a Daily Habit Tracker with JavaScript]]></title>
+        <id>https://dev.to/arhan_khan/build-a-daily-habit-tracker-with-javascript-13n7</id>
+        <link href="https://dev.to/arhan_khan/build-a-daily-habit-tracker-with-javascript-13n7"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Stock Portfolio Tracker with JavaScript]]></title>
+        <id>https://dev.to/arhan_khan/build-a-stock-portfolio-tracker-with-javascript-3g2a</id>
+        <link href="https://dev.to/arhan_khan/build-a-stock-portfolio-tracker-with-javascript-3g2a"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How sales teams close faster with booking pages and AI recaps]]></title>
+        <id>https://dev.to/enaviyameet/how-sales-teams-close-faster-with-booking-pages-and-ai-recaps-1od8</id>
+        <link href="https://dev.to/enaviyameet/how-sales-teams-close-faster-with-booking-pages-and-ai-recaps-1od8"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to compute US banking days in JavaScript]]></title>
+        <id>https://dev.to/abdulhannan_money/how-to-compute-us-banking-days-in-javascript-4nmm</id>
+        <link href="https://dev.to/abdulhannan_money/how-to-compute-us-banking-days-in-javascript-4nmm"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free CBT Anxiety Tools for Developers — Built in Vanilla JS]]></title>
+        <id>https://dev.to/473185670/free-cbt-anxiety-tools-for-developers-built-in-vanilla-js-22k8</id>
+        <link href="https://dev.to/473185670/free-cbt-anxiety-tools-for-developers-built-in-vanilla-js-22k8"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 Free CBT Anxiety Tools I Built in Vanilla JS — No Signup, No Backend]]></title>
+        <id>https://dev.to/473185670/8-free-cbt-anxiety-tools-i-built-in-vanilla-js-no-signup-no-backend-5cf7</id>
+        <link href="https://dev.to/473185670/8-free-cbt-anxiety-tools-i-built-in-vanilla-js-no-signup-no-backend-5cf7"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moving my portfolio from a Vite SPA to Next.js]]></title>
+        <id>https://dev.to/yodim/moving-my-portfolio-from-a-vite-spa-to-nextjs-285o</id>
+        <link href="https://dev.to/yodim/moving-my-portfolio-from-a-vite-spa-to-nextjs-285o"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 6-Phase Forensic SEO Diagnostic Framework for Large-Scale Web Apps]]></title>
+        <id>https://dev.to/mustafa_saad_151952e3db72/the-6-phase-forensic-seo-diagnostic-framework-for-large-scale-web-apps-4pm1</id>
+        <link href="https://dev.to/mustafa_saad_151952e3db72/the-6-phase-forensic-seo-diagnostic-framework-for-large-scale-web-apps-4pm1"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Law Firm Pages Readable for AI Crawlers That Skip JavaScript]]></title>
+        <id>https://dev.to/sbdmarketing/making-law-firm-pages-readable-for-ai-crawlers-that-skip-javascript-589g</id>
+        <link href="https://dev.to/sbdmarketing/making-law-firm-pages-readable-for-ai-crawlers-that-skip-javascript-589g"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Siderform: A browser strategy game with vanilla JS, Canvas2D, and PeerJS]]></title>
+        <id>https://dev.to/regixlabs/building-siderform-a-browser-strategy-game-with-vanilla-js-canvas2d-and-peerjs-2n69</id>
+        <link href="https://dev.to/regixlabs/building-siderform-a-browser-strategy-game-with-vanilla-js-canvas2d-and-peerjs-2n69"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
@@ -255,118 +367,6 @@ https://github.com/unadlib/mutative
         <title type="html"><![CDATA[Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price]]></title>
         <id>https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on</id>
         <link href="https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe’s AI experiments let you walk around in photos and interview your characters]]></title>
-        <id>https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai</id>
-        <link href="https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One of our favorite multi-filament 3D printers is $100 off]]></title>
-        <id>https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT is getting verified AI ‘Business Agents’]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The VR Disney Plus app on Meta Quest now has 3D movies]]></title>
-        <id>https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies</id>
-        <link href="https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharge’s eye-catching MacBook charger is over 25 percent off]]></title>
-        <id>https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vivid Seats Promo Codes and Deals: Get 10% Off]]></title>
-        <id>https://www.wired.com/story/vivid-seats-promo-code/</id>
-        <link href="https://www.wired.com/story/vivid-seats-promo-code/"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks]]></title>
-        <id>https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/</id>
-        <link href="https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Air Purifiers (2026): Tested Picks for Every Room]]></title>
-        <id>https://www.wired.com/gallery/best-air-purifiers/</id>
-        <link href="https://www.wired.com/gallery/best-air-purifiers/"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing]]></title>
-        <id>https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/</id>
-        <link href="https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech]]></title>
-        <id>https://www.wired.com/story/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech/</id>
-        <link href="https://www.wired.com/story/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech/"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules]]></title>
-        <id>https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/</id>
-        <link href="https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-energy gets green light to build its first small modular nuclear reactors]]></title>
-        <id>https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/</id>
-        <link href="https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PSI is trying to make a business out of AI-driven scientific discovery]]></title>
-        <id>https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/</id>
-        <link href="https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI]]></title>
-        <id>https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/</id>
-        <link href="https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads]]></title>
-        <id>https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/</id>
-        <link href="https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common Lisp with Pixi: SBCL and libraries as cross-platform conda packages]]></title>
-        <id>https://prefix.dev/blog/common-lisp-with-pixi</id>
-        <link href="https://prefix.dev/blog/common-lisp-with-pixi"/>
         <updated>2026-11-10T16:00:00.000Z</updated>
         <published>2026-11-10T16:00:00.000Z</published>
     </entry>
