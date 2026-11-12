@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-12T13:04:50.347Z</updated>
+    <updated>2026-11-12T15:04:57.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,27 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[I reviewed the Apple HomeView, ask me anything]]></title>
+        <id>https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything</id>
+        <link href="https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tried Google’s AI glasses and Meta’s finally got real competition]]></title>
+        <id>https://www.theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on</id>
+        <link href="https://www.theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple’s HomeView is my new favorite smart display — but not my daughter’s]]></title>
+        <id>https://www.theverge.com/tech/1031726/apple-homeview-review-smart-display-homekit</id>
+        <link href="https://www.theverge.com/tech/1031726/apple-homeview-review-smart-display-homekit"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TurboTax Full Service Coupons This November 2026]]></title>
         <id>https://www.wired.com/story/turbotax-coupon/</id>
@@ -43,233 +64,58 @@
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: App for Handpicked Movies by People]]></title>
-        <id>https://apps.apple.com/us/app/handpicked-movies-by-people/id6825099571</id>
-        <link href="https://apps.apple.com/us/app/handpicked-movies-by-people/id6825099571"/>
+        <title type="html"><![CDATA[Nvidia CEO Jensen Huang resigns in the wake of multiple controversies]]></title>
+        <id>https://www.pcworld.com/article/3283741/nvidia-ceo-jensen-huang-resigns-in-the-wake-of-multiple-controversies.html</id>
+        <link href="https://www.pcworld.com/article/3283741/nvidia-ceo-jensen-huang-resigns-in-the-wake-of-multiple-controversies.html"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adapting CPython for Yk]]></title>
-        <id>https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html</id>
-        <link href="https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html"/>
+        <title type="html"><![CDATA[Show HN: Interactive HDR and Wide-Gamut WebGPU Planetary Elevation Visualization]]></title>
+        <id>https://agaura.github.io/elevation_atlas/index.html</id>
+        <link href="https://agaura.github.io/elevation_atlas/index.html"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: OpenVue – MIT-licensed community fork of PrimeVue]]></title>
-        <id>https://github.com/openvi-foundation/openvue</id>
-        <link href="https://github.com/openvi-foundation/openvue"/>
+        <title type="html"><![CDATA[Turkish Letter Keeps Breaking the Software [video]]]></title>
+        <id>https://www.youtube.com/watch?v=Ke-_V_XT5i4</id>
+        <link href="https://www.youtube.com/watch?v=Ke-_V_XT5i4"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Do open source companies pay competitively in India?]]></title>
-        <id>https://oss-pays.shetty.me/</id>
-        <link href="https://oss-pays.shetty.me/"/>
+        <title type="html"><![CDATA[Fable 5.2: The Self-Improvement Loop Keeps Loopin' (Plus Gemini Carbon) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=583ThJIqQ7k</id>
+        <link href="https://www.youtube.com/watch?v=583ThJIqQ7k"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams]]></title>
-        <id>https://alignment.anthropic.com/2026/worse-together/</id>
-        <link href="https://alignment.anthropic.com/2026/worse-together/"/>
+        <title type="html"><![CDATA[US Panics Is It Time to Invest in Europe? [video]]]></title>
+        <id>https://www.youtube.com/watch?v=Rr0RoXuUsCE</id>
+        <link href="https://www.youtube.com/watch?v=Rr0RoXuUsCE"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization]]></title>
-        <id>https://leapquant.github.io/</id>
-        <link href="https://leapquant.github.io/"/>
+        <title type="html"><![CDATA[Introduction to the viridis color maps (2024)]]></title>
+        <id>https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html</id>
+        <link href="https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Are clean Git commits still worth it?]]></title>
-        <id>https://news.ycombinator.com/item?id=50463818</id>
-        <link href="https://news.ycombinator.com/item?id=50463818"/>
+        <title type="html"><![CDATA[Proof of the Riemann Hypothesis in Lean]]></title>
+        <id>https://github.com/startigerjln/Nielsen-and-Semita-Riemann-Proof-in-Lean4/</id>
+        <link href="https://github.com/startigerjln/Nielsen-and-Semita-Riemann-Proof-in-Lean4/"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: JNum – Pure Java 25 NumPy/BLAS via Project Panama FFM and Vector API]]></title>
-        <id>https://github.com/CH-Abhinav/JNum</id>
-        <link href="https://github.com/CH-Abhinav/JNum"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI is getting smarter. Are we thinking better?]]></title>
-        <id>https://www.daybranch.com/</id>
-        <link href="https://www.daybranch.com/"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The $637B Ledger]]></title>
-        <id>https://the-compound-loop.beehiiv.com/p/the-637-billion-ledger</id>
-        <link href="https://the-compound-loop.beehiiv.com/p/the-637-billion-ledger"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: W-ISA – An instruction set for programming LLM weights]]></title>
-        <id>https://github.com/eax/w-isa</id>
-        <link href="https://github.com/eax/w-isa"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get ready for fewer Opus 5.5 em-dashes]]></title>
-        <id>https://micjm.com/blog/get-ready-for-fewer-opus-5.5-em-dashes/</id>
-        <link href="https://micjm.com/blog/get-ready-for-fewer-opus-5.5-em-dashes/"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In-depth Analysis of DPRK Contagious Interview campaign]]></title>
-        <id>https://amsterdam-technologies.com/blog/a-very-contagious-interview</id>
-        <link href="https://amsterdam-technologies.com/blog/a-very-contagious-interview"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fable 5.2 or Opus? When to use each model in Claude Code [video]]]></title>
-        <id>https://www.youtube.com/watch?v=C33hJGt-ySg</id>
-        <link href="https://www.youtube.com/watch?v=C33hJGt-ySg"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust Benchmarking: How to Detect Performance Regressions in CI]]></title>
-        <id>https://hotpath.rs/blog/rust-performance-benchmarking</id>
-        <link href="https://hotpath.rs/blog/rust-performance-benchmarking"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I can't scale my CI]]></title>
-        <id>https://sjer.red/blog/2026/i-cant-scale-my-ci/</id>
-        <link href="https://sjer.red/blog/2026/i-cant-scale-my-ci/"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe claimable sandboxes engineering blog post]]></title>
-        <id>https://stripe.dev/blog/claimable-sandboxes-frictionless-stripe-accounts-for-agents</id>
-        <link href="https://stripe.dev/blog/claimable-sandboxes-frictionless-stripe-accounts-for-agents"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An AI-assisted RP2040 audio board that worked on first spin in 5 days]]></title>
-        <id>https://solderable.dev/blog/fluid</id>
-        <link href="https://solderable.dev/blog/fluid"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keyboard first terminal email client: IMAP/SMTP, Gmail & Outlook; Go + BubbleTea]]></title>
-        <id>https://github.com/allisonhere/tidemail</id>
-        <link href="https://github.com/allisonhere/tidemail"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navy Upgrades Energetics Mixing and Processing Equipment for Tomahawk Warhead]]></title>
-        <id>https://www.mobilityengineeringtech.com/component/content/article/56241-navy-upgrades-energetics-mixing-and-processing-equipment-for-tomahawk-warhead-production</id>
-        <link href="https://www.mobilityengineeringtech.com/component/content/article/56241-navy-upgrades-energetics-mixing-and-processing-equipment-for-tomahawk-warhead-production"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo Targets Picofly Switch Modchip Firmware in GitHub DMCA Takedown]]></title>
-        <id>https://torrentfreak.com/nintendo-targets-picofly-switch-modchip-firmware-in-github-dmca-takedown/</id>
-        <link href="https://torrentfreak.com/nintendo-targets-picofly-switch-modchip-firmware-in-github-dmca-takedown/"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Litek8s – Kubernetes API in one Rust binary, 23 MiB idle]]></title>
-        <id>https://litek8s.dev/</id>
-        <link href="https://litek8s.dev/"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A verified 2.2M-subscriber YouTube channel promoted a remote-access trojan]]></title>
-        <id>https://blueteam.cool/posts/quantai-fake-youtube-netsupport-rat/</id>
-        <link href="https://blueteam.cool/posts/quantai-fake-youtube-netsupport-rat/"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wikimedia Foundation Salaries]]></title>
-        <id>https://meta.wikimedia.org/wiki/Wikimedia_Foundation_salaries</id>
-        <link href="https://meta.wikimedia.org/wiki/Wikimedia_Foundation_salaries"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning from Real-World Experience]]></title>
-        <id>https://www.perplexity.ai/hub/blog/learning-from-real-world-experience</id>
-        <link href="https://www.perplexity.ai/hub/blog/learning-from-real-world-experience"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: What do your technical interviews look like today? (Nov 2026)]]></title>
-        <id>https://news.ycombinator.com/item?id=50461853</id>
-        <link href="https://news.ycombinator.com/item?id=50461853"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securing Rust's supply chain with an extended standard library]]></title>
-        <id>https://kerkour.com/rust-supply-chain-security-stdx</id>
-        <link href="https://kerkour.com/rust-supply-chain-security-stdx"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Despite human sacrifice after El Niño, ancient societies generally peaceful]]></title>
-        <id>https://www.frontiersin.org/news/2026/11/09/despite-sacrificing-people-catastrophic-el-nino-flooding-ancient-societies-generally-peaceful-frontiers-environmental-archaeology</id>
-        <link href="https://www.frontiersin.org/news/2026/11/09/despite-sacrificing-people-catastrophic-el-nino-flooding-ancient-societies-generally-peaceful-frontiers-environmental-archaeology"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a legal document conflict detector]]></title>
-        <id>https://isaacus.com/blog/build-a-legal-document-conflict-detector</id>
-        <link href="https://isaacus.com/blog/build-a-legal-document-conflict-detector"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Pure-sift – 100% pure-Rust implementation of expired SIFT patent]]></title>
-        <id>https://github.com/dannkkie/pure-sift</id>
-        <link href="https://github.com/dannkkie/pure-sift"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[For my first post, I'm sharing a letter Nvidia signed on why open models matter]]></title>
-        <id>https://twitter.com/JensenHuang/status/2080643682408321103</id>
-        <link href="https://twitter.com/JensenHuang/status/2080643682408321103"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I matched Opus 4.5 on ARC-2 with a 100M looped transformer that never saw text]]></title>
-        <id>https://mvakde.github.io/blog/looped-mdlarc/</id>
-        <link href="https://mvakde.github.io/blog/looped-mdlarc/"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I gave an AI a week to make something interesting or I switch it off]]></title>
-        <id>https://lira-ia.github.io/</id>
-        <link href="https://lira-ia.github.io/"/>
+        <title type="html"><![CDATA[Astronomers Find Hints of Star Population That Failed to Explode]]></title>
+        <id>https://www.caltech.edu/about/news/astronomers-find-hints-of-star-population-that-failed-to-explode</id>
+        <link href="https://www.caltech.edu/about/news/astronomers-find-hints-of-star-population-that-failed-to-explode"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
@@ -281,92 +127,240 @@
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fable 5.2 Is 4x Easier to Hijack]]></title>
-        <id>https://pub.towardsai.net/fable-5-2-is-4x-easier-to-hijack-a107805488d9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/fable-5-2-is-4x-easier-to-hijack-a107805488d9?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[I gave an AI a week to make something interesting or I switch it off]]></title>
+        <id>https://lira-ia.github.io/</id>
+        <link href="https://lira-ia.github.io/"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ML From First Principles #0: The Series I Wish I Had (Start Here)]]></title>
-        <id>https://pub.towardsai.net/ml-from-first-principles-0-the-series-i-wish-i-had-start-here-5e7f69949710?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/ml-from-first-principles-0-the-series-i-wish-i-had-start-here-5e7f69949710?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[I matched Opus 4.5 on ARC-2 with a 100M looped transformer that never saw text]]></title>
+        <id>https://mvakde.github.io/blog/looped-mdlarc/</id>
+        <link href="https://mvakde.github.io/blog/looped-mdlarc/"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your Coding Agent Passed the Tests. It Also Emptied a File You Needed.]]></title>
-        <id>https://pub.towardsai.net/your-coding-agent-passed-the-tests-it-also-emptied-a-file-you-needed-1aa929695164?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-coding-agent-passed-the-tests-it-also-emptied-a-file-you-needed-1aa929695164?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[For my first post, I'm sharing a letter Nvidia signed on why open models matter]]></title>
+        <id>https://twitter.com/JensenHuang/status/2080643682408321103</id>
+        <link href="https://twitter.com/JensenHuang/status/2080643682408321103"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beyond Protocol Translation: Building a Stateless MCP-A2A Bridge]]></title>
-        <id>https://pub.towardsai.net/beyond-protocol-translation-building-a-stateless-mcp-a2a-bridge-750a0f0a7804?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/beyond-protocol-translation-building-a-stateless-mcp-a2a-bridge-750a0f0a7804?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Pure-sift – 100% pure-Rust implementation of expired SIFT patent]]></title>
+        <id>https://github.com/dannkkie/pure-sift</id>
+        <link href="https://github.com/dannkkie/pure-sift"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Positional Encoding From First Principles #0: Where Does a Word Live? (Start Here)]]></title>
-        <id>https://pub.towardsai.net/positional-encoding-from-first-principles-0-where-does-a-word-live-start-here-7afa93e703af?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/positional-encoding-from-first-principles-0-where-does-a-word-live-start-here-7afa93e703af?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Build a legal document conflict detector]]></title>
+        <id>https://isaacus.com/blog/build-a-legal-document-conflict-detector</id>
+        <link href="https://isaacus.com/blog/build-a-legal-document-conflict-detector"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beyond RAG: Building an Intelligent Contract Review Agent with OpenAI’s Decision Models]]></title>
-        <id>https://pub.towardsai.net/beyond-rag-building-an-intelligent-contract-review-agent-with-openais-decision-models-885d60964ba8?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/beyond-rag-building-an-intelligent-contract-review-agent-with-openais-decision-models-885d60964ba8?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Despite human sacrifice after El Niño, ancient societies generally peaceful]]></title>
+        <id>https://www.frontiersin.org/news/2026/11/09/despite-sacrificing-people-catastrophic-el-nino-flooding-ancient-societies-generally-peaceful-frontiers-environmental-archaeology</id>
+        <link href="https://www.frontiersin.org/news/2026/11/09/despite-sacrificing-people-catastrophic-el-nino-flooding-ancient-societies-generally-peaceful-frontiers-environmental-archaeology"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.]]></title>
-        <id>https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/</id>
-        <link href="https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"/>
+        <title type="html"><![CDATA[Securing Rust's supply chain with an extended standard library]]></title>
+        <id>https://kerkour.com/rust-supply-chain-security-stdx</id>
+        <link href="https://kerkour.com/rust-supply-chain-security-stdx"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gemini Decisions API: Fast, calibrated multimodal decisions]]></title>
-        <id>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</id>
-        <link href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"/>
+        <title type="html"><![CDATA[Ask HN: What do your technical interviews look like today? (Nov 2026)]]></title>
+        <id>https://news.ycombinator.com/item?id=50461853</id>
+        <link href="https://news.ycombinator.com/item?id=50461853"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What to know about this year’s UN climate talks]]></title>
-        <id>https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/</id>
-        <link href="https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"/>
+        <title type="html"><![CDATA[Learning from Real-World Experience]]></title>
+        <id>https://www.perplexity.ai/hub/blog/learning-from-real-world-experience</id>
+        <link href="https://www.perplexity.ai/hub/blog/learning-from-real-world-experience"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PavelDoGreat/WebGL-Fluid-Simulation]]></title>
-        <id>https://github.com/PavelDoGreat/WebGL-Fluid-Simulation</id>
-        <link href="https://github.com/PavelDoGreat/WebGL-Fluid-Simulation"/>
+        <title type="html"><![CDATA[Wikimedia Foundation Salaries]]></title>
+        <id>https://meta.wikimedia.org/wiki/Wikimedia_Foundation_salaries</id>
+        <link href="https://meta.wikimedia.org/wiki/Wikimedia_Foundation_salaries"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[
-Mutative v2  - better immutability and faster immutable updates
-]]></title>
-        <id>
-https://github.com/unadlib/mutative
-</id>
-        <link href="
-https://github.com/unadlib/mutative
-"/>
+        <title type="html"><![CDATA[A verified 2.2M-subscriber YouTube channel promoted a remote-access trojan]]></title>
+        <id>https://blueteam.cool/posts/quantai-fake-youtube-netsupport-rat/</id>
+        <link href="https://blueteam.cool/posts/quantai-fake-youtube-netsupport-rat/"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PageSpeed 100 on Mobile With Next.js: What Actually Worked (and What Didn't)]]></title>
-        <id>https://dev.to/kausarraza/pagespeed-100-on-mobile-with-nextjs-what-actually-worked-and-what-didnt-2f7j</id>
-        <link href="https://dev.to/kausarraza/pagespeed-100-on-mobile-with-nextjs-what-actually-worked-and-what-didnt-2f7j"/>
+        <title type="html"><![CDATA[Show HN: Litek8s – Kubernetes API in one Rust binary, 23 MiB idle]]></title>
+        <id>https://litek8s.dev/</id>
+        <link href="https://litek8s.dev/"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Targets Picofly Switch Modchip Firmware in GitHub DMCA Takedown]]></title>
+        <id>https://torrentfreak.com/nintendo-targets-picofly-switch-modchip-firmware-in-github-dmca-takedown/</id>
+        <link href="https://torrentfreak.com/nintendo-targets-picofly-switch-modchip-firmware-in-github-dmca-takedown/"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navy Upgrades Energetics Mixing and Processing Equipment for Tomahawk Warhead]]></title>
+        <id>https://www.mobilityengineeringtech.com/component/content/article/56241-navy-upgrades-energetics-mixing-and-processing-equipment-for-tomahawk-warhead-production</id>
+        <link href="https://www.mobilityengineeringtech.com/component/content/article/56241-navy-upgrades-energetics-mixing-and-processing-equipment-for-tomahawk-warhead-production"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyboard first terminal email client: IMAP/SMTP, Gmail & Outlook; Go + BubbleTea]]></title>
+        <id>https://github.com/allisonhere/tidemail</id>
+        <link href="https://github.com/allisonhere/tidemail"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An AI-assisted RP2040 audio board that worked on first spin in 5 days]]></title>
+        <id>https://solderable.dev/blog/fluid</id>
+        <link href="https://solderable.dev/blog/fluid"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stripe claimable sandboxes engineering blog post]]></title>
+        <id>https://stripe.dev/blog/claimable-sandboxes-frictionless-stripe-accounts-for-agents</id>
+        <link href="https://stripe.dev/blog/claimable-sandboxes-frictionless-stripe-accounts-for-agents"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I can't scale my CI]]></title>
+        <id>https://sjer.red/blog/2026/i-cant-scale-my-ci/</id>
+        <link href="https://sjer.red/blog/2026/i-cant-scale-my-ci/"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust Benchmarking: How to Detect Performance Regressions in CI]]></title>
+        <id>https://hotpath.rs/blog/rust-performance-benchmarking</id>
+        <link href="https://hotpath.rs/blog/rust-performance-benchmarking"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fable 5.2 or Opus? When to use each model in Claude Code [video]]]></title>
+        <id>https://www.youtube.com/watch?v=C33hJGt-ySg</id>
+        <link href="https://www.youtube.com/watch?v=C33hJGt-ySg"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In-depth Analysis of DPRK Contagious Interview campaign]]></title>
+        <id>https://amsterdam-technologies.com/blog/a-very-contagious-interview</id>
+        <link href="https://amsterdam-technologies.com/blog/a-very-contagious-interview"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get ready for fewer Opus 5.5 em-dashes]]></title>
+        <id>https://micjm.com/blog/get-ready-for-fewer-opus-5.5-em-dashes/</id>
+        <link href="https://micjm.com/blog/get-ready-for-fewer-opus-5.5-em-dashes/"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: W-ISA – An instruction set for programming LLM weights]]></title>
+        <id>https://github.com/eax/w-isa</id>
+        <link href="https://github.com/eax/w-isa"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The $637B Ledger]]></title>
+        <id>https://the-compound-loop.beehiiv.com/p/the-637-billion-ledger</id>
+        <link href="https://the-compound-loop.beehiiv.com/p/the-637-billion-ledger"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI is getting smarter. Are we thinking better?]]></title>
+        <id>https://www.daybranch.com/</id>
+        <link href="https://www.daybranch.com/"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: JNum – Pure Java 25 NumPy/BLAS via Project Panama FFM and Vector API]]></title>
+        <id>https://github.com/CH-Abhinav/JNum</id>
+        <link href="https://github.com/CH-Abhinav/JNum"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Are clean Git commits still worth it?]]></title>
+        <id>https://news.ycombinator.com/item?id=50463818</id>
+        <link href="https://news.ycombinator.com/item?id=50463818"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization]]></title>
+        <id>https://leapquant.github.io/</id>
+        <link href="https://leapquant.github.io/"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams]]></title>
+        <id>https://alignment.anthropic.com/2026/worse-together/</id>
+        <link href="https://alignment.anthropic.com/2026/worse-together/"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do open source companies pay competitively in India?]]></title>
+        <id>https://oss-pays.shetty.me/</id>
+        <link href="https://oss-pays.shetty.me/"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: OpenVue – MIT-licensed community fork of PrimeVue]]></title>
+        <id>https://github.com/openvi-foundation/openvue</id>
+        <link href="https://github.com/openvi-foundation/openvue"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adapting CPython for Yk]]></title>
+        <id>https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html</id>
+        <link href="https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: App for Handpicked Movies by People]]></title>
+        <id>https://apps.apple.com/us/app/handpicked-movies-by-people/id6825099571</id>
+        <link href="https://apps.apple.com/us/app/handpicked-movies-by-people/id6825099571"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Is Buying 1.9 Billion Spirit Airlines Emails for $10 Million. Your Inbox Is Now an AI Asset.]]></title>
+        <id>https://pub.towardsai.net/google-is-buying-1-9-billion-spirit-airlines-emails-for-10-million-your-inbox-is-now-an-ai-asset-4a99942f587b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/google-is-buying-1-9-billion-spirit-airlines-emails-for-10-million-your-inbox-is-now-an-ai-asset-4a99942f587b?source=rss----98111c9905da---4"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
