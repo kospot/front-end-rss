@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-11T22:02:00.849Z</updated>
+    <updated>2026-11-12T00:02:16.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Meta is losing its longtime head of  infrastructure]]></title>
-        <id>https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/</id>
-        <link href="https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/"/>
+        <title type="html"><![CDATA[Pete Hegseth Is About to Get His Ass Kicked]]></title>
+        <id>https://www.wired.com/story/pete-hegseth-is-about-to-get-his-ass-kicked/</id>
+        <link href="https://www.wired.com/story/pete-hegseth-is-about-to-get-his-ass-kicked/"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
@@ -29,37 +29,44 @@
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Navy Upgrades Energetics Mixing and Processing Equipment for Tomahawk Warhead]]></title>
-        <id>https://www.mobilityengineeringtech.com/component/content/article/56241-navy-upgrades-energetics-mixing-and-processing-equipment-for-tomahawk-warhead-production</id>
-        <link href="https://www.mobilityengineeringtech.com/component/content/article/56241-navy-upgrades-energetics-mixing-and-processing-equipment-for-tomahawk-warhead-production"/>
+        <title type="html"><![CDATA[Meta is losing its longtime head of  infrastructure]]></title>
+        <id>https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/</id>
+        <link href="https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Keyboard first terminal email client: IMAP/SMTP, Gmail & Outlook; Go + BubbleTea]]></title>
-        <id>https://github.com/allisonhere/tidemail</id>
-        <link href="https://github.com/allisonhere/tidemail"/>
+        <title type="html"><![CDATA[The $637B Ledger]]></title>
+        <id>https://the-compound-loop.beehiiv.com/p/the-637-billion-ledger</id>
+        <link href="https://the-compound-loop.beehiiv.com/p/the-637-billion-ledger"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An AI-assisted RP2040 audio board that worked on first spin in 5 days]]></title>
-        <id>https://solderable.dev/blog/fluid</id>
-        <link href="https://solderable.dev/blog/fluid"/>
+        <title type="html"><![CDATA[Show HN: W-ISA – An instruction set for programming LLM weights]]></title>
+        <id>https://github.com/eax/w-isa</id>
+        <link href="https://github.com/eax/w-isa"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stripe claimable sandboxes engineering blog post]]></title>
-        <id>https://stripe.dev/blog/claimable-sandboxes-frictionless-stripe-accounts-for-agents</id>
-        <link href="https://stripe.dev/blog/claimable-sandboxes-frictionless-stripe-accounts-for-agents"/>
+        <title type="html"><![CDATA[Get ready for fewer Opus 5.5 em-dashes]]></title>
+        <id>https://micjm.com/blog/get-ready-for-fewer-opus-5.5-em-dashes/</id>
+        <link href="https://micjm.com/blog/get-ready-for-fewer-opus-5.5-em-dashes/"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I can't scale my CI]]></title>
-        <id>https://sjer.red/blog/2026/i-cant-scale-my-ci/</id>
-        <link href="https://sjer.red/blog/2026/i-cant-scale-my-ci/"/>
+        <title type="html"><![CDATA[In-depth Analysis of DPRK Contagious Interview campaign]]></title>
+        <id>https://amsterdam-technologies.com/blog/a-very-contagious-interview</id>
+        <link href="https://amsterdam-technologies.com/blog/a-very-contagious-interview"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fable 5.2 or Opus? When to use each model in Claude Code [video]]]></title>
+        <id>https://www.youtube.com/watch?v=C33hJGt-ySg</id>
+        <link href="https://www.youtube.com/watch?v=C33hJGt-ySg"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
@@ -71,9 +78,51 @@
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ML From First Principles #0: The Series I Wish I Had (Start Here)]]></title>
-        <id>https://pub.towardsai.net/ml-from-first-principles-0-the-series-i-wish-i-had-start-here-5e7f69949710?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/ml-from-first-principles-0-the-series-i-wish-i-had-start-here-5e7f69949710?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[I can't scale my CI]]></title>
+        <id>https://sjer.red/blog/2026/i-cant-scale-my-ci/</id>
+        <link href="https://sjer.red/blog/2026/i-cant-scale-my-ci/"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stripe claimable sandboxes engineering blog post]]></title>
+        <id>https://stripe.dev/blog/claimable-sandboxes-frictionless-stripe-accounts-for-agents</id>
+        <link href="https://stripe.dev/blog/claimable-sandboxes-frictionless-stripe-accounts-for-agents"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An AI-assisted RP2040 audio board that worked on first spin in 5 days]]></title>
+        <id>https://solderable.dev/blog/fluid</id>
+        <link href="https://solderable.dev/blog/fluid"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyboard first terminal email client: IMAP/SMTP, Gmail & Outlook; Go + BubbleTea]]></title>
+        <id>https://github.com/allisonhere/tidemail</id>
+        <link href="https://github.com/allisonhere/tidemail"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navy Upgrades Energetics Mixing and Processing Equipment for Tomahawk Warhead]]></title>
+        <id>https://www.mobilityengineeringtech.com/component/content/article/56241-navy-upgrades-energetics-mixing-and-processing-equipment-for-tomahawk-warhead-production</id>
+        <link href="https://www.mobilityengineeringtech.com/component/content/article/56241-navy-upgrades-energetics-mixing-and-processing-equipment-for-tomahawk-warhead-production"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Positional Encoding From First Principles #0: Where Does a Word Live? (Start Here)]]></title>
+        <id>https://pub.towardsai.net/positional-encoding-from-first-principles-0-where-does-a-word-live-start-here-7afa93e703af?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/positional-encoding-from-first-principles-0-where-does-a-word-live-start-here-7afa93e703af?source=rss----98111c9905da---4"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Protocol Translation: Building a Stateless MCP-A2A Bridge]]></title>
+        <id>https://pub.towardsai.net/beyond-protocol-translation-building-a-stateless-mcp-a2a-bridge-750a0f0a7804?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/beyond-protocol-translation-building-a-stateless-mcp-a2a-bridge-750a0f0a7804?source=rss----98111c9905da---4"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
@@ -85,6 +134,13 @@
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ML From First Principles #0: The Series I Wish I Had (Start Here)]]></title>
+        <id>https://pub.towardsai.net/ml-from-first-principles-0-the-series-i-wish-i-had-start-here-5e7f69949710?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ml-from-first-principles-0-the-series-i-wish-i-had-start-here-5e7f69949710?source=rss----98111c9905da---4"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What to know about this year’s UN climate talks]]></title>
         <id>https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/</id>
         <link href="https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"/>
@@ -92,51 +148,43 @@
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Voice-Enabled Documentation Reader]]></title>
-        <id>https://dev.to/voice_developer/build-a-voice-enabled-documentation-reader-jko</id>
-        <link href="https://dev.to/voice_developer/build-a-voice-enabled-documentation-reader-jko"/>
+        <title type="html"><![CDATA[
+Mutative v2  - better immutability and faster immutable updates
+]]></title>
+        <id>
+https://github.com/unadlib/mutative
+</id>
+        <link href="
+https://github.com/unadlib/mutative
+"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Vocabulary Flashcards App with JavaScript]]></title>
-        <id>https://dev.to/arhan_khan/build-a-vocabulary-flashcards-app-with-javascript-12in</id>
-        <link href="https://dev.to/arhan_khan/build-a-vocabulary-flashcards-app-with-javascript-12in"/>
+        <title type="html"><![CDATA[Building Siderform: A browser strategy game with vanilla JS, Canvas2D, and PeerJS]]></title>
+        <id>https://dev.to/regixlabs/building-siderform-a-browser-strategy-game-with-vanilla-js-canvas2d-and-peerjs-2n69</id>
+        <link href="https://dev.to/regixlabs/building-siderform-a-browser-strategy-game-with-vanilla-js-canvas2d-and-peerjs-2n69"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Daily Habit Tracker with JavaScript]]></title>
-        <id>https://dev.to/arhan_khan/build-a-daily-habit-tracker-with-javascript-13n7</id>
-        <link href="https://dev.to/arhan_khan/build-a-daily-habit-tracker-with-javascript-13n7"/>
+        <title type="html"><![CDATA[Making Law Firm Pages Readable for AI Crawlers That Skip JavaScript]]></title>
+        <id>https://dev.to/sbdmarketing/making-law-firm-pages-readable-for-ai-crawlers-that-skip-javascript-589g</id>
+        <link href="https://dev.to/sbdmarketing/making-law-firm-pages-readable-for-ai-crawlers-that-skip-javascript-589g"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Stock Portfolio Tracker with JavaScript]]></title>
-        <id>https://dev.to/arhan_khan/build-a-stock-portfolio-tracker-with-javascript-3g2a</id>
-        <link href="https://dev.to/arhan_khan/build-a-stock-portfolio-tracker-with-javascript-3g2a"/>
+        <title type="html"><![CDATA[The 6-Phase Forensic SEO Diagnostic Framework for Large-Scale Web Apps]]></title>
+        <id>https://dev.to/mustafa_saad_151952e3db72/the-6-phase-forensic-seo-diagnostic-framework-for-large-scale-web-apps-4pm1</id>
+        <link href="https://dev.to/mustafa_saad_151952e3db72/the-6-phase-forensic-seo-diagnostic-framework-for-large-scale-web-apps-4pm1"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How sales teams close faster with booking pages and AI recaps]]></title>
-        <id>https://dev.to/enaviyameet/how-sales-teams-close-faster-with-booking-pages-and-ai-recaps-1od8</id>
-        <link href="https://dev.to/enaviyameet/how-sales-teams-close-faster-with-booking-pages-and-ai-recaps-1od8"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to compute US banking days in JavaScript]]></title>
-        <id>https://dev.to/abdulhannan_money/how-to-compute-us-banking-days-in-javascript-4nmm</id>
-        <link href="https://dev.to/abdulhannan_money/how-to-compute-us-banking-days-in-javascript-4nmm"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free CBT Anxiety Tools for Developers — Built in Vanilla JS]]></title>
-        <id>https://dev.to/473185670/free-cbt-anxiety-tools-for-developers-built-in-vanilla-js-22k8</id>
-        <link href="https://dev.to/473185670/free-cbt-anxiety-tools-for-developers-built-in-vanilla-js-22k8"/>
+        <title type="html"><![CDATA[Moving my portfolio from a Vite SPA to Next.js]]></title>
+        <id>https://dev.to/yodim/moving-my-portfolio-from-a-vite-spa-to-nextjs-285o</id>
+        <link href="https://dev.to/yodim/moving-my-portfolio-from-a-vite-spa-to-nextjs-285o"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
@@ -148,44 +196,58 @@
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Free CBT Anxiety Tools for Developers — Built in Vanilla JS]]></title>
+        <id>https://dev.to/473185670/free-cbt-anxiety-tools-for-developers-built-in-vanilla-js-22k8</id>
+        <link href="https://dev.to/473185670/free-cbt-anxiety-tools-for-developers-built-in-vanilla-js-22k8"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to compute US banking days in JavaScript]]></title>
+        <id>https://dev.to/abdulhannan_money/how-to-compute-us-banking-days-in-javascript-4nmm</id>
+        <link href="https://dev.to/abdulhannan_money/how-to-compute-us-banking-days-in-javascript-4nmm"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How sales teams close faster with booking pages and AI recaps]]></title>
+        <id>https://dev.to/enaviyameet/how-sales-teams-close-faster-with-booking-pages-and-ai-recaps-1od8</id>
+        <link href="https://dev.to/enaviyameet/how-sales-teams-close-faster-with-booking-pages-and-ai-recaps-1od8"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Stock Portfolio Tracker with JavaScript]]></title>
+        <id>https://dev.to/arhan_khan/build-a-stock-portfolio-tracker-with-javascript-3g2a</id>
+        <link href="https://dev.to/arhan_khan/build-a-stock-portfolio-tracker-with-javascript-3g2a"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Daily Habit Tracker with JavaScript]]></title>
+        <id>https://dev.to/arhan_khan/build-a-daily-habit-tracker-with-javascript-13n7</id>
+        <link href="https://dev.to/arhan_khan/build-a-daily-habit-tracker-with-javascript-13n7"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Vocabulary Flashcards App with JavaScript]]></title>
+        <id>https://dev.to/arhan_khan/build-a-vocabulary-flashcards-app-with-javascript-12in</id>
+        <link href="https://dev.to/arhan_khan/build-a-vocabulary-flashcards-app-with-javascript-12in"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Voice-Enabled Documentation Reader]]></title>
+        <id>https://dev.to/voice_developer/build-a-voice-enabled-documentation-reader-jko</id>
+        <link href="https://dev.to/voice_developer/build-a-voice-enabled-documentation-reader-jko"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RetroSweeper Go：复古外观、更有手感的扫雷游戏]]></title>
         <id>https://sspai.com/post/118458</id>
         <link href="https://sspai.com/post/118458"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharge’s eye-catching MacBook charger is over 25 percent off]]></title>
-        <id>https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The VR Disney Plus app on Meta Quest now has 3D movies]]></title>
-        <id>https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies</id>
-        <link href="https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT is getting verified AI ‘Business Agents’]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One of our favorite multi-filament 3D printers is $100 off]]></title>
-        <id>https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe’s AI experiments let you walk around in photos and interview your characters]]></title>
-        <id>https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai</id>
-        <link href="https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai"/>
         <updated>2026-11-10T16:00:00.000Z</updated>
         <published>2026-11-10T16:00:00.000Z</published>
     </entry>
@@ -197,37 +259,37 @@
         <published>2026-11-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules]]></title>
-        <id>https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/</id>
-        <link href="https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/"/>
+        <title type="html"><![CDATA[Adobe’s AI experiments let you walk around in photos and interview your characters]]></title>
+        <id>https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai</id>
+        <link href="https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai"/>
         <updated>2026-11-10T16:00:00.000Z</updated>
         <published>2026-11-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech]]></title>
-        <id>https://www.wired.com/story/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech/</id>
-        <link href="https://www.wired.com/story/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech/"/>
+        <title type="html"><![CDATA[One of our favorite multi-filament 3D printers is $100 off]]></title>
+        <id>https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale"/>
         <updated>2026-11-10T16:00:00.000Z</updated>
         <published>2026-11-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing]]></title>
-        <id>https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/</id>
-        <link href="https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/"/>
+        <title type="html"><![CDATA[ChatGPT is getting verified AI ‘Business Agents’]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"/>
         <updated>2026-11-10T16:00:00.000Z</updated>
         <published>2026-11-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Air Purifiers (2026): Tested Picks for Every Room]]></title>
-        <id>https://www.wired.com/gallery/best-air-purifiers/</id>
-        <link href="https://www.wired.com/gallery/best-air-purifiers/"/>
+        <title type="html"><![CDATA[The VR Disney Plus app on Meta Quest now has 3D movies]]></title>
+        <id>https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies</id>
+        <link href="https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies"/>
         <updated>2026-11-10T16:00:00.000Z</updated>
         <published>2026-11-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks]]></title>
-        <id>https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/</id>
-        <link href="https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/"/>
+        <title type="html"><![CDATA[Sharge’s eye-catching MacBook charger is over 25 percent off]]></title>
+        <id>https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale"/>
         <updated>2026-11-10T16:00:00.000Z</updated>
         <published>2026-11-10T16:00:00.000Z</published>
     </entry>
@@ -239,23 +301,37 @@
         <published>2026-11-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads]]></title>
-        <id>https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/</id>
-        <link href="https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"/>
+        <title type="html"><![CDATA[A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks]]></title>
+        <id>https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/</id>
+        <link href="https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/"/>
         <updated>2026-11-10T16:00:00.000Z</updated>
         <published>2026-11-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI]]></title>
-        <id>https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/</id>
-        <link href="https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/"/>
+        <title type="html"><![CDATA[Best Air Purifiers (2026): Tested Picks for Every Room]]></title>
+        <id>https://www.wired.com/gallery/best-air-purifiers/</id>
+        <link href="https://www.wired.com/gallery/best-air-purifiers/"/>
         <updated>2026-11-10T16:00:00.000Z</updated>
         <published>2026-11-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PSI is trying to make a business out of AI-driven scientific discovery]]></title>
-        <id>https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/</id>
-        <link href="https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"/>
+        <title type="html"><![CDATA[Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing]]></title>
+        <id>https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/</id>
+        <link href="https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/"/>
+        <updated>2026-11-10T16:00:00.000Z</updated>
+        <published>2026-11-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech]]></title>
+        <id>https://www.wired.com/story/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech/</id>
+        <link href="https://www.wired.com/story/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech/"/>
+        <updated>2026-11-10T16:00:00.000Z</updated>
+        <published>2026-11-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules]]></title>
+        <id>https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/</id>
+        <link href="https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/"/>
         <updated>2026-11-10T16:00:00.000Z</updated>
         <published>2026-11-10T16:00:00.000Z</published>
     </entry>
@@ -267,100 +343,30 @@
         <published>2026-11-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Outlier, AI without the data center, private and offline on your Mac]]></title>
-        <id>https://outlier.host/</id>
-        <link href="https://outlier.host/"/>
+        <title type="html"><![CDATA[PSI is trying to make a business out of AI-driven scientific discovery]]></title>
+        <id>https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/</id>
+        <link href="https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"/>
         <updated>2026-11-10T16:00:00.000Z</updated>
         <published>2026-11-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[.web domain registration expected to open on April 6, 2027]]></title>
-        <id>https://newgtlds.icann.org/en/program-status/sunrise-claims-periods</id>
-        <link href="https://newgtlds.icann.org/en/program-status/sunrise-claims-periods"/>
+        <title type="html"><![CDATA[Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI]]></title>
+        <id>https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/</id>
+        <link href="https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/"/>
         <updated>2026-11-10T16:00:00.000Z</updated>
         <published>2026-11-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Source HTAP with DBTrail and Percona Server for MySQL]]></title>
-        <id>https://www.percona.com/blog/heavy-mysql-reports-in-seconds-open-source-htap-with-dbtrail-and-percona-server-for-mysql/</id>
-        <link href="https://www.percona.com/blog/heavy-mysql-reports-in-seconds-open-source-htap-with-dbtrail-and-percona-server-for-mysql/"/>
+        <title type="html"><![CDATA[Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads]]></title>
+        <id>https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/</id>
+        <link href="https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"/>
         <updated>2026-11-10T16:00:00.000Z</updated>
         <published>2026-11-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open research, stronger privacy: Making Firefox users harder to fingerprint]]></title>
-        <id>https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/</id>
-        <link href="https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australia considers criminal penalties for rogue AI in wake of OpenAI hack]]></title>
-        <id>https://www.bbc.co.uk/news/articles/cmp3g37l566po</id>
-        <link href="https://www.bbc.co.uk/news/articles/cmp3g37l566po"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's Not as Simple as Putting Data Centers in Space [video]]]></title>
-        <id>https://www.youtube.com/watch?v=Xom0I1iQXHM</id>
-        <link href="https://www.youtube.com/watch?v=Xom0I1iQXHM"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generative AI and the temporary upskilling of knowledge workers]]></title>
-        <id>https://www.nature.com/articles/s41562-026-02566-6</id>
-        <link href="https://www.nature.com/articles/s41562-026-02566-6"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brazil's AI Development Strategy Needs an Edge Layer – TechPolicy.Press]]></title>
-        <id>https://www.techpolicy.press/brazils-ai-development-strategy-needs-an-edge-layer/</id>
-        <link href="https://www.techpolicy.press/brazils-ai-development-strategy-needs-an-edge-layer/"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Be a Good Farrier: What the Car Teaches Us About AI and Your Job]]></title>
-        <id>https://www.sethserver.com/ai/how-to-be-a-good-farrier.html</id>
-        <link href="https://www.sethserver.com/ai/how-to-be-a-good-farrier.html"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit Reviews]]></title>
-        <id>https://redditinc.com/news/introducing-reddit-reviews</id>
-        <link href="https://redditinc.com/news/introducing-reddit-reviews"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude usage limit reset is a gambler's rush]]></title>
-        <id>https://news.ycombinator.com/item?id=50448880</id>
-        <link href="https://news.ycombinator.com/item?id=50448880"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code is accidentally exposing secrets all over GitHub]]></title>
-        <id>https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/</id>
-        <link href="https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started with OpenIndiana]]></title>
-        <id>https://docs.openindiana.org/handbook/getting-started/</id>
-        <link href="https://docs.openindiana.org/handbook/getting-started/"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Broken links silently waste your Google crawl budget]]></title>
-        <id>https://sitetoolsbox.com/article.php?id=55</id>
-        <link href="https://sitetoolsbox.com/article.php?id=55"/>
+        <title type="html"><![CDATA[Common Lisp with Pixi: SBCL and libraries as cross-platform conda packages]]></title>
+        <id>https://prefix.dev/blog/common-lisp-with-pixi</id>
+        <link href="https://prefix.dev/blog/common-lisp-with-pixi"/>
         <updated>2026-11-10T16:00:00.000Z</updated>
         <published>2026-11-10T16:00:00.000Z</published>
     </entry>
