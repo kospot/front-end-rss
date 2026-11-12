@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-11-12 18:04:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-13 06:01:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Smashing Magazine
 
 
 
 
+- [2026-11-12-Should-You-Actually-Add-AI-To-That?-A-Four-Question-Audit-For-Product-Teams](https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/) 
 - [2026-11-06-A-New-Community-For-In-House-UX-People](https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/) 
 - [2026-11-05-Making-Immersive-LLM-Chat-Experiences-More-Accessible](https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/) 
 - [2026-11-03-Modern-CSS-Might-Make-Your-Front-End-More-Complex](https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/) 
