@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-12T02:02:21.803Z</updated>
+    <updated>2026-11-12T04:02:06.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -176,16 +176,16 @@
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ML From First Principles #0: The Series I Wish I Had (Start Here)]]></title>
-        <id>https://pub.towardsai.net/ml-from-first-principles-0-the-series-i-wish-i-had-start-here-5e7f69949710?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/ml-from-first-principles-0-the-series-i-wish-i-had-start-here-5e7f69949710?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Beyond RAG: Building an Intelligent Contract Review Agent with OpenAI’s Decision Models]]></title>
+        <id>https://pub.towardsai.net/beyond-rag-building-an-intelligent-contract-review-agent-with-openais-decision-models-885d60964ba8?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/beyond-rag-building-an-intelligent-contract-review-agent-with-openais-decision-models-885d60964ba8?source=rss----98111c9905da---4"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your Coding Agent Passed the Tests. It Also Emptied a File You Needed.]]></title>
-        <id>https://pub.towardsai.net/your-coding-agent-passed-the-tests-it-also-emptied-a-file-you-needed-1aa929695164?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-coding-agent-passed-the-tests-it-also-emptied-a-file-you-needed-1aa929695164?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Positional Encoding From First Principles #0: Where Does a Word Live? (Start Here)]]></title>
+        <id>https://pub.towardsai.net/positional-encoding-from-first-principles-0-where-does-a-word-live-start-here-7afa93e703af?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/positional-encoding-from-first-principles-0-where-does-a-word-live-start-here-7afa93e703af?source=rss----98111c9905da---4"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
@@ -197,9 +197,16 @@
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Positional Encoding From First Principles #0: Where Does a Word Live? (Start Here)]]></title>
-        <id>https://pub.towardsai.net/positional-encoding-from-first-principles-0-where-does-a-word-live-start-here-7afa93e703af?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/positional-encoding-from-first-principles-0-where-does-a-word-live-start-here-7afa93e703af?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Your Coding Agent Passed the Tests. It Also Emptied a File You Needed.]]></title>
+        <id>https://pub.towardsai.net/your-coding-agent-passed-the-tests-it-also-emptied-a-file-you-needed-1aa929695164?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-coding-agent-passed-the-tests-it-also-emptied-a-file-you-needed-1aa929695164?source=rss----98111c9905da---4"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ML From First Principles #0: The Series I Wish I Had (Start Here)]]></title>
+        <id>https://pub.towardsai.net/ml-from-first-principles-0-the-series-i-wish-i-had-start-here-5e7f69949710?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ml-from-first-principles-0-the-series-i-wish-i-had-start-here-5e7f69949710?source=rss----98111c9905da---4"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
@@ -224,128 +231,72 @@ https://github.com/unadlib/mutative
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measuring the performance cost of JavaScript obfuscation before you ship]]></title>
-        <id>https://dev.to/veilvm/measuring-the-performance-cost-of-javascript-obfuscation-before-you-ship-2hi</id>
-        <link href="https://dev.to/veilvm/measuring-the-performance-cost-of-javascript-obfuscation-before-you-ship-2hi"/>
+        <title type="html"><![CDATA[Date-only expiration bugs: a JavaScript fixture for renewal trackers]]></title>
+        <id>https://dev.to/trainingtrackerhq/date-only-expiration-bugs-a-javascript-fixture-for-renewal-trackers-i97</id>
+        <link href="https://dev.to/trainingtrackerhq/date-only-expiration-bugs-a-javascript-fixture-for-renewal-trackers-i97"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You probably do not need Electron to ship your HTML app as a desktop program]]></title>
-        <id>https://dev.to/guillaumelessard/you-probably-do-not-need-electron-to-ship-your-html-app-as-a-desktop-program-2511</id>
-        <link href="https://dev.to/guillaumelessard/you-probably-do-not-need-electron-to-ship-your-html-app-as-a-desktop-program-2511"/>
+        <title type="html"><![CDATA[Is this timestamp in seconds or milliseconds? Guessing the unit from the digit count]]></title>
+        <id>https://dev.to/toolsyhub/is-this-timestamp-in-seconds-or-milliseconds-guessing-the-unit-from-the-digit-count-3jnc</id>
+        <link href="https://dev.to/toolsyhub/is-this-timestamp-in-seconds-or-milliseconds-guessing-the-unit-from-the-digit-count-3jnc"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Pronunciation Guide App with AI Voice]]></title>
-        <id>https://dev.to/voice_developer/how-to-build-a-pronunciation-guide-app-with-ai-voice-2jgh</id>
-        <link href="https://dev.to/voice_developer/how-to-build-a-pronunciation-guide-app-with-ai-voice-2jgh"/>
+        <title type="html"><![CDATA[Compare hiring across companies from public job boards: remote share, pay and team mix (Python + JS)]]></title>
+        <id>https://dev.to/neorhapsody/compare-hiring-across-companies-from-public-job-boards-remote-share-pay-and-team-mix-python-js-1cb4</id>
+        <link href="https://dev.to/neorhapsody/compare-hiring-across-companies-from-public-job-boards-remote-share-pay-and-team-mix-python-js-1cb4"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adding JavaScript obfuscation to a Vite or webpack build without breaking your app]]></title>
-        <id>https://dev.to/veilvm/adding-javascript-obfuscation-to-a-vite-or-webpack-build-without-breaking-your-app-5541</id>
-        <link href="https://dev.to/veilvm/adding-javascript-obfuscation-to-a-vite-or-webpack-build-without-breaking-your-app-5541"/>
+        <title type="html"><![CDATA[How We Built an In-Browser Passport Photo Checker with Next.js 16 & MediaPipe]]></title>
+        <id>https://dev.to/wayne_john_9c7a5ab849655c/how-we-built-an-in-browser-passport-photo-checker-with-nextjs-16-mediapipe-20dc</id>
+        <link href="https://dev.to/wayne_john_9c7a5ab849655c/how-we-built-an-in-browser-passport-photo-checker-with-nextjs-16-mediapipe-20dc"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tabs, files and session restore]]></title>
-        <id>https://dev.to/jslab/tabs-files-and-session-restore-3213</id>
-        <link href="https://dev.to/jslab/tabs-files-and-session-restore-3213"/>
+        <title type="html"><![CDATA[Our Chrome extension was rejected for "remotely hosted code". Here's the build guard we added]]></title>
+        <id>https://dev.to/flawsnap/our-chrome-extension-was-rejected-for-remotely-hosted-code-heres-the-build-guard-we-added-4ca0</id>
+        <link href="https://dev.to/flawsnap/our-chrome-extension-was-rejected-for-remotely-hosted-code-heres-the-build-guard-we-added-4ca0"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to get job listings from Greenhouse job boards with an API (Python, Node or no code)]]></title>
-        <id>https://dev.to/hmm_bigman/how-to-get-job-listings-from-greenhouse-job-boards-with-an-api-python-node-or-no-code-1e6n</id>
-        <link href="https://dev.to/hmm_bigman/how-to-get-job-listings-from-greenhouse-job-boards-with-an-api-python-node-or-no-code-1e6n"/>
+        <title type="html"><![CDATA[The 7 console errors behind most "the button does nothing" bug reports]]></title>
+        <id>https://dev.to/flawsnap/the-7-console-errors-behind-most-the-button-does-nothing-bug-reports-md4</id>
+        <link href="https://dev.to/flawsnap/the-7-console-errors-behind-most-the-button-does-nothing-bug-reports-md4"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a social network with a single HTML file]]></title>
-        <id>https://dev.to/abdo0x/i-built-a-social-network-with-a-single-html-file-3h01</id>
-        <link href="https://dev.to/abdo0x/i-built-a-social-network-with-a-single-html-file-3h01"/>
+        <title type="html"><![CDATA[Create an Interactive Audio Story Generator]]></title>
+        <id>https://dev.to/voice_developer/create-an-interactive-audio-story-generator-48mj</id>
+        <link href="https://dev.to/voice_developer/create-an-interactive-audio-story-generator-48mj"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Voice-Enabled Documentation Reader]]></title>
-        <id>https://dev.to/voice_developer/build-a-voice-enabled-documentation-reader-jko</id>
-        <link href="https://dev.to/voice_developer/build-a-voice-enabled-documentation-reader-jko"/>
+        <title type="html"><![CDATA[Publish an HTML5 game from Claude Code, Codex, Cursor, Gemini CLI or Kimi Code (MCP)]]></title>
+        <id>https://dev.to/gamealia/publish-an-html5-game-from-claude-code-codex-cursor-gemini-cli-or-kimi-code-mcp-5f8n</id>
+        <link href="https://dev.to/gamealia/publish-an-html5-game-from-claude-code-codex-cursor-gemini-cli-or-kimi-code-mcp-5f8n"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Vocabulary Flashcards App with JavaScript]]></title>
-        <id>https://dev.to/arhan_khan/build-a-vocabulary-flashcards-app-with-javascript-12in</id>
-        <link href="https://dev.to/arhan_khan/build-a-vocabulary-flashcards-app-with-javascript-12in"/>
+        <title type="html"><![CDATA[I Built Mozert Slider: A Lightweight JavaScript Slider Library with 3D Effects]]></title>
+        <id>https://dev.to/mozertstudio/i-built-mozert-slider-a-lightweight-javascript-slider-library-with-3d-effects-4oh4</id>
+        <link href="https://dev.to/mozertstudio/i-built-mozert-slider-a-lightweight-javascript-slider-library-with-3d-effects-4oh4"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build a Daily Habit Tracker with JavaScript]]></title>
-        <id>https://dev.to/arhan_khan/build-a-daily-habit-tracker-with-javascript-13n7</id>
-        <link href="https://dev.to/arhan_khan/build-a-daily-habit-tracker-with-javascript-13n7"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Stock Portfolio Tracker with JavaScript]]></title>
-        <id>https://dev.to/arhan_khan/build-a-stock-portfolio-tracker-with-javascript-3g2a</id>
-        <link href="https://dev.to/arhan_khan/build-a-stock-portfolio-tracker-with-javascript-3g2a"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How sales teams close faster with booking pages and AI recaps]]></title>
-        <id>https://dev.to/enaviyameet/how-sales-teams-close-faster-with-booking-pages-and-ai-recaps-1od8</id>
-        <link href="https://dev.to/enaviyameet/how-sales-teams-close-faster-with-booking-pages-and-ai-recaps-1od8"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to compute US banking days in JavaScript]]></title>
-        <id>https://dev.to/abdulhannan_money/how-to-compute-us-banking-days-in-javascript-4nmm</id>
-        <link href="https://dev.to/abdulhannan_money/how-to-compute-us-banking-days-in-javascript-4nmm"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free CBT Anxiety Tools for Developers — Built in Vanilla JS]]></title>
-        <id>https://dev.to/473185670/free-cbt-anxiety-tools-for-developers-built-in-vanilla-js-22k8</id>
-        <link href="https://dev.to/473185670/free-cbt-anxiety-tools-for-developers-built-in-vanilla-js-22k8"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 Free CBT Anxiety Tools I Built in Vanilla JS — No Signup, No Backend]]></title>
-        <id>https://dev.to/473185670/8-free-cbt-anxiety-tools-i-built-in-vanilla-js-no-signup-no-backend-5cf7</id>
-        <link href="https://dev.to/473185670/8-free-cbt-anxiety-tools-i-built-in-vanilla-js-no-signup-no-backend-5cf7"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moving my portfolio from a Vite SPA to Next.js]]></title>
-        <id>https://dev.to/yodim/moving-my-portfolio-from-a-vite-spa-to-nextjs-285o</id>
-        <link href="https://dev.to/yodim/moving-my-portfolio-from-a-vite-spa-to-nextjs-285o"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 6-Phase Forensic SEO Diagnostic Framework for Large-Scale Web Apps]]></title>
-        <id>https://dev.to/mustafa_saad_151952e3db72/the-6-phase-forensic-seo-diagnostic-framework-for-large-scale-web-apps-4pm1</id>
-        <link href="https://dev.to/mustafa_saad_151952e3db72/the-6-phase-forensic-seo-diagnostic-framework-for-large-scale-web-apps-4pm1"/>
-        <updated>2026-11-11T16:00:00.000Z</updated>
-        <published>2026-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Law Firm Pages Readable for AI Crawlers That Skip JavaScript]]></title>
-        <id>https://dev.to/sbdmarketing/making-law-firm-pages-readable-for-ai-crawlers-that-skip-javascript-589g</id>
-        <link href="https://dev.to/sbdmarketing/making-law-firm-pages-readable-for-ai-crawlers-that-skip-javascript-589g"/>
+        <title type="html"><![CDATA[Electron + React/Vue: A Practical Guide to Integrating a Modern Frontend Framework in the Renderer]]></title>
+        <id>https://dev.to/mp3sss31/electron-reactvue-a-practical-guide-to-integrating-a-modern-frontend-framework-in-the-renderer-4j15</id>
+        <link href="https://dev.to/mp3sss31/electron-reactvue-a-practical-guide-to-integrating-a-modern-frontend-framework-in-the-renderer-4j15"/>
         <updated>2026-11-11T16:00:00.000Z</updated>
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
@@ -357,17 +308,66 @@ https://github.com/unadlib/mutative
         <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RetroSweeper Go：复古外观、更有手感的扫雷游戏]]></title>
-        <id>https://sspai.com/post/118458</id>
-        <link href="https://sspai.com/post/118458"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Making Law Firm Pages Readable for AI Crawlers That Skip JavaScript]]></title>
+        <id>https://dev.to/sbdmarketing/making-law-firm-pages-readable-for-ai-crawlers-that-skip-javascript-589g</id>
+        <link href="https://dev.to/sbdmarketing/making-law-firm-pages-readable-for-ai-crawlers-that-skip-javascript-589g"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price]]></title>
-        <id>https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on</id>
-        <link href="https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on"/>
-        <updated>2026-11-10T16:00:00.000Z</updated>
-        <published>2026-11-10T16:00:00.000Z</published>
+        <title type="html"><![CDATA[The 6-Phase Forensic SEO Diagnostic Framework for Large-Scale Web Apps]]></title>
+        <id>https://dev.to/mustafa_saad_151952e3db72/the-6-phase-forensic-seo-diagnostic-framework-for-large-scale-web-apps-4pm1</id>
+        <link href="https://dev.to/mustafa_saad_151952e3db72/the-6-phase-forensic-seo-diagnostic-framework-for-large-scale-web-apps-4pm1"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moving my portfolio from a Vite SPA to Next.js]]></title>
+        <id>https://dev.to/yodim/moving-my-portfolio-from-a-vite-spa-to-nextjs-285o</id>
+        <link href="https://dev.to/yodim/moving-my-portfolio-from-a-vite-spa-to-nextjs-285o"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 Free CBT Anxiety Tools I Built in Vanilla JS — No Signup, No Backend]]></title>
+        <id>https://dev.to/473185670/8-free-cbt-anxiety-tools-i-built-in-vanilla-js-no-signup-no-backend-5cf7</id>
+        <link href="https://dev.to/473185670/8-free-cbt-anxiety-tools-i-built-in-vanilla-js-no-signup-no-backend-5cf7"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free CBT Anxiety Tools for Developers — Built in Vanilla JS]]></title>
+        <id>https://dev.to/473185670/free-cbt-anxiety-tools-for-developers-built-in-vanilla-js-22k8</id>
+        <link href="https://dev.to/473185670/free-cbt-anxiety-tools-for-developers-built-in-vanilla-js-22k8"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to compute US banking days in JavaScript]]></title>
+        <id>https://dev.to/abdulhannan_money/how-to-compute-us-banking-days-in-javascript-4nmm</id>
+        <link href="https://dev.to/abdulhannan_money/how-to-compute-us-banking-days-in-javascript-4nmm"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How sales teams close faster with booking pages and AI recaps]]></title>
+        <id>https://dev.to/enaviyameet/how-sales-teams-close-faster-with-booking-pages-and-ai-recaps-1od8</id>
+        <link href="https://dev.to/enaviyameet/how-sales-teams-close-faster-with-booking-pages-and-ai-recaps-1od8"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Stock Portfolio Tracker with JavaScript]]></title>
+        <id>https://dev.to/arhan_khan/build-a-stock-portfolio-tracker-with-javascript-3g2a</id>
+        <link href="https://dev.to/arhan_khan/build-a-stock-portfolio-tracker-with-javascript-3g2a"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Daily Habit Tracker with JavaScript]]></title>
+        <id>https://dev.to/arhan_khan/build-a-daily-habit-tracker-with-javascript-13n7</id>
+        <link href="https://dev.to/arhan_khan/build-a-daily-habit-tracker-with-javascript-13n7"/>
+        <updated>2026-11-11T16:00:00.000Z</updated>
+        <published>2026-11-11T16:00:00.000Z</published>
     </entry>
 </feed>

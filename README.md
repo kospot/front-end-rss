@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-11-12 10:02:20，:rocket: 更新条数: +1967， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-12 12:02:05，:rocket: 更新条数: +1953， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -46,11 +46,11 @@
 - [Sebastian-Raschka](#sebastian-raschka)  
 - [我爱自然语言处理](#我爱自然语言处理)  
 - [OpenAI-Blog](#openai-blog)![](/assets/dot.png)   
-- [Hacker-News](#hacker-news)![](/assets/dot.png)   
+- [Hacker-News](#hacker-news)  
 - [TechCrunch](#techcrunch)  
 - [Wired](#wired)  
 - [Engadget](#engadget)  
-- [少数派](#少数派)![](/assets/dot.png)   
+- [少数派](#少数派)  
 
 ## 文章链接
 
@@ -248,26 +248,26 @@
 </summary>
 
 
-- [2026-11-12-Building-Siderform:-A-browser-strategy-game-with-vanilla-JS,-Canvas2D,-and-PeerJS](https://dev.to/regixlabs/building-siderform-a-browser-strategy-game-with-vanilla-js-canvas2d-and-peerjs-2n69)  
-- [2026-11-12-Making-Law-Firm-Pages-Readable-for-AI-Crawlers-That-Skip-JavaScript](https://dev.to/sbdmarketing/making-law-firm-pages-readable-for-ai-crawlers-that-skip-javascript-589g)  
-- [2026-11-12-Create-an-AI-Voice-Agent-for-Customer-Support](https://dev.to/voice_developer/create-an-ai-voice-agent-for-customer-support-14la)  
-- [2026-11-12-Telling-devices-apart-without-accounts:-576-animal-+-adjective-names-for-a-Socket.IO-clipboard-app](https://dev.to/kangchanghwan/telling-devices-apart-without-accounts-576-animal-adjective-names-for-a-socketio-clipboard-app-458m)  
-- [2026-11-12-Testing-Telegram-Stars-payments-without-spending-real-Stars](https://dev.to/giftclub/testing-telegram-stars-payments-without-spending-real-stars-4360)  
-- [2026-11-12-Accepting-Telegram-Stars-in-your-bot:-the-whole-XTR-payment-flow](https://dev.to/giftclub/accepting-telegram-stars-in-your-bot-the-whole-xtr-payment-flow-5j6)  
-- [2026-11-12-The-6-Phase-Forensic-SEO-Diagnostic-Framework-for-Large-Scale-Web-Apps](https://dev.to/mustafa_saad_151952e3db72/the-6-phase-forensic-seo-diagnostic-framework-for-large-scale-web-apps-4pm1)  
-- [2026-11-12-Voxels-aren't-LEGO:-teaching-a-brick-packer-to-build-like-a-person](https://dev.to/misterblocks/voxels-arent-lego-teaching-a-brick-packer-to-build-like-a-person-4jdh)  
-- [2026-11-12-Moving-my-portfolio-from-a-Vite-SPA-to-Next.js](https://dev.to/yodim/moving-my-portfolio-from-a-vite-spa-to-nextjs-285o)  
-- [2026-11-12-8-Free-CBT-Anxiety-Tools-I-Built-in-Vanilla-JS-—-No-Signup,-No-Backend](https://dev.to/473185670/8-free-cbt-anxiety-tools-i-built-in-vanilla-js-no-signup-no-backend-5cf7)  
-- [2026-11-12-Free-CBT-Anxiety-Tools-for-Developers-—-Built-in-Vanilla-JS](https://dev.to/473185670/free-cbt-anxiety-tools-for-developers-built-in-vanilla-js-22k8)  
-- [2026-11-12-How-to-compute-US-banking-days-in-JavaScript](https://dev.to/abdulhannan_money/how-to-compute-us-banking-days-in-javascript-4nmm)  
-- [2026-11-12-13,352-Websites-Already-Let-AI-Agents-Use-Their-Forms.-Here's-How-WebMCP-Works-With-Code](https://dev.to/8bitenterprise/13352-websites-already-let-ai-agents-use-their-forms-heres-how-webmcp-works-with-code-5ak)  
-- [2026-11-12-How-sales-teams-close-faster-with-booking-pages-and-AI-recaps](https://dev.to/enaviyameet/how-sales-teams-close-faster-with-booking-pages-and-ai-recaps-1od8)  
-- [2026-11-12-Build-a-Stock-Portfolio-Tracker-with-JavaScript](https://dev.to/arhan_khan/build-a-stock-portfolio-tracker-with-javascript-3g2a)  
-- [2026-11-12-Build-a-Daily-Habit-Tracker-with-JavaScript](https://dev.to/arhan_khan/build-a-daily-habit-tracker-with-javascript-13n7)  
-- [2026-11-12-Build-a-Vocabulary-Flashcards-App-with-JavaScript](https://dev.to/arhan_khan/build-a-vocabulary-flashcards-app-with-javascript-12in)  
-- [2026-11-12-What-a-Manifest-V3-extension-is-allowed-to-see-when-it-reads-your-Reddit-saves](https://dev.to/saveshelf/what-a-manifest-v3-extension-is-allowed-to-see-when-it-reads-your-reddit-saves-12c4)  
-- [2026-11-12-bug.ai.dev:-writing-docs-at-night-made-me-find-11-real-bugs-in-my-own-library](https://dev.to/antonioprosperi2svg/bugaidev-writing-docs-at-night-made-me-find-11-real-bugs-in-my-own-library-3g3c)  
+- [2026-11-12-Learning-Claude-Code-by-Building-the-Tool-I-Actually-Need](https://dev.to/arredondop03/learning-claude-code-by-building-the-tool-i-actually-need-4dci)  
+- [2026-11-12-Measuring-the-performance-cost-of-JavaScript-obfuscation-before-you-ship](https://dev.to/veilvm/measuring-the-performance-cost-of-javascript-obfuscation-before-you-ship-2hi)  
+- [2026-11-12-Validate-a-Warehouse-Calendar-Date-Without-Rolling-It-Into-Another-Month](https://dev.to/tom_8d160ea57bf5c0395981d/validate-a-warehouse-calendar-date-without-rolling-it-into-another-month-172k)  
+- [2026-11-12-You-probably-do-not-need-Electron-to-ship-your-HTML-app-as-a-desktop-program](https://dev.to/guillaumelessard/you-probably-do-not-need-electron-to-ship-your-html-app-as-a-desktop-program-2511)  
+- [2026-11-12-Modeling-33-weapons-9-classes-as-data-not-screenshots](https://dev.to/succday/modeling-33-weapons-x-9-classes-as-data-not-screenshots-1c8j)  
+- [2026-11-12-How-to-Build-a-Pronunciation-Guide-App-with-AI-Voice](https://dev.to/voice_developer/how-to-build-a-pronunciation-guide-app-with-ai-voice-2jgh)  
+- [2026-11-12-Adding-JavaScript-obfuscation-to-a-Vite-or-webpack-build-without-breaking-your-app](https://dev.to/veilvm/adding-javascript-obfuscation-to-a-vite-or-webpack-build-without-breaking-your-app-5541)  
+- [2026-11-12-I-Cloned-a-Repo-and-It-Ran-Code-Before-I-Read-a-Single-Line](https://dev.to/aheadkit/i-cloned-a-repo-and-it-ran-code-before-i-read-a-single-line-1530)  
+- [2026-11-12-Tabs,-files-and-session-restore](https://dev.to/jslab/tabs-files-and-session-restore-3213)  
+- [2026-11-12-How-to-get-job-listings-from-Greenhouse-job-boards-with-an-API-Python,-Node-or-no-code](https://dev.to/hmm_bigman/how-to-get-job-listings-from-greenhouse-job-boards-with-an-api-python-node-or-no-code-1e6n)  
+- [2026-11-12-I-built-a-social-network-with-a-single-HTML-file](https://dev.to/abdo0x/i-built-a-social-network-with-a-single-html-file-3h01)  
+- [2026-11-12-Build-a-Voice-Enabled-Documentation-Reader](https://dev.to/voice_developer/build-a-voice-enabled-documentation-reader-jko)  
 - [2026-11-12-How-to-Create-Custom-AI-Voices-for-Your-Brand](https://dev.to/voice_developer/how-to-create-custom-ai-voices-for-your-brand-87c)  
+- [2026-11-12-bug.ai.dev:-writing-docs-at-night-made-me-find-11-real-bugs-in-my-own-library](https://dev.to/antonioprosperi2svg/bugaidev-writing-docs-at-night-made-me-find-11-real-bugs-in-my-own-library-3g3c)  
+- [2026-11-12-What-a-Manifest-V3-extension-is-allowed-to-see-when-it-reads-your-Reddit-saves](https://dev.to/saveshelf/what-a-manifest-v3-extension-is-allowed-to-see-when-it-reads-your-reddit-saves-12c4)  
+- [2026-11-12-Build-a-Vocabulary-Flashcards-App-with-JavaScript](https://dev.to/arhan_khan/build-a-vocabulary-flashcards-app-with-javascript-12in)  
+- [2026-11-12-Build-a-Daily-Habit-Tracker-with-JavaScript](https://dev.to/arhan_khan/build-a-daily-habit-tracker-with-javascript-13n7)  
+- [2026-11-12-Build-a-Stock-Portfolio-Tracker-with-JavaScript](https://dev.to/arhan_khan/build-a-stock-portfolio-tracker-with-javascript-3g2a)  
+- [2026-11-12-How-sales-teams-close-faster-with-booking-pages-and-AI-recaps](https://dev.to/enaviyameet/how-sales-teams-close-faster-with-booking-pages-and-ai-recaps-1od8)  
+- [2026-11-12-13,352-Websites-Already-Let-AI-Agents-Use-Their-Forms.-Here's-How-WebMCP-Works-With-Code](https://dev.to/8bitenterprise/13352-websites-already-let-ai-agents-use-their-forms-heres-how-webmcp-works-with-code-5ak)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -479,11 +479,11 @@ https://v3.parceljs.org/blog/v3-alpha/?ck_subscriber_id=2125261785
 
 
 - [2026-11-11-Tests-as-data:-ensuring-AI-generated-code-does-what-we-want](https://martinfowler.com/articles/tests-as-data.html)  
-- [2026-11-10-Fragments:-November-10](https://martinfowler.com/fragments/2026-11-10.html)  
 - [2026-11-10-Long-horizon-agents-and-durable-execution](https://martinfowler.com/articles/durable-execution-agents.html)  
+- [2026-11-10-Fragments:-November-10](https://martinfowler.com/fragments/2026-11-10.html)  
 - [2026-11-05-The-Data-Product-Platform-Navigator](https://martinfowler.com/articles/data-product-platform-nav.html)  
-- [2026-10-29-Why-are-good-developers-so-wary-of-agentic-development?](https://martinfowler.com/rachels-ramblings/good-devs-wary.html)  
 - [2026-10-29-Bliki:-LLM-Voice](https://martinfowler.com/bliki/LLM-Voice.html)  
+- [2026-10-29-Why-are-good-developers-so-wary-of-agentic-development?](https://martinfowler.com/rachels-ramblings/good-devs-wary.html)  
 - [2026-10-28-Fragments:-October-28](https://martinfowler.com/fragments/2026-10-28.html)  
 - [2026-10-21-Fragments:-October-21](https://martinfowler.com/fragments/2026-10-21.html)  
 - [2026-10-15-When-Software-Meets-Hardware](https://martinfowler.com/articles/software-meets-hardware.html)  
@@ -572,26 +572,26 @@ https://v3.parceljs.org/blog/v3-alpha/?ck_subscriber_id=2125261785
 </summary>
 
 
-- [2026-11-12-Positional-Encoding-From-First-Principles-#0:-Where-Does-a-Word-Live?-Start-Here](https://pub.towardsai.net/positional-encoding-from-first-principles-0-where-does-a-word-live-start-here-7afa93e703af?source=rss----98111c9905da---4)  
-- [2026-11-12-5-Open-Source-AI-Tools-for-Data-Analysis-and-Report-Generation](https://pub.towardsai.net/5-open-source-ai-tools-for-data-analysis-and-report-generation-b760cc2224ba?source=rss----98111c9905da---4)  
-- [2026-11-12-Beyond-Protocol-Translation:-Building-a-Stateless-MCP-A2A-Bridge](https://pub.towardsai.net/beyond-protocol-translation-building-a-stateless-mcp-a2a-bridge-750a0f0a7804?source=rss----98111c9905da---4)  
-- [2026-11-12-My-Site-Disappeared-From-AI-Answers.-So-I-Built-a-Free-Checker](https://pub.towardsai.net/my-site-disappeared-from-ai-answers-so-i-built-a-free-checker-cbbed5fe438a?source=rss----98111c9905da---4)  
-- [2026-11-12-ML-From-First-Principles-#1.1:-Why-Linear-Regression-Exists](https://pub.towardsai.net/ml-from-first-principles-1-1-why-linear-regression-exists-a8178fcd7c15?source=rss----98111c9905da---4)  
-- [2026-11-12-7-Ways-to-Test-an-LLM-Application-When-Outputs-Are-Never-the-Same-Twice](https://pub.towardsai.net/7-ways-to-test-an-llm-application-when-outputs-are-never-the-same-twice-840fa4f062bc?source=rss----98111c9905da---4)  
-- [2026-11-12-Is-Your-LLM-Pipeline-Worth-It?-Test-It-Against-One-Prompt](https://pub.towardsai.net/is-your-llm-pipeline-worth-it-test-it-against-one-prompt-11eeabdbfae7?source=rss----98111c9905da---4)  
-- [2026-11-12-Every-Vector-Database-Benchmark-is-Wrong](https://pub.towardsai.net/every-vector-database-benchmark-is-wrong-f1cd0ab1330b?source=rss----98111c9905da---4)  
-- [2026-11-12-SAP’s-Vision-For-The-Autonomous-Enterprise](https://pub.towardsai.net/saps-vision-for-the-autonomous-enterprise-6b3fd7f11bb0?source=rss----98111c9905da---4)  
-- [2026-11-12-Claude-Fable-5.2-v.s.-the-Commodore-64:-A-Turrican-Class-Level-Game-in-Two-Hours](https://pub.towardsai.net/claude-fable-5-2-v-s-the-commodore-64-a-turrican-class-level-game-in-two-hours-aad14654ed38?source=rss----98111c9905da---4)  
-- [2026-11-12-Your-AI-Agent-Shouldn’t-Grade-Its-Own-Homework](https://pub.towardsai.net/your-ai-agent-shouldnt-grade-its-own-homework-576d90149254?source=rss----98111c9905da---4)  
-- [2026-11-12-Your-Coding-Agent-Passed-the-Tests.-It-Also-Emptied-a-File-You-Needed.](https://pub.towardsai.net/your-coding-agent-passed-the-tests-it-also-emptied-a-file-you-needed-1aa929695164?source=rss----98111c9905da---4)  
-- [2026-11-12-The-One-Concept-That-Helps-You-Understand-AI](https://pub.towardsai.net/the-one-concept-that-helps-you-understand-ai-f12b6dd14122?source=rss----98111c9905da---4)  
-- [2026-11-12-ML-From-First-Principles-#0:-The-Series-I-Wish-I-Had-Start-Here](https://pub.towardsai.net/ml-from-first-principles-0-the-series-i-wish-i-had-start-here-5e7f69949710?source=rss----98111c9905da---4)  
+- [2026-11-12-The-Safety-Test-Ends-at-Message-One](https://pub.towardsai.net/the-safety-test-ends-at-message-one-cd0180f19ead?source=rss----98111c9905da---4)  
 - [2026-11-12-Coding-Agents,-Handloom-Weavers,-and-Us](https://pub.towardsai.net/coding-agents-handloom-weavers-and-us-46a141698234?source=rss----98111c9905da---4)  
-- [2026-11-12-The-Safety-Test-Ends-at-Message-One](https://pub.towardsai.net/the-safety-test-ends-at-message-one-cd0180f19ead?source=rss----98111c9905da---4) ![](/assets/new.png)  
-- [2026-11-11-Your-Sandbox-Wraps-a-Process,-but-Your-Agent-Now-Lives-Behind-a-Service](https://pub.towardsai.net/your-sandbox-wraps-a-process-but-your-agent-now-lives-behind-a-service-bc05d36bab09?source=rss----98111c9905da---4)  
-- [2026-11-11-The-AI-Bubble-Is-Starting-to-Crack.-Will-Your-Next-Laptop-Finally-Get-Cheaper?](https://pub.towardsai.net/the-ai-bubble-is-starting-to-crack-will-your-next-laptop-finally-get-cheaper-290c76c5bea2?source=rss----98111c9905da---4)  
-- [2026-11-11-Measuring-Brand-Mentions-in-LLM-Answers-Is-Easy.-Measuring-Them-Well-Isn’t.](https://pub.towardsai.net/measuring-brand-mentions-in-llm-answers-is-easy-measuring-them-well-isnt-d00af2d111c5?source=rss----98111c9905da---4)  
-- [2026-11-11-If-You-Understand-These-5-AI-Terms,-You’re-Ahead-of-90%-of-People](https://pub.towardsai.net/if-you-understand-these-5-ai-terms-youre-ahead-of-90-of-people-b521203bb58f?source=rss----98111c9905da---4)  
+- [2026-11-12-ML-From-First-Principles-#0:-The-Series-I-Wish-I-Had-Start-Here](https://pub.towardsai.net/ml-from-first-principles-0-the-series-i-wish-i-had-start-here-5e7f69949710?source=rss----98111c9905da---4)  
+- [2026-11-12-The-One-Concept-That-Helps-You-Understand-AI](https://pub.towardsai.net/the-one-concept-that-helps-you-understand-ai-f12b6dd14122?source=rss----98111c9905da---4)  
+- [2026-11-12-Your-Coding-Agent-Passed-the-Tests.-It-Also-Emptied-a-File-You-Needed.](https://pub.towardsai.net/your-coding-agent-passed-the-tests-it-also-emptied-a-file-you-needed-1aa929695164?source=rss----98111c9905da---4)  
+- [2026-11-12-Your-AI-Agent-Shouldn’t-Grade-Its-Own-Homework](https://pub.towardsai.net/your-ai-agent-shouldnt-grade-its-own-homework-576d90149254?source=rss----98111c9905da---4)  
+- [2026-11-12-Claude-Fable-5.2-v.s.-the-Commodore-64:-A-Turrican-Class-Level-Game-in-Two-Hours](https://pub.towardsai.net/claude-fable-5-2-v-s-the-commodore-64-a-turrican-class-level-game-in-two-hours-aad14654ed38?source=rss----98111c9905da---4)  
+- [2026-11-12-SAP’s-Vision-For-The-Autonomous-Enterprise](https://pub.towardsai.net/saps-vision-for-the-autonomous-enterprise-6b3fd7f11bb0?source=rss----98111c9905da---4)  
+- [2026-11-12-Every-Vector-Database-Benchmark-is-Wrong](https://pub.towardsai.net/every-vector-database-benchmark-is-wrong-f1cd0ab1330b?source=rss----98111c9905da---4)  
+- [2026-11-12-Is-Your-LLM-Pipeline-Worth-It?-Test-It-Against-One-Prompt](https://pub.towardsai.net/is-your-llm-pipeline-worth-it-test-it-against-one-prompt-11eeabdbfae7?source=rss----98111c9905da---4)  
+- [2026-11-12-7-Ways-to-Test-an-LLM-Application-When-Outputs-Are-Never-the-Same-Twice](https://pub.towardsai.net/7-ways-to-test-an-llm-application-when-outputs-are-never-the-same-twice-840fa4f062bc?source=rss----98111c9905da---4)  
+- [2026-11-12-ML-From-First-Principles-#1.1:-Why-Linear-Regression-Exists](https://pub.towardsai.net/ml-from-first-principles-1-1-why-linear-regression-exists-a8178fcd7c15?source=rss----98111c9905da---4)  
+- [2026-11-12-My-Site-Disappeared-From-AI-Answers.-So-I-Built-a-Free-Checker](https://pub.towardsai.net/my-site-disappeared-from-ai-answers-so-i-built-a-free-checker-cbbed5fe438a?source=rss----98111c9905da---4)  
+- [2026-11-12-Beyond-Protocol-Translation:-Building-a-Stateless-MCP-A2A-Bridge](https://pub.towardsai.net/beyond-protocol-translation-building-a-stateless-mcp-a2a-bridge-750a0f0a7804?source=rss----98111c9905da---4)  
+- [2026-11-12-5-Open-Source-AI-Tools-for-Data-Analysis-and-Report-Generation](https://pub.towardsai.net/5-open-source-ai-tools-for-data-analysis-and-report-generation-b760cc2224ba?source=rss----98111c9905da---4)  
+- [2026-11-12-Positional-Encoding-From-First-Principles-#0:-Where-Does-a-Word-Live?-Start-Here](https://pub.towardsai.net/positional-encoding-from-first-principles-0-where-does-a-word-live-start-here-7afa93e703af?source=rss----98111c9905da---4)  
+- [2026-11-12-Understanding-LLMs-from-Scratch-—-Part-2:-From-Tokens-to-Semantic-Vectors](https://pub.towardsai.net/understanding-llms-from-scratch-part-2-from-token-ids-to-semantic-vectors-8b4c6bc4b756?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-11-12-Beyond-RAG:-Building-an-Intelligent-Contract-Review-Agent-with-OpenAI’s-Decision-Models](https://pub.towardsai.net/beyond-rag-building-an-intelligent-contract-review-agent-with-openais-decision-models-885d60964ba8?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-11-12-AI-Powered-JCA-Readiness:-What-Three-Published-Assessments-Reveal](https://pub.towardsai.net/ai-powered-jca-readiness-what-three-published-assessments-reveal-1b3b4543300f?source=rss----98111c9905da---4) ![](/assets/new.png)  
+- [2026-11-12-Production-Data-Ingestion-Without-the-Friction:-Architectural-Breakdown-of-CoCo-Automated-File…](https://pub.towardsai.net/production-data-ingestion-without-the-friction-architectural-breakdown-of-coco-automated-file-f36f230164ff?source=rss----98111c9905da---4) ![](/assets/new.png)  
 - [......【查看更多】......](/details/Towards AI.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -627,25 +627,25 @@ https://v3.parceljs.org/blog/v3-alpha/?ck_subscriber_id=2125261785
 
 
 - [2026-11-12-Gilbert-+-Tobin-rethinks-the-business-of-law-with-AI](https://openai.com/index/gilbert-tobin-sam-nickless)  
-- [2026-11-11-ChatGPT-Plus-for-veterans-and-servicemembers](https://openai.com/index/chatgpt-plus-for-veterans)  
 - [2026-11-11-JioStar’s-chief-architect-on-AI-discovery-at-500M-user-scale](https://openai.com/index/jiostar-vijay-seshadri)  
-- [2026-11-10-Closing-the-AI-guidance-gap-in-education](https://openai.com/index/closing-ai-guidance-gap-education)  
-- [2026-11-10-ChatGPT-Enterprise-now-available-in-AWS-Marketplace](https://openai.com/index/chatgpt-enterprise-aws-marketplace)  
-- [2026-11-10-Helping-caregivers-use-AI-in-everyday-life](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life)  
-- [2026-11-10-Work-at-the-Frontier:-AI’s-effect-on-freelance-work](https://openai.com/index/ai-effect-on-freelance-work)  
-- [2026-11-10-Introducing-Businesses-in-ChatGPT](https://openai.com/index/introducing-businesses-chatgpt)  
-- [2026-11-10-Cogent-and-OpenAI-build-cyber-defense-factories-for-enterprises](https://openai.com/index/cogent-security)  
+- [2026-11-11-ChatGPT-Plus-for-veterans-and-servicemembers](https://openai.com/index/chatgpt-plus-for-veterans)  
 - [2026-11-10-Singapore-Airlines-elevates-travel-&amp;-work-with-OpenAI-technology](https://openai.com/index/singapore-airlines-travel-work)  
-- [2026-11-09-Control-Room:-A-central-system-to-track-and-stop-model-workloads-across-our-research-infrastructure](https://openai.com/index/control-room)  
-- [2026-11-09-Kuken-Industries-searches-70-years-of-drawings-in-minutes](https://openai.com/index/kuken)  
-- [2026-11-09-CodeRabbit-scales-agentic-software-development-and-ships-20x-more](https://openai.com/index/coderabbit-codex-daybreak)  
+- [2026-11-10-Cogent-and-OpenAI-build-cyber-defense-factories-for-enterprises](https://openai.com/index/cogent-security)  
+- [2026-11-10-Introducing-Businesses-in-ChatGPT](https://openai.com/index/introducing-businesses-chatgpt)  
+- [2026-11-10-Work-at-the-Frontier:-AI’s-effect-on-freelance-work](https://openai.com/index/ai-effect-on-freelance-work)  
+- [2026-11-10-Helping-caregivers-use-AI-in-everyday-life](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life)  
+- [2026-11-10-ChatGPT-Enterprise-now-available-in-AWS-Marketplace](https://openai.com/index/chatgpt-enterprise-aws-marketplace)  
+- [2026-11-10-Closing-the-AI-guidance-gap-in-education](https://openai.com/index/closing-ai-guidance-gap-education)  
 - [2026-11-09-Introducing-Control-Room:-Human-control-over-AI-workloads](https://openai.com/index/introducing-control-room)  
-- [2026-11-06-Australian-universities-are-creating-AI-native-graduates](https://openai.com/index/australian-universities-ai-native-graduates)  
-- [2026-11-06-Cult.fit-builds-operational-muscle-with-Codex](https://openai.com/index/cultfit-builds-with-codex)  
-- [2026-11-06-Measuring-how-AI-agents-handle-everyday-wet-lab-science](https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science)  
+- [2026-11-09-CodeRabbit-scales-agentic-software-development-and-ships-20x-more](https://openai.com/index/coderabbit-codex-daybreak)  
+- [2026-11-09-Kuken-Industries-searches-70-years-of-drawings-in-minutes](https://openai.com/index/kuken)  
+- [2026-11-09-Control-Room:-A-central-system-to-track-and-stop-model-workloads-across-our-research-infrastructure](https://openai.com/index/control-room)  
 - [2026-11-06-Partnering-with-Hacktron-to-find-vulnerabilities-in-OpenAI’s-systems](https://openai.com/index/partnering-with-hacktron)  
-- [2026-11-05-Merge-builds-product-and-business-tools-with-OpenAI-technology](https://openai.com/index/merge-builds-with-openai)  
-- [2026-11-05-Flipsnack-grows-product-signups-with-conversion-optimization](https://openai.com/ads/customers/flipsnack)  
+- [2026-11-06-Measuring-how-AI-agents-handle-everyday-wet-lab-science](https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science)  
+- [2026-11-06-Cult.fit-builds-operational-muscle-with-Codex](https://openai.com/index/cultfit-builds-with-codex)  
+- [2026-11-06-Australian-universities-are-creating-AI-native-graduates](https://openai.com/index/australian-universities-ai-native-graduates)  
+- [2026-11-05-Franklin-Templeton-uses-OpenAI-to-support-investment-research](https://openai.com/index/franklin-templeton)  
+- [2026-11-05-GPT‑6-Cyber:-Advancing-the-frontier-of-aligned-cybersecurity-agents](https://openai.com/index/introducing-gpt-6-cyber)  
 - [......【查看更多】......](/details/OpenAI Blog.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -781,7 +781,7 @@ https://v3.parceljs.org/blog/v3-alpha/?ck_subscriber_id=2125261785
 </summary>
 
 
-- [2026-11-12-派早报：Apple-公布-Swift-Student-Challenge-安排、微软发布-Auto-SR-等](https://sspai.com/post/118935) ![](/assets/new.png)  
+- [2026-11-12-派早报：Apple-公布-Swift-Student-Challenge-安排、微软发布-Auto-SR-等](https://sspai.com/post/118935)  
 - [2026-11-11-城市漫步指南-|-安特卫普，时尚就在生活中](https://sspai.com/post/118781)  
 - [2026-11-11-RetroSweeper-Go：复古外观、更有手感的扫雷游戏](https://sspai.com/post/118458)  
 - [2026-11-11-派早报：700-号段保护服务试点获批、Claude-Code-设置文件泄露凭据等](https://sspai.com/post/118905)  

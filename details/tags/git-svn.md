@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-12 10:02:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-12 12:02:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -36,8 +36,8 @@ https://github.com/webdiscus/pathmask
 - [2026-10-15-AdaPCLA:-Adaptive-Prior-Calibrated-Logit-Adjustment-for-Long-Tailed-Longitudinal-EHR-Generation](https://arxiv.org/abs/2607.12645) 
 - [2026-10-29-GitHub-Octoverse-2026](https://simonwillison.net/2026/Oct/28/github-octoverse-2026/) 
 - [2026-11-11-Claude-Code’s-‘Don’t-Ask-Again’-Files-Exposed-Secrets-on-GitHub](https://pub.towardsai.net/claude-codes-don-t-ask-again-files-exposed-secrets-on-github-9bd63d39568c?source=rss----98111c9905da---4) 
-- [2026-11-09-GitHub’s-New-Copilot-Mode-Doesn’t-Pick-One-AI-Model-—-It-Picks-Whichever-One-The-Task-Needs](https://pub.towardsai.net/githubs-new-copilot-mode-doesn-t-pick-one-ai-model-it-picks-whichever-one-the-task-needs-880eaf1c381a?source=rss----98111c9905da---4) 
 - [2026-11-09-Stop-Building-AI-Agents-From-Scratch.-Try-These-12-GitHub-Repos](https://pub.towardsai.net/stop-building-ai-agents-from-scratch-try-these-12-github-repos-8f6ad76f3599?source=rss----98111c9905da---4) 
+- [2026-11-09-GitHub’s-New-Copilot-Mode-Doesn’t-Pick-One-AI-Model-—-It-Picks-Whichever-One-The-Task-Needs](https://pub.towardsai.net/githubs-new-copilot-mode-doesn-t-pick-one-ai-model-it-picks-whichever-one-the-task-needs-880eaf1c381a?source=rss----98111c9905da---4) 
 - [2026-11-08-I-Stopped-Using-Claude-Code-Like-a-Chatbot.-These-10-GitHub-Tools-Changed-Everything.](https://pub.towardsai.net/i-stopped-using-claude-code-like-a-chatbot-these-10-github-tools-changed-everything-7a476d4d51d8?source=rss----98111c9905da---4) 
 - [2026-11-07-15-GitHub-Repos-That-Turn-Claude-Code,-Codex-and-OpenCode-Into-a-Real-Team](https://pub.towardsai.net/15-github-repos-that-turn-claude-code-codex-and-opencode-into-a-real-team-fb4b18a99efe?source=rss----98111c9905da---4) 
 - [2026-10-31-GitHub-Copilot-Cloud-Sessions:-The-Resume-Gate-That-Stops-Agent-Drift](https://pub.towardsai.net/github-copilot-cloud-sessions-the-resume-gate-that-stops-agent-drift-263e2bfc300b?source=rss----98111c9905da---4) 
