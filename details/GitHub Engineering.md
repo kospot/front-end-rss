@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-13 08:01:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-13 10:03:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## GitHub Engineering
 
@@ -6,19 +6,20 @@
 
 
 - [2026-11-13-Build-once,-run-on-any-agent:-A-practical-guide-to-agent-skills](https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/) 
+- [2026-11-13-GitHub-availability-report:-October-2026](https://github.blog/news-insights/company-news/github-availability-report-october-2026/) 
 - [2026-11-11-Git-security-vulnerabilities-announced](https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/) 
 - [2026-11-07-Beyond-code-generation:-A-developer’s-guide-to-agentic-engineering](https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/) 
-- [2026-11-06-Inside-GitHub’s-new-Git-storage-architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/) 
 - [2026-11-06-Accessibility-statements-now-have-a-home-on-GitHub](https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/) 
+- [2026-11-06-Inside-GitHub’s-new-Git-storage-architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/) 
 - [2026-11-04-Arnis-turns-any-place-on-Earth-into-a-Minecraft-world](https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/) 
 - [2026-11-02-Game-Off-2026:-The-theme-is-SHIFT](https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/) 
-- [2026-10-29-Octoverse:-Commits,-pushes,-reach-new-highs-in-2026-as-developers-build-with-agents](https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/) 
 - [2026-10-29-GitHub-Universe-2026:-Evolving-every-layer-of-the-stack](https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/) 
+- [2026-10-29-Octoverse:-Commits,-pushes,-reach-new-highs-in-2026-as-developers-build-with-agents](https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/) 
 - [2026-10-23-How-bug-bounty-sharpens-one-researcher’s-security-skills](https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/) 
 - [2026-10-22-The-bridge-to-agent-scale-Git-infrastructure](https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/) 
 - [2026-10-21-How-3-Java-Champions-are-using-GitHub-Copilot-for-increased-productivity](https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/) 
 - [2026-10-20-How-to-continue-a-GitHub-Copilot-app-session-in-VS-Code](https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/) 
-- [2026-10-16-The-next-developer-interface-is-ambient-intelligence](https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/) 
 - [2026-10-16-Staying-Evergreen:-How-we-automated-secure-access-and-repo-hygiene-in-a-shared-org](https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/) 
-- [2026-10-15-From-2,500-requests-to-24:-Rebuilding-star-history-without-the-stargazers](https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/) 
+- [2026-10-16-The-next-developer-interface-is-ambient-intelligence](https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/) 
 - [2026-10-15-GitHub-availability-report:-September-2026](https://github.blog/news-insights/company-news/github-availability-report-september-2026/) 
+- [2026-10-15-From-2,500-requests-to-24:-Rebuilding-star-history-without-the-stargazers](https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/) 
