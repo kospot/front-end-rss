@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-13T13:04:06.541Z</updated>
+    <updated>2026-11-13T15:04:26.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,23 +15,23 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Whoop launched a social network where every user has a ‘verified heartbeat’]]></title>
-        <id>https://www.theverge.com/gadgets/1032630/whoop-humans-social-network</id>
-        <link href="https://www.theverge.com/gadgets/1032630/whoop-humans-social-network"/>
+        <title type="html"><![CDATA[Meta discussed attacking Jonathan Haidt — now even his haters are annoyed]]></title>
+        <id>https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta</id>
+        <link href="https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Humble Bundle redesign removes two-factor verification from settings]]></title>
-        <id>https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings</id>
-        <link href="https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings"/>
+        <title type="html"><![CDATA[Apple should have made the MacBook logo RGB]]></title>
+        <id>https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors</id>
+        <link href="https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xbox owners are getting more customizations for backgrounds and the Guide menu]]></title>
-        <id>https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature</id>
-        <link href="https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature"/>
+        <title type="html"><![CDATA[‘It&#8217;s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation]]></title>
+        <id>https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions</id>
+        <link href="https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
@@ -43,9 +43,23 @@
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘It&#8217;s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation]]></title>
-        <id>https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions</id>
-        <link href="https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions"/>
+        <title type="html"><![CDATA[Xbox owners are getting more customizations for backgrounds and the Guide menu]]></title>
+        <id>https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature</id>
+        <link href="https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humble Bundle redesign removes two-factor verification from settings]]></title>
+        <id>https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings</id>
+        <link href="https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whoop launched a social network where every user has a ‘verified heartbeat’]]></title>
+        <id>https://www.theverge.com/gadgets/1032630/whoop-humans-social-network</id>
+        <link href="https://www.theverge.com/gadgets/1032630/whoop-humans-social-network"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
@@ -106,247 +120,107 @@
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Training a 1T-Parameter MoE on EU public infrastructure]]></title>
-        <id>https://pytorch.org/blog/training-a-1t-parameter-moe-on-eu-public-infrastructure-with-pytorch-and-torchtitan/</id>
-        <link href="https://pytorch.org/blog/training-a-1t-parameter-moe-on-eu-public-infrastructure-with-pytorch-and-torchtitan/"/>
+        <title type="html"><![CDATA[Ancient Egyptians revered dogs–can this street dog return to that former glory?]]></title>
+        <id>https://www.nationalgeographic.com/animals/article/ancient-egypt-street-dogs-baladis</id>
+        <link href="https://www.nationalgeographic.com/animals/article/ancient-egypt-street-dogs-baladis"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Terminal borders that don't cost a cell]]></title>
-        <id>https://www.joshka.net/cell-borders/</id>
-        <link href="https://www.joshka.net/cell-borders/"/>
+        <title type="html"><![CDATA[From action to static description–How AI changed Jørn Lier Horst's writing style]]></title>
+        <id>https://jilltxt.net/from-action-to-static-descriptions-how-using-ai-to-write-with-changed-jorn-lier-horsts-style/</id>
+        <link href="https://jilltxt.net/from-action-to-static-descriptions-how-using-ai-to-write-with-changed-jorn-lier-horsts-style/"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fastcord: A Native Client for Discord]]></title>
-        <id>https://creikey.com/fastcord/</id>
-        <link href="https://creikey.com/fastcord/"/>
+        <title type="html"><![CDATA[HN-XT: Hacker News QoL userscript (inline replies, filters, tags, etc.)]]></title>
+        <id>https://github.com/enlyth/hn-xt</id>
+        <link href="https://github.com/enlyth/hn-xt"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Osmosis Restarts After Halt; Upbit Pauses Transfers]]></title>
-        <id>https://thedefiant.io/news/infrastructure/osmosis-restarts-after-halt-upbit-pauses-transfers</id>
-        <link href="https://thedefiant.io/news/infrastructure/osmosis-restarts-after-halt-upbit-pauses-transfers"/>
+        <title type="html"><![CDATA[ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser]]></title>
+        <id>https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/</id>
+        <link href="https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BMDS – Bare Metal Do Stuff]]></title>
-        <id>https://github.com/jthwho/bmds</id>
-        <link href="https://github.com/jthwho/bmds"/>
+        <title type="html"><![CDATA[Show HN: A Qunatum-Safe Encryption at Rest Tool]]></title>
+        <id>https://sareproject.github.io/</id>
+        <link href="https://sareproject.github.io/"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best-Ever 3D Map of the Universe to date]]></title>
-        <id>https://www.mpg.de/27073683/euclid-lays-the-foundation-for-its-best-ever-3d-map-of-the-universe</id>
-        <link href="https://www.mpg.de/27073683/euclid-lays-the-foundation-for-its-best-ever-3d-map-of-the-universe"/>
+        <title type="html"><![CDATA[Show HN: Build Django Admin internal tools with your coding agent]]></title>
+        <id>https://djangocontrolroom.com/build</id>
+        <link href="https://djangocontrolroom.com/build"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The White House is apparently a popular residential proxy exit spot]]></title>
-        <id>https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969</id>
-        <link href="https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969"/>
+        <title type="html"><![CDATA[Python is for everyone: Join in the PSF year-end fundraiser and membership drive]]></title>
+        <id>https://pyfound.blogspot.com/2026/11/python-is-for-everyone-join-in-psf-year.html</id>
+        <link href="https://pyfound.blogspot.com/2026/11/python-is-for-everyone-join-in-psf-year.html"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Researchers detail over 1,500 verified cases of children with past-life memories]]></title>
-        <id>https://www.wbur.org/hereandnow/2026/11/11/child-reincarnation</id>
-        <link href="https://www.wbur.org/hereandnow/2026/11/11/child-reincarnation"/>
+        <title type="html"><![CDATA[Show HN: Clozemaster MCP server that turns class notes into cloze sentences]]></title>
+        <id>https://www.youtube.com/watch?v=mN1eZl0hKTQ</id>
+        <link href="https://www.youtube.com/watch?v=mN1eZl0hKTQ"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intelligent women get less help at work, study finds]]></title>
-        <id>https://www.dw.com/en/intelligent-women-get-less-help-at-work-study-finds/a-79910881</id>
-        <link href="https://www.dw.com/en/intelligent-women-get-less-help-at-work-study-finds/a-79910881"/>
+        <title type="html"><![CDATA[This Magic Mushroom Can Kill]]></title>
+        <id>https://www.sciencenews.org/article/dark-magic-mushroom-psilocybin-amatoxin</id>
+        <link href="https://www.sciencenews.org/article/dark-magic-mushroom-psilocybin-amatoxin"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alex Evans at Umbra Ignite 2015: Learning from Failure [video]]]></title>
-        <id>https://www.youtube.com/watch?v=u9KNtnCZDMI</id>
-        <link href="https://www.youtube.com/watch?v=u9KNtnCZDMI"/>
+        <title type="html"><![CDATA[ML Modules for Mere Mortals]]></title>
+        <id>https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/</id>
+        <link href="https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Huang is just the start: Spy agencies warn of 'honey trap' revival]]></title>
-        <id>https://www.afr.com/technology/jensen-is-just-the-start-spy-agencies-warn-of-honey-trap-revival-20261113-p61dbz</id>
-        <link href="https://www.afr.com/technology/jensen-is-just-the-start-spy-agencies-warn-of-honey-trap-revival-20261113-p61dbz"/>
+        <title type="html"><![CDATA[Isolate Meta Quest 2 from Meta – Inspired by CleanYourTV]]></title>
+        <id>https://github.com/nlhomme/cleanyourquest</id>
+        <link href="https://github.com/nlhomme/cleanyourquest"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pure-stdlib Python script verifying 3D space and time from 2x2 Pauli algebra]]></title>
-        <id>https://zenodo.org/records/23903397</id>
-        <link href="https://zenodo.org/records/23903397"/>
+        <title type="html"><![CDATA[Reflecting on My Failure to Build a Billion-Dollar Company]]></title>
+        <id>https://sahillavingia.com/reflecting</id>
+        <link href="https://sahillavingia.com/reflecting"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xeno-Interpretability: Investigating the Alien Minds of LLMs]]></title>
-        <id>https://arxiv.org/abs/2609.20408</id>
-        <link href="https://arxiv.org/abs/2609.20408"/>
+        <title type="html"><![CDATA[Ernie 5.5 Flash Preview by Baidu]]></title>
+        <id>https://ernie.baidu.com/release/ernie-5-5-flash-preview/</id>
+        <link href="https://ernie.baidu.com/release/ernie-5-5-flash-preview/"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Neal Agarwal (neal.fun) Wants to Make You Less Productive]]></title>
-        <id>https://www.youtube.com/watch?v=2Qvx6jpQLME</id>
-        <link href="https://www.youtube.com/watch?v=2Qvx6jpQLME"/>
+        <title type="html"><![CDATA[TimeNet challenge: An online hackathon for time-series AI]]></title>
+        <id>https://challenge.timenet.ai</id>
+        <link href="https://challenge.timenet.ai"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bad Apple but it's a Quantum Particle [video]]]></title>
-        <id>https://www.youtube.com/watch?v=NZAXPC2mLAc</id>
-        <link href="https://www.youtube.com/watch?v=NZAXPC2mLAc"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude designed FPGA scaler board for 6th-gen consoles]]></title>
-        <id>https://github.com/bryfur/tang-av-scaler</id>
-        <link href="https://github.com/bryfur/tang-av-scaler"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese frontier AI models carry the fingerprint of export-controlled GPUs]]></title>
-        <id>https://unemploymentlabs.com/checkpoint-forensics</id>
-        <link href="https://unemploymentlabs.com/checkpoint-forensics"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast-Compose – An Instant Runtime for Jetpack Compose Code]]></title>
-        <id>https://github.com/fast-compose/fast-compose</id>
-        <link href="https://github.com/fast-compose/fast-compose"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zelenskyy: Significant Disruptions to Starshield's Operations]]></title>
-        <id>https://twitter.com/ZelenskyyUa/status/2120804738031616095</id>
-        <link href="https://twitter.com/ZelenskyyUa/status/2120804738031616095"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A click-fraud bot led me to 5,552 GitHub accounts tied to public inboxes]]></title>
-        <id>https://shmulc.substack.com/p/click-fraud-bot-github-public-inbox-accounts</id>
-        <link href="https://shmulc.substack.com/p/click-fraud-bot-github-public-inbox-accounts"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Buildout, Harmonies-based game to build AI Lab]]></title>
-        <id>https://buildout.eamag.me/</id>
-        <link href="https://buildout.eamag.me/"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Axelera AI Thinks Titania Is a Better Way to Scale AI Inference]]></title>
-        <id>https://www.forbes.com/sites/marcochiappetta/2026/11/12/axelera-ai-thinks-theres-a-better-way-to-scale-ai-inference/</id>
-        <link href="https://www.forbes.com/sites/marcochiappetta/2026/11/12/axelera-ai-thinks-theres-a-better-way-to-scale-ai-inference/"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parker Solar Probe finds magnetic helicity reversing at small scales]]></title>
-        <id>https://iopscience.iop.org/article/10.3847/2041-8213/aea84b</id>
-        <link href="https://iopscience.iop.org/article/10.3847/2041-8213/aea84b"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Studprint: A 3D printer made of 92% Lego bricks]]></title>
-        <id>https://github.com/AdamTuraj/StudPrint</id>
-        <link href="https://github.com/AdamTuraj/StudPrint"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning]]></title>
-        <id>https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/</id>
-        <link href="https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Agentview Chat – a chat UI for Claude Code background sessions]]></title>
-        <id>https://github.com/clumsy-ug/agentview-chat</id>
-        <link href="https://github.com/clumsy-ug/agentview-chat"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tool Built by Election Deniers Said These Voters Were Dead. We Found Them Alive]]></title>
-        <id>https://www.propublica.org/article/election-challenge-forsyth-county-georgia</id>
-        <link href="https://www.propublica.org/article/election-challenge-forsyth-county-georgia"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kids and Parents Are Protesting Google's Classroom AI]]></title>
-        <id>https://www.motherjones.com/politics/2026/11/google-ai-protests-students-parents-families-new-york-nationwide-search-lawsuit/</id>
-        <link href="https://www.motherjones.com/politics/2026/11/google-ai-protests-students-parents-families-new-york-nationwide-search-lawsuit/"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding RSA Support to swift-nio-ssh]]></title>
-        <id>https://lograker.app/blog/swift-nio-ssh-rsa-support</id>
-        <link href="https://lograker.app/blog/swift-nio-ssh-rsa-support"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Newport - Work on Linux servers from your Mac or Windows desktop]]></title>
-        <id>https://github.com/ruiyangke/newport</id>
-        <link href="https://github.com/ruiyangke/newport"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When the Observer Stole the Universe]]></title>
-        <id>https://pansophics.substack.com/p/when-the-observer-stole-the-universe</id>
-        <link href="https://pansophics.substack.com/p/when-the-observer-stole-the-universe"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Read the Aubrey-Maturin series. Before it's too late]]></title>
-        <id>https://mapwriting.substack.com/p/read-the-aubrey-maturin-series-before</id>
-        <link href="https://mapwriting.substack.com/p/read-the-aubrey-maturin-series-before"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feel the AGI [video]]]></title>
-        <id>https://www.youtube.com/watch?v=YMFjMYOkpgM</id>
-        <link href="https://www.youtube.com/watch?v=YMFjMYOkpgM"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Octen-WebGR, a 4B model that memorized 200M URLs (open weights, live demo)]]></title>
-        <id>https://huggingface.co/Octen/Octen-WebGR-4B</id>
-        <link href="https://huggingface.co/Octen/Octen-WebGR-4B"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I built a Rick and Morty explainer video generator]]></title>
-        <id>https://usediorama.com/rick-and-morty</id>
-        <link href="https://usediorama.com/rick-and-morty"/>
+        <title type="html"><![CDATA[Tashrih – 3D anatomy for med students in French, Arabic and English]]></title>
+        <id>https://tashrih.dev/en/explore</id>
+        <link href="https://tashrih.dev/en/explore"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
@@ -358,9 +232,135 @@
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tashrih – 3D anatomy for med students in French, Arabic and English]]></title>
-        <id>https://tashrih.dev/en/explore</id>
-        <link href="https://tashrih.dev/en/explore"/>
+        <title type="html"><![CDATA[Show HN: I built a Rick and Morty explainer video generator]]></title>
+        <id>https://usediorama.com/rick-and-morty</id>
+        <link href="https://usediorama.com/rick-and-morty"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Octen-WebGR, a 4B model that memorized 200M URLs (open weights, live demo)]]></title>
+        <id>https://huggingface.co/Octen/Octen-WebGR-4B</id>
+        <link href="https://huggingface.co/Octen/Octen-WebGR-4B"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feel the AGI [video]]]></title>
+        <id>https://www.youtube.com/watch?v=YMFjMYOkpgM</id>
+        <link href="https://www.youtube.com/watch?v=YMFjMYOkpgM"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Read the Aubrey-Maturin series. Before it's too late]]></title>
+        <id>https://mapwriting.substack.com/p/read-the-aubrey-maturin-series-before</id>
+        <link href="https://mapwriting.substack.com/p/read-the-aubrey-maturin-series-before"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When the Observer Stole the Universe]]></title>
+        <id>https://pansophics.substack.com/p/when-the-observer-stole-the-universe</id>
+        <link href="https://pansophics.substack.com/p/when-the-observer-stole-the-universe"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Newport - Work on Linux servers from your Mac or Windows desktop]]></title>
+        <id>https://github.com/ruiyangke/newport</id>
+        <link href="https://github.com/ruiyangke/newport"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding RSA Support to swift-nio-ssh]]></title>
+        <id>https://lograker.app/blog/swift-nio-ssh-rsa-support</id>
+        <link href="https://lograker.app/blog/swift-nio-ssh-rsa-support"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kids and Parents Are Protesting Google's Classroom AI]]></title>
+        <id>https://www.motherjones.com/politics/2026/11/google-ai-protests-students-parents-families-new-york-nationwide-search-lawsuit/</id>
+        <link href="https://www.motherjones.com/politics/2026/11/google-ai-protests-students-parents-families-new-york-nationwide-search-lawsuit/"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tool Built by Election Deniers Said These Voters Were Dead. We Found Them Alive]]></title>
+        <id>https://www.propublica.org/article/election-challenge-forsyth-county-georgia</id>
+        <link href="https://www.propublica.org/article/election-challenge-forsyth-county-georgia"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Agentview Chat – a chat UI for Claude Code background sessions]]></title>
+        <id>https://github.com/clumsy-ug/agentview-chat</id>
+        <link href="https://github.com/clumsy-ug/agentview-chat"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning]]></title>
+        <id>https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/</id>
+        <link href="https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Studprint: A 3D printer made of 92% Lego bricks]]></title>
+        <id>https://github.com/AdamTuraj/StudPrint</id>
+        <link href="https://github.com/AdamTuraj/StudPrint"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parker Solar Probe finds magnetic helicity reversing at small scales]]></title>
+        <id>https://iopscience.iop.org/article/10.3847/2041-8213/aea84b</id>
+        <link href="https://iopscience.iop.org/article/10.3847/2041-8213/aea84b"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Axelera AI Thinks Titania Is a Better Way to Scale AI Inference]]></title>
+        <id>https://www.forbes.com/sites/marcochiappetta/2026/11/12/axelera-ai-thinks-theres-a-better-way-to-scale-ai-inference/</id>
+        <link href="https://www.forbes.com/sites/marcochiappetta/2026/11/12/axelera-ai-thinks-theres-a-better-way-to-scale-ai-inference/"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Buildout, Harmonies-based game to build AI Lab]]></title>
+        <id>https://buildout.eamag.me/</id>
+        <link href="https://buildout.eamag.me/"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A click-fraud bot led me to 5,552 GitHub accounts tied to public inboxes]]></title>
+        <id>https://shmulc.substack.com/p/click-fraud-bot-github-public-inbox-accounts</id>
+        <link href="https://shmulc.substack.com/p/click-fraud-bot-github-public-inbox-accounts"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zelenskyy: Significant Disruptions to Starshield's Operations]]></title>
+        <id>https://twitter.com/ZelenskyyUa/status/2120804738031616095</id>
+        <link href="https://twitter.com/ZelenskyyUa/status/2120804738031616095"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast-Compose – An Instant Runtime for Jetpack Compose Code]]></title>
+        <id>https://github.com/fast-compose/fast-compose</id>
+        <link href="https://github.com/fast-compose/fast-compose"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese frontier AI models carry the fingerprint of export-controlled GPUs]]></title>
+        <id>https://unemploymentlabs.com/checkpoint-forensics</id>
+        <link href="https://unemploymentlabs.com/checkpoint-forensics"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
