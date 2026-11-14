@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-14T13:05:20.909Z</updated>
+    <updated>2026-11-14T15:05:06.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,23 +22,23 @@
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A gadget to make your dumb house smarter]]></title>
-        <id>https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer</id>
-        <link href="https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer"/>
+        <title type="html"><![CDATA[The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs]]></title>
+        <id>https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</id>
+        <link href="https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You can adjust the position of the trackball on Keychron’s new wireless mouse]]></title>
-        <id>https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable</id>
-        <link href="https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable"/>
+        <title type="html"><![CDATA[This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers]]></title>
+        <id>https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on</id>
+        <link href="https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jensen Huang was reckless with the environment, too]]></title>
-        <id>https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution</id>
-        <link href="https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution"/>
+        <title type="html"><![CDATA[The Verge’s 2026 gift guide for dads]]></title>
+        <id>https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026</id>
+        <link href="https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
@@ -50,9 +50,23 @@
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Verge’s 2026 gift guide for dads]]></title>
-        <id>https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026</id>
-        <link href="https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026"/>
+        <title type="html"><![CDATA[Jensen Huang was reckless with the environment, too]]></title>
+        <id>https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution</id>
+        <link href="https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can adjust the position of the trackball on Keychron’s new wireless mouse]]></title>
+        <id>https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable</id>
+        <link href="https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A gadget to make your dumb house smarter]]></title>
+        <id>https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer</id>
+        <link href="https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
@@ -92,184 +106,30 @@
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tech Companies Are Trying to Shift the Concept of Privacy (Again)]]></title>
-        <id>https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again</id>
-        <link href="https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again"/>
+        <title type="html"><![CDATA[Wild select: intuitive queries for JSON, XML, and other hierarchical data]]></title>
+        <id>https://developforperformance.com/WildSelect.html</id>
+        <link href="https://developforperformance.com/WildSelect.html"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to find meaning in large tech companies]]></title>
-        <id>https://www.seangoedecke.com/how-to-find-meaning-in-large-tech-companies/</id>
-        <link href="https://www.seangoedecke.com/how-to-find-meaning-in-large-tech-companies/"/>
+        <title type="html"><![CDATA[Demystifying phone unlocking tools: A technical overview]]></title>
+        <id>https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/</id>
+        <link href="https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Air-Traffic Resilience Portfolio]]></title>
-        <id>https://tilt.now/tilt/MTwqny</id>
-        <link href="https://tilt.now/tilt/MTwqny"/>
+        <title type="html"><![CDATA[Shadow DOM (2014)]]></title>
+        <id>https://acko.net/blog/shadow-dom/</id>
+        <link href="https://acko.net/blog/shadow-dom/"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Transitive Policies for Agents: Agent Permissions Don't Automatically Compose]]></title>
-        <id>https://glthr.com/transitive-policies-for-ai-agents</id>
-        <link href="https://glthr.com/transitive-policies-for-ai-agents"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twelve Principles of Documentation]]></title>
-        <id>https://vurt.org/articles/principles-documentation/</id>
-        <link href="https://vurt.org/articles/principles-documentation/"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anatomy of a Git pre-commit Hook]]></title>
-        <id>https://georgestocker.com/2019/10/31/anatomy-of-a-git-pre-commit-hook/</id>
-        <link href="https://georgestocker.com/2019/10/31/anatomy-of-a-git-pre-commit-hook/"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox Focus]]></title>
-        <id>https://www.firefox.com/en-US/mobile/focus/</id>
-        <link href="https://www.firefox.com/en-US/mobile/focus/"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SSH Keys in the Secure Enclave, Without an Agent]]></title>
-        <id>https://lograker.app/blog/secure-enclave-ssh-keys-without-an-agent</id>
-        <link href="https://lograker.app/blog/secure-enclave-ssh-keys-without-an-agent"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App Basics for Firefox OS (2013)]]></title>
-        <id>https://web.archive.org/web/20160316133358/https://mozilla.github.io/app-basics-videos/</id>
-        <link href="https://web.archive.org/web/20160316133358/https://mozilla.github.io/app-basics-videos/"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Martin van den Brink: His contributions in ASML [video]]]></title>
-        <id>https://www.youtube.com/watch?v=HEr90oVa758</id>
-        <link href="https://www.youtube.com/watch?v=HEr90oVa758"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Geocode the planet(630M addresses), indexed in 5h on a 9 GB RAM budget]]></title>
-        <id>https://github.com/open-geocode-rs/open-geocode</id>
-        <link href="https://github.com/open-geocode-rs/open-geocode"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Browserr – An MCP-first browser for AI agents (one Rust binary)]]></title>
-        <id>https://browserr.dev</id>
-        <link href="https://browserr.dev"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: OpenAI Astra post-launch slump?]]></title>
-        <id>https://news.ycombinator.com/item?id=50493498</id>
-        <link href="https://news.ycombinator.com/item?id=50493498"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cancer society issues updated prostate cancer screening guidelines]]></title>
-        <id>https://abcnews.com/GMA/Wellness/cancer-society-issues-specific-prostate-cancer-screening-guidelines/story?id=138053060</id>
-        <link href="https://abcnews.com/GMA/Wellness/cancer-society-issues-specific-prostate-cancer-screening-guidelines/story?id=138053060"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faster Scientific Simulations with New FP64 Algorithms in Nvidia cuBLAS]]></title>
-        <id>https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/</id>
-        <link href="https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: What use are the non-major cryptocurrencies?]]></title>
-        <id>https://news.ycombinator.com/item?id=50493695</id>
-        <link href="https://news.ycombinator.com/item?id=50493695"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Run Cloudflare Workers Anywhere]]></title>
-        <id>https://openorange.dev/</id>
-        <link href="https://openorange.dev/"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Searching for exotic scalars at fusion reactors (2025)]]></title>
-        <id>https://arxiv.org/abs/2502.12314</id>
-        <link href="https://arxiv.org/abs/2502.12314"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Automatic extraction gets you structured data from web data]]></title>
-        <id>http://66.44.17.8/:3333</id>
-        <link href="http://66.44.17.8/:3333"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could China's battery-swapping e-trucks be the answer to EV range anxiety]]></title>
-        <id>https://www.theguardian.com/environment/2026/nov/12/china-battery-swapping-e-trucks-catl-ev-range-anxiety</id>
-        <link href="https://www.theguardian.com/environment/2026/nov/12/china-battery-swapping-e-trucks-catl-ev-range-anxiety"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nature-Based Sanitation. Cihuatlán: A Large-Scale Artificial Wetland]]></title>
-        <id>https://revista.unaminternacional.unam.mx/en/nota/12/saneamiento-basado-en-la-naturaleza-cihuatlan-un-humedal-construido-de-gran-escala</id>
-        <link href="https://revista.unaminternacional.unam.mx/en/nota/12/saneamiento-basado-en-la-naturaleza-cihuatlan-un-humedal-construido-de-gran-escala"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why the Airbus A321XLR Often Gets Stuck Climbing for First Few Hours of Flight]]></title>
-        <id>https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/</id>
-        <link href="https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Backdooring LLMs – Do you trust your AI provider?]]></title>
-        <id>https://pgaleone.eu/ai/2026/11/14/backdooring-llms-and-trust/</id>
-        <link href="https://pgaleone.eu/ai/2026/11/14/backdooring-llms-and-trust/"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: FieldRook – a local-first Windows troubleshooting workstation]]></title>
-        <id>https://github.com/Rookweld/FieldRook</id>
-        <link href="https://github.com/Rookweld/FieldRook"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: MAP & GO! - the day, on a map]]></title>
-        <id>https://apps.apple.com/us/app/map-go/id6766313000</id>
-        <link href="https://apps.apple.com/us/app/map-go/id6766313000"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nearly $20M found in Hungary's forests, buildings amid corruption probe]]></title>
-        <id>https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings</id>
-        <link href="https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings"/>
+        <title type="html"><![CDATA[Show HN: Track Cassette Looper for iPad]]></title>
+        <id>https://autographmusic.com/c-60.html</id>
+        <link href="https://autographmusic.com/c-60.html"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
@@ -281,37 +141,198 @@
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Vibration Data to Work Orders: Designing Industrial AI Agents with Explicit Boundaries]]></title>
-        <id>https://pub.towardsai.net/from-vibration-data-to-work-orders-designing-industrial-ai-agents-with-explicit-boundaries-60e583175164?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/from-vibration-data-to-work-orders-designing-industrial-ai-agents-with-explicit-boundaries-60e583175164?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Nearly $20M found in Hungary's forests, buildings amid corruption probe]]></title>
+        <id>https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings</id>
+        <link href="https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Measuring Review in Human Minutes: A Risk-Tier Gate for Agent Pull Requests in .NET]]></title>
-        <id>https://pub.towardsai.net/measuring-review-in-human-minutes-a-risk-tier-gate-for-agent-pull-requests-in-net-c13f301342fa?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/measuring-review-in-human-minutes-a-risk-tier-gate-for-agent-pull-requests-in-net-c13f301342fa?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: MAP & GO! - the day, on a map]]></title>
+        <id>https://apps.apple.com/us/app/map-go/id6766313000</id>
+        <link href="https://apps.apple.com/us/app/map-go/id6766313000"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your Harness Didn’t Get Better, It Got Lucky: Noise Bands for Agent Evals]]></title>
-        <id>https://pub.towardsai.net/your-harness-didnt-get-better-it-got-lucky-noise-bands-for-agent-evals-9413224c6fcb?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-harness-didnt-get-better-it-got-lucky-noise-bands-for-agent-evals-9413224c6fcb?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: FieldRook – a local-first Windows troubleshooting workstation]]></title>
+        <id>https://github.com/Rookweld/FieldRook</id>
+        <link href="https://github.com/Rookweld/FieldRook"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Modern Web Guidance Helps Coding Agents Choose Browser APIs]]></title>
-        <id>https://pub.towardsai.net/how-modern-web-guidance-helps-coding-agents-choose-browser-apis-51ba3ce4edf8?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-modern-web-guidance-helps-coding-agents-choose-browser-apis-51ba3ce4edf8?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Backdooring LLMs – Do you trust your AI provider?]]></title>
+        <id>https://pgaleone.eu/ai/2026/11/14/backdooring-llms-and-trust/</id>
+        <link href="https://pgaleone.eu/ai/2026/11/14/backdooring-llms-and-trust/"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FRYDAY #13: Which AI Growth Tactics Deserve Your Budget?]]></title>
-        <id>https://pub.towardsai.net/fryday-13-which-ai-growth-tactics-deserve-your-budget-f5527d5f10b9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/fryday-13-which-ai-growth-tactics-deserve-your-budget-f5527d5f10b9?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Why the Airbus A321XLR Often Gets Stuck Climbing for First Few Hours of Flight]]></title>
+        <id>https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/</id>
+        <link href="https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nature-Based Sanitation. Cihuatlán: A Large-Scale Artificial Wetland]]></title>
+        <id>https://revista.unaminternacional.unam.mx/en/nota/12/saneamiento-basado-en-la-naturaleza-cihuatlan-un-humedal-construido-de-gran-escala</id>
+        <link href="https://revista.unaminternacional.unam.mx/en/nota/12/saneamiento-basado-en-la-naturaleza-cihuatlan-un-humedal-construido-de-gran-escala"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could China's battery-swapping e-trucks be the answer to EV range anxiety]]></title>
+        <id>https://www.theguardian.com/environment/2026/nov/12/china-battery-swapping-e-trucks-catl-ev-range-anxiety</id>
+        <link href="https://www.theguardian.com/environment/2026/nov/12/china-battery-swapping-e-trucks-catl-ev-range-anxiety"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Automatic extraction gets you structured data from web data]]></title>
+        <id>http://66.44.17.8/:3333</id>
+        <link href="http://66.44.17.8/:3333"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Searching for exotic scalars at fusion reactors (2025)]]></title>
+        <id>https://arxiv.org/abs/2502.12314</id>
+        <link href="https://arxiv.org/abs/2502.12314"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run Cloudflare Workers Anywhere]]></title>
+        <id>https://openorange.dev/</id>
+        <link href="https://openorange.dev/"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: What use are the non-major cryptocurrencies?]]></title>
+        <id>https://news.ycombinator.com/item?id=50493695</id>
+        <link href="https://news.ycombinator.com/item?id=50493695"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faster Scientific Simulations with New FP64 Algorithms in Nvidia cuBLAS]]></title>
+        <id>https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/</id>
+        <link href="https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cancer society issues updated prostate cancer screening guidelines]]></title>
+        <id>https://abcnews.com/GMA/Wellness/cancer-society-issues-specific-prostate-cancer-screening-guidelines/story?id=138053060</id>
+        <link href="https://abcnews.com/GMA/Wellness/cancer-society-issues-specific-prostate-cancer-screening-guidelines/story?id=138053060"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: OpenAI Astra post-launch slump?]]></title>
+        <id>https://news.ycombinator.com/item?id=50493498</id>
+        <link href="https://news.ycombinator.com/item?id=50493498"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Browserr – An MCP-first browser for AI agents (one Rust binary)]]></title>
+        <id>https://browserr.dev</id>
+        <link href="https://browserr.dev"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Geocode the planet(630M addresses), indexed in 5h on a 9 GB RAM budget]]></title>
+        <id>https://github.com/open-geocode-rs/open-geocode</id>
+        <link href="https://github.com/open-geocode-rs/open-geocode"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Martin van den Brink: His contributions in ASML [video]]]></title>
+        <id>https://www.youtube.com/watch?v=HEr90oVa758</id>
+        <link href="https://www.youtube.com/watch?v=HEr90oVa758"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App Basics for Firefox OS (2013)]]></title>
+        <id>https://web.archive.org/web/20160316133358/https://mozilla.github.io/app-basics-videos/</id>
+        <link href="https://web.archive.org/web/20160316133358/https://mozilla.github.io/app-basics-videos/"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSH Keys in the Secure Enclave, Without an Agent]]></title>
+        <id>https://lograker.app/blog/secure-enclave-ssh-keys-without-an-agent</id>
+        <link href="https://lograker.app/blog/secure-enclave-ssh-keys-without-an-agent"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox Focus]]></title>
+        <id>https://www.firefox.com/en-US/mobile/focus/</id>
+        <link href="https://www.firefox.com/en-US/mobile/focus/"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anatomy of a Git pre-commit Hook]]></title>
+        <id>https://georgestocker.com/2019/10/31/anatomy-of-a-git-pre-commit-hook/</id>
+        <link href="https://georgestocker.com/2019/10/31/anatomy-of-a-git-pre-commit-hook/"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twelve Principles of Documentation]]></title>
+        <id>https://vurt.org/articles/principles-documentation/</id>
+        <link href="https://vurt.org/articles/principles-documentation/"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transitive Policies for Agents: Agent Permissions Don't Automatically Compose]]></title>
+        <id>https://glthr.com/transitive-policies-for-ai-agents</id>
+        <link href="https://glthr.com/transitive-policies-for-ai-agents"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Air-Traffic Resilience Portfolio]]></title>
+        <id>https://tilt.now/tilt/MTwqny</id>
+        <link href="https://tilt.now/tilt/MTwqny"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to find meaning in large tech companies]]></title>
+        <id>https://www.seangoedecke.com/how-to-find-meaning-in-large-tech-companies/</id>
+        <link href="https://www.seangoedecke.com/how-to-find-meaning-in-large-tech-companies/"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech Companies Are Trying to Shift the Concept of Privacy (Again)]]></title>
+        <id>https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again</id>
+        <link href="https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Better AI Gets at Coding, the Less Code It Should Write]]></title>
+        <id>https://pub.towardsai.net/the-better-ai-gets-at-coding-the-less-code-it-should-write-f44af1a31afa?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-better-ai-gets-at-coding-the-less-code-it-should-write-f44af1a31afa?source=rss----98111c9905da---4"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Post-training Stages and Preference Data — It is much easier to judge than to generate]]></title>
+        <id>https://pub.towardsai.net/post-training-stages-and-preference-data-it-is-much-easier-to-judge-than-to-generate-d6813c762d34?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/post-training-stages-and-preference-data-it-is-much-easier-to-judge-than-to-generate-d6813c762d34?source=rss----98111c9905da---4"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
@@ -323,50 +344,23 @@
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[datasette-cluster-map 0.19]]></title>
-        <id>https://simonwillison.net/2026/Nov/13/datasette-cluster-map/</id>
-        <link href="https://simonwillison.net/2026/Nov/13/datasette-cluster-map/"/>
+        <title type="html"><![CDATA[FRYDAY #13: Which AI Growth Tactics Deserve Your Budget?]]></title>
+        <id>https://pub.towardsai.net/fryday-13-which-ai-growth-tactics-deserve-your-budget-f5527d5f10b9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/fryday-13-which-ai-growth-tactics-deserve-your-budget-f5527d5f10b9?source=rss----98111c9905da---4"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[datasette-leaflet 0.3]]></title>
-        <id>https://simonwillison.net/2026/Nov/13/datasette-leaflet/</id>
-        <link href="https://simonwillison.net/2026/Nov/13/datasette-leaflet/"/>
+        <title type="html"><![CDATA[How Modern Web Guidance Helps Coding Agents Choose Browser APIs]]></title>
+        <id>https://pub.towardsai.net/how-modern-web-guidance-helps-coding-agents-choose-browser-apis-51ba3ce4edf8?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-modern-web-guidance-helps-coding-agents-choose-browser-apis-51ba3ce4edf8?source=rss----98111c9905da---4"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SLM 生成式高并发推理引擎：延迟约束下的有效吞吐优化]]></title>
-        <id>https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html</id>
-        <link href="https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NginxProxyManager/nginx-proxy-manager]]></title>
-        <id>https://github.com/NginxProxyManager/nginx-proxy-manager</id>
-        <link href="https://github.com/NginxProxyManager/nginx-proxy-manager"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoogleChrome/lighthouse]]></title>
-        <id>https://github.com/GoogleChrome/lighthouse</id>
-        <link href="https://github.com/GoogleChrome/lighthouse"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[
-From 1,256ms to 96ms: Fixing INP in a Massive React Dropdown
-]]></title>
-        <id>
-https://dev.to/subito/from-1256ms-to-96ms-fixing-inp-in-a-massive-react-dropdown-16l7
-</id>
-        <link href="
-https://dev.to/subito/from-1256ms-to-96ms-fixing-inp-in-a-massive-react-dropdown-16l7
-"/>
+        <title type="html"><![CDATA[Your Harness Didn’t Get Better, It Got Lucky: Noise Bands for Agent Evals]]></title>
+        <id>https://pub.towardsai.net/your-harness-didnt-get-better-it-got-lucky-noise-bands-for-agent-evals-9413224c6fcb?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-harness-didnt-get-better-it-got-lucky-noise-bands-for-agent-evals-9413224c6fcb?source=rss----98111c9905da---4"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
