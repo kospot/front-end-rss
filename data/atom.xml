@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-13T22:01:35.586Z</updated>
+    <updated>2026-11-14T00:03:34.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[You can adjust the position of the trackball on Keychron’s new wireless mouse]]></title>
-        <id>https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable</id>
-        <link href="https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jensen Huang was reckless with the environment, too]]></title>
-        <id>https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution</id>
-        <link href="https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution"/>
+        <title type="html"><![CDATA[The Verge’s 2026 gift guide for dads]]></title>
+        <id>https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026</id>
+        <link href="https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
@@ -36,9 +29,16 @@
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Verge’s 2026 gift guide for dads]]></title>
-        <id>https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026</id>
-        <link href="https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026"/>
+        <title type="html"><![CDATA[Jensen Huang was reckless with the environment, too]]></title>
+        <id>https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution</id>
+        <link href="https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can adjust the position of the trackball on Keychron’s new wireless mouse]]></title>
+        <id>https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable</id>
+        <link href="https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
@@ -50,9 +50,30 @@
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say]]></title>
+        <id>https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/</id>
+        <link href="https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board]]></title>
         <id>https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/</id>
         <link href="https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Harness Didn’t Get Better, It Got Lucky: Noise Bands for Agent Evals]]></title>
+        <id>https://pub.towardsai.net/your-harness-didnt-get-better-it-got-lucky-noise-bands-for-agent-evals-9413224c6fcb?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-harness-didnt-get-better-it-got-lucky-noise-bands-for-agent-evals-9413224c6fcb?source=rss----98111c9905da---4"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring Review in Human Minutes: A Risk-Tier Gate for Agent Pull Requests in .NET]]></title>
+        <id>https://pub.towardsai.net/measuring-review-in-human-minutes-a-risk-tier-gate-for-agent-pull-requests-in-net-c13f301342fa?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/measuring-review-in-human-minutes-a-risk-tier-gate-for-agent-pull-requests-in-net-c13f301342fa?source=rss----98111c9905da---4"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
@@ -64,51 +85,57 @@
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Markup vs margin: the pricing bug that quietly eats marketplace profit]]></title>
-        <id>https://dev.to/__a275a1bef4/markup-vs-margin-the-pricing-bug-that-quietly-eats-marketplace-profit-1ei7</id>
-        <link href="https://dev.to/__a275a1bef4/markup-vs-margin-the-pricing-bug-that-quietly-eats-marketplace-profit-1ei7"/>
+        <title type="html"><![CDATA[SLM 生成式高并发推理引擎：延迟约束下的有效吞吐优化]]></title>
+        <id>https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html</id>
+        <link href="https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Node.js 26 LTS : nouveautés, calendrier et migration]]></title>
-        <id>https://dev.to/neurau_tech/nodejs-26-lts-nouveautes-calendrier-et-migration-4ilc</id>
-        <link href="https://dev.to/neurau_tech/nodejs-26-lts-nouveautes-calendrier-et-migration-4ilc"/>
+        <title type="html"><![CDATA[
+From 1,256ms to 96ms: Fixing INP in a Massive React Dropdown
+]]></title>
+        <id>
+https://dev.to/subito/from-1256ms-to-96ms-fixing-inp-in-a-massive-react-dropdown-16l7
+</id>
+        <link href="
+https://dev.to/subito/from-1256ms-to-96ms-fixing-inp-in-a-massive-react-dropdown-16l7
+"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Architecting Real-Time 60FPS Multiplayer Browser Games with HTML5 Canvas & WebSockets (No Downloads)]]></title>
-        <id>https://dev.to/uchitchakma/architecting-real-time-60fps-multiplayer-browser-games-with-html5-canvas-websockets-no-downloads-ded</id>
-        <link href="https://dev.to/uchitchakma/architecting-real-time-60fps-multiplayer-browser-games-with-html5-canvas-websockets-no-downloads-ded"/>
+        <title type="html"><![CDATA[JavaScript Fundamentals: Identifying, Manipulating, and Working With Data]]></title>
+        <id>https://dev.to/lealonwolfe/javascript-fundamentals-identifying-manipulating-and-working-with-data-368n</id>
+        <link href="https://dev.to/lealonwolfe/javascript-fundamentals-identifying-manipulating-and-working-with-data-368n"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Browser-Based AI Background Removal Works: Segmentation, Alpha Channels, and Client-Side ML]]></title>
-        <id>https://dev.to/geoimagetagger/how-browser-based-ai-background-removal-works-segmentation-alpha-channels-and-client-side-ml-460k</id>
-        <link href="https://dev.to/geoimagetagger/how-browser-based-ai-background-removal-works-segmentation-alpha-channels-and-client-side-ml-460k"/>
+        <title type="html"><![CDATA[WebGL can't see the page behind it. So how do you make glass text that follows the cursor?]]></title>
+        <id>https://dev.to/timofeus_248d45d3902a91a3/webgl-cant-see-the-page-behind-it-so-how-do-you-make-glass-text-that-follows-the-cursor-182f</id>
+        <link href="https://dev.to/timofeus_248d45d3902a91a3/webgl-cant-see-the-page-behind-it-so-how-do-you-make-glass-text-that-follows-the-cursor-182f"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[agent-bridge: controlando Chrome desde un agente AI con un relay de GitHub]]></title>
-        <id>https://dev.to/edison_flores_6d2cd381b13/agent-bridge-controlando-chrome-desde-un-agente-ai-con-un-relay-de-github-4nje</id>
-        <link href="https://dev.to/edison_flores_6d2cd381b13/agent-bridge-controlando-chrome-desde-un-agente-ai-con-un-relay-de-github-4nje"/>
+        <title type="html"><![CDATA[Japanese Text Breaks Your App in 7 Quiet Ways (With Code)]]></title>
+        <id>https://dev.to/gen_jidouka/japanese-text-breaks-your-app-in-7-quiet-ways-with-code-f5g</id>
+        <link href="https://dev.to/gen_jidouka/japanese-text-breaks-your-app-in-7-quiet-ways-with-code-f5g"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Old Screen Was the Real Spec: Rewriting a Streaming Portal From AngularJS to React]]></title>
-        <id>https://dev.to/innerluxes/the-old-screen-was-the-real-spec-rewriting-a-streaming-portal-from-angularjs-to-react-4h46</id>
-        <link href="https://dev.to/innerluxes/the-old-screen-was-the-real-spec-rewriting-a-streaming-portal-from-angularjs-to-react-4h46"/>
+        <title type="html"><![CDATA[Integrating ElevenLabs with Next.js: Step-by-Step Guide]]></title>
+        <id>https://dev.to/voice_developer/integrating-elevenlabs-with-nextjs-step-by-step-guide-4319</id>
+        <link href="https://dev.to/voice_developer/integrating-elevenlabs-with-nextjs-step-by-step-guide-4319"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ten tabs, one WebSocket: electing a leader tab with Web Locks]]></title>
-        <id>https://dev.to/xgame92/ten-tabs-one-websocket-electing-a-leader-tab-with-web-locks-21lo</id>
-        <link href="https://dev.to/xgame92/ten-tabs-one-websocket-electing-a-leader-tab-with-web-locks-21lo"/>
+        <title type="html"><![CDATA[Turkish Legal Algorithms in TypeScript: Modeling Law No. 7596 (MKK FIFO & PBLK), Balthazard Disability, and Law No. 6772]]></title>
+        <id>https://dev.to/muratcankoptay/turkish-legal-algorithms-in-typescript-modeling-law-no-7596-mkk-fifo-pblk-balthazard-onb</id>
+        <link href="https://dev.to/muratcankoptay/turkish-legal-algorithms-in-typescript-modeling-law-no-7596-mkk-fifo-pblk-balthazard-onb"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
@@ -120,37 +147,58 @@
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Whoop launched a social network where every user has a ‘verified heartbeat’]]></title>
-        <id>https://www.theverge.com/gadgets/1032630/whoop-humans-social-network</id>
-        <link href="https://www.theverge.com/gadgets/1032630/whoop-humans-social-network"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Ten tabs, one WebSocket: electing a leader tab with Web Locks]]></title>
+        <id>https://dev.to/xgame92/ten-tabs-one-websocket-electing-a-leader-tab-with-web-locks-21lo</id>
+        <link href="https://dev.to/xgame92/ten-tabs-one-websocket-electing-a-leader-tab-with-web-locks-21lo"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Humble Bundle redesign removes two-factor verification from settings]]></title>
-        <id>https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings</id>
-        <link href="https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
+        <title type="html"><![CDATA[The Old Screen Was the Real Spec: Rewriting a Streaming Portal From AngularJS to React]]></title>
+        <id>https://dev.to/innerluxes/the-old-screen-was-the-real-spec-rewriting-a-streaming-portal-from-angularjs-to-react-4h46</id>
+        <link href="https://dev.to/innerluxes/the-old-screen-was-the-real-spec-rewriting-a-streaming-portal-from-angularjs-to-react-4h46"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xbox owners are getting more customizations for backgrounds and the Guide menu]]></title>
-        <id>https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature</id>
-        <link href="https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
+        <title type="html"><![CDATA[agent-bridge: controlando Chrome desde un agente AI con un relay de GitHub]]></title>
+        <id>https://dev.to/edison_flores_6d2cd381b13/agent-bridge-controlando-chrome-desde-un-agente-ai-con-un-relay-de-github-4nje</id>
+        <link href="https://dev.to/edison_flores_6d2cd381b13/agent-bridge-controlando-chrome-desde-un-agente-ai-con-un-relay-de-github-4nje"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug]]></title>
-        <id>https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash</id>
-        <link href="https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
+        <title type="html"><![CDATA[How Browser-Based AI Background Removal Works: Segmentation, Alpha Channels, and Client-Side ML]]></title>
+        <id>https://dev.to/geoimagetagger/how-browser-based-ai-background-removal-works-segmentation-alpha-channels-and-client-side-ml-460k</id>
+        <link href="https://dev.to/geoimagetagger/how-browser-based-ai-background-removal-works-segmentation-alpha-channels-and-client-side-ml-460k"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘It&#8217;s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation]]></title>
-        <id>https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions</id>
-        <link href="https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions"/>
+        <title type="html"><![CDATA[Architecting Real-Time 60FPS Multiplayer Browser Games with HTML5 Canvas & WebSockets (No Downloads)]]></title>
+        <id>https://dev.to/uchitchakma/architecting-real-time-60fps-multiplayer-browser-games-with-html5-canvas-websockets-no-downloads-ded</id>
+        <link href="https://dev.to/uchitchakma/architecting-real-time-60fps-multiplayer-browser-games-with-html5-canvas-websockets-no-downloads-ded"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js 26 LTS : nouveautés, calendrier et migration]]></title>
+        <id>https://dev.to/neurau_tech/nodejs-26-lts-nouveautes-calendrier-et-migration-4ilc</id>
+        <link href="https://dev.to/neurau_tech/nodejs-26-lts-nouveautes-calendrier-et-migration-4ilc"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markup vs margin: the pricing bug that quietly eats marketplace profit]]></title>
+        <id>https://dev.to/__a275a1bef4/markup-vs-margin-the-pricing-bug-that-quietly-eats-marketplace-profit-1ei7</id>
+        <link href="https://dev.to/__a275a1bef4/markup-vs-margin-the-pricing-bug-that-quietly-eats-marketplace-profit-1ei7"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta discussed attacking Jonathan Haidt — now even his haters are annoyed]]></title>
+        <id>https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta</id>
+        <link href="https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
@@ -162,44 +210,44 @@
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta discussed attacking Jonathan Haidt — now even his haters are annoyed]]></title>
-        <id>https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta</id>
-        <link href="https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta"/>
+        <title type="html"><![CDATA[‘It&#8217;s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation]]></title>
+        <id>https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions</id>
+        <link href="https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitdefender Antivirus Plus Review: Undercutting the Competition]]></title>
-        <id>https://www.wired.com/review/bitdefender-antivirus-plus/</id>
-        <link href="https://www.wired.com/review/bitdefender-antivirus-plus/"/>
+        <title type="html"><![CDATA[‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug]]></title>
+        <id>https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash</id>
+        <link href="https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month]]></title>
-        <id>https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/</id>
-        <link href="https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/"/>
+        <title type="html"><![CDATA[Xbox owners are getting more customizations for backgrounds and the Guide menu]]></title>
+        <id>https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature</id>
+        <link href="https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logitech Promo Codes and Deals: Up to $100 Off]]></title>
-        <id>https://www.wired.com/story/logitech-promo-code/</id>
-        <link href="https://www.wired.com/story/logitech-promo-code/"/>
+        <title type="html"><![CDATA[Humble Bundle redesign removes two-factor verification from settings]]></title>
+        <id>https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings</id>
+        <link href="https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Western Digital Promo Code: 15% Off]]></title>
-        <id>https://www.wired.com/story/western-digital-promo-code/</id>
-        <link href="https://www.wired.com/story/western-digital-promo-code/"/>
+        <title type="html"><![CDATA[Whoop launched a social network where every user has a ‘verified heartbeat’]]></title>
+        <id>https://www.theverge.com/gadgets/1032630/whoop-humans-social-network</id>
+        <link href="https://www.theverge.com/gadgets/1032630/whoop-humans-social-network"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next]]></title>
-        <id>https://www.wired.com/story/a-servant-class-not-a-working-class-stephen-millers-biographer-on-what-comes-next/</id>
-        <link href="https://www.wired.com/story/a-servant-class-not-a-working-class-stephen-millers-biographer-on-what-comes-next/"/>
+        <title type="html"><![CDATA[TCL QM7L Mini-LED TV Review (2026)]]></title>
+        <id>https://www.wired.com/review/tcl-qm7l/</id>
+        <link href="https://www.wired.com/review/tcl-qm7l/"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
@@ -211,9 +259,37 @@
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TCL QM7L Mini-LED TV Review (2026)]]></title>
-        <id>https://www.wired.com/review/tcl-qm7l/</id>
-        <link href="https://www.wired.com/review/tcl-qm7l/"/>
+        <title type="html"><![CDATA[‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next]]></title>
+        <id>https://www.wired.com/story/a-servant-class-not-a-working-class-stephen-millers-biographer-on-what-comes-next/</id>
+        <link href="https://www.wired.com/story/a-servant-class-not-a-working-class-stephen-millers-biographer-on-what-comes-next/"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Western Digital Promo Code: 15% Off]]></title>
+        <id>https://www.wired.com/story/western-digital-promo-code/</id>
+        <link href="https://www.wired.com/story/western-digital-promo-code/"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logitech Promo Codes and Deals: Up to $100 Off]]></title>
+        <id>https://www.wired.com/story/logitech-promo-code/</id>
+        <link href="https://www.wired.com/story/logitech-promo-code/"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month]]></title>
+        <id>https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/</id>
+        <link href="https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/"/>
+        <updated>2026-11-12T16:00:00.000Z</updated>
+        <published>2026-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitdefender Antivirus Plus Review: Undercutting the Competition]]></title>
+        <id>https://www.wired.com/review/bitdefender-antivirus-plus/</id>
+        <link href="https://www.wired.com/review/bitdefender-antivirus-plus/"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
@@ -291,76 +367,6 @@
         <title type="html"><![CDATA[ML Modules for Mere Mortals]]></title>
         <id>https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/</id>
         <link href="https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Isolate Meta Quest 2 from Meta – Inspired by CleanYourTV]]></title>
-        <id>https://github.com/nlhomme/cleanyourquest</id>
-        <link href="https://github.com/nlhomme/cleanyourquest"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reflecting on My Failure to Build a Billion-Dollar Company]]></title>
-        <id>https://sahillavingia.com/reflecting</id>
-        <link href="https://sahillavingia.com/reflecting"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ernie 5.5 Flash Preview by Baidu]]></title>
-        <id>https://ernie.baidu.com/release/ernie-5-5-flash-preview/</id>
-        <link href="https://ernie.baidu.com/release/ernie-5-5-flash-preview/"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TimeNet challenge: An online hackathon for time-series AI]]></title>
-        <id>https://challenge.timenet.ai</id>
-        <link href="https://challenge.timenet.ai"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tashrih – 3D anatomy for med students in French, Arabic and English]]></title>
-        <id>https://tashrih.dev/en/explore</id>
-        <link href="https://tashrih.dev/en/explore"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't Underestimate Swift: Learnings Building Back Ends with Hummingbird/Vapor]]></title>
-        <id>https://wearecommunity.io/communities/mobilepeople/articles/8881</id>
-        <link href="https://wearecommunity.io/communities/mobilepeople/articles/8881"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I built a Rick and Morty explainer video generator]]></title>
-        <id>https://usediorama.com/rick-and-morty</id>
-        <link href="https://usediorama.com/rick-and-morty"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Octen-WebGR, a 4B model that memorized 200M URLs (open weights, live demo)]]></title>
-        <id>https://huggingface.co/Octen/Octen-WebGR-4B</id>
-        <link href="https://huggingface.co/Octen/Octen-WebGR-4B"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feel the AGI [video]]]></title>
-        <id>https://www.youtube.com/watch?v=YMFjMYOkpgM</id>
-        <link href="https://www.youtube.com/watch?v=YMFjMYOkpgM"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Read the Aubrey-Maturin series. Before it's too late]]></title>
-        <id>https://mapwriting.substack.com/p/read-the-aubrey-maturin-series-before</id>
-        <link href="https://mapwriting.substack.com/p/read-the-aubrey-maturin-series-before"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>

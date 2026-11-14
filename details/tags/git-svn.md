@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-14 06:01:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-14 08:03:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -36,8 +36,8 @@ https://github.com/webdiscus/pathmask
 - [2026-10-29-GitHub-Octoverse-2026](https://simonwillison.net/2026/Oct/28/github-octoverse-2026/) 
 - [2026-11-13-12-GitHub-Repos-That-Turn-AI-Into-Your-Slide,-Report-and-Marketing-Team-No-Coding-Needed](https://pub.towardsai.net/12-github-repos-that-turn-ai-into-your-slide-report-and-marketing-team-no-coding-needed-35071c96c885?source=rss----98111c9905da---4) 
 - [2026-11-11-Claude-Code’s-‘Don’t-Ask-Again’-Files-Exposed-Secrets-on-GitHub](https://pub.towardsai.net/claude-codes-don-t-ask-again-files-exposed-secrets-on-github-9bd63d39568c?source=rss----98111c9905da---4) 
-- [2026-11-09-Stop-Building-AI-Agents-From-Scratch.-Try-These-12-GitHub-Repos](https://pub.towardsai.net/stop-building-ai-agents-from-scratch-try-these-12-github-repos-8f6ad76f3599?source=rss----98111c9905da---4) 
 - [2026-11-09-GitHub’s-New-Copilot-Mode-Doesn’t-Pick-One-AI-Model-—-It-Picks-Whichever-One-The-Task-Needs](https://pub.towardsai.net/githubs-new-copilot-mode-doesn-t-pick-one-ai-model-it-picks-whichever-one-the-task-needs-880eaf1c381a?source=rss----98111c9905da---4) 
+- [2026-11-09-Stop-Building-AI-Agents-From-Scratch.-Try-These-12-GitHub-Repos](https://pub.towardsai.net/stop-building-ai-agents-from-scratch-try-these-12-github-repos-8f6ad76f3599?source=rss----98111c9905da---4) 
 - [2026-11-08-I-Stopped-Using-Claude-Code-Like-a-Chatbot.-These-10-GitHub-Tools-Changed-Everything.](https://pub.towardsai.net/i-stopped-using-claude-code-like-a-chatbot-these-10-github-tools-changed-everything-7a476d4d51d8?source=rss----98111c9905da---4) 
 - [2026-11-07-15-GitHub-Repos-That-Turn-Claude-Code,-Codex-and-OpenCode-Into-a-Real-Team](https://pub.towardsai.net/15-github-repos-that-turn-claude-code-codex-and-opencode-into-a-real-team-fb4b18a99efe?source=rss----98111c9905da---4) 
 - [2026-10-31-GitHub-Copilot-Cloud-Sessions:-The-Resume-Gate-That-Stops-Agent-Drift](https://pub.towardsai.net/github-copilot-cloud-sessions-the-resume-gate-that-stops-agent-drift-263e2bfc300b?source=rss----98111c9905da---4) 
@@ -88,8 +88,8 @@ https://github.com/webdiscus/pathmask
 - [2026-10-17-Dispatch:-Strategic-Git-Platform-for-the-Agentic-Era](https://github.com/gshaheen/dispatch) 
 - [2026-10-16-Upcoming-deprecation-of-selected-GitHub-Copilot-models-in-mid-November](https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november/) 
 - [2026-11-06-Physicl-raises-$10M-to-make-the-digital-world-real-enough-for-robots](https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/) 
-- [2026-11-13-Western-Digital-Promo-Code:-15%-Off](https://www.wired.com/story/western-digital-promo-code/) 
 - [2026-11-13-Logitech-Promo-Codes-and-Deals:-Up-to-$100-Off](https://www.wired.com/story/logitech-promo-code/) 
+- [2026-11-13-Western-Digital-Promo-Code:-15%-Off](https://www.wired.com/story/western-digital-promo-code/) 
 - [2026-11-06-Greenlight-Family-Hub-Digital-Wall-Calendar-Black-Friday-Sale-2026](https://www.wired.com/story/greenlight-hub-black-friday-deal-2026/) 
 - [2026-10-22-Greenlight-Family-Hub-2026:-Finally,-a-Digital-Wall-Calendar-With-a-Voice-Assistant](https://www.wired.com/story/greenlight-hub-voice-assistant-feature/) 
 - [2026-10-21-Best-Gifts-for-Mom-2026:-Digital-Wall-Calendars,-Better-Bags,-Personalized-Jewelry,-and-More](https://www.wired.com/story/best-gifts-for-moms-2026/) 
