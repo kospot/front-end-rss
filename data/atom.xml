@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-14T00:03:34.445Z</updated>
+    <updated>2026-11-14T02:04:43.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -64,9 +64,16 @@
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your Harness Didn’t Get Better, It Got Lucky: Noise Bands for Agent Evals]]></title>
-        <id>https://pub.towardsai.net/your-harness-didnt-get-better-it-got-lucky-noise-bands-for-agent-evals-9413224c6fcb?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-harness-didnt-get-better-it-got-lucky-noise-bands-for-agent-evals-9413224c6fcb?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[SSH Keys in the Secure Enclave, Without an Agent]]></title>
+        <id>https://lograker.app/blog/secure-enclave-ssh-keys-without-an-agent</id>
+        <link href="https://lograker.app/blog/secure-enclave-ssh-keys-without-an-agent"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Vibration Data to Work Orders: Designing Industrial AI Agents with Explicit Boundaries]]></title>
+        <id>https://pub.towardsai.net/from-vibration-data-to-work-orders-designing-industrial-ai-agents-with-explicit-boundaries-60e583175164?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/from-vibration-data-to-work-orders-designing-industrial-ai-agents-with-explicit-boundaries-60e583175164?source=rss----98111c9905da---4"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
@@ -78,9 +85,23 @@
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Vibration Data to Work Orders: Designing Industrial AI Agents with Explicit Boundaries]]></title>
-        <id>https://pub.towardsai.net/from-vibration-data-to-work-orders-designing-industrial-ai-agents-with-explicit-boundaries-60e583175164?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/from-vibration-data-to-work-orders-designing-industrial-ai-agents-with-explicit-boundaries-60e583175164?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Your Harness Didn’t Get Better, It Got Lucky: Noise Bands for Agent Evals]]></title>
+        <id>https://pub.towardsai.net/your-harness-didnt-get-better-it-got-lucky-noise-bands-for-agent-evals-9413224c6fcb?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-harness-didnt-get-better-it-got-lucky-noise-bands-for-agent-evals-9413224c6fcb?source=rss----98111c9905da---4"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[datasette-cluster-map 0.19]]></title>
+        <id>https://simonwillison.net/2026/Nov/13/datasette-cluster-map/</id>
+        <link href="https://simonwillison.net/2026/Nov/13/datasette-cluster-map/"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[datasette-leaflet 0.3]]></title>
+        <id>https://simonwillison.net/2026/Nov/13/datasette-leaflet/</id>
+        <link href="https://simonwillison.net/2026/Nov/13/datasette-leaflet/"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
@@ -105,79 +126,86 @@ https://dev.to/subito/from-1256ms-to-96ms-fixing-inp-in-a-massive-react-dropdown
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Fundamentals: Identifying, Manipulating, and Working With Data]]></title>
-        <id>https://dev.to/lealonwolfe/javascript-fundamentals-identifying-manipulating-and-working-with-data-368n</id>
-        <link href="https://dev.to/lealonwolfe/javascript-fundamentals-identifying-manipulating-and-working-with-data-368n"/>
+        <title type="html"><![CDATA[5 reasons your JSON fails to parse (and how to fix each one)]]></title>
+        <id>https://dev.to/aztechtools/5-reasons-your-json-fails-to-parse-and-how-to-fix-each-one-54b6</id>
+        <link href="https://dev.to/aztechtools/5-reasons-your-json-fails-to-parse-and-how-to-fix-each-one-54b6"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WebGL can't see the page behind it. So how do you make glass text that follows the cursor?]]></title>
-        <id>https://dev.to/timofeus_248d45d3902a91a3/webgl-cant-see-the-page-behind-it-so-how-do-you-make-glass-text-that-follows-the-cursor-182f</id>
-        <link href="https://dev.to/timofeus_248d45d3902a91a3/webgl-cant-see-the-page-behind-it-so-how-do-you-make-glass-text-that-follows-the-cursor-182f"/>
+        <title type="html"><![CDATA[A same-word game that runs in the browser: state, scoring, and the tie problem]]></title>
+        <id>https://dev.to/succday/a-same-word-game-that-runs-in-the-browser-state-scoring-and-the-tie-problem-39cl</id>
+        <link href="https://dev.to/succday/a-same-word-game-that-runs-in-the-browser-state-scoring-and-the-tie-problem-39cl"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Japanese Text Breaks Your App in 7 Quiet Ways (With Code)]]></title>
-        <id>https://dev.to/gen_jidouka/japanese-text-breaks-your-app-in-7-quiet-ways-with-code-f5g</id>
-        <link href="https://dev.to/gen_jidouka/japanese-text-breaks-your-app-in-7-quiet-ways-with-code-f5g"/>
+        <title type="html"><![CDATA[Checking whether a 2010 bitcoin output has moved, in about 30 lines of JavaScript]]></title>
+        <id>https://dev.to/swapcoreexchange/checking-whether-a-2010-bitcoin-output-has-moved-in-about-30-lines-of-javascript-3ope</id>
+        <link href="https://dev.to/swapcoreexchange/checking-whether-a-2010-bitcoin-output-has-moved-in-about-30-lines-of-javascript-3ope"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Integrating ElevenLabs with Next.js: Step-by-Step Guide]]></title>
-        <id>https://dev.to/voice_developer/integrating-elevenlabs-with-nextjs-step-by-step-guide-4319</id>
-        <link href="https://dev.to/voice_developer/integrating-elevenlabs-with-nextjs-step-by-step-guide-4319"/>
+        <title type="html"><![CDATA[Japanese Postal Code to Address Auto-Fill, Built From Japan Post's Free Data (No API Key)]]></title>
+        <id>https://dev.to/gen_jidouka/japanese-postal-code-to-address-auto-fill-built-from-japan-posts-free-data-no-api-key-4ccg</id>
+        <link href="https://dev.to/gen_jidouka/japanese-postal-code-to-address-auto-fill-built-from-japan-posts-free-data-no-api-key-4ccg"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Turkish Legal Algorithms in TypeScript: Modeling Law No. 7596 (MKK FIFO & PBLK), Balthazard Disability, and Law No. 6772]]></title>
-        <id>https://dev.to/muratcankoptay/turkish-legal-algorithms-in-typescript-modeling-law-no-7596-mkk-fifo-pblk-balthazard-onb</id>
-        <link href="https://dev.to/muratcankoptay/turkish-legal-algorithms-in-typescript-modeling-law-no-7596-mkk-fifo-pblk-balthazard-onb"/>
+        <title type="html"><![CDATA[Protecting a TypeScript library you publish: ship typings, hide the implementation]]></title>
+        <id>https://dev.to/veilvm/protecting-a-typescript-library-you-publish-ship-typings-hide-the-implementation-1mhi</id>
+        <link href="https://dev.to/veilvm/protecting-a-typescript-library-you-publish-ship-typings-hide-the-implementation-1mhi"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Keep a 50% Margin on an AI Subscription: Per-User Cost Caps That Actually Bind]]></title>
-        <id>https://dev.to/arm_vall_15d8a4237b9d8919/keep-a-50-margin-on-an-ai-subscription-per-user-cost-caps-that-actually-bind-50ok</id>
-        <link href="https://dev.to/arm_vall_15d8a4237b9d8919/keep-a-50-margin-on-an-ai-subscription-per-user-cost-caps-that-actually-bind-50ok"/>
+        <title type="html"><![CDATA[Build a Text-to-Speech App with ElevenLabs and Python]]></title>
+        <id>https://dev.to/voice_developer/build-a-text-to-speech-app-with-elevenlabs-and-python-5098</id>
+        <link href="https://dev.to/voice_developer/build-a-text-to-speech-app-with-elevenlabs-and-python-5098"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ten tabs, one WebSocket: electing a leader tab with Web Locks]]></title>
-        <id>https://dev.to/xgame92/ten-tabs-one-websocket-electing-a-leader-tab-with-web-locks-21lo</id>
-        <link href="https://dev.to/xgame92/ten-tabs-one-websocket-electing-a-leader-tab-with-web-locks-21lo"/>
+        <title type="html"><![CDATA[Protecting client-side business logic in a Next.js or Nuxt app]]></title>
+        <id>https://dev.to/veilvm/protecting-client-side-business-logic-in-a-nextjs-or-nuxt-app-102m</id>
+        <link href="https://dev.to/veilvm/protecting-client-side-business-logic-in-a-nextjs-or-nuxt-app-102m"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Old Screen Was the Real Spec: Rewriting a Streaming Portal From AngularJS to React]]></title>
-        <id>https://dev.to/innerluxes/the-old-screen-was-the-real-spec-rewriting-a-streaming-portal-from-angularjs-to-react-4h46</id>
-        <link href="https://dev.to/innerluxes/the-old-screen-was-the-real-spec-rewriting-a-streaming-portal-from-angularjs-to-react-4h46"/>
+        <title type="html"><![CDATA[Electron Multi-Window Architecture: A Practical Guide to Window Lifecycle, Process Isolation, and Coordinating Several Windows Without Leaks]]></title>
+        <id>https://dev.to/mp3sss31/electron-multi-window-architecture-a-practical-guide-to-window-lifecycle-process-isolation-and-1cjc</id>
+        <link href="https://dev.to/mp3sss31/electron-multi-window-architecture-a-practical-guide-to-window-lifecycle-process-isolation-and-1cjc"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[agent-bridge: controlando Chrome desde un agente AI con un relay de GitHub]]></title>
-        <id>https://dev.to/edison_flores_6d2cd381b13/agent-bridge-controlando-chrome-desde-un-agente-ai-con-un-relay-de-github-4nje</id>
-        <link href="https://dev.to/edison_flores_6d2cd381b13/agent-bridge-controlando-chrome-desde-un-agente-ai-con-un-relay-de-github-4nje"/>
+        <title type="html"><![CDATA["Stop shouldn't mean close: ending a live-caption session in a Manifest V3 extension without losing the last sentence"]]></title>
+        <id>https://dev.to/anders_lee_28dbcc2fd8e034/stop-shouldnt-mean-close-ending-a-live-caption-session-in-a-manifest-v3-extension-without-losing-37kn</id>
+        <link href="https://dev.to/anders_lee_28dbcc2fd8e034/stop-shouldnt-mean-close-ending-a-live-caption-session-in-a-manifest-v3-extension-without-losing-37kn"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Browser-Based AI Background Removal Works: Segmentation, Alpha Channels, and Client-Side ML]]></title>
-        <id>https://dev.to/geoimagetagger/how-browser-based-ai-background-removal-works-segmentation-alpha-channels-and-client-side-ml-460k</id>
-        <link href="https://dev.to/geoimagetagger/how-browser-based-ai-background-removal-works-segmentation-alpha-channels-and-client-side-ml-460k"/>
+        <title type="html"><![CDATA[The OpenRTB Native Asset Cheat Sheet Every PMP Bid Ops Engineer Needs]]></title>
+        <id>https://dev.to/aleksuix/the-openrtb-native-asset-cheat-sheet-every-pmp-bid-ops-engineer-needs-17ap</id>
+        <link href="https://dev.to/aleksuix/the-openrtb-native-asset-cheat-sheet-every-pmp-bid-ops-engineer-needs-17ap"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Architecting Real-Time 60FPS Multiplayer Browser Games with HTML5 Canvas & WebSockets (No Downloads)]]></title>
-        <id>https://dev.to/uchitchakma/architecting-real-time-60fps-multiplayer-browser-games-with-html5-canvas-websockets-no-downloads-ded</id>
-        <link href="https://dev.to/uchitchakma/architecting-real-time-60fps-multiplayer-browser-games-with-html5-canvas-websockets-no-downloads-ded"/>
+        <title type="html"><![CDATA[How to get job listings from Lever, Ashby, Workday and other career sites with an API (Python, Node or no code)]]></title>
+        <id>https://dev.to/hmm_bigman/how-to-get-job-listings-from-lever-ashby-workday-and-other-career-sites-with-an-api-python-node-517d</id>
+        <link href="https://dev.to/hmm_bigman/how-to-get-job-listings-from-lever-ashby-workday-and-other-career-sites-with-an-api-python-node-517d"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markup vs margin: the pricing bug that quietly eats marketplace profit]]></title>
+        <id>https://dev.to/__a275a1bef4/markup-vs-margin-the-pricing-bug-that-quietly-eats-marketplace-profit-1ei7</id>
+        <link href="https://dev.to/__a275a1bef4/markup-vs-margin-the-pricing-bug-that-quietly-eats-marketplace-profit-1ei7"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
@@ -189,9 +217,79 @@ https://dev.to/subito/from-1256ms-to-96ms-fixing-inp-in-a-massive-react-dropdown
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Markup vs margin: the pricing bug that quietly eats marketplace profit]]></title>
-        <id>https://dev.to/__a275a1bef4/markup-vs-margin-the-pricing-bug-that-quietly-eats-marketplace-profit-1ei7</id>
-        <link href="https://dev.to/__a275a1bef4/markup-vs-margin-the-pricing-bug-that-quietly-eats-marketplace-profit-1ei7"/>
+        <title type="html"><![CDATA[Architecting Real-Time 60FPS Multiplayer Browser Games with HTML5 Canvas & WebSockets (No Downloads)]]></title>
+        <id>https://dev.to/uchitchakma/architecting-real-time-60fps-multiplayer-browser-games-with-html5-canvas-websockets-no-downloads-ded</id>
+        <link href="https://dev.to/uchitchakma/architecting-real-time-60fps-multiplayer-browser-games-with-html5-canvas-websockets-no-downloads-ded"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Browser-Based AI Background Removal Works: Segmentation, Alpha Channels, and Client-Side ML]]></title>
+        <id>https://dev.to/geoimagetagger/how-browser-based-ai-background-removal-works-segmentation-alpha-channels-and-client-side-ml-460k</id>
+        <link href="https://dev.to/geoimagetagger/how-browser-based-ai-background-removal-works-segmentation-alpha-channels-and-client-side-ml-460k"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[agent-bridge: controlando Chrome desde un agente AI con un relay de GitHub]]></title>
+        <id>https://dev.to/edison_flores_6d2cd381b13/agent-bridge-controlando-chrome-desde-un-agente-ai-con-un-relay-de-github-4nje</id>
+        <link href="https://dev.to/edison_flores_6d2cd381b13/agent-bridge-controlando-chrome-desde-un-agente-ai-con-un-relay-de-github-4nje"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Old Screen Was the Real Spec: Rewriting a Streaming Portal From AngularJS to React]]></title>
+        <id>https://dev.to/innerluxes/the-old-screen-was-the-real-spec-rewriting-a-streaming-portal-from-angularjs-to-react-4h46</id>
+        <link href="https://dev.to/innerluxes/the-old-screen-was-the-real-spec-rewriting-a-streaming-portal-from-angularjs-to-react-4h46"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ten tabs, one WebSocket: electing a leader tab with Web Locks]]></title>
+        <id>https://dev.to/xgame92/ten-tabs-one-websocket-electing-a-leader-tab-with-web-locks-21lo</id>
+        <link href="https://dev.to/xgame92/ten-tabs-one-websocket-electing-a-leader-tab-with-web-locks-21lo"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep a 50% Margin on an AI Subscription: Per-User Cost Caps That Actually Bind]]></title>
+        <id>https://dev.to/arm_vall_15d8a4237b9d8919/keep-a-50-margin-on-an-ai-subscription-per-user-cost-caps-that-actually-bind-50ok</id>
+        <link href="https://dev.to/arm_vall_15d8a4237b9d8919/keep-a-50-margin-on-an-ai-subscription-per-user-cost-caps-that-actually-bind-50ok"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turkish Legal Algorithms in TypeScript: Modeling Law No. 7596 (MKK FIFO & PBLK), Balthazard Disability, and Law No. 6772]]></title>
+        <id>https://dev.to/muratcankoptay/turkish-legal-algorithms-in-typescript-modeling-law-no-7596-mkk-fifo-pblk-balthazard-onb</id>
+        <link href="https://dev.to/muratcankoptay/turkish-legal-algorithms-in-typescript-modeling-law-no-7596-mkk-fifo-pblk-balthazard-onb"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating ElevenLabs with Next.js: Step-by-Step Guide]]></title>
+        <id>https://dev.to/voice_developer/integrating-elevenlabs-with-nextjs-step-by-step-guide-4319</id>
+        <link href="https://dev.to/voice_developer/integrating-elevenlabs-with-nextjs-step-by-step-guide-4319"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japanese Text Breaks Your App in 7 Quiet Ways (With Code)]]></title>
+        <id>https://dev.to/gen_jidouka/japanese-text-breaks-your-app-in-7-quiet-ways-with-code-f5g</id>
+        <link href="https://dev.to/gen_jidouka/japanese-text-breaks-your-app-in-7-quiet-ways-with-code-f5g"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebGL can't see the page behind it. So how do you make glass text that follows the cursor?]]></title>
+        <id>https://dev.to/timofeus_248d45d3902a91a3/webgl-cant-see-the-page-behind-it-so-how-do-you-make-glass-text-that-follows-the-cursor-182f</id>
+        <link href="https://dev.to/timofeus_248d45d3902a91a3/webgl-cant-see-the-page-behind-it-so-how-do-you-make-glass-text-that-follows-the-cursor-182f"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Fundamentals: Identifying, Manipulating, and Working With Data]]></title>
+        <id>https://dev.to/lealonwolfe/javascript-fundamentals-identifying-manipulating-and-working-with-data-368n</id>
+        <link href="https://dev.to/lealonwolfe/javascript-fundamentals-identifying-manipulating-and-working-with-data-368n"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
@@ -245,37 +343,9 @@ https://dev.to/subito/from-1256ms-to-96ms-fixing-inp-in-a-massive-react-dropdown
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TCL QM7L Mini-LED TV Review (2026)]]></title>
-        <id>https://www.wired.com/review/tcl-qm7l/</id>
-        <link href="https://www.wired.com/review/tcl-qm7l/"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood]]></title>
-        <id>https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/</id>
-        <link href="https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next]]></title>
-        <id>https://www.wired.com/story/a-servant-class-not-a-working-class-stephen-millers-biographer-on-what-comes-next/</id>
-        <link href="https://www.wired.com/story/a-servant-class-not-a-working-class-stephen-millers-biographer-on-what-comes-next/"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Western Digital Promo Code: 15% Off]]></title>
-        <id>https://www.wired.com/story/western-digital-promo-code/</id>
-        <link href="https://www.wired.com/story/western-digital-promo-code/"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logitech Promo Codes and Deals: Up to $100 Off]]></title>
-        <id>https://www.wired.com/story/logitech-promo-code/</id>
-        <link href="https://www.wired.com/story/logitech-promo-code/"/>
+        <title type="html"><![CDATA[Bitdefender Antivirus Plus Review: Undercutting the Competition]]></title>
+        <id>https://www.wired.com/review/bitdefender-antivirus-plus/</id>
+        <link href="https://www.wired.com/review/bitdefender-antivirus-plus/"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
@@ -287,86 +357,16 @@ https://dev.to/subito/from-1256ms-to-96ms-fixing-inp-in-a-massive-react-dropdown
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitdefender Antivirus Plus Review: Undercutting the Competition]]></title>
-        <id>https://www.wired.com/review/bitdefender-antivirus-plus/</id>
-        <link href="https://www.wired.com/review/bitdefender-antivirus-plus/"/>
+        <title type="html"><![CDATA[Logitech Promo Codes and Deals: Up to $100 Off]]></title>
+        <id>https://www.wired.com/story/logitech-promo-code/</id>
+        <link href="https://www.wired.com/story/logitech-promo-code/"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google’s latest Search upgrade promises better answers to your most complicated questions]]></title>
-        <id>https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/</id>
-        <link href="https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ancient Egyptians revered dogs–can this street dog return to that former glory?]]></title>
-        <id>https://www.nationalgeographic.com/animals/article/ancient-egypt-street-dogs-baladis</id>
-        <link href="https://www.nationalgeographic.com/animals/article/ancient-egypt-street-dogs-baladis"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From action to static description–How AI changed Jørn Lier Horst's writing style]]></title>
-        <id>https://jilltxt.net/from-action-to-static-descriptions-how-using-ai-to-write-with-changed-jorn-lier-horsts-style/</id>
-        <link href="https://jilltxt.net/from-action-to-static-descriptions-how-using-ai-to-write-with-changed-jorn-lier-horsts-style/"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN-XT: Hacker News QoL userscript (inline replies, filters, tags, etc.)]]></title>
-        <id>https://github.com/enlyth/hn-xt</id>
-        <link href="https://github.com/enlyth/hn-xt"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ExecuTorch WebGPU: PyTorch Models on the GPU, in the Browser]]></title>
-        <id>https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/</id>
-        <link href="https://pytorch.org/blog/executorch-webgpu-pytorch-models-on-the-gpu-in-the-browser/"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A Qunatum-Safe Encryption at Rest Tool]]></title>
-        <id>https://sareproject.github.io/</id>
-        <link href="https://sareproject.github.io/"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Build Django Admin internal tools with your coding agent]]></title>
-        <id>https://djangocontrolroom.com/build</id>
-        <link href="https://djangocontrolroom.com/build"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python is for everyone: Join in the PSF year-end fundraiser and membership drive]]></title>
-        <id>https://pyfound.blogspot.com/2026/11/python-is-for-everyone-join-in-psf-year.html</id>
-        <link href="https://pyfound.blogspot.com/2026/11/python-is-for-everyone-join-in-psf-year.html"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Clozemaster MCP server that turns class notes into cloze sentences]]></title>
-        <id>https://www.youtube.com/watch?v=mN1eZl0hKTQ</id>
-        <link href="https://www.youtube.com/watch?v=mN1eZl0hKTQ"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Magic Mushroom Can Kill]]></title>
-        <id>https://www.sciencenews.org/article/dark-magic-mushroom-psilocybin-amatoxin</id>
-        <link href="https://www.sciencenews.org/article/dark-magic-mushroom-psilocybin-amatoxin"/>
-        <updated>2026-11-12T16:00:00.000Z</updated>
-        <published>2026-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ML Modules for Mere Mortals]]></title>
-        <id>https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/</id>
-        <link href="https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/"/>
+        <title type="html"><![CDATA[Western Digital Promo Code: 15% Off]]></title>
+        <id>https://www.wired.com/story/western-digital-promo-code/</id>
+        <link href="https://www.wired.com/story/western-digital-promo-code/"/>
         <updated>2026-11-12T16:00:00.000Z</updated>
         <published>2026-11-12T16:00:00.000Z</published>
     </entry>
