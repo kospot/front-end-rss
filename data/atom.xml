@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-14T04:04:25.761Z</updated>
+    <updated>2026-11-14T07:05:03.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -64,65 +64,30 @@
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Searching for exotic scalars at fusion reactors (2025)]]></title>
-        <id>https://arxiv.org/abs/2502.12314</id>
-        <link href="https://arxiv.org/abs/2502.12314"/>
+        <title type="html"><![CDATA[Twelve Principles of Documentation]]></title>
+        <id>https://vurt.org/articles/principles-documentation/</id>
+        <link href="https://vurt.org/articles/principles-documentation/"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Run Cloudflare Workers Anywhere]]></title>
-        <id>https://openorange.dev/</id>
-        <link href="https://openorange.dev/"/>
+        <title type="html"><![CDATA[Anatomy of a Git pre-commit Hook]]></title>
+        <id>https://georgestocker.com/2019/10/31/anatomy-of-a-git-pre-commit-hook/</id>
+        <link href="https://georgestocker.com/2019/10/31/anatomy-of-a-git-pre-commit-hook/"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: What use are the non-major cryptocurrencies?]]></title>
-        <id>https://news.ycombinator.com/item?id=50493695</id>
-        <link href="https://news.ycombinator.com/item?id=50493695"/>
+        <title type="html"><![CDATA[Firefox Focus]]></title>
+        <id>https://www.firefox.com/en-US/mobile/focus/</id>
+        <link href="https://www.firefox.com/en-US/mobile/focus/"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Faster Scientific Simulations with New FP64 Algorithms in Nvidia cuBLAS]]></title>
-        <id>https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/</id>
-        <link href="https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cancer society issues updated prostate cancer screening guidelines]]></title>
-        <id>https://abcnews.com/GMA/Wellness/cancer-society-issues-specific-prostate-cancer-screening-guidelines/story?id=138053060</id>
-        <link href="https://abcnews.com/GMA/Wellness/cancer-society-issues-specific-prostate-cancer-screening-guidelines/story?id=138053060"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: OpenAI Astra post-launch slump?]]></title>
-        <id>https://news.ycombinator.com/item?id=50493498</id>
-        <link href="https://news.ycombinator.com/item?id=50493498"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Browserr – An MCP-first browser for AI agents (one Rust binary)]]></title>
-        <id>https://browserr.dev</id>
-        <link href="https://browserr.dev"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Geocode the planet(630M addresses), indexed in 5h on a 9 GB RAM budget]]></title>
-        <id>https://github.com/open-geocode-rs/open-geocode</id>
-        <link href="https://github.com/open-geocode-rs/open-geocode"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Martin van den Brink: His contributions in ASML [video]]]></title>
-        <id>https://www.youtube.com/watch?v=HEr90oVa758</id>
-        <link href="https://www.youtube.com/watch?v=HEr90oVa758"/>
+        <title type="html"><![CDATA[SSH Keys in the Secure Enclave, Without an Agent]]></title>
+        <id>https://lograker.app/blog/secure-enclave-ssh-keys-without-an-agent</id>
+        <link href="https://lograker.app/blog/secure-enclave-ssh-keys-without-an-agent"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
@@ -134,9 +99,65 @@
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SSH Keys in the Secure Enclave, Without an Agent]]></title>
-        <id>https://lograker.app/blog/secure-enclave-ssh-keys-without-an-agent</id>
-        <link href="https://lograker.app/blog/secure-enclave-ssh-keys-without-an-agent"/>
+        <title type="html"><![CDATA[Martin van den Brink: His contributions in ASML [video]]]></title>
+        <id>https://www.youtube.com/watch?v=HEr90oVa758</id>
+        <link href="https://www.youtube.com/watch?v=HEr90oVa758"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Geocode the planet(630M addresses), indexed in 5h on a 9 GB RAM budget]]></title>
+        <id>https://github.com/open-geocode-rs/open-geocode</id>
+        <link href="https://github.com/open-geocode-rs/open-geocode"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Browserr – An MCP-first browser for AI agents (one Rust binary)]]></title>
+        <id>https://browserr.dev</id>
+        <link href="https://browserr.dev"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: OpenAI Astra post-launch slump?]]></title>
+        <id>https://news.ycombinator.com/item?id=50493498</id>
+        <link href="https://news.ycombinator.com/item?id=50493498"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cancer society issues updated prostate cancer screening guidelines]]></title>
+        <id>https://abcnews.com/GMA/Wellness/cancer-society-issues-specific-prostate-cancer-screening-guidelines/story?id=138053060</id>
+        <link href="https://abcnews.com/GMA/Wellness/cancer-society-issues-specific-prostate-cancer-screening-guidelines/story?id=138053060"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faster Scientific Simulations with New FP64 Algorithms in Nvidia cuBLAS]]></title>
+        <id>https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/</id>
+        <link href="https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: What use are the non-major cryptocurrencies?]]></title>
+        <id>https://news.ycombinator.com/item?id=50493695</id>
+        <link href="https://news.ycombinator.com/item?id=50493695"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run Cloudflare Workers Anywhere]]></title>
+        <id>https://openorange.dev/</id>
+        <link href="https://openorange.dev/"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Searching for exotic scalars at fusion reactors (2025)]]></title>
+        <id>https://arxiv.org/abs/2502.12314</id>
+        <link href="https://arxiv.org/abs/2502.12314"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
@@ -183,16 +204,16 @@
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[datasette-cluster-map 0.19]]></title>
-        <id>https://simonwillison.net/2026/Nov/13/datasette-cluster-map/</id>
-        <link href="https://simonwillison.net/2026/Nov/13/datasette-cluster-map/"/>
+        <title type="html"><![CDATA[datasette-leaflet 0.3]]></title>
+        <id>https://simonwillison.net/2026/Nov/13/datasette-leaflet/</id>
+        <link href="https://simonwillison.net/2026/Nov/13/datasette-leaflet/"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[datasette-leaflet 0.3]]></title>
-        <id>https://simonwillison.net/2026/Nov/13/datasette-leaflet/</id>
-        <link href="https://simonwillison.net/2026/Nov/13/datasette-leaflet/"/>
+        <title type="html"><![CDATA[datasette-cluster-map 0.19]]></title>
+        <id>https://simonwillison.net/2026/Nov/13/datasette-cluster-map/</id>
+        <link href="https://simonwillison.net/2026/Nov/13/datasette-cluster-map/"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
@@ -217,142 +238,121 @@ https://dev.to/subito/from-1256ms-to-96ms-fixing-inp-in-a-massive-react-dropdown
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eliminating Streaming Lag: Building a Priority Preemption FFmpeg Queue in Node.js]]></title>
-        <id>https://dev.to/adil_rahiman_d18688376bef/eliminating-streaming-lag-building-a-priority-preemption-ffmpeg-queue-in-nodejs-3c97</id>
-        <link href="https://dev.to/adil_rahiman_d18688376bef/eliminating-streaming-lag-building-a-priority-preemption-ffmpeg-queue-in-nodejs-3c97"/>
+        <title type="html"><![CDATA[One HTML page, no network requests: how our browser games ship]]></title>
+        <id>https://dev.to/antgamesai/one-html-page-no-network-requests-how-our-browser-games-ship-1ln7</id>
+        <link href="https://dev.to/antgamesai/one-html-page-no-network-requests-how-our-browser-games-ship-1ln7"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Wrote That XstReader Had No Mac Build. That Was Only True of the Viewer.]]></title>
-        <id>https://dev.to/_172c9b2760d6c5bc1e8966/i-wrote-that-xstreader-had-no-mac-build-that-was-only-true-of-the-viewer-33in</id>
-        <link href="https://dev.to/_172c9b2760d6c5bc1e8966/i-wrote-that-xstreader-had-no-mac-build-that-was-only-true-of-the-viewer-33in"/>
+        <title type="html"><![CDATA[The last 20% of an AI-built app: nine things that actually block launch]]></title>
+        <id>https://dev.to/cpcai_studio/the-last-20-of-an-ai-built-app-nine-things-that-actually-block-launch-2806</id>
+        <link href="https://dev.to/cpcai_studio/the-last-20-of-an-ai-built-app-nine-things-that-actually-block-launch-2806"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Zero-Server Micro-Utilities: Web Audio DSP Timing & NEC Electrical Sizing in Pure TypeScript]]></title>
-        <id>https://dev.to/amritbhandari111/building-zero-server-micro-utilities-web-audio-dsp-timing-nec-electrical-sizing-in-pure-19hp</id>
-        <link href="https://dev.to/amritbhandari111/building-zero-server-micro-utilities-web-audio-dsp-timing-nec-electrical-sizing-in-pure-19hp"/>
+        <title type="html"><![CDATA[Half of all café Wi-Fi QR signs fail on the string, not the printing. Here is the WIFI: URI, five traps, and the A4 four-up that carries it.]]></title>
+        <id>https://dev.to/maptosite/half-of-all-cafe-wi-fi-qr-signs-fail-on-the-string-not-the-printing-here-is-the-wifi-uri-five-5b6g</id>
+        <link href="https://dev.to/maptosite/half-of-all-cafe-wi-fi-qr-signs-fail-on-the-string-not-the-printing-here-is-the-wifi-uri-five-5b6g"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why "Optimized" GIFs Turn Into Haunted Sprite Sheets (And 4 Tiny Canvas Fixes for 2D Game Devs)]]></title>
-        <id>https://dev.to/fancy39_9841cbc02f99f729c/why-optimized-gifs-turn-into-haunted-sprite-sheets-and-4-tiny-canvas-fixes-for-2d-game-devs-3960</id>
-        <link href="https://dev.to/fancy39_9841cbc02f99f729c/why-optimized-gifs-turn-into-haunted-sprite-sheets-and-4-tiny-canvas-fixes-for-2d-game-devs-3960"/>
+        <title type="html"><![CDATA[How I Built a Real-Time Kitchen Display System (KDS) & Zero-Commission QR Dining SaaS with <50ms Sync (Without Heavy Frameworks)]]></title>
+        <id>https://dev.to/debashish_paul/how-i-built-a-real-time-kitchen-display-system-kds-zero-commission-qr-dining-saas-with-50ms-iji</id>
+        <link href="https://dev.to/debashish_paul/how-i-built-a-real-time-kitchen-display-system-kds-zero-commission-qr-dining-saas-with-50ms-iji"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Generate Editable Multi-Layer Fabric.js Templates via REST API (Prisma V1.0 Tutorial)]]></title>
-        <id>https://dev.to/devkenan/how-to-generate-editable-multi-layer-fabricjs-templates-via-rest-api-prisma-v10-tutorial-4cl8</id>
-        <link href="https://dev.to/devkenan/how-to-generate-editable-multi-layer-fabricjs-templates-via-rest-api-prisma-v10-tutorial-4cl8"/>
+        <title type="html"><![CDATA[Three more tools, three more countries: Malaysia's retirement fund, the Philippines' SSS and exam photos that pass the form]]></title>
+        <id>https://dev.to/zaidi617796/three-more-tools-three-more-countries-malaysias-retirement-fund-the-philippines-sss-and-exam-3p1i</id>
+        <link href="https://dev.to/zaidi617796/three-more-tools-three-more-countries-malaysias-retirement-fund-the-philippines-sss-and-exam-3p1i"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Fundamentals: Identifying, Manipulating, and Working With Data]]></title>
-        <id>https://dev.to/lealonwolfe/javascript-fundamentals-identifying-manipulating-and-working-with-data-368n</id>
-        <link href="https://dev.to/lealonwolfe/javascript-fundamentals-identifying-manipulating-and-working-with-data-368n"/>
+        <title type="html"><![CDATA[The GitHub API rate limit broke my self-updater for 20 minutes: falling back to the releases/latest redirect without trusting it any more]]></title>
+        <id>https://dev.to/ashwar_sadh_f7abe6f82c8e9/the-github-api-rate-limit-broke-my-self-updater-for-20-minutes-falling-back-to-the-releaseslatest-42db</id>
+        <link href="https://dev.to/ashwar_sadh_f7abe6f82c8e9/the-github-api-rate-limit-broke-my-self-updater-for-20-minutes-falling-back-to-the-releaseslatest-42db"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WebGL can't see the page behind it. So how do you make glass text that follows the cursor?]]></title>
-        <id>https://dev.to/timofeus_248d45d3902a91a3/webgl-cant-see-the-page-behind-it-so-how-do-you-make-glass-text-that-follows-the-cursor-182f</id>
-        <link href="https://dev.to/timofeus_248d45d3902a91a3/webgl-cant-see-the-page-behind-it-so-how-do-you-make-glass-text-that-follows-the-cursor-182f"/>
+        <title type="html"><![CDATA[URL Encoding vs Base64: When to Use Which]]></title>
+        <id>https://dev.to/toolstead/url-encoding-vs-base64-when-to-use-which-1na4</id>
+        <link href="https://dev.to/toolstead/url-encoding-vs-base64-when-to-use-which-1na4"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Japanese Text Breaks Your App in 7 Quiet Ways (With Code)]]></title>
-        <id>https://dev.to/gen_jidouka/japanese-text-breaks-your-app-in-7-quiet-ways-with-code-f5g</id>
-        <link href="https://dev.to/gen_jidouka/japanese-text-breaks-your-app-in-7-quiet-ways-with-code-f5g"/>
+        <title type="html"><![CDATA[TC39 `using` Declarations Land in V8 13: What Node.js 24 Developers Get for Free Without TypeScript]]></title>
+        <id>https://dev.to/jsmanifest/tc39-using-declarations-land-in-v8-13-what-nodejs-24-developers-get-for-free-without-typescript-38h</id>
+        <link href="https://dev.to/jsmanifest/tc39-using-declarations-land-in-v8-13-what-nodejs-24-developers-get-for-free-without-typescript-38h"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Integrating ElevenLabs with Next.js: Step-by-Step Guide]]></title>
-        <id>https://dev.to/voice_developer/integrating-elevenlabs-with-nextjs-step-by-step-guide-4319</id>
-        <link href="https://dev.to/voice_developer/integrating-elevenlabs-with-nextjs-step-by-step-guide-4319"/>
+        <title type="html"><![CDATA[Why JavaScript Rendering Matters in Technical SEO]]></title>
+        <id>https://dev.to/carllowman/why-javascript-rendering-matters-in-technical-seo-2gg4</id>
+        <link href="https://dev.to/carllowman/why-javascript-rendering-matters-in-technical-seo-2gg4"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Turkish Legal Algorithms in TypeScript: Modeling Law No. 7596 (MKK FIFO & PBLK), Balthazard Disability, and Law No. 6772]]></title>
-        <id>https://dev.to/muratcankoptay/turkish-legal-algorithms-in-typescript-modeling-law-no-7596-mkk-fifo-pblk-balthazard-onb</id>
-        <link href="https://dev.to/muratcankoptay/turkish-legal-algorithms-in-typescript-modeling-law-no-7596-mkk-fifo-pblk-balthazard-onb"/>
+        <title type="html"><![CDATA[5 reasons your JSON fails to parse (and how to fix each one)]]></title>
+        <id>https://dev.to/aztechtools/5-reasons-your-json-fails-to-parse-and-how-to-fix-each-one-54b6</id>
+        <link href="https://dev.to/aztechtools/5-reasons-your-json-fails-to-parse-and-how-to-fix-each-one-54b6"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Keep a 50% Margin on an AI Subscription: Per-User Cost Caps That Actually Bind]]></title>
-        <id>https://dev.to/arm_vall_15d8a4237b9d8919/keep-a-50-margin-on-an-ai-subscription-per-user-cost-caps-that-actually-bind-50ok</id>
-        <link href="https://dev.to/arm_vall_15d8a4237b9d8919/keep-a-50-margin-on-an-ai-subscription-per-user-cost-caps-that-actually-bind-50ok"/>
+        <title type="html"><![CDATA[A same-word game that runs in the browser: state, scoring, and the tie problem]]></title>
+        <id>https://dev.to/succday/a-same-word-game-that-runs-in-the-browser-state-scoring-and-the-tie-problem-39cl</id>
+        <link href="https://dev.to/succday/a-same-word-game-that-runs-in-the-browser-state-scoring-and-the-tie-problem-39cl"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ten tabs, one WebSocket: electing a leader tab with Web Locks]]></title>
-        <id>https://dev.to/xgame92/ten-tabs-one-websocket-electing-a-leader-tab-with-web-locks-21lo</id>
-        <link href="https://dev.to/xgame92/ten-tabs-one-websocket-electing-a-leader-tab-with-web-locks-21lo"/>
+        <title type="html"><![CDATA[Checking whether a 2010 bitcoin output has moved, in about 30 lines of JavaScript]]></title>
+        <id>https://dev.to/swapcoreexchange/checking-whether-a-2010-bitcoin-output-has-moved-in-about-30-lines-of-javascript-3ope</id>
+        <link href="https://dev.to/swapcoreexchange/checking-whether-a-2010-bitcoin-output-has-moved-in-about-30-lines-of-javascript-3ope"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Old Screen Was the Real Spec: Rewriting a Streaming Portal From AngularJS to React]]></title>
-        <id>https://dev.to/innerluxes/the-old-screen-was-the-real-spec-rewriting-a-streaming-portal-from-angularjs-to-react-4h46</id>
-        <link href="https://dev.to/innerluxes/the-old-screen-was-the-real-spec-rewriting-a-streaming-portal-from-angularjs-to-react-4h46"/>
+        <title type="html"><![CDATA[Japanese Postal Code to Address Auto-Fill, Built From Japan Post's Free Data (No API Key)]]></title>
+        <id>https://dev.to/gen_jidouka/japanese-postal-code-to-address-auto-fill-built-from-japan-posts-free-data-no-api-key-4ccg</id>
+        <link href="https://dev.to/gen_jidouka/japanese-postal-code-to-address-auto-fill-built-from-japan-posts-free-data-no-api-key-4ccg"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[agent-bridge: controlando Chrome desde un agente AI con un relay de GitHub]]></title>
-        <id>https://dev.to/edison_flores_6d2cd381b13/agent-bridge-controlando-chrome-desde-un-agente-ai-con-un-relay-de-github-4nje</id>
-        <link href="https://dev.to/edison_flores_6d2cd381b13/agent-bridge-controlando-chrome-desde-un-agente-ai-con-un-relay-de-github-4nje"/>
+        <title type="html"><![CDATA[Protecting a TypeScript library you publish: ship typings, hide the implementation]]></title>
+        <id>https://dev.to/veilvm/protecting-a-typescript-library-you-publish-ship-typings-hide-the-implementation-1mhi</id>
+        <link href="https://dev.to/veilvm/protecting-a-typescript-library-you-publish-ship-typings-hide-the-implementation-1mhi"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Browser-Based AI Background Removal Works: Segmentation, Alpha Channels, and Client-Side ML]]></title>
-        <id>https://dev.to/geoimagetagger/how-browser-based-ai-background-removal-works-segmentation-alpha-channels-and-client-side-ml-460k</id>
-        <link href="https://dev.to/geoimagetagger/how-browser-based-ai-background-removal-works-segmentation-alpha-channels-and-client-side-ml-460k"/>
+        <title type="html"><![CDATA[Build a Text-to-Speech App with ElevenLabs and Python]]></title>
+        <id>https://dev.to/voice_developer/build-a-text-to-speech-app-with-elevenlabs-and-python-5098</id>
+        <link href="https://dev.to/voice_developer/build-a-text-to-speech-app-with-elevenlabs-and-python-5098"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Architecting Real-Time 60FPS Multiplayer Browser Games with HTML5 Canvas & WebSockets (No Downloads)]]></title>
-        <id>https://dev.to/uchitchakma/architecting-real-time-60fps-multiplayer-browser-games-with-html5-canvas-websockets-no-downloads-ded</id>
-        <link href="https://dev.to/uchitchakma/architecting-real-time-60fps-multiplayer-browser-games-with-html5-canvas-websockets-no-downloads-ded"/>
+        <title type="html"><![CDATA[Protecting client-side business logic in a Next.js or Nuxt app]]></title>
+        <id>https://dev.to/veilvm/protecting-client-side-business-logic-in-a-nextjs-or-nuxt-app-102m</id>
+        <link href="https://dev.to/veilvm/protecting-client-side-business-logic-in-a-nextjs-or-nuxt-app-102m"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Node.js 26 LTS : nouveautés, calendrier et migration]]></title>
-        <id>https://dev.to/neurau_tech/nodejs-26-lts-nouveautes-calendrier-et-migration-4ilc</id>
-        <link href="https://dev.to/neurau_tech/nodejs-26-lts-nouveautes-calendrier-et-migration-4ilc"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Markup vs margin: the pricing bug that quietly eats marketplace profit]]></title>
-        <id>https://dev.to/__a275a1bef4/markup-vs-margin-the-pricing-bug-that-quietly-eats-marketplace-profit-1ei7</id>
-        <link href="https://dev.to/__a275a1bef4/markup-vs-margin-the-pricing-bug-that-quietly-eats-marketplace-profit-1ei7"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to get job listings from Lever, Ashby, Workday and other career sites with an API (Python, Node or no code)]]></title>
-        <id>https://dev.to/hmm_bigman/how-to-get-job-listings-from-lever-ashby-workday-and-other-career-sites-with-an-api-python-node-517d</id>
-        <link href="https://dev.to/hmm_bigman/how-to-get-job-listings-from-lever-ashby-workday-and-other-career-sites-with-an-api-python-node-517d"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The OpenRTB Native Asset Cheat Sheet Every PMP Bid Ops Engineer Needs]]></title>
-        <id>https://dev.to/aleksuix/the-openrtb-native-asset-cheat-sheet-every-pmp-bid-ops-engineer-needs-17ap</id>
-        <link href="https://dev.to/aleksuix/the-openrtb-native-asset-cheat-sheet-every-pmp-bid-ops-engineer-needs-17ap"/>
+        <title type="html"><![CDATA[Electron Multi-Window Architecture: A Practical Guide to Window Lifecycle, Process Isolation, and Coordinating Several Windows Without Leaks]]></title>
+        <id>https://dev.to/mp3sss31/electron-multi-window-architecture-a-practical-guide-to-window-lifecycle-process-isolation-and-1cjc</id>
+        <link href="https://dev.to/mp3sss31/electron-multi-window-architecture-a-practical-guide-to-window-lifecycle-process-isolation-and-1cjc"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
@@ -364,9 +364,9 @@ https://dev.to/subito/from-1256ms-to-96ms-fixing-inp-in-a-massive-react-dropdown
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Electron Multi-Window Architecture: A Practical Guide to Window Lifecycle, Process Isolation, and Coordinating Several Windows Without Leaks]]></title>
-        <id>https://dev.to/mp3sss31/electron-multi-window-architecture-a-practical-guide-to-window-lifecycle-process-isolation-and-1cjc</id>
-        <link href="https://dev.to/mp3sss31/electron-multi-window-architecture-a-practical-guide-to-window-lifecycle-process-isolation-and-1cjc"/>
+        <title type="html"><![CDATA[The OpenRTB Native Asset Cheat Sheet Every PMP Bid Ops Engineer Needs]]></title>
+        <id>https://dev.to/aleksuix/the-openrtb-native-asset-cheat-sheet-every-pmp-bid-ops-engineer-needs-17ap</id>
+        <link href="https://dev.to/aleksuix/the-openrtb-native-asset-cheat-sheet-every-pmp-bid-ops-engineer-needs-17ap"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
