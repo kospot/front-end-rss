@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-14T07:05:03.699Z</updated>
+    <updated>2026-11-14T10:04:26.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA]]></title>
+        <id>https://sspai.com/post/118276</id>
+        <link href="https://sspai.com/post/118276"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Verge’s 2026 gift guide for dads]]></title>
         <id>https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026</id>
@@ -43,6 +50,20 @@
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target]]></title>
+        <id>https://www.wired.com/story/thanksgiving-meal-deals-2026/</id>
+        <link href="https://www.wired.com/story/thanksgiving-meal-deals-2026/"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These ‘Ghostly’ Galaxies Have Lost Their Dark Matter]]></title>
+        <id>https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/</id>
+        <link href="https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites]]></title>
         <id>https://www.wired.com/story/best-early-black-friday-mattress-deals-11-13-2026/</id>
         <link href="https://www.wired.com/story/best-early-black-friday-mattress-deals-11-13-2026/"/>
@@ -64,86 +85,72 @@
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twelve Principles of Documentation]]></title>
-        <id>https://vurt.org/articles/principles-documentation/</id>
-        <link href="https://vurt.org/articles/principles-documentation/"/>
+        <title type="html"><![CDATA[Show HN: Audio Transcription in Browser with WebGPU]]></title>
+        <id>https://whisper.tanpreet.xyz/demo/</id>
+        <link href="https://whisper.tanpreet.xyz/demo/"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anatomy of a Git pre-commit Hook]]></title>
-        <id>https://georgestocker.com/2019/10/31/anatomy-of-a-git-pre-commit-hook/</id>
-        <link href="https://georgestocker.com/2019/10/31/anatomy-of-a-git-pre-commit-hook/"/>
+        <title type="html"><![CDATA[Nearly $20M found in Hungary's forests, buildings amid corruption probe]]></title>
+        <id>https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings</id>
+        <link href="https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firefox Focus]]></title>
-        <id>https://www.firefox.com/en-US/mobile/focus/</id>
-        <link href="https://www.firefox.com/en-US/mobile/focus/"/>
+        <title type="html"><![CDATA[Show HN: MAP & GO! - the day, on a map]]></title>
+        <id>https://apps.apple.com/us/app/map-go/id6766313000</id>
+        <link href="https://apps.apple.com/us/app/map-go/id6766313000"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SSH Keys in the Secure Enclave, Without an Agent]]></title>
-        <id>https://lograker.app/blog/secure-enclave-ssh-keys-without-an-agent</id>
-        <link href="https://lograker.app/blog/secure-enclave-ssh-keys-without-an-agent"/>
+        <title type="html"><![CDATA[Show HN: FieldRook – a local-first Windows troubleshooting workstation]]></title>
+        <id>https://github.com/Rookweld/FieldRook</id>
+        <link href="https://github.com/Rookweld/FieldRook"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[App Basics for Firefox OS (2013)]]></title>
-        <id>https://web.archive.org/web/20160316133358/https://mozilla.github.io/app-basics-videos/</id>
-        <link href="https://web.archive.org/web/20160316133358/https://mozilla.github.io/app-basics-videos/"/>
+        <title type="html"><![CDATA[Backdooring LLMs – Do you trust your AI provider?]]></title>
+        <id>https://pgaleone.eu/ai/2026/11/14/backdooring-llms-and-trust/</id>
+        <link href="https://pgaleone.eu/ai/2026/11/14/backdooring-llms-and-trust/"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Martin van den Brink: His contributions in ASML [video]]]></title>
-        <id>https://www.youtube.com/watch?v=HEr90oVa758</id>
-        <link href="https://www.youtube.com/watch?v=HEr90oVa758"/>
+        <title type="html"><![CDATA[Why the Airbus A321XLR Often Gets Stuck Climbing for First Few Hours of Flight]]></title>
+        <id>https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/</id>
+        <link href="https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Geocode the planet(630M addresses), indexed in 5h on a 9 GB RAM budget]]></title>
-        <id>https://github.com/open-geocode-rs/open-geocode</id>
-        <link href="https://github.com/open-geocode-rs/open-geocode"/>
+        <title type="html"><![CDATA[Nature-Based Sanitation. Cihuatlán: A Large-Scale Artificial Wetland]]></title>
+        <id>https://revista.unaminternacional.unam.mx/en/nota/12/saneamiento-basado-en-la-naturaleza-cihuatlan-un-humedal-construido-de-gran-escala</id>
+        <link href="https://revista.unaminternacional.unam.mx/en/nota/12/saneamiento-basado-en-la-naturaleza-cihuatlan-un-humedal-construido-de-gran-escala"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Browserr – An MCP-first browser for AI agents (one Rust binary)]]></title>
-        <id>https://browserr.dev</id>
-        <link href="https://browserr.dev"/>
+        <title type="html"><![CDATA[Could China's battery-swapping e-trucks be the answer to EV range anxiety]]></title>
+        <id>https://www.theguardian.com/environment/2026/nov/12/china-battery-swapping-e-trucks-catl-ev-range-anxiety</id>
+        <link href="https://www.theguardian.com/environment/2026/nov/12/china-battery-swapping-e-trucks-catl-ev-range-anxiety"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: OpenAI Astra post-launch slump?]]></title>
-        <id>https://news.ycombinator.com/item?id=50493498</id>
-        <link href="https://news.ycombinator.com/item?id=50493498"/>
+        <title type="html"><![CDATA[Show HN: Automatic extraction gets you structured data from web data]]></title>
+        <id>http://66.44.17.8/:3333</id>
+        <link href="http://66.44.17.8/:3333"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cancer society issues updated prostate cancer screening guidelines]]></title>
-        <id>https://abcnews.com/GMA/Wellness/cancer-society-issues-specific-prostate-cancer-screening-guidelines/story?id=138053060</id>
-        <link href="https://abcnews.com/GMA/Wellness/cancer-society-issues-specific-prostate-cancer-screening-guidelines/story?id=138053060"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faster Scientific Simulations with New FP64 Algorithms in Nvidia cuBLAS]]></title>
-        <id>https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/</id>
-        <link href="https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: What use are the non-major cryptocurrencies?]]></title>
-        <id>https://news.ycombinator.com/item?id=50493695</id>
-        <link href="https://news.ycombinator.com/item?id=50493695"/>
+        <title type="html"><![CDATA[Searching for exotic scalars at fusion reactors (2025)]]></title>
+        <id>https://arxiv.org/abs/2502.12314</id>
+        <link href="https://arxiv.org/abs/2502.12314"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
@@ -155,9 +162,86 @@
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Searching for exotic scalars at fusion reactors (2025)]]></title>
-        <id>https://arxiv.org/abs/2502.12314</id>
-        <link href="https://arxiv.org/abs/2502.12314"/>
+        <title type="html"><![CDATA[Ask HN: What use are the non-major cryptocurrencies?]]></title>
+        <id>https://news.ycombinator.com/item?id=50493695</id>
+        <link href="https://news.ycombinator.com/item?id=50493695"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faster Scientific Simulations with New FP64 Algorithms in Nvidia cuBLAS]]></title>
+        <id>https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/</id>
+        <link href="https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cancer society issues updated prostate cancer screening guidelines]]></title>
+        <id>https://abcnews.com/GMA/Wellness/cancer-society-issues-specific-prostate-cancer-screening-guidelines/story?id=138053060</id>
+        <link href="https://abcnews.com/GMA/Wellness/cancer-society-issues-specific-prostate-cancer-screening-guidelines/story?id=138053060"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: OpenAI Astra post-launch slump?]]></title>
+        <id>https://news.ycombinator.com/item?id=50493498</id>
+        <link href="https://news.ycombinator.com/item?id=50493498"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Browserr – An MCP-first browser for AI agents (one Rust binary)]]></title>
+        <id>https://browserr.dev</id>
+        <link href="https://browserr.dev"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Geocode the planet(630M addresses), indexed in 5h on a 9 GB RAM budget]]></title>
+        <id>https://github.com/open-geocode-rs/open-geocode</id>
+        <link href="https://github.com/open-geocode-rs/open-geocode"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Martin van den Brink: His contributions in ASML [video]]]></title>
+        <id>https://www.youtube.com/watch?v=HEr90oVa758</id>
+        <link href="https://www.youtube.com/watch?v=HEr90oVa758"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App Basics for Firefox OS (2013)]]></title>
+        <id>https://web.archive.org/web/20160316133358/https://mozilla.github.io/app-basics-videos/</id>
+        <link href="https://web.archive.org/web/20160316133358/https://mozilla.github.io/app-basics-videos/"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSH Keys in the Secure Enclave, Without an Agent]]></title>
+        <id>https://lograker.app/blog/secure-enclave-ssh-keys-without-an-agent</id>
+        <link href="https://lograker.app/blog/secure-enclave-ssh-keys-without-an-agent"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox Focus]]></title>
+        <id>https://www.firefox.com/en-US/mobile/focus/</id>
+        <link href="https://www.firefox.com/en-US/mobile/focus/"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anatomy of a Git pre-commit Hook]]></title>
+        <id>https://georgestocker.com/2019/10/31/anatomy-of-a-git-pre-commit-hook/</id>
+        <link href="https://georgestocker.com/2019/10/31/anatomy-of-a-git-pre-commit-hook/"/>
+        <updated>2026-11-13T16:00:00.000Z</updated>
+        <published>2026-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twelve Principles of Documentation]]></title>
+        <id>https://vurt.org/articles/principles-documentation/</id>
+        <link href="https://vurt.org/articles/principles-documentation/"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
@@ -238,135 +322,51 @@ https://dev.to/subito/from-1256ms-to-96ms-fixing-inp-in-a-massive-react-dropdown
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One HTML page, no network requests: how our browser games ship]]></title>
-        <id>https://dev.to/antgamesai/one-html-page-no-network-requests-how-our-browser-games-ship-1ln7</id>
-        <link href="https://dev.to/antgamesai/one-html-page-no-network-requests-how-our-browser-games-ship-1ln7"/>
+        <title type="html"><![CDATA[Loading a 72 MB JSON list on a TV box without running out of memory]]></title>
+        <id>https://dev.to/usama_muhammad_d144933dd0/loading-a-72-mb-json-list-on-a-tv-box-without-running-out-of-memory-n33</id>
+        <link href="https://dev.to/usama_muhammad_d144933dd0/loading-a-72-mb-json-list-on-a-tv-box-without-running-out-of-memory-n33"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The last 20% of an AI-built app: nine things that actually block launch]]></title>
-        <id>https://dev.to/cpcai_studio/the-last-20-of-an-ai-built-app-nine-things-that-actually-block-launch-2806</id>
-        <link href="https://dev.to/cpcai_studio/the-last-20-of-an-ai-built-app-nine-things-that-actually-block-launch-2806"/>
+        <title type="html"><![CDATA[Company numbers in Sweden, Norway, Finland and France: formats, check digits, and the VAT number hiding inside]]></title>
+        <id>https://dev.to/spellzcode/company-numbers-in-sweden-norway-finland-and-france-formats-check-digits-and-the-vat-number-2j7n</id>
+        <link href="https://dev.to/spellzcode/company-numbers-in-sweden-norway-finland-and-france-formats-check-digits-and-the-vat-number-2j7n"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Half of all café Wi-Fi QR signs fail on the string, not the printing. Here is the WIFI: URI, five traps, and the A4 four-up that carries it.]]></title>
-        <id>https://dev.to/maptosite/half-of-all-cafe-wi-fi-qr-signs-fail-on-the-string-not-the-printing-here-is-the-wifi-uri-five-5b6g</id>
-        <link href="https://dev.to/maptosite/half-of-all-cafe-wi-fi-qr-signs-fail-on-the-string-not-the-printing-here-is-the-wifi-uri-five-5b6g"/>
+        <title type="html"><![CDATA[Claude API 2026-10-21 migration: 4 Node.js breaking changes]]></title>
+        <id>https://dev.to/extensionbooster/claude-api-2026-10-21-migration-4-nodejs-breaking-changes-4168</id>
+        <link href="https://dev.to/extensionbooster/claude-api-2026-10-21-migration-4-nodejs-breaking-changes-4168"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built a Real-Time Kitchen Display System (KDS) & Zero-Commission QR Dining SaaS with <50ms Sync (Without Heavy Frameworks)]]></title>
-        <id>https://dev.to/debashish_paul/how-i-built-a-real-time-kitchen-display-system-kds-zero-commission-qr-dining-saas-with-50ms-iji</id>
-        <link href="https://dev.to/debashish_paul/how-i-built-a-real-time-kitchen-display-system-kds-zero-commission-qr-dining-saas-with-50ms-iji"/>
+        <title type="html"><![CDATA[A 3D configurator for glass walls and movable partitions, drawn into the customer's room]]></title>
+        <id>https://dev.to/gronskideveloper/a-3d-configurator-for-glass-walls-and-movable-partitions-drawn-into-the-customers-room-549c</id>
+        <link href="https://dev.to/gronskideveloper/a-3d-configurator-for-glass-walls-and-movable-partitions-drawn-into-the-customers-room-549c"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Three more tools, three more countries: Malaysia's retirement fund, the Philippines' SSS and exam photos that pass the form]]></title>
-        <id>https://dev.to/zaidi617796/three-more-tools-three-more-countries-malaysias-retirement-fund-the-philippines-sss-and-exam-3p1i</id>
-        <link href="https://dev.to/zaidi617796/three-more-tools-three-more-countries-malaysias-retirement-fund-the-philippines-sss-and-exam-3p1i"/>
+        <title type="html"><![CDATA[Light a product configurator with an environment map, not point lights]]></title>
+        <id>https://dev.to/gronskideveloper/light-a-product-configurator-with-an-environment-map-not-point-lights-dc9</id>
+        <link href="https://dev.to/gronskideveloper/light-a-product-configurator-with-an-environment-map-not-point-lights-dc9"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The GitHub API rate limit broke my self-updater for 20 minutes: falling back to the releases/latest redirect without trusting it any more]]></title>
-        <id>https://dev.to/ashwar_sadh_f7abe6f82c8e9/the-github-api-rate-limit-broke-my-self-updater-for-20-minutes-falling-back-to-the-releaseslatest-42db</id>
-        <link href="https://dev.to/ashwar_sadh_f7abe6f82c8e9/the-github-api-rate-limit-broke-my-self-updater-for-20-minutes-falling-back-to-the-releaseslatest-42db"/>
+        <title type="html"><![CDATA[Lessons from moving a multilingual B2B site to Next.js: redirects, hreflang and old shop URLs]]></title>
+        <id>https://dev.to/saunaeurope/lessons-from-moving-a-multilingual-b2b-site-to-nextjs-redirects-hreflang-and-old-shop-urls-3c1o</id>
+        <link href="https://dev.to/saunaeurope/lessons-from-moving-a-multilingual-b2b-site-to-nextjs-redirects-hreflang-and-old-shop-urls-3c1o"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[URL Encoding vs Base64: When to Use Which]]></title>
-        <id>https://dev.to/toolstead/url-encoding-vs-base64-when-to-use-which-1na4</id>
-        <link href="https://dev.to/toolstead/url-encoding-vs-base64-when-to-use-which-1na4"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TC39 `using` Declarations Land in V8 13: What Node.js 24 Developers Get for Free Without TypeScript]]></title>
-        <id>https://dev.to/jsmanifest/tc39-using-declarations-land-in-v8-13-what-nodejs-24-developers-get-for-free-without-typescript-38h</id>
-        <link href="https://dev.to/jsmanifest/tc39-using-declarations-land-in-v8-13-what-nodejs-24-developers-get-for-free-without-typescript-38h"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why JavaScript Rendering Matters in Technical SEO]]></title>
-        <id>https://dev.to/carllowman/why-javascript-rendering-matters-in-technical-seo-2gg4</id>
-        <link href="https://dev.to/carllowman/why-javascript-rendering-matters-in-technical-seo-2gg4"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 reasons your JSON fails to parse (and how to fix each one)]]></title>
-        <id>https://dev.to/aztechtools/5-reasons-your-json-fails-to-parse-and-how-to-fix-each-one-54b6</id>
-        <link href="https://dev.to/aztechtools/5-reasons-your-json-fails-to-parse-and-how-to-fix-each-one-54b6"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A same-word game that runs in the browser: state, scoring, and the tie problem]]></title>
-        <id>https://dev.to/succday/a-same-word-game-that-runs-in-the-browser-state-scoring-and-the-tie-problem-39cl</id>
-        <link href="https://dev.to/succday/a-same-word-game-that-runs-in-the-browser-state-scoring-and-the-tie-problem-39cl"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Checking whether a 2010 bitcoin output has moved, in about 30 lines of JavaScript]]></title>
-        <id>https://dev.to/swapcoreexchange/checking-whether-a-2010-bitcoin-output-has-moved-in-about-30-lines-of-javascript-3ope</id>
-        <link href="https://dev.to/swapcoreexchange/checking-whether-a-2010-bitcoin-output-has-moved-in-about-30-lines-of-javascript-3ope"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japanese Postal Code to Address Auto-Fill, Built From Japan Post's Free Data (No API Key)]]></title>
-        <id>https://dev.to/gen_jidouka/japanese-postal-code-to-address-auto-fill-built-from-japan-posts-free-data-no-api-key-4ccg</id>
-        <link href="https://dev.to/gen_jidouka/japanese-postal-code-to-address-auto-fill-built-from-japan-posts-free-data-no-api-key-4ccg"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protecting a TypeScript library you publish: ship typings, hide the implementation]]></title>
-        <id>https://dev.to/veilvm/protecting-a-typescript-library-you-publish-ship-typings-hide-the-implementation-1mhi</id>
-        <link href="https://dev.to/veilvm/protecting-a-typescript-library-you-publish-ship-typings-hide-the-implementation-1mhi"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Text-to-Speech App with ElevenLabs and Python]]></title>
-        <id>https://dev.to/voice_developer/build-a-text-to-speech-app-with-elevenlabs-and-python-5098</id>
-        <link href="https://dev.to/voice_developer/build-a-text-to-speech-app-with-elevenlabs-and-python-5098"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protecting client-side business logic in a Next.js or Nuxt app]]></title>
-        <id>https://dev.to/veilvm/protecting-client-side-business-logic-in-a-nextjs-or-nuxt-app-102m</id>
-        <link href="https://dev.to/veilvm/protecting-client-side-business-logic-in-a-nextjs-or-nuxt-app-102m"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electron Multi-Window Architecture: A Practical Guide to Window Lifecycle, Process Isolation, and Coordinating Several Windows Without Leaks]]></title>
-        <id>https://dev.to/mp3sss31/electron-multi-window-architecture-a-practical-guide-to-window-lifecycle-process-isolation-and-1cjc</id>
-        <link href="https://dev.to/mp3sss31/electron-multi-window-architecture-a-practical-guide-to-window-lifecycle-process-isolation-and-1cjc"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Stop shouldn't mean close: ending a live-caption session in a Manifest V3 extension without losing the last sentence"]]></title>
-        <id>https://dev.to/anders_lee_28dbcc2fd8e034/stop-shouldnt-mean-close-ending-a-live-caption-session-in-a-manifest-v3-extension-without-losing-37kn</id>
-        <link href="https://dev.to/anders_lee_28dbcc2fd8e034/stop-shouldnt-mean-close-ending-a-live-caption-session-in-a-manifest-v3-extension-without-losing-37kn"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The OpenRTB Native Asset Cheat Sheet Every PMP Bid Ops Engineer Needs]]></title>
-        <id>https://dev.to/aleksuix/the-openrtb-native-asset-cheat-sheet-every-pmp-bid-ops-engineer-needs-17ap</id>
-        <link href="https://dev.to/aleksuix/the-openrtb-native-asset-cheat-sheet-every-pmp-bid-ops-engineer-needs-17ap"/>
+        <title type="html"><![CDATA[Eliminating Streaming Lag: Building a Priority Preemption FFmpeg Queue in Node.js]]></title>
+        <id>https://dev.to/adil_rahiman_d18688376bef/eliminating-streaming-lag-building-a-priority-preemption-ffmpeg-queue-in-nodejs-3c97</id>
+        <link href="https://dev.to/adil_rahiman_d18688376bef/eliminating-streaming-lag-building-a-priority-preemption-ffmpeg-queue-in-nodejs-3c97"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>

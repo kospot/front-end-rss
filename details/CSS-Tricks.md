@@ -1,12 +1,12 @@
-:alarm_clock: 更新时间: 2026-11-14 12:04:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-14 18:04:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS-Tricks
 
 
 
 
-- [2026-11-13-10-Big-Ol’-2027-Black-Friday-Deals](https://css-tricks.com/2027-front-end-black-friday-deals/) 
 - [2026-11-13-Beyond-12-Columns:-Designing-Layouts-With-Personality](https://css-tricks.com/beyond-12-columns/) 
+- [2026-11-13-10-Big-Ol’-2027-Black-Friday-Deals](https://css-tricks.com/2027-front-end-black-friday-deals/) 
 - [2026-11-11-CSS-Optimization:-Is-Using-Declarations-Just-Once-UDJO-Still-Effective-Today?](https://css-tricks.com/css-using-declarations-just-once/) 
 - [2026-11-09-CSS-Tricks,-Version-20](https://css-tricks.com/css-tricks-version-20/) 
 - [2026-11-07-RSS-Club:-CSS-Tricks-Redesign-Preview](https://css-tricks.com/css-tricks-redesign-preview/) 
