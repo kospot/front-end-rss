@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-14T22:00:59.471Z</updated>
+    <updated>2026-11-15T00:02:00.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -50,37 +50,37 @@
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scaling Laws in Practice: MuP, WSD and Muon Explained – DeepSeek Did Use IT [video]]]></title>
-        <id>https://www.youtube.com/watch?v=BwJZXBR4k6I</id>
-        <link href="https://www.youtube.com/watch?v=BwJZXBR4k6I"/>
+        <title type="html"><![CDATA[Ask HN: Is post-training make AI models dumber?]]></title>
+        <id>https://news.ycombinator.com/item?id=50502344</id>
+        <link href="https://news.ycombinator.com/item?id=50502344"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpaceX catches part of Starship rocket on its return to Earth]]></title>
-        <id>https://www.bbc.com/news/live/cq0k683l3dz3t</id>
-        <link href="https://www.bbc.com/news/live/cq0k683l3dz3t"/>
+        <title type="html"><![CDATA[Serving Kimi K3 – DigitalOcean]]></title>
+        <id>https://www.digitalocean.com/blog/serving-kimi-k3-inference-engine</id>
+        <link href="https://www.digitalocean.com/blog/serving-kimi-k3-inference-engine"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A 3D office where real Claude Code sessions work as employees]]></title>
-        <id>https://github.com/brstic/orchestrator</id>
-        <link href="https://github.com/brstic/orchestrator"/>
+        <title type="html"><![CDATA[Alibaba's Qwen3.8 re-educated with a more Western worldview]]></title>
+        <id>https://www.theregister.com/ai-and-ml/2026/11/13/alibabas-qwen38-re-educated-with-a-more-western-worldview/5309555</id>
+        <link href="https://www.theregister.com/ai-and-ml/2026/11/13/alibabas-qwen38-re-educated-with-a-more-western-worldview/5309555"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Domino Rally – design in 2D, watch in 3D]]></title>
-        <id>https://www.orgiggly.com/dominoes</id>
-        <link href="https://www.orgiggly.com/dominoes"/>
+        <title type="html"><![CDATA[Si2 – Advancing Semiconductor Design from Transistors to 3D ICs (Non-Profit Org)]]></title>
+        <id>https://si2.org/</id>
+        <link href="https://si2.org/"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ultra refined ESLint shareable config]]></title>
-        <id>https://www.npmjs.com/package/eslint-config-ultra-refined</id>
-        <link href="https://www.npmjs.com/package/eslint-config-ultra-refined"/>
+        <title type="html"><![CDATA[Show HN: Mapping the FAA ground stop with open flight-tracking data]]></title>
+        <id>https://news.ycombinator.com/item?id=50502109</id>
+        <link href="https://news.ycombinator.com/item?id=50502109"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
@@ -92,16 +92,44 @@
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Day 44/100] RAG Chunking Strategies: Why Half Your Answer Lands in the Wrong Chunk]]></title>
-        <id>https://pub.towardsai.net/day-44-100-rag-chunking-strategies-why-half-your-answer-lands-in-the-wrong-chunk-8fe985cb49d5?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/day-44-100-rag-chunking-strategies-why-half-your-answer-lands-in-the-wrong-chunk-8fe985cb49d5?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Ultra refined ESLint shareable config]]></title>
+        <id>https://www.npmjs.com/package/eslint-config-ultra-refined</id>
+        <link href="https://www.npmjs.com/package/eslint-config-ultra-refined"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LLM Inference & Serving at Scale: From First Token to 10,000 Concurrent Users]]></title>
-        <id>https://pub.towardsai.net/llm-inference-serving-at-scale-from-first-token-to-10-000-concurrent-users-df872544facc?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/llm-inference-serving-at-scale-from-first-token-to-10-000-concurrent-users-df872544facc?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Domino Rally – design in 2D, watch in 3D]]></title>
+        <id>https://www.orgiggly.com/dominoes</id>
+        <link href="https://www.orgiggly.com/dominoes"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A 3D office where real Claude Code sessions work as employees]]></title>
+        <id>https://github.com/brstic/orchestrator</id>
+        <link href="https://github.com/brstic/orchestrator"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX catches part of Starship rocket on its return to Earth]]></title>
+        <id>https://www.bbc.com/news/live/cq0k683l3dz3t</id>
+        <link href="https://www.bbc.com/news/live/cq0k683l3dz3t"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling Laws in Practice: MuP, WSD and Muon Explained – DeepSeek Did Use IT [video]]]></title>
+        <id>https://www.youtube.com/watch?v=BwJZXBR4k6I</id>
+        <link href="https://www.youtube.com/watch?v=BwJZXBR4k6I"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What an AI Agent Forgets When It Compresses Its Memory]]></title>
+        <id>https://pub.towardsai.net/what-an-ai-agent-forgets-when-it-compresses-its-memory-7aa0e2419ab1?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/what-an-ai-agent-forgets-when-it-compresses-its-memory-7aa0e2419ab1?source=rss----98111c9905da---4"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
@@ -113,23 +141,72 @@
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Validar CPF e CNPJ em JavaScript: o módulo 11 explicado (e o CNPJ alfanumérico de 2026)]]></title>
-        <id>https://dev.to/jeitobr/validar-cpf-e-cnpj-em-javascript-o-modulo-11-explicado-e-o-cnpj-alfanumerico-de-2026-5282</id>
-        <link href="https://dev.to/jeitobr/validar-cpf-e-cnpj-em-javascript-o-modulo-11-explicado-e-o-cnpj-alfanumerico-de-2026-5282"/>
+        <title type="html"><![CDATA[LLM Inference & Serving at Scale: From First Token to 10,000 Concurrent Users]]></title>
+        <id>https://pub.towardsai.net/llm-inference-serving-at-scale-from-first-token-to-10-000-concurrent-users-df872544facc?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/llm-inference-serving-at-scale-from-first-token-to-10-000-concurrent-users-df872544facc?source=rss----98111c9905da---4"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BMI: The Formula, the Categories, and the Boundaries of the Metric]]></title>
-        <id>https://dev.to/miri-calc/bmi-the-formula-the-categories-and-the-boundaries-of-the-metric-57hj</id>
-        <link href="https://dev.to/miri-calc/bmi-the-formula-the-categories-and-the-boundaries-of-the-metric-57hj"/>
+        <title type="html"><![CDATA[[Day 44/100] RAG Chunking Strategies: Why Half Your Answer Lands in the Wrong Chunk]]></title>
+        <id>https://pub.towardsai.net/day-44-100-rag-chunking-strategies-why-half-your-answer-lands-in-the-wrong-chunk-8fe985cb49d5?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/day-44-100-rag-chunking-strategies-why-half-your-answer-lands-in-the-wrong-chunk-8fe985cb49d5?source=rss----98111c9905da---4"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One in Five AliExpress Rows Quoted Exactly $1.09. All Five I Opened Capped It at One Piece]]></title>
-        <id>https://dev.to/matveyg/one-in-five-aliexpress-rows-quoted-exactly-109-all-five-i-opened-capped-it-at-one-piece-3lno</id>
-        <link href="https://dev.to/matveyg/one-in-five-aliexpress-rows-quoted-exactly-109-all-five-i-opened-capped-it-at-one-piece-3lno"/>
+        <title type="html"><![CDATA[Headless Chrome is a process, not a function: lifecycle, memory and failure modes in browser automation]]></title>
+        <id>https://dev.to/maptosite/headless-chrome-is-a-process-not-a-function-lifecycle-memory-and-failure-modes-in-browser-563n</id>
+        <link href="https://dev.to/maptosite/headless-chrome-is-a-process-not-a-function-lifecycle-memory-and-failure-modes-in-browser-563n"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recortar un MP4 sin dejar los subtítulos en el tiempo del original]]></title>
+        <id>https://dev.to/valmera/recortar-un-mp4-sin-dejar-los-subtitulos-en-el-tiempo-del-original-45mm</id>
+        <link href="https://dev.to/valmera/recortar-un-mp4-sin-dejar-los-subtitulos-en-el-tiempo-del-original-45mm"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Professional Support for Bitcoin Fraud Investigations – META TECH RETRIEVE PRO]]></title>
+        <id>https://dev.to/jaannsnsjs_17fcc19b21f62d/professional-support-for-bitcoin-fraud-investigations-meta-tech-retrieve-pro-5aah</id>
+        <link href="https://dev.to/jaannsnsjs_17fcc19b21f62d/professional-support-for-bitcoin-fraud-investigations-meta-tech-retrieve-pro-5aah"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello World! I'm a Python Developer from Akwa Ibom, Nigeria]]></title>
+        <id>https://dev.to/wisdomakpandevweb/hello-world-im-a-python-developer-from-akwa-ibom-nigeria-3mkn</id>
+        <link href="https://dev.to/wisdomakpandevweb/hello-world-im-a-python-developer-from-akwa-ibom-nigeria-3mkn"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The odds of a 1-in-N drop: the geometric distribution in a few lines of JavaScript and Python]]></title>
+        <id>https://dev.to/dolphin_studio_ddd7da97a2/the-odds-of-a-1-in-n-drop-the-geometric-distribution-in-a-few-lines-of-javascript-and-python-31al</id>
+        <link href="https://dev.to/dolphin_studio_ddd7da97a2/the-odds-of-a-1-in-n-drop-the-geometric-distribution-in-a-few-lines-of-javascript-and-python-31al"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Removing image backgrounds fully in the browser with ONNX Runtime Web: models, licences, and what bit me]]></title>
+        <id>https://dev.to/share_space_9abba2c73dce6/removing-image-backgrounds-fully-in-the-browser-with-onnx-runtime-web-models-licences-and-what-3kb9</id>
+        <link href="https://dev.to/share_space_9abba2c73dce6/removing-image-backgrounds-fully-in-the-browser-with-onnx-runtime-web-models-licences-and-what-3kb9"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Checking Amazon's "pure white background" rule in the browser with canvas and a flood fill]]></title>
+        <id>https://dev.to/de1tay/checking-amazons-pure-white-background-rule-in-the-browser-with-canvas-and-a-flood-fill-1mb3</id>
+        <link href="https://dev.to/de1tay/checking-amazons-pure-white-background-rule-in-the-browser-with-canvas-and-a-flood-fill-1mb3"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hourly to Annual Pay: The Math and the Assumptions Behind It]]></title>
+        <id>https://dev.to/miri-calc/hourly-to-annual-pay-the-math-and-the-assumptions-behind-it-7cd</id>
+        <link href="https://dev.to/miri-calc/hourly-to-annual-pay-the-math-and-the-assumptions-behind-it-7cd"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
@@ -141,9 +218,23 @@
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hourly to Annual Pay: The Math and the Assumptions Behind It]]></title>
-        <id>https://dev.to/miri-calc/hourly-to-annual-pay-the-math-and-the-assumptions-behind-it-7cd</id>
-        <link href="https://dev.to/miri-calc/hourly-to-annual-pay-the-math-and-the-assumptions-behind-it-7cd"/>
+        <title type="html"><![CDATA[One in Five AliExpress Rows Quoted Exactly $1.09. All Five I Opened Capped It at One Piece]]></title>
+        <id>https://dev.to/matveyg/one-in-five-aliexpress-rows-quoted-exactly-109-all-five-i-opened-capped-it-at-one-piece-3lno</id>
+        <link href="https://dev.to/matveyg/one-in-five-aliexpress-rows-quoted-exactly-109-all-five-i-opened-capped-it-at-one-piece-3lno"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMI: The Formula, the Categories, and the Boundaries of the Metric]]></title>
+        <id>https://dev.to/miri-calc/bmi-the-formula-the-categories-and-the-boundaries-of-the-metric-57hj</id>
+        <link href="https://dev.to/miri-calc/bmi-the-formula-the-categories-and-the-boundaries-of-the-metric-57hj"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Validar CPF e CNPJ em JavaScript: o módulo 11 explicado (e o CNPJ alfanumérico de 2026)]]></title>
+        <id>https://dev.to/jeitobr/validar-cpf-e-cnpj-em-javascript-o-modulo-11-explicado-e-o-cnpj-alfanumerico-de-2026-5282</id>
+        <link href="https://dev.to/jeitobr/validar-cpf-e-cnpj-em-javascript-o-modulo-11-explicado-e-o-cnpj-alfanumerico-de-2026-5282"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
@@ -246,121 +337,30 @@
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tech Companies Are Trying to Shift the Concept of Privacy (Again)]]></title>
-        <id>https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again</id>
-        <link href="https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again"/>
+        <title type="html"><![CDATA[Wild select: intuitive queries for JSON, XML, and other hierarchical data]]></title>
+        <id>https://developforperformance.com/WildSelect.html</id>
+        <link href="https://developforperformance.com/WildSelect.html"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to find meaning in large tech companies]]></title>
-        <id>https://www.seangoedecke.com/how-to-find-meaning-in-large-tech-companies/</id>
-        <link href="https://www.seangoedecke.com/how-to-find-meaning-in-large-tech-companies/"/>
+        <title type="html"><![CDATA[Demystifying phone unlocking tools: A technical overview]]></title>
+        <id>https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/</id>
+        <link href="https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Air-Traffic Resilience Portfolio]]></title>
-        <id>https://tilt.now/tilt/MTwqny</id>
-        <link href="https://tilt.now/tilt/MTwqny"/>
+        <title type="html"><![CDATA[Shadow DOM (2014)]]></title>
+        <id>https://acko.net/blog/shadow-dom/</id>
+        <link href="https://acko.net/blog/shadow-dom/"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Transitive Policies for Agents: Agent Permissions Don't Automatically Compose]]></title>
-        <id>https://glthr.com/transitive-policies-for-ai-agents</id>
-        <link href="https://glthr.com/transitive-policies-for-ai-agents"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twelve Principles of Documentation]]></title>
-        <id>https://vurt.org/articles/principles-documentation/</id>
-        <link href="https://vurt.org/articles/principles-documentation/"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anatomy of a Git pre-commit Hook]]></title>
-        <id>https://georgestocker.com/2019/10/31/anatomy-of-a-git-pre-commit-hook/</id>
-        <link href="https://georgestocker.com/2019/10/31/anatomy-of-a-git-pre-commit-hook/"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox Focus]]></title>
-        <id>https://www.firefox.com/en-US/mobile/focus/</id>
-        <link href="https://www.firefox.com/en-US/mobile/focus/"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SSH Keys in the Secure Enclave, Without an Agent]]></title>
-        <id>https://lograker.app/blog/secure-enclave-ssh-keys-without-an-agent</id>
-        <link href="https://lograker.app/blog/secure-enclave-ssh-keys-without-an-agent"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App Basics for Firefox OS (2013)]]></title>
-        <id>https://web.archive.org/web/20160316133358/https://mozilla.github.io/app-basics-videos/</id>
-        <link href="https://web.archive.org/web/20160316133358/https://mozilla.github.io/app-basics-videos/"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Martin van den Brink: His contributions in ASML [video]]]></title>
-        <id>https://www.youtube.com/watch?v=HEr90oVa758</id>
-        <link href="https://www.youtube.com/watch?v=HEr90oVa758"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Geocode the planet(630M addresses), indexed in 5h on a 9 GB RAM budget]]></title>
-        <id>https://github.com/open-geocode-rs/open-geocode</id>
-        <link href="https://github.com/open-geocode-rs/open-geocode"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Browserr – An MCP-first browser for AI agents (one Rust binary)]]></title>
-        <id>https://browserr.dev</id>
-        <link href="https://browserr.dev"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: OpenAI Astra post-launch slump?]]></title>
-        <id>https://news.ycombinator.com/item?id=50493498</id>
-        <link href="https://news.ycombinator.com/item?id=50493498"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cancer society issues updated prostate cancer screening guidelines]]></title>
-        <id>https://abcnews.com/GMA/Wellness/cancer-society-issues-specific-prostate-cancer-screening-guidelines/story?id=138053060</id>
-        <link href="https://abcnews.com/GMA/Wellness/cancer-society-issues-specific-prostate-cancer-screening-guidelines/story?id=138053060"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faster Scientific Simulations with New FP64 Algorithms in Nvidia cuBLAS]]></title>
-        <id>https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/</id>
-        <link href="https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: What use are the non-major cryptocurrencies?]]></title>
-        <id>https://news.ycombinator.com/item?id=50493695</id>
-        <link href="https://news.ycombinator.com/item?id=50493695"/>
-        <updated>2026-11-13T16:00:00.000Z</updated>
-        <published>2026-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Run Cloudflare Workers Anywhere]]></title>
-        <id>https://openorange.dev/</id>
-        <link href="https://openorange.dev/"/>
+        <title type="html"><![CDATA[Show HN: Track Cassette Looper for iPad]]></title>
+        <id>https://autographmusic.com/c-60.html</id>
+        <link href="https://autographmusic.com/c-60.html"/>
         <updated>2026-11-13T16:00:00.000Z</updated>
         <published>2026-11-13T16:00:00.000Z</published>
     </entry>
