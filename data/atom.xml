@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-15T07:02:55.712Z</updated>
+    <updated>2026-11-15T10:05:17.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,6 +29,13 @@
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[New Species of Giant Fungus Discovered in China Grows up to 20 Inches Tall]]></title>
+        <id>https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/</id>
+        <link href="https://www.wired.com/story/new-species-of-giant-fungus-discovered-in-china-grows-up-to-20-inches-tall/"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Asian governments react to Nvidia CEO Jensen Huang’s exit]]></title>
         <id>https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/</id>
         <link href="https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"/>
@@ -50,177 +57,37 @@
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Hello Triangle, a puzzle game where you build a GPU]]></title>
-        <id>https://hellotriangle.icedlatte.ca/</id>
-        <link href="https://hellotriangle.icedlatte.ca/"/>
+        <title type="html"><![CDATA[Leo gets a birthday bash, 75 years after clocking in]]></title>
+        <id>https://www.theregister.com/offbeat/2026/11/15/leo-gets-a-birthday-bash-75-years-after-clocking-in/5308806</id>
+        <link href="https://www.theregister.com/offbeat/2026/11/15/leo-gets-a-birthday-bash-75-years-after-clocking-in/5308806"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hyperclay: Where your team's HTML files belong]]></title>
-        <id>https://hyperclay.com/</id>
-        <link href="https://hyperclay.com/"/>
+        <title type="html"><![CDATA[Show HN: Vantage-V-AI – 2-bit ternary KV-cache with attention sinks]]></title>
+        <id>https://github.com/khoadev-vn/VANTAGE-V-AI</id>
+        <link href="https://github.com/khoadev-vn/VANTAGE-V-AI"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA["Why Tailscale? (Open-sourcing my cover letters)"]]></title>
-        <id>https://thoward37.me/blog/articles/why-tailscale/</id>
-        <link href="https://thoward37.me/blog/articles/why-tailscale/"/>
+        <title type="html"><![CDATA[Periodic-Oriented Programming for First Robotics]]></title>
+        <id>https://bvisness.me/periodic-oriented-programming/</id>
+        <link href="https://bvisness.me/periodic-oriented-programming/"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Object to Infrastructure: Apple's Rhetorical Canon]]></title>
-        <id>https://medium.com/@smoking2man/from-object-to-infrastructure-apples-rhetorical-canon-and-the-strategic-dilemma-of-the-artificial-4561331865c6</id>
-        <link href="https://medium.com/@smoking2man/from-object-to-infrastructure-apples-rhetorical-canon-and-the-strategic-dilemma-of-the-artificial-4561331865c6"/>
+        <title type="html"><![CDATA[Earliest known writing dates back over 40k years]]></title>
+        <id>https://www.popsci.com/science/earliest-human-writing-germany/</id>
+        <link href="https://www.popsci.com/science/earliest-human-writing-germany/"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Remote work increases sleep and reduces physical activity]]></title>
-        <id>https://www.utu.fi/en/news/press-release/remote-work-increases-sleep-and-reduces-physical-activity-sedentary-behaviour</id>
-        <link href="https://www.utu.fi/en/news/press-release/remote-work-increases-sleep-and-reduces-physical-activity-sedentary-behaviour"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lawyer upgrades eight-V100 private AI server to run 80% of DeepSeek v4.1 Flash]]></title>
-        <id>https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-upgrades-eight-v100-private-ai-server-to-run-80-percent-of-deepseek-v4-1-flash-at-4-bit-nvfp4-precision-adds-1tb-of-ram-an-nvidia-rtx-3090-and-fixes-crashes-caused-by-a-bad-psu</id>
-        <link href="https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-upgrades-eight-v100-private-ai-server-to-run-80-percent-of-deepseek-v4-1-flash-at-4-bit-nvfp4-precision-adds-1tb-of-ram-an-nvidia-rtx-3090-and-fixes-crashes-caused-by-a-bad-psu"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM Spyre AI Accelerator Card (75W PCIe Card with 128GB of LPDDR5)]]></title>
-        <id>https://www.ibm.com/docs/en/systems-hardware/zsystems/9175-ME1?topic=introduction-spyre-accelerator</id>
-        <link href="https://www.ibm.com/docs/en/systems-hardware/zsystems/9175-ME1?topic=introduction-spyre-accelerator"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Made a Firefox addon to swap and inspect fonts]]></title>
-        <id>https://addons.mozilla.org/en-US/firefox/addon/typeshift-font-inspector/</id>
-        <link href="https://addons.mozilla.org/en-US/firefox/addon/typeshift-font-inspector/"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Game Works. Your Ad Revenue Is Still in Review]]></title>
-        <id>https://averageusers.substack.com/p/your-game-works-your-ad-revenue-is</id>
-        <link href="https://averageusers.substack.com/p/your-game-works-your-ad-revenue-is"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Umbrella – macOS app to capture audio from any app]]></title>
-        <id>https://umbrella.pixelegg.me/</id>
-        <link href="https://umbrella.pixelegg.me/"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI in the Search for Extraterrestrial Life]]></title>
-        <id>https://datarootlabs.com/blog/ai-search-extraterrestrial-life</id>
-        <link href="https://datarootlabs.com/blog/ai-search-extraterrestrial-life"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A 4MB EXE file replaced half my Windows utilities]]></title>
-        <id>https://www.makeuseof.com/alomware-toolbox-windows/</id>
-        <link href="https://www.makeuseof.com/alomware-toolbox-windows/"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Court denies motion to dismiss DRAM price fixing case]]></title>
-        <id>https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</id>
-        <link href="https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will a post-scarcity society mold capable and ambitious people?]]></title>
-        <id>https://twitter.com/patrickc/status/2121771165912064379</id>
-        <link href="https://twitter.com/patrickc/status/2121771165912064379"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling Laws in Practice: MuP, WSD and Muon Explained – DeepSeek Did Use IT [video]]]></title>
-        <id>https://www.youtube.com/watch?v=BwJZXBR4k6I</id>
-        <link href="https://www.youtube.com/watch?v=BwJZXBR4k6I"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX catches part of Starship rocket on its return to Earth]]></title>
-        <id>https://www.bbc.com/news/live/cq0k683l3dz3t</id>
-        <link href="https://www.bbc.com/news/live/cq0k683l3dz3t"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A 3D office where real Claude Code sessions work as employees]]></title>
-        <id>https://github.com/brstic/orchestrator</id>
-        <link href="https://github.com/brstic/orchestrator"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Domino Rally – design in 2D, watch in 3D]]></title>
-        <id>https://www.orgiggly.com/dominoes</id>
-        <link href="https://www.orgiggly.com/dominoes"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultra refined ESLint shareable config]]></title>
-        <id>https://www.npmjs.com/package/eslint-config-ultra-refined</id>
-        <link href="https://www.npmjs.com/package/eslint-config-ultra-refined"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new UMAP release brings major performance, quality, and scaling improvements]]></title>
-        <id>https://umap-learn.readthedocs.io/en/latest/whats_new_0_6.html</id>
-        <link href="https://umap-learn.readthedocs.io/en/latest/whats_new_0_6.html"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Mapping the FAA ground stop with open flight-tracking data]]></title>
-        <id>https://news.ycombinator.com/item?id=50502109</id>
-        <link href="https://news.ycombinator.com/item?id=50502109"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Si2 – Advancing Semiconductor Design from Transistors to 3D ICs (Non-Profit Org)]]></title>
-        <id>https://si2.org/</id>
-        <link href="https://si2.org/"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alibaba's Qwen3.8 re-educated with a more Western worldview]]></title>
-        <id>https://www.theregister.com/ai-and-ml/2026/11/13/alibabas-qwen38-re-educated-with-a-more-western-worldview/5309555</id>
-        <link href="https://www.theregister.com/ai-and-ml/2026/11/13/alibabas-qwen38-re-educated-with-a-more-western-worldview/5309555"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serving Kimi K3 – DigitalOcean]]></title>
-        <id>https://www.digitalocean.com/blog/serving-kimi-k3-inference-engine</id>
-        <link href="https://www.digitalocean.com/blog/serving-kimi-k3-inference-engine"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Is post-training make AI models dumber?]]></title>
-        <id>https://news.ycombinator.com/item?id=50502344</id>
-        <link href="https://news.ycombinator.com/item?id=50502344"/>
+        <title type="html"><![CDATA[A comprehensive guide to the bank of Nvidia]]></title>
+        <id>https://hntrbrk.com/investigations/nvidia</id>
+        <link href="https://hntrbrk.com/investigations/nvidia"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
@@ -232,30 +99,205 @@
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1% of Companies Drive 80% of OpenAI and Anthropic’s Revenue.]]></title>
-        <id>https://pub.towardsai.net/1-of-companies-drive-80-of-openai-and-anthropics-revenue-5d5b5d2d77d8?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/1-of-companies-drive-80-of-openai-and-anthropics-revenue-5d5b5d2d77d8?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Ask HN: Is post-training make AI models dumber?]]></title>
+        <id>https://news.ycombinator.com/item?id=50502344</id>
+        <link href="https://news.ycombinator.com/item?id=50502344"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Day 44/100] RAG Chunking Strategies: Why Half Your Answer Lands in the Wrong Chunk]]></title>
-        <id>https://pub.towardsai.net/day-44-100-rag-chunking-strategies-why-half-your-answer-lands-in-the-wrong-chunk-8fe985cb49d5?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/day-44-100-rag-chunking-strategies-why-half-your-answer-lands-in-the-wrong-chunk-8fe985cb49d5?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Serving Kimi K3 – DigitalOcean]]></title>
+        <id>https://www.digitalocean.com/blog/serving-kimi-k3-inference-engine</id>
+        <link href="https://www.digitalocean.com/blog/serving-kimi-k3-inference-engine"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LLM Inference & Serving at Scale: From First Token to 10,000 Concurrent Users]]></title>
-        <id>https://pub.towardsai.net/llm-inference-serving-at-scale-from-first-token-to-10-000-concurrent-users-df872544facc?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/llm-inference-serving-at-scale-from-first-token-to-10-000-concurrent-users-df872544facc?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Alibaba's Qwen3.8 re-educated with a more Western worldview]]></title>
+        <id>https://www.theregister.com/ai-and-ml/2026/11/13/alibabas-qwen38-re-educated-with-a-more-western-worldview/5309555</id>
+        <link href="https://www.theregister.com/ai-and-ml/2026/11/13/alibabas-qwen38-re-educated-with-a-more-western-worldview/5309555"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Onboarding UI Design for AI Builders and Vibe Coders: 12 Real App Examples With Copy-Paste Prompts]]></title>
-        <id>https://pub.towardsai.net/onboarding-ui-design-for-ai-builders-and-vibe-coders-12-real-app-examples-with-copy-paste-prompts-32613055ffbd?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/onboarding-ui-design-for-ai-builders-and-vibe-coders-12-real-app-examples-with-copy-paste-prompts-32613055ffbd?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Si2 – Advancing Semiconductor Design from Transistors to 3D ICs (Non-Profit Org)]]></title>
+        <id>https://si2.org/</id>
+        <link href="https://si2.org/"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Mapping the FAA ground stop with open flight-tracking data]]></title>
+        <id>https://news.ycombinator.com/item?id=50502109</id>
+        <link href="https://news.ycombinator.com/item?id=50502109"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new UMAP release brings major performance, quality, and scaling improvements]]></title>
+        <id>https://umap-learn.readthedocs.io/en/latest/whats_new_0_6.html</id>
+        <link href="https://umap-learn.readthedocs.io/en/latest/whats_new_0_6.html"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultra refined ESLint shareable config]]></title>
+        <id>https://www.npmjs.com/package/eslint-config-ultra-refined</id>
+        <link href="https://www.npmjs.com/package/eslint-config-ultra-refined"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Domino Rally – design in 2D, watch in 3D]]></title>
+        <id>https://www.orgiggly.com/dominoes</id>
+        <link href="https://www.orgiggly.com/dominoes"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A 3D office where real Claude Code sessions work as employees]]></title>
+        <id>https://github.com/brstic/orchestrator</id>
+        <link href="https://github.com/brstic/orchestrator"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX catches part of Starship rocket on its return to Earth]]></title>
+        <id>https://www.bbc.com/news/live/cq0k683l3dz3t</id>
+        <link href="https://www.bbc.com/news/live/cq0k683l3dz3t"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling Laws in Practice: MuP, WSD and Muon Explained – DeepSeek Did Use IT [video]]]></title>
+        <id>https://www.youtube.com/watch?v=BwJZXBR4k6I</id>
+        <link href="https://www.youtube.com/watch?v=BwJZXBR4k6I"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will a post-scarcity society mold capable and ambitious people?]]></title>
+        <id>https://twitter.com/patrickc/status/2121771165912064379</id>
+        <link href="https://twitter.com/patrickc/status/2121771165912064379"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Court denies motion to dismiss DRAM price fixing case]]></title>
+        <id>https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</id>
+        <link href="https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A 4MB EXE file replaced half my Windows utilities]]></title>
+        <id>https://www.makeuseof.com/alomware-toolbox-windows/</id>
+        <link href="https://www.makeuseof.com/alomware-toolbox-windows/"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI in the Search for Extraterrestrial Life]]></title>
+        <id>https://datarootlabs.com/blog/ai-search-extraterrestrial-life</id>
+        <link href="https://datarootlabs.com/blog/ai-search-extraterrestrial-life"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Umbrella – macOS app to capture audio from any app]]></title>
+        <id>https://umbrella.pixelegg.me/</id>
+        <link href="https://umbrella.pixelegg.me/"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Game Works. Your Ad Revenue Is Still in Review]]></title>
+        <id>https://averageusers.substack.com/p/your-game-works-your-ad-revenue-is</id>
+        <link href="https://averageusers.substack.com/p/your-game-works-your-ad-revenue-is"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Made a Firefox addon to swap and inspect fonts]]></title>
+        <id>https://addons.mozilla.org/en-US/firefox/addon/typeshift-font-inspector/</id>
+        <link href="https://addons.mozilla.org/en-US/firefox/addon/typeshift-font-inspector/"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IBM Spyre AI Accelerator Card (75W PCIe Card with 128GB of LPDDR5)]]></title>
+        <id>https://www.ibm.com/docs/en/systems-hardware/zsystems/9175-ME1?topic=introduction-spyre-accelerator</id>
+        <link href="https://www.ibm.com/docs/en/systems-hardware/zsystems/9175-ME1?topic=introduction-spyre-accelerator"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lawyer upgrades eight-V100 private AI server to run 80% of DeepSeek v4.1 Flash]]></title>
+        <id>https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-upgrades-eight-v100-private-ai-server-to-run-80-percent-of-deepseek-v4-1-flash-at-4-bit-nvfp4-precision-adds-1tb-of-ram-an-nvidia-rtx-3090-and-fixes-crashes-caused-by-a-bad-psu</id>
+        <link href="https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-upgrades-eight-v100-private-ai-server-to-run-80-percent-of-deepseek-v4-1-flash-at-4-bit-nvfp4-precision-adds-1tb-of-ram-an-nvidia-rtx-3090-and-fixes-crashes-caused-by-a-bad-psu"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remote work increases sleep and reduces physical activity]]></title>
+        <id>https://www.utu.fi/en/news/press-release/remote-work-increases-sleep-and-reduces-physical-activity-sedentary-behaviour</id>
+        <link href="https://www.utu.fi/en/news/press-release/remote-work-increases-sleep-and-reduces-physical-activity-sedentary-behaviour"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Object to Infrastructure: Apple's Rhetorical Canon]]></title>
+        <id>https://medium.com/@smoking2man/from-object-to-infrastructure-apples-rhetorical-canon-and-the-strategic-dilemma-of-the-artificial-4561331865c6</id>
+        <link href="https://medium.com/@smoking2man/from-object-to-infrastructure-apples-rhetorical-canon-and-the-strategic-dilemma-of-the-artificial-4561331865c6"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Why Tailscale? (Open-sourcing my cover letters)"]]></title>
+        <id>https://thoward37.me/blog/articles/why-tailscale/</id>
+        <link href="https://thoward37.me/blog/articles/why-tailscale/"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyperclay: Where your team's HTML files belong]]></title>
+        <id>https://hyperclay.com/</id>
+        <link href="https://hyperclay.com/"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Hello Triangle, a puzzle game where you build a GPU]]></title>
+        <id>https://hellotriangle.icedlatte.ca/</id>
+        <link href="https://hellotriangle.icedlatte.ca/"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LoRA Fine-Tuning: Match Full Fine-Tuning With Far Less GPU (with Hand Drawn Explanations)!]]></title>
+        <id>https://pub.towardsai.net/lora-fine-tuning-match-full-fine-tuning-with-far-less-gpu-f07a336c67f7?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/lora-fine-tuning-match-full-fine-tuning-with-far-less-gpu-f07a336c67f7?source=rss----98111c9905da---4"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Genie Who Granted Me 10,000 Tokens]]></title>
+        <id>https://pub.towardsai.net/the-genie-who-granted-me-10-000-tokens-76bd63ed89c9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-genie-who-granted-me-10-000-tokens-76bd63ed89c9?source=rss----98111c9905da---4"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beads: The Graph Substrate for AI Software Factories and Agentic Workflows]]></title>
+        <id>https://pub.towardsai.net/beads-the-graph-substrate-for-ai-software-factories-and-agentic-workflows-a341bb69a407?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/beads-the-graph-substrate-for-ai-software-factories-and-agentic-workflows-a341bb69a407?source=rss----98111c9905da---4"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developers Felt 20% Faster With AI. A Study Found They Were 19% Slower.]]></title>
+        <id>https://pub.towardsai.net/developers-felt-20-faster-with-ai-a-study-found-they-were-19-slower-26ae64d513b6?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/developers-felt-20-faster-with-ai-a-study-found-they-were-19-slower-26ae64d513b6?source=rss----98111c9905da---4"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
@@ -267,9 +309,30 @@
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[datasette-vega 0.7]]></title>
-        <id>https://simonwillison.net/2026/Nov/14/datasette-vega/</id>
-        <link href="https://simonwillison.net/2026/Nov/14/datasette-vega/"/>
+        <title type="html"><![CDATA[Onboarding UI Design for AI Builders and Vibe Coders: 12 Real App Examples With Copy-Paste Prompts]]></title>
+        <id>https://pub.towardsai.net/onboarding-ui-design-for-ai-builders-and-vibe-coders-12-real-app-examples-with-copy-paste-prompts-32613055ffbd?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/onboarding-ui-design-for-ai-builders-and-vibe-coders-12-real-app-examples-with-copy-paste-prompts-32613055ffbd?source=rss----98111c9905da---4"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM Inference & Serving at Scale: From First Token to 10,000 Concurrent Users]]></title>
+        <id>https://pub.towardsai.net/llm-inference-serving-at-scale-from-first-token-to-10-000-concurrent-users-df872544facc?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/llm-inference-serving-at-scale-from-first-token-to-10-000-concurrent-users-df872544facc?source=rss----98111c9905da---4"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Day 44/100] RAG Chunking Strategies: Why Half Your Answer Lands in the Wrong Chunk]]></title>
+        <id>https://pub.towardsai.net/day-44-100-rag-chunking-strategies-why-half-your-answer-lands-in-the-wrong-chunk-8fe985cb49d5?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/day-44-100-rag-chunking-strategies-why-half-your-answer-lands-in-the-wrong-chunk-8fe985cb49d5?source=rss----98111c9905da---4"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1% of Companies Drive 80% of OpenAI and Anthropic’s Revenue.]]></title>
+        <id>https://pub.towardsai.net/1-of-companies-drive-80-of-openai-and-anthropics-revenue-5d5b5d2d77d8?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/1-of-companies-drive-80-of-openai-and-anthropics-revenue-5d5b5d2d77d8?source=rss----98111c9905da---4"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
@@ -277,6 +340,13 @@
         <title type="html"><![CDATA[datasette-llm 0.1a11]]></title>
         <id>https://simonwillison.net/2026/Nov/14/datasette-llm/</id>
         <link href="https://simonwillison.net/2026/Nov/14/datasette-llm/"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[datasette-vega 0.7]]></title>
+        <id>https://simonwillison.net/2026/Nov/14/datasette-vega/</id>
+        <link href="https://simonwillison.net/2026/Nov/14/datasette-vega/"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
@@ -294,79 +364,9 @@ https://netil.medium.com/billboard-js-4-1-0-live-resizing-configurable-subchart-
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[parseFloat() will quietly change your 17-digit numbers — spelling out amounts with BigInt instead]]></title>
-        <id>https://dev.to/dngzihng114379/parsefloat-will-quietly-change-your-17-digit-numbers-spelling-out-amounts-with-bigint-instead-1852</id>
-        <link href="https://dev.to/dngzihng114379/parsefloat-will-quietly-change-your-17-digit-numbers-spelling-out-amounts-with-bigint-instead-1852"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Vendor Central Self-Service EDI SFTP: Handling 850/855/856/810 Turnarounds, REF*BX ARN & 820 Multi-ADX Deductions in TypeScript]]></title>
-        <id>https://dev.to/laozhangname/amazon-vendor-central-self-service-edi-sftp-handling-850855856810-turnarounds-refbx-arn-820-2i32</id>
-        <link href="https://dev.to/laozhangname/amazon-vendor-central-self-service-edi-sftp-handling-850855856810-turnarounds-refbx-arn-820-2i32"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Built an Autonomous AI News Digest Agent in 48 Hours (Node.js, OpenRouter & Nodemailer)]]></title>
-        <id>https://dev.to/sawastik_bhullar/how-i-built-an-autonomous-ai-news-digest-agent-in-48-hours-nodejs-openrouter-nodemailer-39d3</id>
-        <link href="https://dev.to/sawastik_bhullar/how-i-built-an-autonomous-ai-news-digest-agent-in-48-hours-nodejs-openrouter-nodemailer-39d3"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three more tools, three more countries: Bangladesh's new tax slabs, Sri Lanka's take-home pay and the hidden GPS in your photos]]></title>
-        <id>https://dev.to/zaidi617796/three-more-tools-three-more-countries-bangladeshs-new-tax-slabs-sri-lankas-take-home-pay-and-11bi</id>
-        <link href="https://dev.to/zaidi617796/three-more-tools-three-more-countries-bangladeshs-new-tax-slabs-sri-lankas-take-home-pay-and-11bi"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Pasting ***REDACTED*** into LLMs: Building a Zero-Latency Reversible Secret Vault in Vanilla JS]]></title>
-        <id>https://dev.to/_828dfd5cf64aad3f7659a/stop-pasting-redacted-into-llms-building-a-zero-latency-reversible-secret-vault-in-vanilla-js-2j79</id>
-        <link href="https://dev.to/_828dfd5cf64aad3f7659a/stop-pasting-redacted-into-llms-building-a-zero-latency-reversible-secret-vault-in-vanilla-js-2j79"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is a Bounding Box (BBOX) in GIS? A Practical Guide to Faster Geospatial Queries]]></title>
-        <id>https://dev.to/rakrisi/what-is-a-bounding-box-bbox-in-gis-a-practical-guide-to-faster-geospatial-queries-1kec</id>
-        <link href="https://dev.to/rakrisi/what-is-a-bounding-box-bbox-in-gis-a-practical-guide-to-faster-geospatial-queries-1kec"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When 75% Is Not the Whole Score: Auditing Predictions by Denominator]]></title>
-        <id>https://dev.to/widechaos/when-75-is-not-the-whole-score-auditing-predictions-by-denominator-1mm9</id>
-        <link href="https://dev.to/widechaos/when-75-is-not-the-whole-score-auditing-predictions-by-denominator-1mm9"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How async/await Really Works: From Syntax Sugar to State Machines]]></title>
-        <id>https://dev.to/alysaa_lissy/how-asyncawait-really-works-from-syntax-sugar-to-state-machines-3mkp</id>
-        <link href="https://dev.to/alysaa_lissy/how-asyncawait-really-works-from-syntax-sugar-to-state-machines-3mkp"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How a JavaScript Bundler Works]]></title>
-        <id>https://dev.to/alysaa_lissy/how-a-javascript-bundler-works-4jln</id>
-        <link href="https://dev.to/alysaa_lissy/how-a-javascript-bundler-works-4jln"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern TypeScript: ?., ?? and satisfies without formatting errors]]></title>
-        <id>https://dev.to/jwsolutions/modern-typescript-and-satisfies-without-formatting-errors-4925</id>
-        <link href="https://dev.to/jwsolutions/modern-typescript-and-satisfies-without-formatting-errors-4925"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ai Can Write React Code. Can You Actually Understand It?]]></title>
-        <id>https://dev.to/hamedfarazi/ai-can-write-react-code-can-you-actually-understand-it-227h</id>
-        <link href="https://dev.to/hamedfarazi/ai-can-write-react-code-can-you-actually-understand-it-227h"/>
+        <title type="html"><![CDATA[Turning noisy bathroom-scale data into a projected date: SMA vs. EMA vs. linear regression]]></title>
+        <id>https://dev.to/josefwebdeveloper/turning-noisy-bathroom-scale-data-into-a-projected-date-sma-vs-ema-vs-linear-regression-4bdi</id>
+        <link href="https://dev.to/josefwebdeveloper/turning-noisy-bathroom-scale-data-into-a-projected-date-sma-vs-ema-vs-linear-regression-4bdi"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
