@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-15T02:04:41.012Z</updated>
+    <updated>2026-11-15T04:05:16.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -50,107 +50,16 @@
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Game Works. Your Ad Revenue Is Still in Review]]></title>
-        <id>https://averageusers.substack.com/p/your-game-works-your-ad-revenue-is</id>
-        <link href="https://averageusers.substack.com/p/your-game-works-your-ad-revenue-is"/>
+        <title type="html"><![CDATA[Osint Case Studies]]></title>
+        <id>https://osintsearch.org/blog/osint-case-studies</id>
+        <link href="https://osintsearch.org/blog/osint-case-studies"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Umbrella – macOS app to capture audio from any app]]></title>
-        <id>https://umbrella.pixelegg.me/</id>
-        <link href="https://umbrella.pixelegg.me/"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI in the Search for Extraterrestrial Life]]></title>
-        <id>https://datarootlabs.com/blog/ai-search-extraterrestrial-life</id>
-        <link href="https://datarootlabs.com/blog/ai-search-extraterrestrial-life"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A 4MB EXE file replaced half my Windows utilities]]></title>
-        <id>https://www.makeuseof.com/alomware-toolbox-windows/</id>
-        <link href="https://www.makeuseof.com/alomware-toolbox-windows/"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Court denies motion to dismiss DRAM price fixing case]]></title>
-        <id>https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</id>
-        <link href="https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will a post-scarcity society mold capable and ambitious people?]]></title>
-        <id>https://twitter.com/patrickc/status/2121771165912064379</id>
-        <link href="https://twitter.com/patrickc/status/2121771165912064379"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling Laws in Practice: MuP, WSD and Muon Explained – DeepSeek Did Use IT [video]]]></title>
-        <id>https://www.youtube.com/watch?v=BwJZXBR4k6I</id>
-        <link href="https://www.youtube.com/watch?v=BwJZXBR4k6I"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX catches part of Starship rocket on its return to Earth]]></title>
-        <id>https://www.bbc.com/news/live/cq0k683l3dz3t</id>
-        <link href="https://www.bbc.com/news/live/cq0k683l3dz3t"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A 3D office where real Claude Code sessions work as employees]]></title>
-        <id>https://github.com/brstic/orchestrator</id>
-        <link href="https://github.com/brstic/orchestrator"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Domino Rally – design in 2D, watch in 3D]]></title>
-        <id>https://www.orgiggly.com/dominoes</id>
-        <link href="https://www.orgiggly.com/dominoes"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultra refined ESLint shareable config]]></title>
-        <id>https://www.npmjs.com/package/eslint-config-ultra-refined</id>
-        <link href="https://www.npmjs.com/package/eslint-config-ultra-refined"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new UMAP release brings major performance, quality, and scaling improvements]]></title>
-        <id>https://umap-learn.readthedocs.io/en/latest/whats_new_0_6.html</id>
-        <link href="https://umap-learn.readthedocs.io/en/latest/whats_new_0_6.html"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Mapping the FAA ground stop with open flight-tracking data]]></title>
-        <id>https://news.ycombinator.com/item?id=50502109</id>
-        <link href="https://news.ycombinator.com/item?id=50502109"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Si2 – Advancing Semiconductor Design from Transistors to 3D ICs (Non-Profit Org)]]></title>
-        <id>https://si2.org/</id>
-        <link href="https://si2.org/"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alibaba's Qwen3.8 re-educated with a more Western worldview]]></title>
-        <id>https://www.theregister.com/ai-and-ml/2026/11/13/alibabas-qwen38-re-educated-with-a-more-western-worldview/5309555</id>
-        <link href="https://www.theregister.com/ai-and-ml/2026/11/13/alibabas-qwen38-re-educated-with-a-more-western-worldview/5309555"/>
+        <title type="html"><![CDATA[Ask HN: Is post-training make AI models dumber?]]></title>
+        <id>https://news.ycombinator.com/item?id=50502344</id>
+        <link href="https://news.ycombinator.com/item?id=50502344"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
@@ -162,9 +71,107 @@
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Is post-training make AI models dumber?]]></title>
-        <id>https://news.ycombinator.com/item?id=50502344</id>
-        <link href="https://news.ycombinator.com/item?id=50502344"/>
+        <title type="html"><![CDATA[Alibaba's Qwen3.8 re-educated with a more Western worldview]]></title>
+        <id>https://www.theregister.com/ai-and-ml/2026/11/13/alibabas-qwen38-re-educated-with-a-more-western-worldview/5309555</id>
+        <link href="https://www.theregister.com/ai-and-ml/2026/11/13/alibabas-qwen38-re-educated-with-a-more-western-worldview/5309555"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Si2 – Advancing Semiconductor Design from Transistors to 3D ICs (Non-Profit Org)]]></title>
+        <id>https://si2.org/</id>
+        <link href="https://si2.org/"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Mapping the FAA ground stop with open flight-tracking data]]></title>
+        <id>https://news.ycombinator.com/item?id=50502109</id>
+        <link href="https://news.ycombinator.com/item?id=50502109"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new UMAP release brings major performance, quality, and scaling improvements]]></title>
+        <id>https://umap-learn.readthedocs.io/en/latest/whats_new_0_6.html</id>
+        <link href="https://umap-learn.readthedocs.io/en/latest/whats_new_0_6.html"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultra refined ESLint shareable config]]></title>
+        <id>https://www.npmjs.com/package/eslint-config-ultra-refined</id>
+        <link href="https://www.npmjs.com/package/eslint-config-ultra-refined"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Domino Rally – design in 2D, watch in 3D]]></title>
+        <id>https://www.orgiggly.com/dominoes</id>
+        <link href="https://www.orgiggly.com/dominoes"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A 3D office where real Claude Code sessions work as employees]]></title>
+        <id>https://github.com/brstic/orchestrator</id>
+        <link href="https://github.com/brstic/orchestrator"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX catches part of Starship rocket on its return to Earth]]></title>
+        <id>https://www.bbc.com/news/live/cq0k683l3dz3t</id>
+        <link href="https://www.bbc.com/news/live/cq0k683l3dz3t"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling Laws in Practice: MuP, WSD and Muon Explained – DeepSeek Did Use IT [video]]]></title>
+        <id>https://www.youtube.com/watch?v=BwJZXBR4k6I</id>
+        <link href="https://www.youtube.com/watch?v=BwJZXBR4k6I"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will a post-scarcity society mold capable and ambitious people?]]></title>
+        <id>https://twitter.com/patrickc/status/2121771165912064379</id>
+        <link href="https://twitter.com/patrickc/status/2121771165912064379"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Court denies motion to dismiss DRAM price fixing case]]></title>
+        <id>https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</id>
+        <link href="https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A 4MB EXE file replaced half my Windows utilities]]></title>
+        <id>https://www.makeuseof.com/alomware-toolbox-windows/</id>
+        <link href="https://www.makeuseof.com/alomware-toolbox-windows/"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI in the Search for Extraterrestrial Life]]></title>
+        <id>https://datarootlabs.com/blog/ai-search-extraterrestrial-life</id>
+        <link href="https://datarootlabs.com/blog/ai-search-extraterrestrial-life"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Umbrella – macOS app to capture audio from any app]]></title>
+        <id>https://umbrella.pixelegg.me/</id>
+        <link href="https://umbrella.pixelegg.me/"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Game Works. Your Ad Revenue Is Still in Review]]></title>
+        <id>https://averageusers.substack.com/p/your-game-works-your-ad-revenue-is</id>
+        <link href="https://averageusers.substack.com/p/your-game-works-your-ad-revenue-is"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
@@ -231,128 +238,72 @@ https://netil.medium.com/billboard-js-4-1-0-live-resizing-configurable-subchart-
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ai Can Write React Code. Can You Actually Understand It?]]></title>
-        <id>https://dev.to/hamedfarazi/ai-can-write-react-code-can-you-actually-understand-it-227h</id>
-        <link href="https://dev.to/hamedfarazi/ai-can-write-react-code-can-you-actually-understand-it-227h"/>
+        <title type="html"><![CDATA[Una aplicación de tareas académicas con JavaScript y Cloud Firestore]]></title>
+        <id>https://dev.to/antonys3010/una-aplicacion-de-tareas-academicas-con-javascript-y-cloud-firestore-40nf</id>
+        <link href="https://dev.to/antonys3010/una-aplicacion-de-tareas-academicas-con-javascript-y-cloud-firestore-40nf"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parsing bank statement PDFs in the browser, with a CSP that proves nothing gets uploaded]]></title>
-        <id>https://dev.to/paidandfiled/parsing-bank-statement-pdfs-in-the-browser-with-a-csp-that-proves-nothing-gets-uploaded-4772</id>
-        <link href="https://dev.to/paidandfiled/parsing-bank-statement-pdfs-in-the-browser-with-a-csp-that-proves-nothing-gets-uploaded-4772"/>
+        <title type="html"><![CDATA[5 Real Apps Using Rive Animation: Interactive UI Examples Developers Can Learn From]]></title>
+        <id>https://dev.to/uianimation/5-real-apps-using-rive-animation-interactive-ui-examples-developers-can-learn-from-3176</id>
+        <link href="https://dev.to/uianimation/5-real-apps-using-rive-animation-interactive-ui-examples-developers-can-learn-from-3176"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Self-defending JavaScript and checksums fail once the attacker can patch the checker]]></title>
-        <id>https://dev.to/veilvm/self-defending-javascript-and-checksums-fail-once-the-attacker-can-patch-the-checker-3723</id>
-        <link href="https://dev.to/veilvm/self-defending-javascript-and-checksums-fail-once-the-attacker-can-patch-the-checker-3723"/>
+        <title type="html"><![CDATA[Debugging Is Not a Setback — It's Part of Software Development]]></title>
+        <id>https://dev.to/abdulhaseebmari/debugging-is-not-a-setback-its-part-of-software-development-30n3</id>
+        <link href="https://dev.to/abdulhaseebmari/debugging-is-not-a-setback-its-part-of-software-development-30n3"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A 13,000-page static games site with no framework, and the robots.txt rule that hid our CSS from Google]]></title>
-        <id>https://dev.to/easyfreegames/a-13000-page-static-games-site-with-no-framework-and-the-robotstxt-rule-that-hid-our-css-from-50ic</id>
-        <link href="https://dev.to/easyfreegames/a-13000-page-static-games-site-with-no-framework-and-the-robotstxt-rule-that-hid-our-css-from-50ic"/>
+        <title type="html"><![CDATA[Modelling Thailand's draft stablecoin rules: a daily cap and a same-owner check in 50 lines of Node]]></title>
+        <id>https://dev.to/coincrest_io/modelling-thailands-draft-stablecoin-rules-a-daily-cap-and-a-same-owner-check-in-50-lines-of-node-31hb</id>
+        <link href="https://dev.to/coincrest_io/modelling-thailands-draft-stablecoin-rules-a-daily-cap-and-a-same-owner-check-in-50-lines-of-node-31hb"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A JSON column is a schema decision: measuring 50,000 orders in SQLite and D1]]></title>
-        <id>https://dev.to/maptosite/a-json-column-is-a-schema-decision-measuring-50000-orders-in-sqlite-and-d1-18i1</id>
-        <link href="https://dev.to/maptosite/a-json-column-is-a-schema-decision-measuring-50000-orders-in-sqlite-and-d1-18i1"/>
+        <title type="html"><![CDATA[Flat-fee UGC vs pay-per-view UGC: simulate your launch budget in 60 lines of JavaScript]]></title>
+        <id>https://dev.to/findclout/flat-fee-ugc-vs-pay-per-view-ugc-simulate-your-launch-budget-in-60-lines-of-javascript-439j</id>
+        <link href="https://dev.to/findclout/flat-fee-ugc-vs-pay-per-view-ugc-simulate-your-launch-budget-in-60-lines-of-javascript-439j"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your CI artifacts and preview deployments can leak unprotected JavaScript]]></title>
-        <id>https://dev.to/veilvm/your-ci-artifacts-and-preview-deployments-can-leak-unprotected-javascript-12k5</id>
-        <link href="https://dev.to/veilvm/your-ci-artifacts-and-preview-deployments-can-leak-unprotected-javascript-12k5"/>
+        <title type="html"><![CDATA[ElevenLabs + React: Building a Voice-Enabled UI]]></title>
+        <id>https://dev.to/voice_developer/elevenlabs-react-building-a-voice-enabled-ui-45cb</id>
+        <link href="https://dev.to/voice_developer/elevenlabs-react-building-a-voice-enabled-ui-45cb"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Electron Internationalization: A Practical Guide to Locale Detection, Message Formatting, RTL, and Runtime Language Switching]]></title>
-        <id>https://dev.to/mp3sss31/electron-internationalization-a-practical-guide-to-locale-detection-message-formatting-rtl-and-55fj</id>
-        <link href="https://dev.to/mp3sss31/electron-internationalization-a-practical-guide-to-locale-detection-message-formatting-rtl-and-55fj"/>
+        <title type="html"><![CDATA[A deterministic sort key that isn't: the tiebreak your deploy moves]]></title>
+        <id>https://dev.to/minia2a/a-deterministic-sort-key-that-isnt-the-tiebreak-your-deploy-moves-oma</id>
+        <link href="https://dev.to/minia2a/a-deterministic-sort-key-that-isnt-the-tiebreak-your-deploy-moves-oma"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The won that disappears at the boundary: measuring money rounding in Python, V8, SQLite and D1]]></title>
-        <id>https://dev.to/maptosite/the-won-that-disappears-at-the-boundary-measuring-money-rounding-in-python-v8-sqlite-and-d1-131p</id>
-        <link href="https://dev.to/maptosite/the-won-that-disappears-at-the-boundary-measuring-money-rounding-in-python-v8-sqlite-and-d1-131p"/>
+        <title type="html"><![CDATA[Chrome Extension Landing Page: 6 Blocks That Drive Installs]]></title>
+        <id>https://dev.to/extensionbooster/chrome-extension-landing-page-6-blocks-that-drive-installs-3f6m</id>
+        <link href="https://dev.to/extensionbooster/chrome-extension-landing-page-6-blocks-that-drive-installs-3f6m"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSLab launch-day FAQ, answered from the docs]]></title>
-        <id>https://dev.to/jslab/jslab-launch-day-faq-answered-from-the-docs-1304</id>
-        <link href="https://dev.to/jslab/jslab-launch-day-faq-answered-from-the-docs-1304"/>
+        <title type="html"><![CDATA[Headless Chrome is a process, not a function: lifecycle, memory and failure modes in browser automation]]></title>
+        <id>https://dev.to/maptosite/headless-chrome-is-a-process-not-a-function-lifecycle-memory-and-failure-modes-in-browser-563n</id>
+        <link href="https://dev.to/maptosite/headless-chrome-is-a-process-not-a-function-lifecycle-memory-and-failure-modes-in-browser-563n"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Validar CPF e CNPJ em JavaScript: o módulo 11 explicado (e o CNPJ alfanumérico de 2026)]]></title>
-        <id>https://dev.to/jeitobr/validar-cpf-e-cnpj-em-javascript-o-modulo-11-explicado-e-o-cnpj-alfanumerico-de-2026-5282</id>
-        <link href="https://dev.to/jeitobr/validar-cpf-e-cnpj-em-javascript-o-modulo-11-explicado-e-o-cnpj-alfanumerico-de-2026-5282"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BMI: The Formula, the Categories, and the Boundaries of the Metric]]></title>
-        <id>https://dev.to/miri-calc/bmi-the-formula-the-categories-and-the-boundaries-of-the-metric-57hj</id>
-        <link href="https://dev.to/miri-calc/bmi-the-formula-the-categories-and-the-boundaries-of-the-metric-57hj"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One in Five AliExpress Rows Quoted Exactly $1.09. All Five I Opened Capped It at One Piece]]></title>
-        <id>https://dev.to/matveyg/one-in-five-aliexpress-rows-quoted-exactly-109-all-five-i-opened-capped-it-at-one-piece-3lno</id>
-        <link href="https://dev.to/matveyg/one-in-five-aliexpress-rows-quoted-exactly-109-all-five-i-opened-capped-it-at-one-piece-3lno"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Process Heavy CSV Files Locally in the Browser with Zero Servers]]></title>
-        <id>https://dev.to/nexus_99c5c21c5fa1b1570c5/process-heavy-csv-files-locally-in-the-browser-with-zero-servers-2on</id>
-        <link href="https://dev.to/nexus_99c5c21c5fa1b1570c5/process-heavy-csv-files-locally-in-the-browser-with-zero-servers-2on"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hourly to Annual Pay: The Math and the Assumptions Behind It]]></title>
-        <id>https://dev.to/miri-calc/hourly-to-annual-pay-the-math-and-the-assumptions-behind-it-7cd</id>
-        <link href="https://dev.to/miri-calc/hourly-to-annual-pay-the-math-and-the-assumptions-behind-it-7cd"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Checking Amazon's "pure white background" rule in the browser with canvas and a flood fill]]></title>
-        <id>https://dev.to/de1tay/checking-amazons-pure-white-background-rule-in-the-browser-with-canvas-and-a-flood-fill-1mb3</id>
-        <link href="https://dev.to/de1tay/checking-amazons-pure-white-background-rule-in-the-browser-with-canvas-and-a-flood-fill-1mb3"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Removing image backgrounds fully in the browser with ONNX Runtime Web: models, licences, and what bit me]]></title>
-        <id>https://dev.to/share_space_9abba2c73dce6/removing-image-backgrounds-fully-in-the-browser-with-onnx-runtime-web-models-licences-and-what-3kb9</id>
-        <link href="https://dev.to/share_space_9abba2c73dce6/removing-image-backgrounds-fully-in-the-browser-with-onnx-runtime-web-models-licences-and-what-3kb9"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The odds of a 1-in-N drop: the geometric distribution in a few lines of JavaScript and Python]]></title>
-        <id>https://dev.to/dolphin_studio_ddd7da97a2/the-odds-of-a-1-in-n-drop-the-geometric-distribution-in-a-few-lines-of-javascript-and-python-31al</id>
-        <link href="https://dev.to/dolphin_studio_ddd7da97a2/the-odds-of-a-1-in-n-drop-the-geometric-distribution-in-a-few-lines-of-javascript-and-python-31al"/>
-        <updated>2026-11-14T16:00:00.000Z</updated>
-        <published>2026-11-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello World! I'm a Python Developer from Akwa Ibom, Nigeria]]></title>
-        <id>https://dev.to/wisdomakpandevweb/hello-world-im-a-python-developer-from-akwa-ibom-nigeria-3mkn</id>
-        <link href="https://dev.to/wisdomakpandevweb/hello-world-im-a-python-developer-from-akwa-ibom-nigeria-3mkn"/>
+        <title type="html"><![CDATA[Recortar un MP4 sin dejar los subtítulos en el tiempo del original]]></title>
+        <id>https://dev.to/valmera/recortar-un-mp4-sin-dejar-los-subtitulos-en-el-tiempo-del-original-45mm</id>
+        <link href="https://dev.to/valmera/recortar-un-mp4-sin-dejar-los-subtitulos-en-el-tiempo-del-original-45mm"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
@@ -364,9 +315,58 @@ https://netil.medium.com/billboard-js-4-1-0-live-resizing-configurable-subchart-
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Recortar un MP4 sin dejar los subtítulos en el tiempo del original]]></title>
-        <id>https://dev.to/valmera/recortar-un-mp4-sin-dejar-los-subtitulos-en-el-tiempo-del-original-45mm</id>
-        <link href="https://dev.to/valmera/recortar-un-mp4-sin-dejar-los-subtitulos-en-el-tiempo-del-original-45mm"/>
+        <title type="html"><![CDATA[Hello World! I'm a Python Developer from Akwa Ibom, Nigeria]]></title>
+        <id>https://dev.to/wisdomakpandevweb/hello-world-im-a-python-developer-from-akwa-ibom-nigeria-3mkn</id>
+        <link href="https://dev.to/wisdomakpandevweb/hello-world-im-a-python-developer-from-akwa-ibom-nigeria-3mkn"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The odds of a 1-in-N drop: the geometric distribution in a few lines of JavaScript and Python]]></title>
+        <id>https://dev.to/dolphin_studio_ddd7da97a2/the-odds-of-a-1-in-n-drop-the-geometric-distribution-in-a-few-lines-of-javascript-and-python-31al</id>
+        <link href="https://dev.to/dolphin_studio_ddd7da97a2/the-odds-of-a-1-in-n-drop-the-geometric-distribution-in-a-few-lines-of-javascript-and-python-31al"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Removing image backgrounds fully in the browser with ONNX Runtime Web: models, licences, and what bit me]]></title>
+        <id>https://dev.to/share_space_9abba2c73dce6/removing-image-backgrounds-fully-in-the-browser-with-onnx-runtime-web-models-licences-and-what-3kb9</id>
+        <link href="https://dev.to/share_space_9abba2c73dce6/removing-image-backgrounds-fully-in-the-browser-with-onnx-runtime-web-models-licences-and-what-3kb9"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Checking Amazon's "pure white background" rule in the browser with canvas and a flood fill]]></title>
+        <id>https://dev.to/de1tay/checking-amazons-pure-white-background-rule-in-the-browser-with-canvas-and-a-flood-fill-1mb3</id>
+        <link href="https://dev.to/de1tay/checking-amazons-pure-white-background-rule-in-the-browser-with-canvas-and-a-flood-fill-1mb3"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hourly to Annual Pay: The Math and the Assumptions Behind It]]></title>
+        <id>https://dev.to/miri-calc/hourly-to-annual-pay-the-math-and-the-assumptions-behind-it-7cd</id>
+        <link href="https://dev.to/miri-calc/hourly-to-annual-pay-the-math-and-the-assumptions-behind-it-7cd"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Process Heavy CSV Files Locally in the Browser with Zero Servers]]></title>
+        <id>https://dev.to/nexus_99c5c21c5fa1b1570c5/process-heavy-csv-files-locally-in-the-browser-with-zero-servers-2on</id>
+        <link href="https://dev.to/nexus_99c5c21c5fa1b1570c5/process-heavy-csv-files-locally-in-the-browser-with-zero-servers-2on"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One in Five AliExpress Rows Quoted Exactly $1.09. All Five I Opened Capped It at One Piece]]></title>
+        <id>https://dev.to/matveyg/one-in-five-aliexpress-rows-quoted-exactly-109-all-five-i-opened-capped-it-at-one-piece-3lno</id>
+        <link href="https://dev.to/matveyg/one-in-five-aliexpress-rows-quoted-exactly-109-all-five-i-opened-capped-it-at-one-piece-3lno"/>
+        <updated>2026-11-14T16:00:00.000Z</updated>
+        <published>2026-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMI: The Formula, the Categories, and the Boundaries of the Metric]]></title>
+        <id>https://dev.to/miri-calc/bmi-the-formula-the-categories-and-the-boundaries-of-the-metric-57hj</id>
+        <link href="https://dev.to/miri-calc/bmi-the-formula-the-categories-and-the-boundaries-of-the-metric-57hj"/>
         <updated>2026-11-14T16:00:00.000Z</updated>
         <published>2026-11-14T16:00:00.000Z</published>
     </entry>
