@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-16 23:04:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-17 06:01:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -9,13 +9,13 @@
 
 - [2026-11-15-Shifting-Compute-to-the-Client:-Architecture-and-Advantages-of-Zero-Backend-File-Utilities](https://dev.to/janith_madusanka_49129a13/shifting-compute-to-the-client-architecture-and-advantages-of-zero-backend-file-utilities-o86) 
 - [2026-11-14-Preventing-Feedback-Loops-in-a-Two-Way-Vue-Unit-Converter](https://dev.to/begoodtool/preventing-feedback-loops-in-a-two-way-vue-unit-converter-1gni) 
-- [2026-11-11-What-a-Number-Guessing-Game-Teaches-About-Binary-Search-and-Vue-State](https://dev.to/begoodtool/what-a-number-guessing-game-teaches-about-binary-search-and-vue-state-445a) 
 - [2026-11-11-You're-Still-Optimizing-Re-Renders-Wrong:-The-Vue-3-Architecture-That-Outsmarted-the-Virtual-DOM](https://dev.to/smtahosin/youre-still-optimizing-re-renders-wrong-the-vue-3-architecture-that-outsmarted-the-virtual-dom-3fd1) 
+- [2026-11-11-What-a-Number-Guessing-Game-Teaches-About-Binary-Search-and-Vue-State](https://dev.to/begoodtool/what-a-number-guessing-game-teaches-about-binary-search-and-vue-state-445a) 
 - [2026-11-09-Firefox-for-Web-Developers:-DevTools-Advantages-and-Extensions-Worth-Installing](https://dev.to/weatherclockdash/firefox-for-web-developers-devtools-advantages-and-extensions-worth-installing-2if7) 
 - [2026-11-07-Vue.js-for-Beginners:-Build-Interactive-Websites-Without-the-Steep-Learning-Curve](https://dev.to/arhan_khan/vuejs-for-beginners-build-interactive-websites-without-the-steep-learning-curve-4m5g) 
 - [2026-11-04-Engineering-Sector-76:-Building-a-Factorio-Inspired-Dieselpunk-MMO-in-the-Browser-Vue-3,-sass,-Three.js,-GSAP](https://dev.to/manukyan21/engineering-sector-76-building-a-factorio-inspired-dieselpunk-mmo-in-the-browser-vue-3-sass-27ib) 
-- [2026-11-03-What-migrating-a-Vuetify-2-dashboard-to-Vue-3-actually-took](https://dev.to/sayedesmail/what-migrating-a-vuetify-2-dashboard-to-vue-3-actually-took-2nih) 
 - [2026-11-03-Streaming-Markdown-in-Vue:-Rendering-LLM-Tokens-Without-Flicker](https://dev.to/simonhe95/streaming-markdown-in-vue-rendering-llm-tokens-without-flicker-4fne) 
+- [2026-11-03-What-migrating-a-Vuetify-2-dashboard-to-Vue-3-actually-took](https://dev.to/sayedesmail/what-migrating-a-vuetify-2-dashboard-to-vue-3-actually-took-2nih) 
 - [2026-11-01-Why-Personal-Branding-in-2026-Is-a-Powerful-Business-Advantage-https://theabin.com/](https://dev.to/abin_8de28b1fac6c29579cf2/why-personal-branding-in-2026-is-a-powerful-business-advantage-33mk) 
 - [2026-10-26-Contributing-to-Vite+-Inside-Stories-—-Vue-Fes-Japan-2026-Speaker-Notes](https://dev.to/naokihaba/contributing-to-vite-inside-stories-vue-fes-japan-2026-speaker-notes-3pm4) 
 - [2026-10-25-My-Vue-Library-Had-99%-Line-Coverage.-Mutation-Testing-Found-Two-Bugs-Anyway.](https://dev.to/navidjaberi/my-vue-library-had-99-line-coverage-mutation-testing-found-two-bugs-anyway-d5b) 
@@ -32,6 +32,7 @@
 - [2026-10-23-Probing-and-Steering-for-Safety-Relevant-Behaviours-in-Large-Language-Models](https://arxiv.org/abs/2610.30363) 
 - [2026-10-22-Can-Quantum-Layers-offer-Performance-and-Security-Advantages-in-Vision-Language-Models?](https://arxiv.org/abs/2610.28964) 
 - [2026-11-16-5-Things-That-Keep-Software-Engineers-Relevant-When-AI-Writes-the-Code](https://pub.towardsai.net/5-things-that-keep-software-engineers-relevant-when-ai-writes-the-code-83d8e105c4e4?source=rss----98111c9905da---4) 
+- [2026-11-17-Quvanti-Labs](https://news.ycombinator.com/item?id=50523886) 
 - [2026-11-15-Show-HN:-Vantage-V-AI-–-2-bit-ternary-KV-cache-with-attention-sinks](https://github.com/khoadev-vn/VANTAGE-V-AI) 
 - [2026-11-12-Show-HN:-OpenVue-–-MIT-licensed-community-fork-of-PrimeVue](https://github.com/openvi-foundation/openvue) 
 - [2026-11-11-Show-HN:-Find-relevant-signals-on-X-for-your-company](https://www.tweexai.com) 
