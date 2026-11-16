@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-16T07:04:37.978Z</updated>
+    <updated>2026-11-16T10:04:52.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Rosetta 2 即将退役，Mac 老应用何去何从？]]></title>
+        <id>https://sspai.com/post/118100</id>
+        <link href="https://sspai.com/post/118100"/>
+        <updated>2026-11-15T16:00:00.000Z</updated>
+        <published>2026-11-15T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple’s first smart glasses are coming together]]></title>
         <id>https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together</id>
@@ -50,114 +57,37 @@
         <published>2026-11-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: GummyType – Free bubble letter generator with transparent PNG export]]></title>
-        <id>https://gummytype.com</id>
-        <link href="https://gummytype.com"/>
+        <title type="html"><![CDATA[Running untrusted CMS plugins in WebAssembly]]></title>
+        <id>https://hatamoto.dev/post/running-untrusted-cms-plugins-in-webassembly</id>
+        <link href="https://hatamoto.dev/post/running-untrusted-cms-plugins-in-webassembly"/>
         <updated>2026-11-15T16:00:00.000Z</updated>
         <published>2026-11-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Memeo – Turn static photos into lip-synced AI meme videos in seconds]]></title>
-        <id>https://memeo.app/</id>
-        <link href="https://memeo.app/"/>
+        <title type="html"><![CDATA[Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags]]></title>
+        <id>https://github.com/plabayo/venndb</id>
+        <link href="https://github.com/plabayo/venndb"/>
         <updated>2026-11-15T16:00:00.000Z</updated>
         <published>2026-11-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mapping cyber risk in the era of AI: Which industries are most exposed?]]></title>
-        <id>https://www.moodys.com/web/en/us/insights/data-stories/moodys-2026-cyber-risk-exposure-heat-map-ranks-21-sectors.html</id>
-        <link href="https://www.moodys.com/web/en/us/insights/data-stories/moodys-2026-cyber-risk-exposure-heat-map-ranks-21-sectors.html"/>
+        <title type="html"><![CDATA[A Complexity Scientist's View of Antarctica]]></title>
+        <id>https://thefriendlyghost.nl/antarctica-through-complexity</id>
+        <link href="https://thefriendlyghost.nl/antarctica-through-complexity"/>
         <updated>2026-11-15T16:00:00.000Z</updated>
         <published>2026-11-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guineas' population was much larger than expected]]></title>
-        <id>https://www.reddit.com/r/overpopulation/comments/1ricesi/guineas_population_was_much_larger_than_expected/</id>
-        <link href="https://www.reddit.com/r/overpopulation/comments/1ricesi/guineas_population_was_much_larger_than_expected/"/>
+        <title type="html"><![CDATA[How to keep servers from exiting load balancer pool]]></title>
+        <id>https://software.mihvoi.org/2026/11/how-to-keep-servers-from-exiting-load-balancer-pool-software-resilience-and-reliability.html</id>
+        <link href="https://software.mihvoi.org/2026/11/how-to-keep-servers-from-exiting-load-balancer-pool-software-resilience-and-reliability.html"/>
         <updated>2026-11-15T16:00:00.000Z</updated>
         <published>2026-11-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Rbit – Self Hosted Git Forge in Rust]]></title>
-        <id>https://rbit.sh/</id>
-        <link href="https://rbit.sh/"/>
-        <updated>2026-11-15T16:00:00.000Z</updated>
-        <published>2026-11-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Speech Recognizer from Scratch in Rust, No Dependencies]]></title>
-        <id>https://speech.tobiokewole.com/</id>
-        <link href="https://speech.tobiokewole.com/"/>
-        <updated>2026-11-15T16:00:00.000Z</updated>
-        <published>2026-11-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reading JSON at 277 GB/s in Python]]></title>
-        <id>https://lemire.me/blog/2026/11/14/reading-json-at-277-gb-s-in-python/</id>
-        <link href="https://lemire.me/blog/2026/11/14/reading-json-at-277-gb-s-in-python/"/>
-        <updated>2026-11-15T16:00:00.000Z</updated>
-        <published>2026-11-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colbin: Serialization format faster and smaller than Protobuf. No code-gen]]></title>
-        <id>https://github.com/ivanjoz/colbin</id>
-        <link href="https://github.com/ivanjoz/colbin"/>
-        <updated>2026-11-15T16:00:00.000Z</updated>
-        <published>2026-11-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Current human speed versus AI speed [video]]]></title>
-        <id>https://www.youtube.com/watch?v=9PznwFjA4to</id>
-        <link href="https://www.youtube.com/watch?v=9PznwFjA4to"/>
-        <updated>2026-11-15T16:00:00.000Z</updated>
-        <published>2026-11-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jensen Huang Discusses Comeback as Nvidia CEO with Allies]]></title>
-        <id>https://www.usnews.com/news/top-news/articles/2026-11-15/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports</id>
-        <link href="https://www.usnews.com/news/top-news/articles/2026-11-15/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports"/>
-        <updated>2026-11-15T16:00:00.000Z</updated>
-        <published>2026-11-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The need for at least a third option]]></title>
-        <id>https://blog.ovalerio.net/archives/3359</id>
-        <link href="https://blog.ovalerio.net/archives/3359"/>
-        <updated>2026-11-15T16:00:00.000Z</updated>
-        <published>2026-11-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything Made by an AI Is in the Public Domain]]></title>
-        <id>https://pluralistic.net/2023/08/20/everything-made-by-an-ai-is-in-the-public-domain/</id>
-        <link href="https://pluralistic.net/2023/08/20/everything-made-by-an-ai-is-in-the-public-domain/"/>
-        <updated>2026-11-15T16:00:00.000Z</updated>
-        <published>2026-11-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Who is Hiring?" postings stuck near 12-year lows as AI reaches half of all jobs]]></title>
-        <id>https://www.hntrends.com/2026/november.html</id>
-        <link href="https://www.hntrends.com/2026/november.html"/>
-        <updated>2026-11-15T16:00:00.000Z</updated>
-        <published>2026-11-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How NewsNinja syncs all its data in less than 1 MB of iCloud]]></title>
-        <id>https://ainews.ninja/blog/icloud-key-value-store-sync/</id>
-        <link href="https://ainews.ninja/blog/icloud-key-value-store-sync/"/>
-        <updated>2026-11-15T16:00:00.000Z</updated>
-        <published>2026-11-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Woolworths customers report funds stolen from digital gift cards]]></title>
-        <id>https://www.abc.net.au/news/2026-11-16/woolworths-customers-report-money-stolen-from-digital-gift-cards/107387340</id>
-        <link href="https://www.abc.net.au/news/2026-11-16/woolworths-customers-report-money-stolen-from-digital-gift-cards/107387340"/>
-        <updated>2026-11-15T16:00:00.000Z</updated>
-        <published>2026-11-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dffy: A fast terminal-native Git diff viewer, written in Rust]]></title>
-        <id>https://github.com/amalucelli/dffy</id>
-        <link href="https://github.com/amalucelli/dffy"/>
+        <title type="html"><![CDATA[Will the AI boom continue? Forecasting the trajectory of the AI industry]]></title>
+        <id>https://forecastingresearch.substack.com/p/will-the-ai-boom-continue-forecasting</id>
+        <link href="https://forecastingresearch.substack.com/p/will-the-ai-boom-continue-forecasting"/>
         <updated>2026-11-15T16:00:00.000Z</updated>
         <published>2026-11-15T16:00:00.000Z</published>
     </entry>
@@ -169,9 +99,114 @@
         <published>2026-11-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Will the AI boom continue? Forecasting the trajectory of the AI industry]]></title>
-        <id>https://forecastingresearch.substack.com/p/will-the-ai-boom-continue-forecasting</id>
-        <link href="https://forecastingresearch.substack.com/p/will-the-ai-boom-continue-forecasting"/>
+        <title type="html"><![CDATA[Dffy: A fast terminal-native Git diff viewer, written in Rust]]></title>
+        <id>https://github.com/amalucelli/dffy</id>
+        <link href="https://github.com/amalucelli/dffy"/>
+        <updated>2026-11-15T16:00:00.000Z</updated>
+        <published>2026-11-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Woolworths customers report funds stolen from digital gift cards]]></title>
+        <id>https://www.abc.net.au/news/2026-11-16/woolworths-customers-report-money-stolen-from-digital-gift-cards/107387340</id>
+        <link href="https://www.abc.net.au/news/2026-11-16/woolworths-customers-report-money-stolen-from-digital-gift-cards/107387340"/>
+        <updated>2026-11-15T16:00:00.000Z</updated>
+        <published>2026-11-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How NewsNinja syncs all its data in less than 1 MB of iCloud]]></title>
+        <id>https://ainews.ninja/blog/icloud-key-value-store-sync/</id>
+        <link href="https://ainews.ninja/blog/icloud-key-value-store-sync/"/>
+        <updated>2026-11-15T16:00:00.000Z</updated>
+        <published>2026-11-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Who is Hiring?" postings stuck near 12-year lows as AI reaches half of all jobs]]></title>
+        <id>https://www.hntrends.com/2026/november.html</id>
+        <link href="https://www.hntrends.com/2026/november.html"/>
+        <updated>2026-11-15T16:00:00.000Z</updated>
+        <published>2026-11-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything Made by an AI Is in the Public Domain]]></title>
+        <id>https://pluralistic.net/2023/08/20/everything-made-by-an-ai-is-in-the-public-domain/</id>
+        <link href="https://pluralistic.net/2023/08/20/everything-made-by-an-ai-is-in-the-public-domain/"/>
+        <updated>2026-11-15T16:00:00.000Z</updated>
+        <published>2026-11-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The need for at least a third option]]></title>
+        <id>https://blog.ovalerio.net/archives/3359</id>
+        <link href="https://blog.ovalerio.net/archives/3359"/>
+        <updated>2026-11-15T16:00:00.000Z</updated>
+        <published>2026-11-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jensen Huang Discusses Comeback as Nvidia CEO with Allies]]></title>
+        <id>https://www.usnews.com/news/top-news/articles/2026-11-15/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports</id>
+        <link href="https://www.usnews.com/news/top-news/articles/2026-11-15/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports"/>
+        <updated>2026-11-15T16:00:00.000Z</updated>
+        <published>2026-11-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Current human speed versus AI speed [video]]]></title>
+        <id>https://www.youtube.com/watch?v=9PznwFjA4to</id>
+        <link href="https://www.youtube.com/watch?v=9PznwFjA4to"/>
+        <updated>2026-11-15T16:00:00.000Z</updated>
+        <published>2026-11-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colbin: Serialization format faster and smaller than Protobuf. No code-gen]]></title>
+        <id>https://github.com/ivanjoz/colbin</id>
+        <link href="https://github.com/ivanjoz/colbin"/>
+        <updated>2026-11-15T16:00:00.000Z</updated>
+        <published>2026-11-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reading JSON at 277 GB/s in Python]]></title>
+        <id>https://lemire.me/blog/2026/11/14/reading-json-at-277-gb-s-in-python/</id>
+        <link href="https://lemire.me/blog/2026/11/14/reading-json-at-277-gb-s-in-python/"/>
+        <updated>2026-11-15T16:00:00.000Z</updated>
+        <published>2026-11-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Speech Recognizer from Scratch in Rust, No Dependencies]]></title>
+        <id>https://speech.tobiokewole.com/</id>
+        <link href="https://speech.tobiokewole.com/"/>
+        <updated>2026-11-15T16:00:00.000Z</updated>
+        <published>2026-11-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Rbit – Self Hosted Git Forge in Rust]]></title>
+        <id>https://rbit.sh/</id>
+        <link href="https://rbit.sh/"/>
+        <updated>2026-11-15T16:00:00.000Z</updated>
+        <published>2026-11-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guineas' population was much larger than expected]]></title>
+        <id>https://www.reddit.com/r/overpopulation/comments/1ricesi/guineas_population_was_much_larger_than_expected/</id>
+        <link href="https://www.reddit.com/r/overpopulation/comments/1ricesi/guineas_population_was_much_larger_than_expected/"/>
+        <updated>2026-11-15T16:00:00.000Z</updated>
+        <published>2026-11-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mapping cyber risk in the era of AI: Which industries are most exposed?]]></title>
+        <id>https://www.moodys.com/web/en/us/insights/data-stories/moodys-2026-cyber-risk-exposure-heat-map-ranks-21-sectors.html</id>
+        <link href="https://www.moodys.com/web/en/us/insights/data-stories/moodys-2026-cyber-risk-exposure-heat-map-ranks-21-sectors.html"/>
+        <updated>2026-11-15T16:00:00.000Z</updated>
+        <published>2026-11-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Memeo – Turn static photos into lip-synced AI meme videos in seconds]]></title>
+        <id>https://memeo.app/</id>
+        <link href="https://memeo.app/"/>
+        <updated>2026-11-15T16:00:00.000Z</updated>
+        <published>2026-11-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: GummyType – Free bubble letter generator with transparent PNG export]]></title>
+        <id>https://gummytype.com</id>
+        <link href="https://gummytype.com"/>
         <updated>2026-11-15T16:00:00.000Z</updated>
         <published>2026-11-15T16:00:00.000Z</published>
     </entry>
@@ -326,41 +361,6 @@
         <title type="html"><![CDATA[LightTAR: Light and Fast Target-Aware Representations for Multimodal Tabular Learning]]></title>
         <id>https://arxiv.org/abs/2611.17600</id>
         <link href="https://arxiv.org/abs/2611.17600"/>
-        <updated>2026-11-15T16:00:00.000Z</updated>
-        <published>2026-11-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Offline KL-Regularized Reinforcement Learning with Stochastic Transitions]]></title>
-        <id>https://arxiv.org/abs/2611.17603</id>
-        <link href="https://arxiv.org/abs/2611.17603"/>
-        <updated>2026-11-15T16:00:00.000Z</updated>
-        <published>2026-11-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A mesh-free deep energy method for phase-field modeling of thermally driven brittle fracture]]></title>
-        <id>https://arxiv.org/abs/2611.17630</id>
-        <link href="https://arxiv.org/abs/2611.17630"/>
-        <updated>2026-11-15T16:00:00.000Z</updated>
-        <published>2026-11-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Classifier-Guided Latent Diffusion for Small-Molecule Generation]]></title>
-        <id>https://arxiv.org/abs/2611.17650</id>
-        <link href="https://arxiv.org/abs/2611.17650"/>
-        <updated>2026-11-15T16:00:00.000Z</updated>
-        <published>2026-11-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logically Consistent Accurate Forecasts]]></title>
-        <id>https://arxiv.org/abs/2611.17735</id>
-        <link href="https://arxiv.org/abs/2611.17735"/>
-        <updated>2026-11-15T16:00:00.000Z</updated>
-        <published>2026-11-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Federated Physics-Informed Thermal Field Prediction Across Unseen Geometries in Distributed Additive Manufacturing]]></title>
-        <id>https://arxiv.org/abs/2611.17794</id>
-        <link href="https://arxiv.org/abs/2611.17794"/>
         <updated>2026-11-15T16:00:00.000Z</updated>
         <published>2026-11-15T16:00:00.000Z</published>
     </entry>
