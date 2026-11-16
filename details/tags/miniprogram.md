@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-16 18:04:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-16 21:05:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 小程序
 
@@ -7,4 +7,5 @@
 
 
 
+- [2026-11-16-Free-tarot-card-data-for-your-app:-JSON,-CSV-and-a-daily-card-embed](https://dev.to/tarostarot/free-tarot-card-data-for-your-app-json-csv-and-a-daily-card-embed-4g77) 
 - [2026-11-05-Septaro,-an-AI-powered-weekly-reset-to-help-you-pursue-your-goals](https://septaro.com) 
