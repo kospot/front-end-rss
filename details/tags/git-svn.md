@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-16 12:06:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-16 15:04:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -25,10 +25,11 @@ https://github.com/webdiscus/pathmask
 - [2026-11-06-Inside-GitHub’s-new-Git-storage-architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/) 
 - [2026-10-29-GitHub-Universe-2026:-Evolving-every-layer-of-the-stack](https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/) 
 - [2026-10-20-How-to-continue-a-GitHub-Copilot-app-session-in-VS-Code](https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/) 
-- [2026-11-05-LongCounsel-8:-A-Benchmark-Suite-for-Longitudinal-Depression-Tracking-from-Multi-Session-Counseling-Dialogues](https://arxiv.org/abs/2609.03507) 
+- [2026-11-16-Waveform-based-pulse-timing-enhanced-by-self-supervised-neural-regression-models-for-digital-nuclear-instrumentation](https://arxiv.org/abs/2611.17356) 
 - [2026-11-05-Network-Intrusion-Forensic-Detection-System-with-Explainable-Artificial-Intelligence-and-Digital-Chain-of-Custody](https://arxiv.org/abs/2611.06173) 
-- [2026-11-02-Optimal-Design-for-Multinomial-Logit-Model-with-Applications-to-Best-Assortment-Identification](https://arxiv.org/abs/2605.25592) 
+- [2026-11-05-LongCounsel-8:-A-Benchmark-Suite-for-Longitudinal-Depression-Tracking-from-Multi-Session-Counseling-Dialogues](https://arxiv.org/abs/2609.03507) 
 - [2026-11-02-Intervention-Conditioned-Counterfactual-Human-Digital-Twin-Generator](https://arxiv.org/abs/2610.40664) 
+- [2026-11-02-Optimal-Design-for-Multinomial-Logit-Model-with-Applications-to-Best-Assortment-Identification](https://arxiv.org/abs/2605.25592) 
 - [2026-10-28-Cost-aware-Bayesian-Optimization-via-the-Pandora's-Box-Gittins-Index](https://arxiv.org/abs/2406.20062) 
 - [2026-10-23-Evaluating-Type-1-Diabetes-Digital-Twins-by-Decision-Quality](https://arxiv.org/abs/2610.30577) 
 - [2026-10-21-Bridging-Digital-Deception-and-Physical-Fidelity:-A-Spatio-Temporal-Attack-on-Cognitive-Radars](https://arxiv.org/abs/2610.27585) 
@@ -36,8 +37,8 @@ https://github.com/webdiscus/pathmask
 - [2026-10-29-GitHub-Octoverse-2026](https://simonwillison.net/2026/Oct/28/github-octoverse-2026/) 
 - [2026-11-13-12-GitHub-Repos-That-Turn-AI-Into-Your-Slide,-Report-and-Marketing-Team-No-Coding-Needed](https://pub.towardsai.net/12-github-repos-that-turn-ai-into-your-slide-report-and-marketing-team-no-coding-needed-35071c96c885?source=rss----98111c9905da---4) 
 - [2026-11-11-Claude-Code’s-‘Don’t-Ask-Again’-Files-Exposed-Secrets-on-GitHub](https://pub.towardsai.net/claude-codes-don-t-ask-again-files-exposed-secrets-on-github-9bd63d39568c?source=rss----98111c9905da---4) 
-- [2026-11-09-Stop-Building-AI-Agents-From-Scratch.-Try-These-12-GitHub-Repos](https://pub.towardsai.net/stop-building-ai-agents-from-scratch-try-these-12-github-repos-8f6ad76f3599?source=rss----98111c9905da---4) 
 - [2026-11-09-GitHub’s-New-Copilot-Mode-Doesn’t-Pick-One-AI-Model-—-It-Picks-Whichever-One-The-Task-Needs](https://pub.towardsai.net/githubs-new-copilot-mode-doesn-t-pick-one-ai-model-it-picks-whichever-one-the-task-needs-880eaf1c381a?source=rss----98111c9905da---4) 
+- [2026-11-09-Stop-Building-AI-Agents-From-Scratch.-Try-These-12-GitHub-Repos](https://pub.towardsai.net/stop-building-ai-agents-from-scratch-try-these-12-github-repos-8f6ad76f3599?source=rss----98111c9905da---4) 
 - [2026-11-08-I-Stopped-Using-Claude-Code-Like-a-Chatbot.-These-10-GitHub-Tools-Changed-Everything.](https://pub.towardsai.net/i-stopped-using-claude-code-like-a-chatbot-these-10-github-tools-changed-everything-7a476d4d51d8?source=rss----98111c9905da---4) 
 - [2026-11-07-15-GitHub-Repos-That-Turn-Claude-Code,-Codex-and-OpenCode-Into-a-Real-Team](https://pub.towardsai.net/15-github-repos-that-turn-claude-code-codex-and-opencode-into-a-real-team-fb4b18a99efe?source=rss----98111c9905da---4) 
 - [2026-10-31-GitHub-Copilot-Cloud-Sessions:-The-Resume-Gate-That-Stops-Agent-Drift](https://pub.towardsai.net/github-copilot-cloud-sessions-the-resume-gate-that-stops-agent-drift-263e2bfc300b?source=rss----98111c9905da---4) 
