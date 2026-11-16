@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-16 06:00:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-16 08:01:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -14,8 +14,8 @@
 - [2026-10-29-Cookie-Dependent-Content-and-SEO:-Test-the-Page-Without-Yesterday's-State](https://dev.to/urielbitton/cookie-dependent-content-and-seo-test-the-page-without-yesterdays-state-2coh) 
 - [2026-10-28-Website-Redesign-SEO:-How-to-Redesign-Without-Losing-Rankings](https://dev.to/makuevpro/website-redesign-seo-how-to-redesign-without-losing-rankings-42fg) 
 - [2026-10-25-Local-SEO-Basics-for-Service-Businesses](https://dev.to/jaybarker/local-seo-basics-for-service-businesses-58cm) 
-- [2026-10-22-SPA-SEO-in-2026:-Googlebot-Renders-Your-App.-ChatGPT-Doesn't.](https://dev.to/lovedbyai/spa-seo-in-2026-googlebot-renders-your-app-chatgpt-doesnt-549a) 
 - [2026-10-22-Gaurish-Technologies-|-AI-Solutions,-Web-Development,-SEO-&amp;-Digital-Marketing](https://dev.to/gaurish_tech/gaurish-technologies-ai-solutions-web-development-seo-digital-marketing-5a1j) 
+- [2026-10-22-SPA-SEO-in-2026:-Googlebot-Renders-Your-App.-ChatGPT-Doesn't.](https://dev.to/lovedbyai/spa-seo-in-2026-googlebot-renders-your-app-chatgpt-doesnt-549a) 
 - [2026-10-19-We-Built-3-Manifest-V3-Chrome-Extensions-to-Replace-$290/Month-in-B2B-Tech-Stack,-UI-Design-Token,-and-AI-Search-SEO-Subscriptions](https://dev.to/brian_a2eebd5059c1c2/we-built-3-manifest-v3-chrome-extensions-to-replace-290month-in-b2b-tech-stack-ui-design-token-1l7o) 
 - [2026-10-30-懒加载图片新支持了sizes=”auto”属性，其作用是？](https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/) 
 - [2026-11-14-GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) 
