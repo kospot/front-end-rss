@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-17T02:02:43.803Z</updated>
+    <updated>2026-11-17T04:03:35.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[为了另一种可能性：在国内折腾 Linux 打游戏的二三事]]></title>
+        <id>https://sspai.com/post/118442</id>
+        <link href="https://sspai.com/post/118442"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等]]></title>
         <id>https://sspai.com/post/119160</id>
@@ -92,163 +99,51 @@
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Watch and Garmin are so wrong! How many calories do you burn in a day?]]></title>
-        <id>https://macrocodex.app/knowledge/rethink/how-many-calories-do-you-burn-in-a-day-apple-watch-and-garmin-are-wrong/</id>
-        <link href="https://macrocodex.app/knowledge/rethink/how-many-calories-do-you-burn-in-a-day-apple-watch-and-garmin-are-wrong/"/>
+        <title type="html"><![CDATA[A game cartridge peripheral for Dreamcast]]></title>
+        <id>https://github.com/ThroatyMumbo/Dreamcart</id>
+        <link href="https://github.com/ThroatyMumbo/Dreamcart"/>
         <updated>2026-11-16T16:00:00.000Z</updated>
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Win98 PE Interpreter in WebAssembly – StarCraft and Diablo on Phones]]></title>
-        <id>https://wine-assembly.berrry.app/</id>
-        <link href="https://wine-assembly.berrry.app/"/>
+        <title type="html"><![CDATA[Niewz – a native RSS reader for iPhone, iPad and Mac]]></title>
+        <id>https://apps.apple.com/us/app/niewz/id6834017988</id>
+        <link href="https://apps.apple.com/us/app/niewz/id6834017988"/>
         <updated>2026-11-16T16:00:00.000Z</updated>
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta would 'consider' pulling services from Canada if lawful access bill passes]]></title>
-        <id>https://www.cbc.ca/lite/story/9.7424473</id>
-        <link href="https://www.cbc.ca/lite/story/9.7424473"/>
+        <title type="html"><![CDATA[Scientists Are Stumped by This Object in Space]]></title>
+        <id>https://www.nytimes.com/2026/11/16/science/1998-ky26-asteroid-comet.html</id>
+        <link href="https://www.nytimes.com/2026/11/16/science/1998-ky26-asteroid-comet.html"/>
         <updated>2026-11-16T16:00:00.000Z</updated>
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Omnistew – 3D multiplayer RTS written in Rust, playable in a browser]]></title>
-        <id>https://omnistew.io/</id>
-        <link href="https://omnistew.io/"/>
+        <title type="html"><![CDATA[The Emulation Frontier]]></title>
+        <id>https://alexlitzenberger.com/blog/the_emulation_frontier</id>
+        <link href="https://alexlitzenberger.com/blog/the_emulation_frontier"/>
         <updated>2026-11-16T16:00:00.000Z</updated>
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Geographic Data Science with Python]]></title>
-        <id>https://geographicdata.science/</id>
-        <link href="https://geographicdata.science/"/>
+        <title type="html"><![CDATA[Everything You Wanted to Know About LLM Post-Training [video]]]></title>
+        <id>https://www.youtube.com/watch?v=LVXtFnEbNU0</id>
+        <link href="https://www.youtube.com/watch?v=LVXtFnEbNU0"/>
         <updated>2026-11-16T16:00:00.000Z</updated>
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Habits PhDs Must Unlearn to Build a Startup [video]]]></title>
-        <id>https://www.youtube.com/watch?v=u-8KpXcPYCw</id>
-        <link href="https://www.youtube.com/watch?v=u-8KpXcPYCw"/>
+        <title type="html"><![CDATA[US Data Centers' Carbon Footprint Rivals Small European Countries]]></title>
+        <id>https://www.barrons.com/news/us-data-centers-carbon-footprint-rivals-small-european-countries-0c4a0c1f</id>
+        <link href="https://www.barrons.com/news/us-data-centers-carbon-footprint-rivals-small-european-countries-0c4a0c1f"/>
         <updated>2026-11-16T16:00:00.000Z</updated>
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude Mythos slashed software work to onboard AMD GPUs to around three days]]></title>
-        <id>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat</id>
-        <link href="https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are forensic experts biased? Scientist's claims spark outrage – Science – AAAS]]></title>
-        <id>https://www.science.org/content/article/forensic-experts-biased-scientists-claims-spark-outrage</id>
-        <link href="https://www.science.org/content/article/forensic-experts-biased-scientists-claims-spark-outrage"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Friselle: The ingenious Italian bread that can last for a year]]></title>
-        <id>https://www.msn.com/en-ca/food-and-drink/recipes/friselle-the-ingenious-italian-bread-that-can-last-for-a-year/ar-AA2hxzwR</id>
-        <link href="https://www.msn.com/en-ca/food-and-drink/recipes/friselle-the-ingenious-italian-bread-that-can-last-for-a-year/ar-AA2hxzwR"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Annoying Coworker Claude]]></title>
-        <id>https://sharamp.com/personal/claude/</id>
-        <link href="https://sharamp.com/personal/claude/"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quvanti Labs]]></title>
-        <id>https://news.ycombinator.com/item?id=50523886</id>
-        <link href="https://news.ycombinator.com/item?id=50523886"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Rust-Native, Cross-Language Foundation for Agentic ML Compilers]]></title>
-        <id>https://tvm.apache.org/2026/11/16/rust-native-cross-language-ml-compiler-foundation</id>
-        <link href="https://tvm.apache.org/2026/11/16/rust-native-cross-language-ml-compiler-foundation"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loft: 3D SVG Library for Web in JavaScript]]></title>
-        <id>https://github.com/uxmatthew/Loft-3D-SVG</id>
-        <link href="https://github.com/uxmatthew/Loft-3D-SVG"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pangram CEO identifies first long confirmed false positive]]></title>
-        <id>https://twitter.com/max_spero_/status/2122032840204226687</id>
-        <link href="https://twitter.com/max_spero_/status/2122032840204226687"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programming Paradigms for Dummies: What Every Programmer Should Know (2009)[pdf]]]></title>
-        <id>https://webperso.info.ucl.ac.be/~pvr/VanRoyChapter.pdf</id>
-        <link href="https://webperso.info.ucl.ac.be/~pvr/VanRoyChapter.pdf"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A fast parametric ellipse algorithm]]></title>
-        <id>https://arxiv.org/abs/2009.03434</id>
-        <link href="https://arxiv.org/abs/2009.03434"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[For the first time this century, Taiwan exports more to the US than to China]]></title>
-        <id>https://village.dev/blog/taiwans-us-export-lead-disappears-without-computers/</id>
-        <link href="https://village.dev/blog/taiwans-us-export-lead-disappears-without-computers/"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extinct 'vampire camel' once stalked North American plains – Science – AAAS]]></title>
-        <id>https://www.science.org/content/article/extinct-vampire-camel-once-stalked-north-american-plains?referrer=https%3A%2F%2Fmastodon.social%2F</id>
-        <link href="https://www.science.org/content/article/extinct-vampire-camel-once-stalked-north-american-plains?referrer=https%3A%2F%2Fmastodon.social%2F"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leaving Swift for Rust]]></title>
-        <id>https://www.prux.org/posts/goodbye-swift-hello-rust/</id>
-        <link href="https://www.prux.org/posts/goodbye-swift-hello-rust/"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noeri: A neolab to push the frontier of plural intelligence]]></title>
-        <id>https://noeri.ai/</id>
-        <link href="https://noeri.ai/"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EWD 1036 – On the cruelty of teaching computing science (1988)]]></title>
-        <id>https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html</id>
-        <link href="https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flawless UI-UX Skill 3.0.0]]></title>
-        <id>https://github.com/smokeeaasd/flawless-ui-ux</id>
-        <link href="https://github.com/smokeeaasd/flawless-ui-ux"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero-Upload Data Cleaner: Clean Messy CSV, Parquet, and JSON]]></title>
-        <id>https://lopespm.com/p/cleaner/</id>
-        <link href="https://lopespm.com/p/cleaner/"/>
+        <title type="html"><![CDATA[123456' has been the most popular password for 7 out of the last 8 years]]></title>
+        <id>https://www.theregister.com/security/2026/11/16/123456-has-been-the-worlds-most-popular-password-for-7-out-of-the-last-8-years/5310189</id>
+        <link href="https://www.theregister.com/security/2026/11/16/123456-has-been-the-worlds-most-popular-password-for-7-out-of-the-last-8-years/5310189"/>
         <updated>2026-11-16T16:00:00.000Z</updated>
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
@@ -260,6 +155,167 @@
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Zero-Upload Data Cleaner: Clean Messy CSV, Parquet, and JSON]]></title>
+        <id>https://lopespm.com/p/cleaner/</id>
+        <link href="https://lopespm.com/p/cleaner/"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flawless UI-UX Skill 3.0.0]]></title>
+        <id>https://github.com/smokeeaasd/flawless-ui-ux</id>
+        <link href="https://github.com/smokeeaasd/flawless-ui-ux"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EWD 1036 – On the cruelty of teaching computing science (1988)]]></title>
+        <id>https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html</id>
+        <link href="https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Noeri: A neolab to push the frontier of plural intelligence]]></title>
+        <id>https://noeri.ai/</id>
+        <link href="https://noeri.ai/"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leaving Swift for Rust]]></title>
+        <id>https://www.prux.org/posts/goodbye-swift-hello-rust/</id>
+        <link href="https://www.prux.org/posts/goodbye-swift-hello-rust/"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extinct 'vampire camel' once stalked North American plains – Science – AAAS]]></title>
+        <id>https://www.science.org/content/article/extinct-vampire-camel-once-stalked-north-american-plains?referrer=https%3A%2F%2Fmastodon.social%2F</id>
+        <link href="https://www.science.org/content/article/extinct-vampire-camel-once-stalked-north-american-plains?referrer=https%3A%2F%2Fmastodon.social%2F"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For the first time this century, Taiwan exports more to the US than to China]]></title>
+        <id>https://village.dev/blog/taiwans-us-export-lead-disappears-without-computers/</id>
+        <link href="https://village.dev/blog/taiwans-us-export-lead-disappears-without-computers/"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A fast parametric ellipse algorithm]]></title>
+        <id>https://arxiv.org/abs/2009.03434</id>
+        <link href="https://arxiv.org/abs/2009.03434"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming Paradigms for Dummies: What Every Programmer Should Know (2009)[pdf]]]></title>
+        <id>https://webperso.info.ucl.ac.be/~pvr/VanRoyChapter.pdf</id>
+        <link href="https://webperso.info.ucl.ac.be/~pvr/VanRoyChapter.pdf"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pangram CEO identifies first long confirmed false positive]]></title>
+        <id>https://twitter.com/max_spero_/status/2122032840204226687</id>
+        <link href="https://twitter.com/max_spero_/status/2122032840204226687"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loft: 3D SVG Library for Web in JavaScript]]></title>
+        <id>https://github.com/uxmatthew/Loft-3D-SVG</id>
+        <link href="https://github.com/uxmatthew/Loft-3D-SVG"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Rust-Native, Cross-Language Foundation for Agentic ML Compilers]]></title>
+        <id>https://tvm.apache.org/2026/11/16/rust-native-cross-language-ml-compiler-foundation</id>
+        <link href="https://tvm.apache.org/2026/11/16/rust-native-cross-language-ml-compiler-foundation"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quvanti Labs]]></title>
+        <id>https://news.ycombinator.com/item?id=50523886</id>
+        <link href="https://news.ycombinator.com/item?id=50523886"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Annoying Coworker Claude]]></title>
+        <id>https://sharamp.com/personal/claude/</id>
+        <link href="https://sharamp.com/personal/claude/"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Friselle: The ingenious Italian bread that can last for a year]]></title>
+        <id>https://www.msn.com/en-ca/food-and-drink/recipes/friselle-the-ingenious-italian-bread-that-can-last-for-a-year/ar-AA2hxzwR</id>
+        <link href="https://www.msn.com/en-ca/food-and-drink/recipes/friselle-the-ingenious-italian-bread-that-can-last-for-a-year/ar-AA2hxzwR"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are forensic experts biased? Scientist's claims spark outrage – Science – AAAS]]></title>
+        <id>https://www.science.org/content/article/forensic-experts-biased-scientists-claims-spark-outrage</id>
+        <link href="https://www.science.org/content/article/forensic-experts-biased-scientists-claims-spark-outrage"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Mythos slashed software work to onboard AMD GPUs to around three days]]></title>
+        <id>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat</id>
+        <link href="https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Habits PhDs Must Unlearn to Build a Startup [video]]]></title>
+        <id>https://www.youtube.com/watch?v=u-8KpXcPYCw</id>
+        <link href="https://www.youtube.com/watch?v=u-8KpXcPYCw"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geographic Data Science with Python]]></title>
+        <id>https://geographicdata.science/</id>
+        <link href="https://geographicdata.science/"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Omnistew – 3D multiplayer RTS written in Rust, playable in a browser]]></title>
+        <id>https://omnistew.io/</id>
+        <link href="https://omnistew.io/"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta would 'consider' pulling services from Canada if lawful access bill passes]]></title>
+        <id>https://www.cbc.ca/lite/story/9.7424473</id>
+        <link href="https://www.cbc.ca/lite/story/9.7424473"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Win98 PE Interpreter in WebAssembly – StarCraft and Diablo on Phones]]></title>
+        <id>https://wine-assembly.berrry.app/</id>
+        <link href="https://wine-assembly.berrry.app/"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watch and Garmin are so wrong! How many calories do you burn in a day?]]></title>
+        <id>https://macrocodex.app/knowledge/rethink/how-many-calories-do-you-burn-in-a-day-apple-watch-and-garmin-are-wrong/</id>
+        <link href="https://macrocodex.app/knowledge/rethink/how-many-calories-do-you-burn-in-a-day-apple-watch-and-garmin-are-wrong/"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Broadening access to AI for scientists]]></title>
         <id>https://openai.com/index/expanding-chatgpt-for-academic-researchers</id>
         <link href="https://openai.com/index/expanding-chatgpt-for-academic-researchers"/>
@@ -267,9 +323,16 @@
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Ace a Credit-Risk Internship Interview]]></title>
-        <id>https://pub.towardsai.net/how-to-ace-a-credit-risk-internship-interview-8988f754e581?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/how-to-ace-a-credit-risk-internship-interview-8988f754e581?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[From 200 Users to a Bill of Materials for a Private Llm Server]]></title>
+        <id>https://pub.towardsai.net/from-200-users-to-a-bill-of-materials-for-a-private-llm-server-6db1ae0d49e8?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/from-200-users-to-a-bill-of-materials-for-a-private-llm-server-6db1ae0d49e8?source=rss----98111c9905da---4"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neo4j in FastAPI]]></title>
+        <id>https://pub.towardsai.net/neo4j-in-fastapi-4c1b1c2c15b4?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/neo4j-in-fastapi-4c1b1c2c15b4?source=rss----98111c9905da---4"/>
         <updated>2026-11-16T16:00:00.000Z</updated>
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
@@ -281,6 +344,13 @@
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Ace a Credit-Risk Internship Interview]]></title>
+        <id>https://pub.towardsai.net/how-to-ace-a-credit-risk-internship-interview-8988f754e581?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-to-ace-a-credit-risk-internship-interview-8988f754e581?source=rss----98111c9905da---4"/>
+        <updated>2026-11-16T16:00:00.000Z</updated>
+        <published>2026-11-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Building trustworthy AI by fencing it in, not predicting it]]></title>
         <id>https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/</id>
         <link href="https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"/>
@@ -288,79 +358,15 @@
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UPC Check Digits: The One-Digit Lie That Still Scans Perfectly]]></title>
-        <id>https://dev.to/fancy39_9841cbc02f99f729c/upc-check-digits-the-one-digit-lie-that-still-scans-perfectly-53d9</id>
-        <link href="https://dev.to/fancy39_9841cbc02f99f729c/upc-check-digits-the-one-digit-lie-that-still-scans-perfectly-53d9"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Convert an Image to Base64 in JavaScript (3 Ways)]]></title>
-        <id>https://dev.to/toolstead/how-to-convert-an-image-to-base64-in-javascript-3-ways-3pdo</id>
-        <link href="https://dev.to/toolstead/how-to-convert-an-image-to-base64-in-javascript-3-ways-3pdo"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This e Binding: por que o valor muda a cada chamada]]></title>
-        <id>https://dev.to/rohyer/this-e-binding-por-que-o-valor-muda-a-cada-chamada-37bc</id>
-        <link href="https://dev.to/rohyer/this-e-binding-por-que-o-valor-muda-a-cada-chamada-37bc"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI API Works in curl but Fails in the Browser? Debug CORS and Preflight]]></title>
-        <id>https://dev.to/_fde76ff2d01974642930b/ai-api-works-in-curl-but-fails-in-the-browser-debug-cors-and-preflight-2pn4</id>
-        <link href="https://dev.to/_fde76ff2d01974642930b/ai-api-works-in-curl-but-fails-in-the-browser-debug-cors-and-preflight-2pn4"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Closures, IIFEs, and private fields do not hide your JavaScript]]></title>
-        <id>https://dev.to/veilvm/closures-iifes-and-private-fields-do-not-hide-your-javascript-2fl1</id>
-        <link href="https://dev.to/veilvm/closures-iifes-and-private-fields-do-not-hide-your-javascript-2fl1"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Audited 37 B2B Directories for a Static Site. Here's What Actually Broke.]]></title>
-        <id>https://dev.to/mujiatextile/i-audited-37-b2b-directories-for-a-static-site-heres-what-actually-broke-mn3</id>
-        <link href="https://dev.to/mujiatextile/i-audited-37-b2b-directories-for-a-static-site-heres-what-actually-broke-mn3"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A percentage calculator for marketers: lessons from 41 languages and one tricky formula]]></title>
-        <id>https://dev.to/konstantin_iliev/a-percentage-calculator-for-marketers-lessons-from-41-languages-and-one-tricky-formula-1jpb</id>
-        <link href="https://dev.to/konstantin_iliev/a-percentage-calculator-for-marketers-lessons-from-41-languages-and-one-tricky-formula-1jpb"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Per-Item ResizeObserver Is a Layout Feedback Loop]]></title>
-        <id>https://dev.to/robust_true_try/your-per-item-resizeobserver-is-a-layout-feedback-loop-29n1</id>
-        <link href="https://dev.to/robust_true_try/your-per-item-resizeobserver-is-a-layout-feedback-loop-29n1"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JAVASCRIPT FUNCTIONS: A BEGINNER'S GUIDE]]></title>
-        <id>https://dev.to/nwachukwunnamaka44source/javascript-functions-a-beginners-guide-2e5e</id>
-        <link href="https://dev.to/nwachukwunnamaka44source/javascript-functions-a-beginners-guide-2e5e"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HEX, RGB and HSL Colour Codes Explained (with JavaScript Converters)]]></title>
-        <id>https://dev.to/usman_farooqi_f3ef266029b/hex-rgb-and-hsl-colour-codes-explained-with-javascript-converters-2k28</id>
-        <link href="https://dev.to/usman_farooqi_f3ef266029b/hex-rgb-and-hsl-colour-codes-explained-with-javascript-converters-2k28"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Figma’s Bezier Curves Feel Fake (And How an Indian Team Fixed It With Physics)]]></title>
-        <id>https://dev.to/shinoj_cm_6b559b3ab51bf47/why-figmas-bezier-curves-feel-fake-and-how-an-indian-team-fixed-it-with-physics-35nm</id>
-        <link href="https://dev.to/shinoj_cm_6b559b3ab51bf47/why-figmas-bezier-curves-feel-fake-and-how-an-indian-team-fixed-it-with-physics-35nm"/>
+        <title type="html"><![CDATA[
+Sometimes three boring statements beats one clever expression
+]]></title>
+        <id>
+https://allthingssmitty.com/2026/11/16/sometimes-three-boring-statements-beat-one-clever-expression/
+</id>
+        <link href="
+https://allthingssmitty.com/2026/11/16/sometimes-three-boring-statements-beat-one-clever-expression/
+"/>
         <updated>2026-11-16T16:00:00.000Z</updated>
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
