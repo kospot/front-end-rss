@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-17T22:01:36.874Z</updated>
+    <updated>2026-11-18T00:01:11.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,30 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Instagram is helping creators crack down on copycat videos]]></title>
-        <id>https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos</id>
-        <link href="https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos"/>
-        <updated>2026-11-17T16:00:00.000Z</updated>
-        <published>2026-11-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Democrats try to figure out how not to get swept away by the blue wave]]></title>
-        <id>https://www.theverge.com/policy/1035869/whats-next-majority-democrats-conference-denver-jeffries</id>
-        <link href="https://www.theverge.com/policy/1035869/whats-next-majority-democrats-conference-denver-jeffries"/>
-        <updated>2026-11-17T16:00:00.000Z</updated>
-        <published>2026-11-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta is testing a new standalone messaging app called Direct]]></title>
-        <id>https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app</id>
-        <link href="https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app"/>
-        <updated>2026-11-17T16:00:00.000Z</updated>
-        <published>2026-11-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amflow’s new urban e-bike series is deliciously overpowered for flat city streets]]></title>
-        <id>https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs</id>
-        <link href="https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs"/>
+        <title type="html"><![CDATA[iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair]]></title>
+        <id>https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub</id>
+        <link href="https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub"/>
         <updated>2026-11-17T16:00:00.000Z</updated>
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>
@@ -50,9 +29,51 @@
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Model ML raises $250M to automate investment banking grunt work]]></title>
-        <id>https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/</id>
-        <link href="https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"/>
+        <title type="html"><![CDATA[Amflow’s new urban e-bike series is deliciously overpowered for flat city streets]]></title>
+        <id>https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs</id>
+        <link href="https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta is testing a new standalone messaging app called Direct]]></title>
+        <id>https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app</id>
+        <link href="https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Democrats try to figure out how not to get swept away by the blue wave]]></title>
+        <id>https://www.theverge.com/policy/1035869/whats-next-majority-democrats-conference-denver-jeffries</id>
+        <link href="https://www.theverge.com/policy/1035869/whats-next-majority-democrats-conference-denver-jeffries"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instagram is helping creators crack down on copycat videos]]></title>
+        <id>https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos</id>
+        <link href="https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Nubia Redmagic 12 Pro | Camera]]></title>
+        <id>https://www.wired.com/gallery/review-nubia-redmagic-12-pro-or-camera/</id>
+        <link href="https://www.wired.com/gallery/review-nubia-redmagic-12-pro-or-camera/"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon and Google will together own nearly 30% of Anthropic after its IPO]]></title>
+        <id>https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/</id>
+        <link href="https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI models can be tricked into identifying civilians as military targets by telling them it’s a game]]></title>
+        <id>https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/</id>
+        <link href="https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/"/>
         <updated>2026-11-17T16:00:00.000Z</updated>
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>
@@ -64,9 +85,72 @@
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI models can be tricked into identifying civilians as military targets by telling them it’s a game]]></title>
-        <id>https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/</id>
-        <link href="https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/"/>
+        <title type="html"><![CDATA[Model ML raises $250M to automate investment banking grunt work]]></title>
+        <id>https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/</id>
+        <link href="https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distribution Box Wiring [video]]]></title>
+        <id>https://www.youtube.com/shorts/Tj38z9bdqU0</id>
+        <link href="https://www.youtube.com/shorts/Tj38z9bdqU0"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2013 WD EX2, a 512 MB ARM Server on Linux 6.12 with AdGuard and Tailscale]]></title>
+        <id>https://github.com/imathanasia/wd-ex2-gen1-nas-os</id>
+        <link href="https://github.com/imathanasia/wd-ex2-gen1-nas-os"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users]]></title>
+        <id>https://2tinteractive.com/watch/episodes/5726/</id>
+        <link href="https://2tinteractive.com/watch/episodes/5726/"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: KIZZ – A Build tool that tracks dependencies so you dont have to]]></title>
+        <id>https://github.com/Sakura-Industries-LLC/kizz</id>
+        <link href="https://github.com/Sakura-Industries-LLC/kizz"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System 1 Agents – a method for local, reliable and fast agentic AI]]></title>
+        <id>https://github.com/eltzanis/SystemOneAgents</id>
+        <link href="https://github.com/eltzanis/SystemOneAgents"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: MacAudio-Best volume mixer on Mac?]]></title>
+        <id>https://macaudio.app/</id>
+        <link href="https://macaudio.app/"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Challenging Consensus, Scientist Says Photos Show Epstein Was Killed]]></title>
+        <id>https://www.nytimes.com/2026/11/16/us/jeffrey-epstein-autopsy-michael-freeman.html</id>
+        <link href="https://www.nytimes.com/2026/11/16/us/jeffrey-epstein-autopsy-michael-freeman.html"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Global Anycast DNS Cluster for $10 per Month]]></title>
+        <id>https://varunpriolkar.com/2026/11/building-a-global-anycast-dns-cluster-with-powerdns/</id>
+        <link href="https://varunpriolkar.com/2026/11/building-a-global-anycast-dns-cluster-with-powerdns/"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Will Fix Climate Change (2022) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=LxgMdjyw8uw</id>
+        <link href="https://www.youtube.com/watch?v=LxgMdjyw8uw"/>
         <updated>2026-11-17T16:00:00.000Z</updated>
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>
@@ -85,6 +169,13 @@
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GPT‑6.2 Astra and GPT‑6.2 Sol]]></title>
+        <id>https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/</id>
+        <link href="https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Running the full server-side Datasette Python app in the browser with service workers and Pyodide]]></title>
         <id>https://simonwillison.net/2026/Nov/17/datasette-lite/</id>
         <link href="https://simonwillison.net/2026/Nov/17/datasette-lite/"/>
@@ -99,37 +190,44 @@
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Three days in: one Edge extension live, three still in review, 0 installs — the dashboard numbers]]></title>
-        <id>https://dev.to/alapha888/three-days-in-one-edge-extension-live-three-still-in-review-0-installs-the-dashboard-numbers-3lmj</id>
-        <link href="https://dev.to/alapha888/three-days-in-one-edge-extension-live-three-still-in-review-0-installs-the-dashboard-numbers-3lmj"/>
+        <title type="html"><![CDATA[How to send an HTML form to Google Sheets]]></title>
+        <id>https://dev.to/harsimran_jeetsingh_83e2/how-to-send-an-html-form-to-google-sheets-36i9</id>
+        <link href="https://dev.to/harsimran_jeetsingh_83e2/how-to-send-an-html-form-to-google-sheets-36i9"/>
         <updated>2026-11-17T16:00:00.000Z</updated>
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Make Your Vibe-Coded App Look Less Like AI Slop (Plus a 92-Rule Security & Playwright QA Gate)]]></title>
-        <id>https://dev.to/avivgerzhue/how-to-make-your-vibe-coded-app-look-less-like-ai-slop-plus-a-92-rule-security-playwright-qa-2p34</id>
-        <link href="https://dev.to/avivgerzhue/how-to-make-your-vibe-coded-app-look-less-like-ai-slop-plus-a-92-rule-security-playwright-qa-2p34"/>
+        <title type="html"><![CDATA[Implement BMI, Waist-to-Height and Waist-to-Hip Ratio in JavaScript (and Unit-Test Them Against CDC Numbers)]]></title>
+        <id>https://dev.to/charlotte_nelson_9aadde70/implement-bmi-waist-to-height-and-waist-to-hip-ratio-in-javascript-and-unit-test-them-against-cdc-34dp</id>
+        <link href="https://dev.to/charlotte_nelson_9aadde70/implement-bmi-waist-to-height-and-waist-to-hip-ratio-in-javascript-and-unit-test-them-against-cdc-34dp"/>
         <updated>2026-11-17T16:00:00.000Z</updated>
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[touch-action Is an Intersection: Un-trapping Page Scroll on 35 Mobile Games]]></title>
-        <id>https://dev.to/piousangel/touch-action-is-an-intersection-un-trapping-page-scroll-on-35-mobile-games-4al1</id>
-        <link href="https://dev.to/piousangel/touch-action-is-an-intersection-un-trapping-page-scroll-on-35-mobile-games-4al1"/>
+        <title type="html"><![CDATA[Save Points for Law Firm Intake Forms: A Game Design Lesson]]></title>
+        <id>https://dev.to/sbdmarketing/save-points-for-law-firm-intake-forms-a-game-design-lesson-58f9</id>
+        <link href="https://dev.to/sbdmarketing/save-points-for-law-firm-intake-forms-a-game-design-lesson-58f9"/>
         <updated>2026-11-17T16:00:00.000Z</updated>
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What I learned building a code-to-image tool (and why the export isn't always the preview)]]></title>
-        <id>https://dev.to/abdelkhalek2/what-i-learned-building-a-code-to-image-tool-and-why-the-export-isnt-always-the-preview-3h38</id>
-        <link href="https://dev.to/abdelkhalek2/what-i-learned-building-a-code-to-image-tool-and-why-the-export-isnt-always-the-preview-3h38"/>
+        <title type="html"><![CDATA[pnpm Workspaces vs Turborepo vs Nx: Do You Need a Monorepo Build Tool?]]></title>
+        <id>https://dev.to/libme/pnpm-workspaces-vs-turborepo-vs-nx-do-you-need-a-monorepo-build-tool-3n52</id>
+        <link href="https://dev.to/libme/pnpm-workspaces-vs-turborepo-vs-nx-do-you-need-a-monorepo-build-tool-3n52"/>
         <updated>2026-11-17T16:00:00.000Z</updated>
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7 small SEO bugs an audit found on my own site (and the fixes)]]></title>
-        <id>https://dev.to/capylaunch/7-small-seo-bugs-an-audit-found-on-my-own-site-and-the-fixes-3cf2</id>
-        <link href="https://dev.to/capylaunch/7-small-seo-bugs-an-audit-found-on-my-own-site-and-the-fixes-3cf2"/>
+        <title type="html"><![CDATA[Building a Wildlife Tracker with JavaScript Objects 🐅]]></title>
+        <id>https://dev.to/suhaima_noor_93beec2f68d8/building-a-wildlife-tracker-with-javascript-objects-5e13</id>
+        <link href="https://dev.to/suhaima_noor_93beec2f68d8/building-a-wildlife-tracker-with-javascript-objects-5e13"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Coding Agents Leak .env & Bearer Tokens — Building a Zero-Dependency stdio MCP Secret Vault in Node.js]]></title>
+        <id>https://dev.to/_828dfd5cf64aad3f7659a/how-ai-coding-agents-leak-env-bearer-tokens-building-a-zero-dependency-stdio-mcp-secret-vault-adc</id>
+        <link href="https://dev.to/_828dfd5cf64aad3f7659a/how-ai-coding-agents-leak-env-bearer-tokens-building-a-zero-dependency-stdio-mcp-secret-vault-adc"/>
         <updated>2026-11-17T16:00:00.000Z</updated>
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>
@@ -141,9 +239,37 @@
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How AI Coding Agents Leak .env & Bearer Tokens — Building a Zero-Dependency stdio MCP Secret Vault in Node.js]]></title>
-        <id>https://dev.to/_828dfd5cf64aad3f7659a/how-ai-coding-agents-leak-env-bearer-tokens-building-a-zero-dependency-stdio-mcp-secret-vault-adc</id>
-        <link href="https://dev.to/_828dfd5cf64aad3f7659a/how-ai-coding-agents-leak-env-bearer-tokens-building-a-zero-dependency-stdio-mcp-secret-vault-adc"/>
+        <title type="html"><![CDATA[7 small SEO bugs an audit found on my own site (and the fixes)]]></title>
+        <id>https://dev.to/capylaunch/7-small-seo-bugs-an-audit-found-on-my-own-site-and-the-fixes-3cf2</id>
+        <link href="https://dev.to/capylaunch/7-small-seo-bugs-an-audit-found-on-my-own-site-and-the-fixes-3cf2"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I learned building a code-to-image tool (and why the export isn't always the preview)]]></title>
+        <id>https://dev.to/abdelkhalek2/what-i-learned-building-a-code-to-image-tool-and-why-the-export-isnt-always-the-preview-3h38</id>
+        <link href="https://dev.to/abdelkhalek2/what-i-learned-building-a-code-to-image-tool-and-why-the-export-isnt-always-the-preview-3h38"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[touch-action Is an Intersection: Un-trapping Page Scroll on 35 Mobile Games]]></title>
+        <id>https://dev.to/piousangel/touch-action-is-an-intersection-un-trapping-page-scroll-on-35-mobile-games-4al1</id>
+        <link href="https://dev.to/piousangel/touch-action-is-an-intersection-un-trapping-page-scroll-on-35-mobile-games-4al1"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Your Vibe-Coded App Look Less Like AI Slop (Plus a 92-Rule Security & Playwright QA Gate)]]></title>
+        <id>https://dev.to/avivgerzhue/how-to-make-your-vibe-coded-app-look-less-like-ai-slop-plus-a-92-rule-security-playwright-qa-2p34</id>
+        <link href="https://dev.to/avivgerzhue/how-to-make-your-vibe-coded-app-look-less-like-ai-slop-plus-a-92-rule-security-playwright-qa-2p34"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three days in: one Edge extension live, three still in review, 0 installs — the dashboard numbers]]></title>
+        <id>https://dev.to/alapha888/three-days-in-one-edge-extension-live-three-still-in-review-0-installs-the-dashboard-numbers-3lmj</id>
+        <link href="https://dev.to/alapha888/three-days-in-one-edge-extension-live-three-still-in-review-0-installs-the-dashboard-numbers-3lmj"/>
         <updated>2026-11-17T16:00:00.000Z</updated>
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>
@@ -169,44 +295,9 @@
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In Get Huge, the manosphere is here to make friends — with deadly consequences]]></title>
-        <id>https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death</id>
-        <link href="https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big Nuclear isn’t worried about the Democrats stopping data centers]]></title>
-        <id>https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats</id>
-        <link href="https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Apple Watch Series 12 is cheaper than ever ahead of Black Friday]]></title>
-        <id>https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacker behind 2022 GTA VI leaks pleads guilty]]></title>
-        <id>https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj</id>
-        <link href="https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disney Plus and Hulu’s fully unified app arrives next month]]></title>
-        <id>https://www.theverge.com/streaming/1035226/disney-plus-hulu-app-merger-q4-2026</id>
-        <link href="https://www.theverge.com/streaming/1035226/disney-plus-hulu-app-merger-q4-2026"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fire TV Stick 4K Plus is on sale for less than Amazon’s entry-level streamer]]></title>
-        <id>https://www.theverge.com/gadgets/1034612/amazon-fire-tv-stick-4k-plus-black-friday-2026-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1034612/amazon-fire-tv-stick-4k-plus-black-friday-2026-deal-sale"/>
+        <title type="html"><![CDATA[This E Ink photo frame can double as your family’s digital dashboard]]></title>
+        <id>https://www.theverge.com/tech/1035258/trmnl-e-ink-spectra-6-frame-dashboard-display-poster-photos</id>
+        <link href="https://www.theverge.com/tech/1035258/trmnl-e-ink-spectra-6-frame-dashboard-display-poster-photos"/>
         <updated>2026-11-16T16:00:00.000Z</updated>
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
@@ -218,51 +309,44 @@
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This E Ink photo frame can double as your family’s digital dashboard]]></title>
-        <id>https://www.theverge.com/tech/1035258/trmnl-e-ink-spectra-6-frame-dashboard-display-poster-photos</id>
-        <link href="https://www.theverge.com/tech/1035258/trmnl-e-ink-spectra-6-frame-dashboard-display-poster-photos"/>
+        <title type="html"><![CDATA[The Fire TV Stick 4K Plus is on sale for less than Amazon’s entry-level streamer]]></title>
+        <id>https://www.theverge.com/gadgets/1034612/amazon-fire-tv-stick-4k-plus-black-friday-2026-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1034612/amazon-fire-tv-stick-4k-plus-black-friday-2026-deal-sale"/>
         <updated>2026-11-16T16:00:00.000Z</updated>
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xreal Aura Review: Stunning Screens, Frustrating Controls]]></title>
-        <id>https://www.wired.com/review/xreal-aura/</id>
-        <link href="https://www.wired.com/review/xreal-aura/"/>
+        <title type="html"><![CDATA[Disney Plus and Hulu’s fully unified app arrives next month]]></title>
+        <id>https://www.theverge.com/streaming/1035226/disney-plus-hulu-app-merger-q4-2026</id>
+        <link href="https://www.theverge.com/streaming/1035226/disney-plus-hulu-app-merger-q4-2026"/>
         <updated>2026-11-16T16:00:00.000Z</updated>
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 8 Best Movies to Stream Right Now (November 2026)]]></title>
-        <id>https://www.wired.com/story/the-8-best-movies-to-stream-right-now/</id>
-        <link href="https://www.wired.com/story/the-8-best-movies-to-stream-right-now/"/>
+        <title type="html"><![CDATA[Hacker behind 2022 GTA VI leaks pleads guilty]]></title>
+        <id>https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj</id>
+        <link href="https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj"/>
         <updated>2026-11-16T16:00:00.000Z</updated>
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AO3 Is Back. This Is Not a Drill]]></title>
-        <id>https://www.wired.com/story/ao3-is-back-this-is-not-a-drill/</id>
-        <link href="https://www.wired.com/story/ao3-is-back-this-is-not-a-drill/"/>
+        <title type="html"><![CDATA[The Apple Watch Series 12 is cheaper than ever ahead of Black Friday]]></title>
+        <id>https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale"/>
         <updated>2026-11-16T16:00:00.000Z</updated>
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts]]></title>
-        <id>https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/</id>
-        <link href="https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/"/>
+        <title type="html"><![CDATA[Big Nuclear isn’t worried about the Democrats stopping data centers]]></title>
+        <id>https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats</id>
+        <link href="https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats"/>
         <updated>2026-11-16T16:00:00.000Z</updated>
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The iPhone Duo Is Getting a Limited Version of Face ID]]></title>
-        <id>https://www.wired.com/story/iphone-duo-is-getting-a-limited-version-of-face-id/</id>
-        <link href="https://www.wired.com/story/iphone-duo-is-getting-a-limited-version-of-face-id/"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ms. Rachel Is for Littles. Her Best Lessons This Year Were Meant for Adults]]></title>
-        <id>https://www.wired.com/story/wired-yearbook-2026-ms-rachel/</id>
-        <link href="https://www.wired.com/story/wired-yearbook-2026-ms-rachel/"/>
+        <title type="html"><![CDATA[In Get Huge, the manosphere is here to make friends — with deadly consequences]]></title>
+        <id>https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death</id>
+        <link href="https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death"/>
         <updated>2026-11-16T16:00:00.000Z</updated>
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
@@ -274,93 +358,9 @@
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow]]></title>
-        <id>https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/</id>
-        <link href="https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta launches Direct, a stand-alone messaging app for Instagram]]></title>
-        <id>https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/</id>
-        <link href="https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos]]></title>
-        <id>https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/</id>
-        <link href="https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Science Corporation’s brain tech is worth $3.5 billion after new funding]]></title>
-        <id>https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/</id>
-        <link href="https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia’s first big move after Jensen Huang’s exit targets national security]]></title>
-        <id>https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/</id>
-        <link href="https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM]]></title>
-        <id>https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/</id>
-        <link href="https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instagram now lets creators add Amazon affiliate links in reels and feed posts]]></title>
-        <id>https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/</id>
-        <link href="https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postal Codes and Tessellations]]></title>
-        <id>https://dieghernan.github.io/202611_postal-codes/</id>
-        <link href="https://dieghernan.github.io/202611_postal-codes/"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A 3D rally game that runs in a browser tab]]></title>
-        <id>https://dailyplay.org/rally/</id>
-        <link href="https://dailyplay.org/rally/"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Has Microsoft wronged you? Firefox opens a complaints line at Microsoft Ignite]]></title>
-        <id>https://blog.mozilla.org/en/mozilla/has-microsoft-wronged-you/</id>
-        <link href="https://blog.mozilla.org/en/mozilla/has-microsoft-wronged-you/"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poland can build the coolest AI data center and get cheaper natural gas]]></title>
-        <id>https://jacek.migdal.pl/2026/11/14/poland-coolest-ai-data-center-cheaper-gas</id>
-        <link href="https://jacek.migdal.pl/2026/11/14/poland-coolest-ai-data-center-cheaper-gas"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI music company claims copyright over musician's recording, gets video removed]]></title>
-        <id>https://www.techspot.com/news/114585-ai-music-company-claims-copyright-over-musician-own.html</id>
-        <link href="https://www.techspot.com/news/114585-ai-music-company-claims-copyright-over-musician-own.html"/>
-        <updated>2026-11-16T16:00:00.000Z</updated>
-        <published>2026-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blocks with ownership: a novel approach to CPU and GPU memory in C++]]></title>
-        <id>https://bkaradzic.github.io/posts/memory-management/</id>
-        <link href="https://bkaradzic.github.io/posts/memory-management/"/>
+        <title type="html"><![CDATA[Ms. Rachel Is for Littles. Her Best Lessons This Year Were Meant for Adults]]></title>
+        <id>https://www.wired.com/story/wired-yearbook-2026-ms-rachel/</id>
+        <link href="https://www.wired.com/story/wired-yearbook-2026-ms-rachel/"/>
         <updated>2026-11-16T16:00:00.000Z</updated>
         <published>2026-11-16T16:00:00.000Z</published>
     </entry>
