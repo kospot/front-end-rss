@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-18T02:02:56.653Z</updated>
+    <updated>2026-11-18T04:02:38.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -267,6 +267,34 @@
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why Modern LLMs Don’t Look Like the Original Transformer]]></title>
+        <id>https://pub.towardsai.net/why-modern-llms-dont-look-like-the-original-transformer-291e08903586?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-modern-llms-dont-look-like-the-original-transformer-291e08903586?source=rss----98111c9905da---4"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft’s Qubit Now Lasts 20 Seconds. The Hard Question Is Still Open.]]></title>
+        <id>https://pub.towardsai.net/microsofts-qubit-now-lasts-20-seconds-the-hard-question-is-still-open-9399daa0bcd1?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/microsofts-qubit-now-lasts-20-seconds-the-hard-question-is-still-open-9399daa0bcd1?source=rss----98111c9905da---4"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does Smarter Tuning Pay Off? Confopt vs Optuna’s Default on 131 Datasets]]></title>
+        <id>https://pub.towardsai.net/does-a-noise-aware-hyperparameter-search-beat-tpe-confopt-on-131-small-datasets-fe490a7786fa?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/does-a-noise-aware-hyperparameter-search-beat-tpe-confopt-on-131-small-datasets-fe490a7786fa?source=rss----98111c9905da---4"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unified Radix Cache Explained: One Tree for Full Attention, Sliding Window and Mamba]]></title>
+        <id>https://pub.towardsai.net/unified-radix-cache-explained-one-tree-for-full-attention-sliding-window-and-mamba-be2035121ddc?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/unified-radix-cache-explained-one-tree-for-full-attention-sliding-window-and-mamba-be2035121ddc?source=rss----98111c9905da---4"/>
+        <updated>2026-11-17T16:00:00.000Z</updated>
+        <published>2026-11-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[When the KV Cache Spills Over PCIe]]></title>
         <id>https://pub.towardsai.net/when-the-kv-cache-spills-over-pcie-996781bd7658?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/when-the-kv-cache-spills-over-pcie-996781bd7658?source=rss----98111c9905da---4"/>
@@ -321,60 +349,30 @@ https://github.com/aboviq/supapower
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One socket.off('match_found') with no handler reference silently broke match redirects in my Nest.js + Socket.IO chess app. It's 1 of 3 sync bugs I wrote up.
-
-https://lnkd.in/p/dQBthS3a]]></title>
-        <id>https://dev.to/igorpcoutinho/one-socketoffmatchfound-with-no-handler-reference-silently-broke-match-redirects-in-my-3j1</id>
-        <link href="https://dev.to/igorpcoutinho/one-socketoffmatchfound-with-no-handler-reference-silently-broke-match-redirects-in-my-3j1"/>
+        <title type="html"><![CDATA[Nobody Runs `npm config list` Before Installing. That's Why the Override Keeps Winning.]]></title>
+        <id>https://dev.to/aheadkit/nobody-runs-npm-config-list-before-installing-thats-why-the-override-keeps-winning-5e87</id>
+        <link href="https://dev.to/aheadkit/nobody-runs-npm-config-list-before-installing-thats-why-the-override-keeps-winning-5e87"/>
         <updated>2026-11-17T16:00:00.000Z</updated>
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Electron and the Chrome DevTools Protocol: Connecting CDP Sessions, Inspecting Targets, and Automating Diagnostics]]></title>
-        <id>https://dev.to/mp3sss31/electron-and-the-chrome-devtools-protocol-connecting-cdp-sessions-inspecting-targets-and-20k3</id>
-        <link href="https://dev.to/mp3sss31/electron-and-the-chrome-devtools-protocol-connecting-cdp-sessions-inspecting-targets-and-20k3"/>
+        <title type="html"><![CDATA[Merge PDF files in the browser with pdf-lib (no server needed)]]></title>
+        <id>https://dev.to/aztechtools/merge-pdf-files-in-the-browser-with-pdf-lib-no-server-needed-7ck</id>
+        <link href="https://dev.to/aztechtools/merge-pdf-files-in-the-browser-with-pdf-lib-no-server-needed-7ck"/>
         <updated>2026-11-17T16:00:00.000Z</updated>
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How async/await works in JavaScript, tick by tick]]></title>
-        <id>https://dev.to/pmckeetx/how-asyncawait-works-in-javascript-tick-by-tick-1e20</id>
-        <link href="https://dev.to/pmckeetx/how-asyncawait-works-in-javascript-tick-by-tick-1e20"/>
+        <title type="html"><![CDATA[Simple vs Discounted Payback Period in JavaScript (with the fractional year)]]></title>
+        <id>https://dev.to/googan_company_dd0f21912a/simple-vs-discounted-payback-period-in-javascript-with-the-fractional-year-io9</id>
+        <link href="https://dev.to/googan_company_dd0f21912a/simple-vs-discounted-payback-period-in-javascript-with-the-fractional-year-io9"/>
         <updated>2026-11-17T16:00:00.000Z</updated>
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Group Warehouse Exceptions with Map Without Merging Numeric and Text IDs]]></title>
-        <id>https://dev.to/tom_8d160ea57bf5c0395981d/group-warehouse-exceptions-with-map-without-merging-numeric-and-text-ids-3j0j</id>
-        <link href="https://dev.to/tom_8d160ea57bf5c0395981d/group-warehouse-exceptions-with-map-without-merging-numeric-and-text-ids-3j0j"/>
-        <updated>2026-11-17T16:00:00.000Z</updated>
-        <published>2026-11-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why a 200 KB GLB Can Still Blow Your WebGL Texture Budget (And When 512px Files Grow Larger on Disk)]]></title>
-        <id>https://dev.to/dong_pandit_af9770455a07f/why-a-200-kb-glb-can-still-blow-your-webgl-texture-budget-and-when-512px-files-grow-larger-on-disk-1n5k</id>
-        <link href="https://dev.to/dong_pandit_af9770455a07f/why-a-200-kb-glb-can-still-blow-your-webgl-texture-budget-and-when-512px-files-grow-larger-on-disk-1n5k"/>
-        <updated>2026-11-17T16:00:00.000Z</updated>
-        <published>2026-11-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code splitting and dynamic import() do not hide your JavaScript]]></title>
-        <id>https://dev.to/veilvm/code-splitting-and-dynamic-import-do-not-hide-your-javascript-283m</id>
-        <link href="https://dev.to/veilvm/code-splitting-and-dynamic-import-do-not-hide-your-javascript-283m"/>
-        <updated>2026-11-17T16:00:00.000Z</updated>
-        <published>2026-11-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rechecking a crypto report's percentages from its own numbers, in 40 lines of JavaScript]]></title>
-        <id>https://dev.to/swapcoreexchange/rechecking-a-crypto-reports-percentages-from-its-own-numbers-in-40-lines-of-javascript-3a4i</id>
-        <link href="https://dev.to/swapcoreexchange/rechecking-a-crypto-reports-percentages-from-its-own-numbers-in-40-lines-of-javascript-3a4i"/>
-        <updated>2026-11-17T16:00:00.000Z</updated>
-        <published>2026-11-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three days in: one Edge extension live, three still in review, 0 installs — the dashboard numbers]]></title>
-        <id>https://dev.to/alapha888/three-days-in-one-edge-extension-live-three-still-in-review-0-installs-the-dashboard-numbers-3lmj</id>
-        <link href="https://dev.to/alapha888/three-days-in-one-edge-extension-live-three-still-in-review-0-installs-the-dashboard-numbers-3lmj"/>
+        <title type="html"><![CDATA[Mongoose's November Advisories: Check sanitizeFilter and Your Version Today]]></title>
+        <id>https://dev.to/somnath_khadanga_2e5c2364/mongooses-november-advisories-check-sanitizefilter-and-your-version-today-cki</id>
+        <link href="https://dev.to/somnath_khadanga_2e5c2364/mongooses-november-advisories-check-sanitizefilter-and-your-version-today-cki"/>
         <updated>2026-11-17T16:00:00.000Z</updated>
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>

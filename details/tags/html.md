@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-18 10:02:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-18 12:02:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -9,29 +9,29 @@
 
 - [2026-10-23-Building-an-Isolated-Preview-for-AI-Generated-HTML](https://blog.master.dev/building-an-isolated-preview-for-ai-generated-html/) 
 - [2026-11-18-How-to-send-an-HTML-form-to-Google-Sheets](https://dev.to/harsimran_jeetsingh_83e2/how-to-send-an-html-form-to-google-sheets-36i9) 
-- [2026-11-16-A-small-thing-about-HTML-data-attributes](https://dev.to/soren_sterling/a-small-thing-about-html-data-attributes-3l7e) 
 - [2026-11-16-Why-an-Inches-to-Centimeters-Input-Needs-More-Than-HTML-Number-Controls](https://dev.to/begoodtool/why-an-inches-to-centimeters-input-needs-more-than-html-number-controls-36b3) 
+- [2026-11-16-A-small-thing-about-HTML-data-attributes](https://dev.to/soren_sterling/a-small-thing-about-html-data-attributes-3l7e) 
 - [2026-11-15-Professional-Support-for-Bitcoin-Fraud-Investigations-–-META-TECH-RETRIEVE-PRO](https://dev.to/jaannsnsjs_17fcc19b21f62d/professional-support-for-bitcoin-fraud-investigations-meta-tech-retrieve-pro-5aah) 
 - [2026-11-14-One-HTML-page,-no-network-requests:-how-our-browser-games-ship](https://dev.to/antgamesai/one-html-page-no-network-requests-how-our-browser-games-ship-1ln7) 
 - [2026-11-13-I-built-a-whole-action-game-in-one-HTML-file](https://dev.to/maciahtohmas/i-built-a-whole-action-game-in-one-html-file-3dbh) 
 - [2026-11-12-I-built-a-social-network-with-a-single-HTML-file](https://dev.to/abdo0x/i-built-a-social-network-with-a-single-html-file-3h01) 
 - [2026-11-10-서버-없이-HTML-한-장으로-소방-법정-서류-5종-PDF-만들기-소방안전관리자용-무료-작성기](https://dev.to/sobangnote/seobeo-eobsi-html-han-jangeuro-sobang-beobjeong-seoryu-5jong-pdf-mandeulgi-sobanganjeongwanrijayong-muryo-jagseonggi-60m) 
 - [2026-11-09-Email-Signature-HTML:-The-Markup-OnePassApps-Writes-and-What-It-Omits](https://dev.to/onepassapps/email-signature-html-the-markup-onepassapps-writes-and-what-it-omits-20lm) 
-- [2026-11-08-Building-a-Real-Time-Cricket-Broadcast-Engine-in-a-Single-Zero-Build-HTML-File](https://dev.to/technical_stuff/building-a-real-time-cricket-broadcast-engine-in-a-single-zero-build-html-file-396d) 
 - [2026-11-08-คลิปไวรัลจาก-AI-ที่คุณดูอยู่-อาจเป็นโค้ด-HTML-ไม่ใช่วิดีโอ?](https://dev.to/sarantoon/khlipaiwralcchaak-ai-thiikhunduuyuu-aacchepnokhd-html-aimaichwidiio-m7n) 
-- [2026-11-03-I-Built-Formqivo-—-A-Simple-Way-to-Send-HTML-Form-Submissions-to-Email](https://dev.to/formqivo/i-built-formqivo-a-simple-way-to-send-html-form-submissions-to-email-4di7) 
+- [2026-11-08-Building-a-Real-Time-Cricket-Broadcast-Engine-in-a-Single-Zero-Build-HTML-File](https://dev.to/technical_stuff/building-a-real-time-cricket-broadcast-engine-in-a-single-zero-build-html-file-396d) 
 - [2026-11-03-How-to-Strip-EXIF-&amp;-GPS-Metadata-from-Images-in-the-Browser-Without-Quality-Loss](https://dev.to/hicham_elkhatir/how-to-strip-exif-gps-metadata-from-images-in-the-browser-without-quality-loss-15c) 
-- [2026-10-29-I-built-a-3D-startup-tycoon-in-a-single-HTML-file-and-open-sourced-it](https://dev.to/tobeficv/i-built-a-3d-startup-tycoon-in-a-single-html-file-and-open-sourced-it-496h) 
-- [2026-10-29-Zaraz-consent-with-your-own-prompt:-the-Consent-API,-Google-Consent-Mode-and-PostHog-via-Custom-HTML](https://dev.to/argbetech/zaraz-consent-with-your-own-prompt-the-consent-api-google-consent-mode-and-posthog-via-custom-html-c7d) 
+- [2026-11-03-I-Built-Formqivo-—-A-Simple-Way-to-Send-HTML-Form-Submissions-to-Email](https://dev.to/formqivo/i-built-formqivo-a-simple-way-to-send-html-form-submissions-to-email-4di7) 
 - [2026-10-29-I-built-a-7-game-arcade-portal-in-plain-HTML.](https://dev.to/noahzipit/i-built-a-7-game-arcade-portal-in-plain-html-5e05) 
+- [2026-10-29-Zaraz-consent-with-your-own-prompt:-the-Consent-API,-Google-Consent-Mode-and-PostHog-via-Custom-HTML](https://dev.to/argbetech/zaraz-consent-with-your-own-prompt-the-consent-api-google-consent-mode-and-posthog-via-custom-html-c7d) 
+- [2026-10-29-I-built-a-3D-startup-tycoon-in-a-single-HTML-file-and-open-sourced-it](https://dev.to/tobeficv/i-built-a-3d-startup-tycoon-in-a-single-html-file-and-open-sourced-it-496h) 
 - [2026-10-28-Building-Single-File-HTML-Templates:-Clean-Code-Without-the-Framework-Overhead](https://dev.to/shopsitetemplates/building-single-file-html-templates-clean-code-without-the-framework-overhead-43fc) 
 - [2026-10-26-scan-html-8-language-🇮🇸🤍🇫🇮🇳🇱🌊](https://dev.to/learn2027/scan-html-8-language-34ad) 
 - [2026-10-25-I-built-a-live-"story-of-Earth"-in-one-HTML-file,-on-free-open-data-and-a-free-database-published:-true](https://dev.to/charalambos_mitropoulos_7/i-built-a-live-story-of-earth-in-one-html-file-on-free-open-data-and-a-free-database-published-ghb) 
-- [2026-10-24-47-day-TLS-certificates-are-coming.-Here's-a-single-file-HTML-tool-to-keep-track-of-them](https://dev.to/marcosblg/47-day-tls-certificates-are-coming-heres-a-single-file-html-tool-to-keep-track-of-them-1jke) 
 - [2026-10-24-When-AI-generated-HTML-needs-a-backend](https://dev.to/plopino/when-ai-generated-html-needs-a-backend-4l9d) 
+- [2026-10-24-47-day-TLS-certificates-are-coming.-Here's-a-single-file-HTML-tool-to-keep-track-of-them](https://dev.to/marcosblg/47-day-tls-certificates-are-coming-heres-a-single-file-html-tool-to-keep-track-of-them-1jke) 
 - [2026-10-23-CodeMirror-Showed-My-HTML.-The-Published-Post-Was-Empty.](https://dev.to/hexisteme/codemirror-showed-my-html-the-published-post-was-empty-3ena) 
-- [2026-10-22-What-is-a-Meta-Tag?](https://dev.to/sathishkumar_0506/what-is-a-meta-tag-2f6a) 
 - [2026-10-22-Firefox-153-Local-Mode:-Open-Local-HTML-Files-Over-HTTPS-Without-a-Server](https://dev.to/alanwest/firefox-153-local-mode-open-local-html-files-over-https-without-a-server-282b) 
+- [2026-10-22-What-is-a-Meta-Tag?](https://dev.to/sathishkumar_0506/what-is-a-meta-tag-2f6a) 
 - [2026-10-20-How-I-shipped-a-Nadi-BNN-astrology-calculator-as-one-200-KB-HTML-file](https://dev.to/sahilyadavy251tech/how-i-shipped-a-nadi-bnn-astrology-calculator-as-one-200-kb-html-file-flm) 
 - [2026-10-31--Sacred-Geometry-Generator:-draw,-tune,-and-export-Vesica-Piscis,-Seed-of-Life,-Flower-of-Life,-Metatron's-Cube,-and-the-Golden-Spiral-as-SVG-](
 https://github.com/evoluteur/sacred-geometry
