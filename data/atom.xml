@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-19T02:01:57.730Z</updated>
+    <updated>2026-11-19T04:02:36.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -85,72 +85,30 @@
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Tips for transitioning from web development to embedded/firmware?]]></title>
-        <id>https://news.ycombinator.com/item?id=50555002</id>
-        <link href="https://news.ycombinator.com/item?id=50555002"/>
+        <title type="html"><![CDATA[Microsoft-Decision-1.1 is now GA for fast, low-cost decision making]]></title>
+        <id>https://commandline.microsoft.com/microsoft-decision-model-ga/</id>
+        <link href="https://commandline.microsoft.com/microsoft-decision-model-ga/"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FailTrace – Reproduce a failed GitHub Actions run locally from its URL]]></title>
-        <id>https://github.com/Ri4dH/failtrace</id>
-        <link href="https://github.com/Ri4dH/failtrace"/>
+        <title type="html"><![CDATA[Tech Lancaster]]></title>
+        <id>https://techlancaster.org/</id>
+        <link href="https://techlancaster.org/"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Video: Manned Interstellar Mission]]></title>
-        <id>https://twitter.com/PicoSputnik/status/2123224137959190993</id>
-        <link href="https://twitter.com/PicoSputnik/status/2123224137959190993"/>
+        <title type="html"><![CDATA[I built an image-to-3D workbench with four engines and batch runs]]></title>
+        <id>https://anyimageto3d.com/</id>
+        <link href="https://anyimageto3d.com/"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sysdeck: Raycast for Linux and BSD]]></title>
-        <id>https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd</id>
-        <link href="https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Shiro Joins the GitHub Secure Open Source Fund]]></title>
-        <id>https://shiro.apache.org/blog/2026/11/apache-shiro-secure-open-source-fund.html</id>
-        <link href="https://shiro.apache.org/blog/2026/11/apache-shiro-secure-open-source-fund.html"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Access]]></title>
-        <id>https://www.math.columbia.edu/~woit/wordpress/?p=16002</id>
-        <link href="https://www.math.columbia.edu/~woit/wordpress/?p=16002"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Frontier Observatory – A visual timeline of what the AI labs ship]]></title>
-        <id>https://frontier-lab-observatory.lucentcarrot1.chatgpt.site</id>
-        <link href="https://frontier-lab-observatory.lucentcarrot1.chatgpt.site"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palo Alto Networks to Acquire Applied Compute for $4.5B]]></title>
-        <id>https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open</id>
-        <link href="https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software companies are trying to kill home computing]]></title>
-        <id>https://lateblt.livejournal.com/526188.html</id>
-        <link href="https://lateblt.livejournal.com/526188.html"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiple vulnerabilities in Regexp and String case conversion]]></title>
-        <id>https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/</id>
-        <link href="https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"/>
+        <title type="html"><![CDATA[PhantaField Projects $0.42/M Output Tokens in Orbit with White Matter and Sophon]]></title>
+        <id>https://www.phantafield.com/news/sizing-an-orbital-ai-datacenter</id>
+        <link href="https://www.phantafield.com/news/sizing-an-orbital-ai-datacenter"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
@@ -162,9 +120,72 @@
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PhantaField Projects $0.42/M Output Tokens in Orbit with White Matter and Sophon]]></title>
-        <id>https://www.phantafield.com/news/sizing-an-orbital-ai-datacenter</id>
-        <link href="https://www.phantafield.com/news/sizing-an-orbital-ai-datacenter"/>
+        <title type="html"><![CDATA[Multiple vulnerabilities in Regexp and String case conversion]]></title>
+        <id>https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/</id>
+        <link href="https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software companies are trying to kill home computing]]></title>
+        <id>https://lateblt.livejournal.com/526188.html</id>
+        <link href="https://lateblt.livejournal.com/526188.html"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palo Alto Networks to Acquire Applied Compute for $4.5B]]></title>
+        <id>https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open</id>
+        <link href="https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Frontier Observatory – A visual timeline of what the AI labs ship]]></title>
+        <id>https://frontier-lab-observatory.lucentcarrot1.chatgpt.site</id>
+        <link href="https://frontier-lab-observatory.lucentcarrot1.chatgpt.site"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Access]]></title>
+        <id>https://www.math.columbia.edu/~woit/wordpress/?p=16002</id>
+        <link href="https://www.math.columbia.edu/~woit/wordpress/?p=16002"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Shiro Joins the GitHub Secure Open Source Fund]]></title>
+        <id>https://shiro.apache.org/blog/2026/11/apache-shiro-secure-open-source-fund.html</id>
+        <link href="https://shiro.apache.org/blog/2026/11/apache-shiro-secure-open-source-fund.html"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sysdeck: Raycast for Linux and BSD]]></title>
+        <id>https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd</id>
+        <link href="https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video: Manned Interstellar Mission]]></title>
+        <id>https://twitter.com/PicoSputnik/status/2123224137959190993</id>
+        <link href="https://twitter.com/PicoSputnik/status/2123224137959190993"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FailTrace – Reproduce a failed GitHub Actions run locally from its URL]]></title>
+        <id>https://github.com/Ri4dH/failtrace</id>
+        <link href="https://github.com/Ri4dH/failtrace"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Tips for transitioning from web development to embedded/firmware?]]></title>
+        <id>https://news.ycombinator.com/item?id=50555002</id>
+        <link href="https://news.ycombinator.com/item?id=50555002"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
@@ -211,121 +232,78 @@
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A browser-based audio editor still ships its effects graph and preset formulas]]></title>
-        <id>https://dev.to/veilvm/a-browser-based-audio-editor-still-ships-its-effects-graph-and-preset-formulas-3ha9</id>
-        <link href="https://dev.to/veilvm/a-browser-based-audio-editor-still-ships-its-effects-graph-and-preset-formulas-3ha9"/>
+        <title type="html"><![CDATA[datasette-arrows 0.1a0]]></title>
+        <id>https://simonwillison.net/2026/Nov/18/datasette-arrows/</id>
+        <link href="https://simonwillison.net/2026/Nov/18/datasette-arrows/"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A TensorFlow.js or ONNX model in the browser still ships your weights and feature pipeline]]></title>
-        <id>https://dev.to/veilvm/a-tensorflowjs-or-onnx-model-in-the-browser-still-ships-your-weights-and-feature-pipeline-31gc</id>
-        <link href="https://dev.to/veilvm/a-tensorflowjs-or-onnx-model-in-the-browser-still-ships-your-weights-and-feature-pipeline-31gc"/>
+        <title type="html"><![CDATA[
+kafka-harbor: the Kafka layer every Node.js team rebuilds by hand, done once
+]]></title>
+        <id>
+https://dev.to/pinceladasdaweb/kafka-harbor-the-kafka-layer-every-nodejs-team-rebuilds-by-hand-done-once-35id
+</id>
+        <link href="
+https://dev.to/pinceladasdaweb/kafka-harbor-the-kafka-layer-every-nodejs-team-rebuilds-by-hand-done-once-35id
+"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a sandbox to win a security test and Deno tied me]]></title>
-        <id>https://dev.to/jakeburwick/i-built-a-sandbox-to-win-a-security-test-and-deno-tied-me-2g95</id>
-        <link href="https://dev.to/jakeburwick/i-built-a-sandbox-to-win-a-security-test-and-deno-tied-me-2g95"/>
+        <title type="html"><![CDATA[One Houdini plant, 256 samples, and a long WebGPU pause]]></title>
+        <id>https://dev.to/alicia_lu/one-houdini-plant-256-samples-and-a-long-webgpu-pause-4n7f</id>
+        <link href="https://dev.to/alicia_lu/one-houdini-plant-256-samples-and-a-long-webgpu-pause-4n7f"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Japanese PII detection that never leaves the browser (Transformers.js + a small ONNX model)]]></title>
-        <id>https://dev.to/japanopendatalab/japanese-pii-detection-that-never-leaves-the-browser-transformersjs-a-small-onnx-model-40f6</id>
-        <link href="https://dev.to/japanopendatalab/japanese-pii-detection-that-never-leaves-the-browser-transformersjs-a-small-onnx-model-40f6"/>
+        <title type="html"><![CDATA[Architecting a Real-Time Multiplayer Clicker Arena with WebSockets & HTML5 Canvas: The Engineering of Click War]]></title>
+        <id>https://dev.to/uchitchakma/architecting-a-real-time-multiplayer-clicker-arena-with-websockets-html5-canvas-the-engineering-2n2p</id>
+        <link href="https://dev.to/uchitchakma/architecting-a-real-time-multiplayer-clicker-arena-with-websockets-html5-canvas-the-engineering-2n2p"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Content Taxonomy 1.0 vs 2.2 vs 3.1: Mapping CSVs vs cattax on OpenRTB]]></title>
-        <id>https://dev.to/aleksuix/content-taxonomy-10-vs-22-vs-31-mapping-csvs-vs-cattax-on-openrtb-2ck1</id>
-        <link href="https://dev.to/aleksuix/content-taxonomy-10-vs-22-vs-31-mapping-csvs-vs-cattax-on-openrtb-2ck1"/>
+        <title type="html"><![CDATA[Stop Writing JSON Schemas By Hand: Meet JSON Schema Wizard]]></title>
+        <id>https://dev.to/nexus_99c5c21c5fa1b1570c5/stop-writing-json-schemas-by-hand-meet-json-schema-wizard-4kpg</id>
+        <link href="https://dev.to/nexus_99c5c21c5fa1b1570c5/stop-writing-json-schemas-by-hand-meet-json-schema-wizard-4kpg"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Scientific Calculator Where 0.1 + 0.2 Is Exactly 0.3 — Built From Addition Alone]]></title>
-        <id>https://dev.to/morc_b13/a-scientific-calculator-where-01-02-is-exactly-03-built-from-addition-alone-4e89</id>
-        <link href="https://dev.to/morc_b13/a-scientific-calculator-where-01-02-is-exactly-03-built-from-addition-alone-4e89"/>
+        <title type="html"><![CDATA[Show DEV: Three Zero-Tracking Browser Workbenches for Typing, Text Analysis, and H5 Canvas Toys]]></title>
+        <id>https://dev.to/seven_gs_fe6e9aff3084b6ce/show-dev-three-zero-tracking-browser-workbenches-for-typing-text-analysis-and-h5-canvas-toys-294c</id>
+        <link href="https://dev.to/seven_gs_fe6e9aff3084b6ce/show-dev-three-zero-tracking-browser-workbenches-for-typing-text-analysis-and-h5-canvas-toys-294c"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Resilient Web Applications: Beyond Offline Loading (Part 2)]]></title>
-        <id>https://dev.to/saghe_dev/building-resilient-web-applications-beyond-offline-loading-part-2-18kk</id>
-        <link href="https://dev.to/saghe_dev/building-resilient-web-applications-beyond-offline-loading-part-2-18kk"/>
+        <title type="html"><![CDATA[A VALORANT crosshair code is just semicolon-separated pairs — so I draw it with canvas]]></title>
+        <id>https://dev.to/cpcai_studio/a-valorant-crosshair-code-is-just-semicolon-separated-pairs-so-i-draw-it-with-canvas-22c9</id>
+        <link href="https://dev.to/cpcai_studio/a-valorant-crosshair-code-is-just-semicolon-separated-pairs-so-i-draw-it-with-canvas-22c9"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 3 Lies Your AI Coding Agent Tells You Every Day (And How to Verify Them with Deterministic MCP Gates)]]></title>
-        <id>https://dev.to/avivgerzhue/the-3-lies-your-ai-coding-agent-tells-you-every-day-and-how-to-verify-them-with-deterministic-mcp-4i1l</id>
-        <link href="https://dev.to/avivgerzhue/the-3-lies-your-ai-coding-agent-tells-you-every-day-and-how-to-verify-them-with-deterministic-mcp-4i1l"/>
+        <title type="html"><![CDATA[npm ERESOLVE unable to resolve dependency tree: 4 fixes]]></title>
+        <id>https://dev.to/rshday/npm-eresolve-unable-to-resolve-dependency-tree-4-fixes-1mf6</id>
+        <link href="https://dev.to/rshday/npm-eresolve-unable-to-resolve-dependency-tree-4-fixes-1mf6"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parsing money the way Vietnamese people type it: 2,5tr, 500k and 1tr+500k]]></title>
-        <id>https://dev.to/mikevu/parsing-money-the-way-vietnamese-people-type-it-25tr-500k-and-1tr500k-1d46</id>
-        <link href="https://dev.to/mikevu/parsing-money-the-way-vietnamese-people-type-it-25tr-500k-and-1tr500k-1d46"/>
+        <title type="html"><![CDATA[Making a booking page installable: tenant-aware PWA with vite-plugin-pwa]]></title>
+        <id>https://dev.to/chinayi/making-a-booking-page-installable-tenant-aware-pwa-with-vite-plugin-pwa-3b88</id>
+        <link href="https://dev.to/chinayi/making-a-booking-page-installable-tenant-aware-pwa-with-vite-plugin-pwa-3b88"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Valida la CURP con RENAPO y autocompleta la dirección por código postal en Node.js]]></title>
-        <id>https://dev.to/acrogenesis/valida-la-curp-con-renapo-y-autocompleta-la-direccia3n-por-ca3digo-postal-en-nodejs-1dd2</id>
-        <link href="https://dev.to/acrogenesis/valida-la-curp-con-renapo-y-autocompleta-la-direccia3n-por-ca3digo-postal-en-nodejs-1dd2"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JSON-LD that cannot lie: schema markup generated from the same data as the page]]></title>
-        <id>https://dev.to/413x/json-ld-that-cannot-lie-schema-markup-generated-from-the-same-data-as-the-page-313l</id>
-        <link href="https://dev.to/413x/json-ld-that-cannot-lie-schema-markup-generated-from-the-same-data-as-the-page-313l"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a fast Telegram inline bot: what actually matters]]></title>
-        <id>https://dev.to/dahmadiev57/building-a-fast-telegram-inline-bot-what-actually-matters-37bk</id>
-        <link href="https://dev.to/dahmadiev57/building-a-fast-telegram-inline-bot-what-actually-matters-37bk"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O(1) Per-Tick Pathfinding and Velocity-Stall Recovery in Deterministic JS Agents]]></title>
-        <id>https://dev.to/nmorestd/o1-per-tick-pathfinding-and-velocity-stall-recovery-in-deterministic-js-agents-kac</id>
-        <link href="https://dev.to/nmorestd/o1-per-tick-pathfinding-and-velocity-stall-recovery-in-deterministic-js-agents-kac"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A sprite-frame array can be incomplete even when every() passes]]></title>
-        <id>https://dev.to/framesprite-team/a-sprite-frame-array-can-be-incomplete-even-when-every-passes-3mg3</id>
-        <link href="https://dev.to/framesprite-team/a-sprite-frame-array-can-be-incomplete-even-when-every-passes-3mg3"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What metadata is hiding in your PDFs, and how to strip it with pdf-lib]]></title>
-        <id>https://dev.to/multicalify/what-metadata-is-hiding-in-your-pdfs-and-how-to-strip-it-with-pdf-lib-59f4</id>
-        <link href="https://dev.to/multicalify/what-metadata-is-hiding-in-your-pdfs-and-how-to-strip-it-with-pdf-lib-59f4"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build an Audiobook Generator Using ElevenLabs API]]></title>
-        <id>https://dev.to/voice_developer/build-an-audiobook-generator-using-elevenlabs-api-l2p</id>
-        <link href="https://dev.to/voice_developer/build-an-audiobook-generator-using-elevenlabs-api-l2p"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POV: Your coding agent just tried to phone home]]></title>
-        <id>https://dev.to/jakeburwick/pov-your-coding-agent-just-tried-to-phone-home-5390</id>
-        <link href="https://dev.to/jakeburwick/pov-your-coding-agent-just-tried-to-phone-home-5390"/>
+        <title type="html"><![CDATA[JavaScript Closures: How Functions Remember Their Variables]]></title>
+        <id>https://dev.to/sowntharya/javascript-closures-how-functions-remember-their-variables-2398</id>
+        <link href="https://dev.to/sowntharya/javascript-closures-how-functions-remember-their-variables-2398"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
@@ -337,31 +315,59 @@
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 CSS Values for Easier Text Styling]]></title>
-        <id>https://blog.master.dev/5-css-values-for-easier-text-styling/</id>
-        <link href="https://blog.master.dev/5-css-values-for-easier-text-styling/"/>
+        <title type="html"><![CDATA[POV: Your coding agent just tried to phone home]]></title>
+        <id>https://dev.to/jakeburwick/pov-your-coding-agent-just-tried-to-phone-home-5390</id>
+        <link href="https://dev.to/jakeburwick/pov-your-coding-agent-just-tried-to-phone-home-5390"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等]]></title>
-        <id>https://sspai.com/post/119210</id>
-        <link href="https://sspai.com/post/119210"/>
-        <updated>2026-11-17T16:00:00.000Z</updated>
-        <published>2026-11-17T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Build an Audiobook Generator Using ElevenLabs API]]></title>
+        <id>https://dev.to/voice_developer/build-an-audiobook-generator-using-elevenlabs-api-l2p</id>
+        <link href="https://dev.to/voice_developer/build-an-audiobook-generator-using-elevenlabs-api-l2p"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Suno now lets you make AI videos for your AI music]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature"/>
-        <updated>2026-11-17T16:00:00.000Z</updated>
-        <published>2026-11-17T16:00:00.000Z</published>
+        <title type="html"><![CDATA[What metadata is hiding in your PDFs, and how to strip it with pdf-lib]]></title>
+        <id>https://dev.to/multicalify/what-metadata-is-hiding-in-your-pdfs-and-how-to-strip-it-with-pdf-lib-59f4</id>
+        <link href="https://dev.to/multicalify/what-metadata-is-hiding-in-your-pdfs-and-how-to-strip-it-with-pdf-lib-59f4"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Instagram is helping creators crack down on copycat videos]]></title>
-        <id>https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos</id>
-        <link href="https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos"/>
-        <updated>2026-11-17T16:00:00.000Z</updated>
-        <published>2026-11-17T16:00:00.000Z</published>
+        <title type="html"><![CDATA[A sprite-frame array can be incomplete even when every() passes]]></title>
+        <id>https://dev.to/framesprite-team/a-sprite-frame-array-can-be-incomplete-even-when-every-passes-3mg3</id>
+        <link href="https://dev.to/framesprite-team/a-sprite-frame-array-can-be-incomplete-even-when-every-passes-3mg3"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O(1) Per-Tick Pathfinding and Velocity-Stall Recovery in Deterministic JS Agents]]></title>
+        <id>https://dev.to/nmorestd/o1-per-tick-pathfinding-and-velocity-stall-recovery-in-deterministic-js-agents-kac</id>
+        <link href="https://dev.to/nmorestd/o1-per-tick-pathfinding-and-velocity-stall-recovery-in-deterministic-js-agents-kac"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a fast Telegram inline bot: what actually matters]]></title>
+        <id>https://dev.to/dahmadiev57/building-a-fast-telegram-inline-bot-what-actually-matters-37bk</id>
+        <link href="https://dev.to/dahmadiev57/building-a-fast-telegram-inline-bot-what-actually-matters-37bk"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSON-LD that cannot lie: schema markup generated from the same data as the page]]></title>
+        <id>https://dev.to/413x/json-ld-that-cannot-lie-schema-markup-generated-from-the-same-data-as-the-page-313l</id>
+        <link href="https://dev.to/413x/json-ld-that-cannot-lie-schema-markup-generated-from-the-same-data-as-the-page-313l"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valida la CURP con RENAPO y autocompleta la dirección por código postal en Node.js]]></title>
+        <id>https://dev.to/acrogenesis/valida-la-curp-con-renapo-y-autocompleta-la-direccia3n-por-ca3digo-postal-en-nodejs-1dd2</id>
+        <link href="https://dev.to/acrogenesis/valida-la-curp-con-renapo-y-autocompleta-la-direccia3n-por-ca3digo-postal-en-nodejs-1dd2"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
     </entry>
 </feed>
