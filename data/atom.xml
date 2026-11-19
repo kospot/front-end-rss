@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-19T00:01:07.078Z</updated>
+    <updated>2026-11-19T02:01:57.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,23 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink]]></title>
+        <id>https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook</id>
+        <link href="https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Instagram now lets you edit your stories after you post them]]></title>
         <id>https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them</id>
         <link href="https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This]]></title>
-        <id>https://www.wired.com/story/guys-really-we-got-this/</id>
-        <link href="https://www.wired.com/story/guys-really-we-got-this/"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity]]></title>
-        <id>https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/</id>
-        <link href="https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
@@ -43,30 +36,16 @@
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amidst fears of AI-cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’]]></title>
-        <id>https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/</id>
-        <link href="https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"/>
+        <title type="html"><![CDATA[Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity]]></title>
+        <id>https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/</id>
+        <link href="https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance]]></title>
-        <id>https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/</id>
-        <link href="https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More banks say customers using AI agents are on their own — even if they get hacked]]></title>
-        <id>https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/</id>
-        <link href="https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google’s AI feature in Search gets its own incognito mode]]></title>
-        <id>https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/</id>
-        <link href="https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/"/>
+        <title type="html"><![CDATA[Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This]]></title>
+        <id>https://www.wired.com/story/guys-really-we-got-this/</id>
+        <link href="https://www.wired.com/story/guys-really-we-got-this/"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
@@ -78,51 +57,58 @@
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PhantaField Projects $0.42/M Output Tokens in Orbit with White Matter and Sophon]]></title>
-        <id>https://www.phantafield.com/news/sizing-an-orbital-ai-datacenter</id>
-        <link href="https://www.phantafield.com/news/sizing-an-orbital-ai-datacenter"/>
+        <title type="html"><![CDATA[Google’s AI feature in Search gets its own incognito mode]]></title>
+        <id>https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/</id>
+        <link href="https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: GTA 6 is out, so I built an agent to do my job in Chrome]]></title>
-        <id>https://chromewebstore.google.com/detail/shoppilot/jaookbeghccminjahkpgfgpdjblabhia</id>
-        <link href="https://chromewebstore.google.com/detail/shoppilot/jaookbeghccminjahkpgfgpdjblabhia"/>
+        <title type="html"><![CDATA[More banks say customers using AI agents are on their own — even if they get hacked]]></title>
+        <id>https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/</id>
+        <link href="https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Multiple vulnerabilities in Regexp and String case conversion]]></title>
-        <id>https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/</id>
-        <link href="https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"/>
+        <title type="html"><![CDATA[David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance]]></title>
+        <id>https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/</id>
+        <link href="https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Software companies are trying to kill home computing]]></title>
-        <id>https://lateblt.livejournal.com/526188.html</id>
-        <link href="https://lateblt.livejournal.com/526188.html"/>
+        <title type="html"><![CDATA[Amidst fears of AI-cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’]]></title>
+        <id>https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/</id>
+        <link href="https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Palo Alto Networks to Acquire Applied Compute for $4.5B]]></title>
-        <id>https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open</id>
-        <link href="https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open"/>
+        <title type="html"><![CDATA[Ask HN: Tips for transitioning from web development to embedded/firmware?]]></title>
+        <id>https://news.ycombinator.com/item?id=50555002</id>
+        <link href="https://news.ycombinator.com/item?id=50555002"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Frontier Observatory – A visual timeline of what the AI labs ship]]></title>
-        <id>https://frontier-lab-observatory.lucentcarrot1.chatgpt.site</id>
-        <link href="https://frontier-lab-observatory.lucentcarrot1.chatgpt.site"/>
+        <title type="html"><![CDATA[FailTrace – Reproduce a failed GitHub Actions run locally from its URL]]></title>
+        <id>https://github.com/Ri4dH/failtrace</id>
+        <link href="https://github.com/Ri4dH/failtrace"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting Access]]></title>
-        <id>https://www.math.columbia.edu/~woit/wordpress/?p=16002</id>
-        <link href="https://www.math.columbia.edu/~woit/wordpress/?p=16002"/>
+        <title type="html"><![CDATA[Video: Manned Interstellar Mission]]></title>
+        <id>https://twitter.com/PicoSputnik/status/2123224137959190993</id>
+        <link href="https://twitter.com/PicoSputnik/status/2123224137959190993"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sysdeck: Raycast for Linux and BSD]]></title>
+        <id>https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd</id>
+        <link href="https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
@@ -134,37 +120,51 @@
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Give Claude Code a Seatbelt: 5 Practical Hooks for Every Project]]></title>
-        <id>https://pub.towardsai.net/give-claude-code-a-seatbelt-5-practical-hooks-for-every-project-fecf0cb80bbe?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/give-claude-code-a-seatbelt-5-practical-hooks-for-every-project-fecf0cb80bbe?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Getting Access]]></title>
+        <id>https://www.math.columbia.edu/~woit/wordpress/?p=16002</id>
+        <link href="https://www.math.columbia.edu/~woit/wordpress/?p=16002"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Day 46/100] Reranking for RAG: Retrieve Twenty, Keep the Four That Matter]]></title>
-        <id>https://pub.towardsai.net/day-46-100-reranking-for-rag-retrieve-twenty-keep-the-four-that-matter-915d1f776428?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/day-46-100-reranking-for-rag-retrieve-twenty-keep-the-four-that-matter-915d1f776428?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Frontier Observatory – A visual timeline of what the AI labs ship]]></title>
+        <id>https://frontier-lab-observatory.lucentcarrot1.chatgpt.site</id>
+        <link href="https://frontier-lab-observatory.lucentcarrot1.chatgpt.site"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Agent Supply Chain: Provenance for Skills, Tools, and Servers]]></title>
-        <id>https://pub.towardsai.net/the-agent-supply-chain-provenance-for-skills-tools-and-servers-c652df405f57?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-agent-supply-chain-provenance-for-skills-tools-and-servers-c652df405f57?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Palo Alto Networks to Acquire Applied Compute for $4.5B]]></title>
+        <id>https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open</id>
+        <link href="https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI Lost Control of Its Test Agents at Least 80 Times.]]></title>
-        <id>https://pub.towardsai.net/openai-lost-control-of-its-test-agents-at-least-80-times-8c06e5d7be2e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/openai-lost-control-of-its-test-agents-at-least-80-times-8c06e5d7be2e?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Software companies are trying to kill home computing]]></title>
+        <id>https://lateblt.livejournal.com/526188.html</id>
+        <link href="https://lateblt.livejournal.com/526188.html"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reading Five Agent Studies in One Week: What Their Honesty Sections Taught Me]]></title>
-        <id>https://pub.towardsai.net/reading-five-agent-studies-in-one-week-what-their-honesty-sections-taught-me-a40859db118a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/reading-five-agent-studies-in-one-week-what-their-honesty-sections-taught-me-a40859db118a?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Multiple vulnerabilities in Regexp and String case conversion]]></title>
+        <id>https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/</id>
+        <link href="https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: GTA 6 is out, so I built an agent to do my job in Chrome]]></title>
+        <id>https://chromewebstore.google.com/detail/shoppilot/jaookbeghccminjahkpgfgpdjblabhia</id>
+        <link href="https://chromewebstore.google.com/detail/shoppilot/jaookbeghccminjahkpgfgpdjblabhia"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PhantaField Projects $0.42/M Output Tokens in Orbit with White Matter and Sophon]]></title>
+        <id>https://www.phantafield.com/news/sizing-an-orbital-ai-datacenter</id>
+        <link href="https://www.phantafield.com/news/sizing-an-orbital-ai-datacenter"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
@@ -176,65 +176,93 @@
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Keeping Sitemap Lastmod Dates Honest on a Law Firm Site]]></title>
-        <id>https://dev.to/sbdmarketing/keeping-sitemap-lastmod-dates-honest-on-a-law-firm-site-4g70</id>
-        <link href="https://dev.to/sbdmarketing/keeping-sitemap-lastmod-dates-honest-on-a-law-firm-site-4g70"/>
+        <title type="html"><![CDATA[Reading Five Agent Studies in One Week: What Their Honesty Sections Taught Me]]></title>
+        <id>https://pub.towardsai.net/reading-five-agent-studies-in-one-week-what-their-honesty-sections-taught-me-a40859db118a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/reading-five-agent-studies-in-one-week-what-their-honesty-sections-taught-me-a40859db118a?source=rss----98111c9905da---4"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[POV: Your coding agent just tried to phone home]]></title>
-        <id>https://dev.to/jakeburwick/pov-your-coding-agent-just-tried-to-phone-home-5390</id>
-        <link href="https://dev.to/jakeburwick/pov-your-coding-agent-just-tried-to-phone-home-5390"/>
+        <title type="html"><![CDATA[OpenAI Lost Control of Its Test Agents at Least 80 Times.]]></title>
+        <id>https://pub.towardsai.net/openai-lost-control-of-its-test-agents-at-least-80-times-8c06e5d7be2e?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/openai-lost-control-of-its-test-agents-at-least-80-times-8c06e5d7be2e?source=rss----98111c9905da---4"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build an Audiobook Generator Using ElevenLabs API]]></title>
-        <id>https://dev.to/voice_developer/build-an-audiobook-generator-using-elevenlabs-api-l2p</id>
-        <link href="https://dev.to/voice_developer/build-an-audiobook-generator-using-elevenlabs-api-l2p"/>
+        <title type="html"><![CDATA[The Agent Supply Chain: Provenance for Skills, Tools, and Servers]]></title>
+        <id>https://pub.towardsai.net/the-agent-supply-chain-provenance-for-skills-tools-and-servers-c652df405f57?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-agent-supply-chain-provenance-for-skills-tools-and-servers-c652df405f57?source=rss----98111c9905da---4"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What metadata is hiding in your PDFs, and how to strip it with pdf-lib]]></title>
-        <id>https://dev.to/multicalify/what-metadata-is-hiding-in-your-pdfs-and-how-to-strip-it-with-pdf-lib-59f4</id>
-        <link href="https://dev.to/multicalify/what-metadata-is-hiding-in-your-pdfs-and-how-to-strip-it-with-pdf-lib-59f4"/>
+        <title type="html"><![CDATA[[Day 46/100] Reranking for RAG: Retrieve Twenty, Keep the Four That Matter]]></title>
+        <id>https://pub.towardsai.net/day-46-100-reranking-for-rag-retrieve-twenty-keep-the-four-that-matter-915d1f776428?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/day-46-100-reranking-for-rag-retrieve-twenty-keep-the-four-that-matter-915d1f776428?source=rss----98111c9905da---4"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A sprite-frame array can be incomplete even when every() passes]]></title>
-        <id>https://dev.to/framesprite-team/a-sprite-frame-array-can-be-incomplete-even-when-every-passes-3mg3</id>
-        <link href="https://dev.to/framesprite-team/a-sprite-frame-array-can-be-incomplete-even-when-every-passes-3mg3"/>
+        <title type="html"><![CDATA[Give Claude Code a Seatbelt: 5 Practical Hooks for Every Project]]></title>
+        <id>https://pub.towardsai.net/give-claude-code-a-seatbelt-5-practical-hooks-for-every-project-fecf0cb80bbe?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/give-claude-code-a-seatbelt-5-practical-hooks-for-every-project-fecf0cb80bbe?source=rss----98111c9905da---4"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[O(1) Per-Tick Pathfinding and Velocity-Stall Recovery in Deterministic JS Agents]]></title>
-        <id>https://dev.to/nmorestd/o1-per-tick-pathfinding-and-velocity-stall-recovery-in-deterministic-js-agents-kac</id>
-        <link href="https://dev.to/nmorestd/o1-per-tick-pathfinding-and-velocity-stall-recovery-in-deterministic-js-agents-kac"/>
+        <title type="html"><![CDATA[A browser-based audio editor still ships its effects graph and preset formulas]]></title>
+        <id>https://dev.to/veilvm/a-browser-based-audio-editor-still-ships-its-effects-graph-and-preset-formulas-3ha9</id>
+        <link href="https://dev.to/veilvm/a-browser-based-audio-editor-still-ships-its-effects-graph-and-preset-formulas-3ha9"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a fast Telegram inline bot: what actually matters]]></title>
-        <id>https://dev.to/dahmadiev57/building-a-fast-telegram-inline-bot-what-actually-matters-37bk</id>
-        <link href="https://dev.to/dahmadiev57/building-a-fast-telegram-inline-bot-what-actually-matters-37bk"/>
+        <title type="html"><![CDATA[A TensorFlow.js or ONNX model in the browser still ships your weights and feature pipeline]]></title>
+        <id>https://dev.to/veilvm/a-tensorflowjs-or-onnx-model-in-the-browser-still-ships-your-weights-and-feature-pipeline-31gc</id>
+        <link href="https://dev.to/veilvm/a-tensorflowjs-or-onnx-model-in-the-browser-still-ships-your-weights-and-feature-pipeline-31gc"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSON-LD that cannot lie: schema markup generated from the same data as the page]]></title>
-        <id>https://dev.to/413x/json-ld-that-cannot-lie-schema-markup-generated-from-the-same-data-as-the-page-313l</id>
-        <link href="https://dev.to/413x/json-ld-that-cannot-lie-schema-markup-generated-from-the-same-data-as-the-page-313l"/>
+        <title type="html"><![CDATA[I built a sandbox to win a security test and Deno tied me]]></title>
+        <id>https://dev.to/jakeburwick/i-built-a-sandbox-to-win-a-security-test-and-deno-tied-me-2g95</id>
+        <link href="https://dev.to/jakeburwick/i-built-a-sandbox-to-win-a-security-test-and-deno-tied-me-2g95"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Valida la CURP con RENAPO y autocompleta la dirección por código postal en Node.js]]></title>
-        <id>https://dev.to/acrogenesis/valida-la-curp-con-renapo-y-autocompleta-la-direccia3n-por-ca3digo-postal-en-nodejs-1dd2</id>
-        <link href="https://dev.to/acrogenesis/valida-la-curp-con-renapo-y-autocompleta-la-direccia3n-por-ca3digo-postal-en-nodejs-1dd2"/>
+        <title type="html"><![CDATA[Japanese PII detection that never leaves the browser (Transformers.js + a small ONNX model)]]></title>
+        <id>https://dev.to/japanopendatalab/japanese-pii-detection-that-never-leaves-the-browser-transformersjs-a-small-onnx-model-40f6</id>
+        <link href="https://dev.to/japanopendatalab/japanese-pii-detection-that-never-leaves-the-browser-transformersjs-a-small-onnx-model-40f6"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Content Taxonomy 1.0 vs 2.2 vs 3.1: Mapping CSVs vs cattax on OpenRTB]]></title>
+        <id>https://dev.to/aleksuix/content-taxonomy-10-vs-22-vs-31-mapping-csvs-vs-cattax-on-openrtb-2ck1</id>
+        <link href="https://dev.to/aleksuix/content-taxonomy-10-vs-22-vs-31-mapping-csvs-vs-cattax-on-openrtb-2ck1"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Scientific Calculator Where 0.1 + 0.2 Is Exactly 0.3 — Built From Addition Alone]]></title>
+        <id>https://dev.to/morc_b13/a-scientific-calculator-where-01-02-is-exactly-03-built-from-addition-alone-4e89</id>
+        <link href="https://dev.to/morc_b13/a-scientific-calculator-where-01-02-is-exactly-03-built-from-addition-alone-4e89"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Resilient Web Applications: Beyond Offline Loading (Part 2)]]></title>
+        <id>https://dev.to/saghe_dev/building-resilient-web-applications-beyond-offline-loading-part-2-18kk</id>
+        <link href="https://dev.to/saghe_dev/building-resilient-web-applications-beyond-offline-loading-part-2-18kk"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 3 Lies Your AI Coding Agent Tells You Every Day (And How to Verify Them with Deterministic MCP Gates)]]></title>
+        <id>https://dev.to/avivgerzhue/the-3-lies-your-ai-coding-agent-tells-you-every-day-and-how-to-verify-them-with-deterministic-mcp-4i1l</id>
+        <link href="https://dev.to/avivgerzhue/the-3-lies-your-ai-coding-agent-tells-you-every-day-and-how-to-verify-them-with-deterministic-mcp-4i1l"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
@@ -246,9 +274,65 @@
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 3 Lies Your AI Coding Agent Tells You Every Day (And How to Verify Them with Deterministic MCP Gates)]]></title>
-        <id>https://dev.to/avivgerzhue/the-3-lies-your-ai-coding-agent-tells-you-every-day-and-how-to-verify-them-with-deterministic-mcp-4i1l</id>
-        <link href="https://dev.to/avivgerzhue/the-3-lies-your-ai-coding-agent-tells-you-every-day-and-how-to-verify-them-with-deterministic-mcp-4i1l"/>
+        <title type="html"><![CDATA[Valida la CURP con RENAPO y autocompleta la dirección por código postal en Node.js]]></title>
+        <id>https://dev.to/acrogenesis/valida-la-curp-con-renapo-y-autocompleta-la-direccia3n-por-ca3digo-postal-en-nodejs-1dd2</id>
+        <link href="https://dev.to/acrogenesis/valida-la-curp-con-renapo-y-autocompleta-la-direccia3n-por-ca3digo-postal-en-nodejs-1dd2"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSON-LD that cannot lie: schema markup generated from the same data as the page]]></title>
+        <id>https://dev.to/413x/json-ld-that-cannot-lie-schema-markup-generated-from-the-same-data-as-the-page-313l</id>
+        <link href="https://dev.to/413x/json-ld-that-cannot-lie-schema-markup-generated-from-the-same-data-as-the-page-313l"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a fast Telegram inline bot: what actually matters]]></title>
+        <id>https://dev.to/dahmadiev57/building-a-fast-telegram-inline-bot-what-actually-matters-37bk</id>
+        <link href="https://dev.to/dahmadiev57/building-a-fast-telegram-inline-bot-what-actually-matters-37bk"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O(1) Per-Tick Pathfinding and Velocity-Stall Recovery in Deterministic JS Agents]]></title>
+        <id>https://dev.to/nmorestd/o1-per-tick-pathfinding-and-velocity-stall-recovery-in-deterministic-js-agents-kac</id>
+        <link href="https://dev.to/nmorestd/o1-per-tick-pathfinding-and-velocity-stall-recovery-in-deterministic-js-agents-kac"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A sprite-frame array can be incomplete even when every() passes]]></title>
+        <id>https://dev.to/framesprite-team/a-sprite-frame-array-can-be-incomplete-even-when-every-passes-3mg3</id>
+        <link href="https://dev.to/framesprite-team/a-sprite-frame-array-can-be-incomplete-even-when-every-passes-3mg3"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What metadata is hiding in your PDFs, and how to strip it with pdf-lib]]></title>
+        <id>https://dev.to/multicalify/what-metadata-is-hiding-in-your-pdfs-and-how-to-strip-it-with-pdf-lib-59f4</id>
+        <link href="https://dev.to/multicalify/what-metadata-is-hiding-in-your-pdfs-and-how-to-strip-it-with-pdf-lib-59f4"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build an Audiobook Generator Using ElevenLabs API]]></title>
+        <id>https://dev.to/voice_developer/build-an-audiobook-generator-using-elevenlabs-api-l2p</id>
+        <link href="https://dev.to/voice_developer/build-an-audiobook-generator-using-elevenlabs-api-l2p"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POV: Your coding agent just tried to phone home]]></title>
+        <id>https://dev.to/jakeburwick/pov-your-coding-agent-just-tried-to-phone-home-5390</id>
+        <link href="https://dev.to/jakeburwick/pov-your-coding-agent-just-tried-to-phone-home-5390"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keeping Sitemap Lastmod Dates Honest on a Law Firm Site]]></title>
+        <id>https://dev.to/sbdmarketing/keeping-sitemap-lastmod-dates-honest-on-a-law-firm-site-4g70</id>
+        <link href="https://dev.to/sbdmarketing/keeping-sitemap-lastmod-dates-honest-on-a-law-firm-site-4g70"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
@@ -267,69 +351,6 @@
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Instagram’s ‘school safety’ push was also a way to get more teens on the app]]></title>
-        <id>https://www.theverge.com/tech/1036517/instagram-school-safety-program-project-gryffindor</id>
-        <link href="https://www.theverge.com/tech/1036517/instagram-school-safety-program-project-gryffindor"/>
-        <updated>2026-11-17T16:00:00.000Z</updated>
-        <published>2026-11-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rivian spinoff Also pauses e-bike deliveries over battery and software bugs]]></title>
-        <id>https://www.theverge.com/transportation/1036460/also-rivian-spinoff-tm-b-ebike-delivery-delay-software-battery-issues</id>
-        <link href="https://www.theverge.com/transportation/1036460/also-rivian-spinoff-tm-b-ebike-delivery-delay-software-battery-issues"/>
-        <updated>2026-11-17T16:00:00.000Z</updated>
-        <published>2026-11-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will Wright’s next game uses AI to map your memories]]></title>
-        <id>https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview</id>
-        <link href="https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview"/>
-        <updated>2026-11-17T16:00:00.000Z</updated>
-        <published>2026-11-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair]]></title>
-        <id>https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub</id>
-        <link href="https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub"/>
-        <updated>2026-11-17T16:00:00.000Z</updated>
-        <published>2026-11-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube found a new way to inflate view counts]]></title>
-        <id>https://www.theverge.com/streaming/1035683/youtube-co-views-count</id>
-        <link href="https://www.theverge.com/streaming/1035683/youtube-co-views-count"/>
-        <updated>2026-11-17T16:00:00.000Z</updated>
-        <published>2026-11-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amflow’s new urban e-bike series is deliciously overpowered for flat city streets]]></title>
-        <id>https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs</id>
-        <link href="https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs"/>
-        <updated>2026-11-17T16:00:00.000Z</updated>
-        <published>2026-11-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta is testing a new standalone messaging app called Direct]]></title>
-        <id>https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app</id>
-        <link href="https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app"/>
-        <updated>2026-11-17T16:00:00.000Z</updated>
-        <published>2026-11-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Democrats try to figure out how not to get swept away by the blue wave]]></title>
-        <id>https://www.theverge.com/policy/1035869/whats-next-majority-democrats-conference-denver-jeffries</id>
-        <link href="https://www.theverge.com/policy/1035869/whats-next-majority-democrats-conference-denver-jeffries"/>
-        <updated>2026-11-17T16:00:00.000Z</updated>
-        <published>2026-11-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instagram is helping creators crack down on copycat videos]]></title>
-        <id>https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos</id>
-        <link href="https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos"/>
-        <updated>2026-11-17T16:00:00.000Z</updated>
-        <published>2026-11-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Suno now lets you make AI videos for your AI music]]></title>
         <id>https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature</id>
         <link href="https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature"/>
@@ -337,30 +358,9 @@
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nubia Redmagic 12 Pro Review: Furiously Fast but Flawed]]></title>
-        <id>https://www.wired.com/review/nubia-redmagic-12-pro/</id>
-        <link href="https://www.wired.com/review/nubia-redmagic-12-pro/"/>
-        <updated>2026-11-17T16:00:00.000Z</updated>
-        <published>2026-11-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple HomeView Review (2026): Should’ve Been Better]]></title>
-        <id>https://www.wired.com/review/apple-homeview-review/</id>
-        <link href="https://www.wired.com/review/apple-homeview-review/"/>
-        <updated>2026-11-17T16:00:00.000Z</updated>
-        <published>2026-11-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Nubia Redmagic 12 Pro | Camera]]></title>
-        <id>https://www.wired.com/gallery/review-nubia-redmagic-12-pro-or-camera/</id>
-        <link href="https://www.wired.com/gallery/review-nubia-redmagic-12-pro-or-camera/"/>
-        <updated>2026-11-17T16:00:00.000Z</updated>
-        <published>2026-11-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over a Third of Gen Z-ers Rely on AI for Friendship]]></title>
-        <id>https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/</id>
-        <link href="https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/"/>
+        <title type="html"><![CDATA[Instagram is helping creators crack down on copycat videos]]></title>
+        <id>https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos</id>
+        <link href="https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos"/>
         <updated>2026-11-17T16:00:00.000Z</updated>
         <published>2026-11-17T16:00:00.000Z</published>
     </entry>
