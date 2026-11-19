@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-19T10:06:35.795Z</updated>
+    <updated>2026-11-19T13:04:46.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink]]></title>
-        <id>https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook</id>
-        <link href="https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook"/>
+        <title type="html"><![CDATA[Instagram now lets you edit your stories after you post them]]></title>
+        <id>https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them</id>
+        <link href="https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Instagram now lets you edit your stories after you post them]]></title>
-        <id>https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them</id>
-        <link href="https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them"/>
+        <title type="html"><![CDATA[Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink]]></title>
+        <id>https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook</id>
+        <link href="https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
@@ -99,198 +99,30 @@
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EU Commission targeted in cyberattack, Politico reports]]></title>
-        <id>https://www.reuters.com/legal/litigation/eu-commission-targeted-cyberattack-politico-reports-2026-11-19/</id>
-        <link href="https://www.reuters.com/legal/litigation/eu-commission-targeted-cyberattack-politico-reports-2026-11-19/"/>
+        <title type="html"><![CDATA[Show HN: Leverprice – A/B test your SaaS prices, judged on verified revenue]]></title>
+        <id>https://leverprice.com</id>
+        <link href="https://leverprice.com"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: My CTF Setup with BlackArch in Docker]]></title>
-        <id>https://coding-overhead.com/posts/blackarch-docker/</id>
-        <link href="https://coding-overhead.com/posts/blackarch-docker/"/>
+        <title type="html"><![CDATA[LibPreemptible: Enabling Fast, Adaptive, Hardware-Assisted Userspace Scheduling [pdf]]]></title>
+        <id>https://www.csl.cornell.edu/~zhiruz/pdfs/libpreemptible-hpca2024.pdf</id>
+        <link href="https://www.csl.cornell.edu/~zhiruz/pdfs/libpreemptible-hpca2024.pdf"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create a Virtual Background Using the Red5 WebRTC SDK]]></title>
-        <id>https://www.red5.net/blog/virtual-backgrounds-using-the-red5-webrtc-sdk/</id>
-        <link href="https://www.red5.net/blog/virtual-backgrounds-using-the-red5-webrtc-sdk/"/>
+        <title type="html"><![CDATA[The SDLC Is Out of Balance: Beyond the AI Code Review Bottleneck]]></title>
+        <id>https://vitaliioborskyi.ai/articles/the-sdlc-is-out-of-balance.html</id>
+        <link href="https://vitaliioborskyi.ai/articles/the-sdlc-is-out-of-balance.html"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What's New in PHP 8.6]]></title>
-        <id>https://www.php.net/releases/8.6/en.php</id>
-        <link href="https://www.php.net/releases/8.6/en.php"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft-Decision-1.1 is now GA for fast, low-cost decision making]]></title>
-        <id>https://commandline.microsoft.com/microsoft-decision-model-ga/</id>
-        <link href="https://commandline.microsoft.com/microsoft-decision-model-ga/"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech Lancaster]]></title>
-        <id>https://techlancaster.org/</id>
-        <link href="https://techlancaster.org/"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built an image-to-3D workbench with four engines and batch runs]]></title>
-        <id>https://anyimageto3d.com/</id>
-        <link href="https://anyimageto3d.com/"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PhantaField Projects $0.42/M Output Tokens in Orbit with White Matter and Sophon]]></title>
-        <id>https://www.phantafield.com/news/sizing-an-orbital-ai-datacenter</id>
-        <link href="https://www.phantafield.com/news/sizing-an-orbital-ai-datacenter"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: GTA 6 is out, so I built an agent to do my job in Chrome]]></title>
-        <id>https://chromewebstore.google.com/detail/shoppilot/jaookbeghccminjahkpgfgpdjblabhia</id>
-        <link href="https://chromewebstore.google.com/detail/shoppilot/jaookbeghccminjahkpgfgpdjblabhia"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiple vulnerabilities in Regexp and String case conversion]]></title>
-        <id>https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/</id>
-        <link href="https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software companies are trying to kill home computing]]></title>
-        <id>https://lateblt.livejournal.com/526188.html</id>
-        <link href="https://lateblt.livejournal.com/526188.html"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palo Alto Networks to Acquire Applied Compute for $4.5B]]></title>
-        <id>https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open</id>
-        <link href="https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Frontier Observatory – A visual timeline of what the AI labs ship]]></title>
-        <id>https://frontier-lab-observatory.lucentcarrot1.chatgpt.site</id>
-        <link href="https://frontier-lab-observatory.lucentcarrot1.chatgpt.site"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Access]]></title>
-        <id>https://www.math.columbia.edu/~woit/wordpress/?p=16002</id>
-        <link href="https://www.math.columbia.edu/~woit/wordpress/?p=16002"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Shiro Joins the GitHub Secure Open Source Fund]]></title>
-        <id>https://shiro.apache.org/blog/2026/11/apache-shiro-secure-open-source-fund.html</id>
-        <link href="https://shiro.apache.org/blog/2026/11/apache-shiro-secure-open-source-fund.html"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sysdeck: Raycast for Linux and BSD]]></title>
-        <id>https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd</id>
-        <link href="https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video: Manned Interstellar Mission]]></title>
-        <id>https://twitter.com/PicoSputnik/status/2123224137959190993</id>
-        <link href="https://twitter.com/PicoSputnik/status/2123224137959190993"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FailTrace – Reproduce a failed GitHub Actions run locally from its URL]]></title>
-        <id>https://github.com/Ri4dH/failtrace</id>
-        <link href="https://github.com/Ri4dH/failtrace"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Tips for transitioning from web development to embedded/firmware?]]></title>
-        <id>https://news.ycombinator.com/item?id=50555002</id>
-        <link href="https://news.ycombinator.com/item?id=50555002"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waymo pulls driverless taxis from freeways across the US after California ban]]></title>
-        <id>https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways</id>
-        <link href="https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GTA-6,Crime,Jewel Heists,Prison,Corrupt Cops,Mafia,Miami,Money – Lex Fridman [video]]]></title>
-        <id>https://www.youtube.com/watch?v=v1X9Fqs5a14</id>
-        <link href="https://www.youtube.com/watch?v=v1X9Fqs5a14"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wayfinder: Frontier-Level Code Search at a Fraction of the Cost]]></title>
-        <id>https://blog.voyageai.com/2026/11/18/wayfinder-code-search/</id>
-        <link href="https://blog.voyageai.com/2026/11/18/wayfinder-code-search/"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a JSON API in Agentica with Bond and Agentica-Db]]></title>
-        <id>https://www.agentica-lang.com/blog/json-api-with-bond-and-agentica-db/</id>
-        <link href="https://www.agentica-lang.com/blog/json-api-with-bond-and-agentica-db/"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fisheyes in the Field [pdf]]]></title>
-        <id>https://mikkelrj.dk/wp-content/uploads/jakobsen2009-fisheye.pdf</id>
-        <link href="https://mikkelrj.dk/wp-content/uploads/jakobsen2009-fisheye.pdf"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We pre-registered a benchmark for our agent-memory tool. It tied a NOTES.md file]]></title>
-        <id>https://github.com/memrohq/memro</id>
-        <link href="https://github.com/memrohq/memro"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 4.2.1 on Old Nintendo 3DS natively]]></title>
-        <id>https://www.reddit.com/r/hackios/comments/1xyvcxl/ios_421_on_old_nintendo_3ds_natively/</id>
-        <link href="https://www.reddit.com/r/hackios/comments/1xyvcxl/ios_421_on_old_nintendo_3ds_natively/"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uruky Site Search indie/small web index has passed 1M URLs]]></title>
-        <id>https://uruky.com/whats-new?il=en</id>
-        <link href="https://uruky.com/whats-new?il=en"/>
-        <updated>2026-11-18T16:00:00.000Z</updated>
-        <published>2026-11-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last.fm API keys will require Pro from first December]]></title>
-        <id>https://support.last.fm/t/api-keys-will-require-pro-from-1st-december/121030</id>
-        <link href="https://support.last.fm/t/api-keys-will-require-pro-from-1st-december/121030"/>
+        <title type="html"><![CDATA[Autonomous AI Security Auditing of Webmin: 507 Newly Discovered Vulnerabilities]]></title>
+        <id>https://supuk.ch/papers/webmin-ai-security-audit-507-vulnerabilities</id>
+        <link href="https://supuk.ch/papers/webmin-ai-security-audit-507-vulnerabilities"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
@@ -302,51 +134,205 @@
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stripe’s AI Software Factory: How 1,300+ Minion PRs Get Merged Each Week]]></title>
-        <id>https://pub.towardsai.net/stripes-ai-software-factory-how-1-300-minion-prs-get-merged-each-week-1adf9fa17cd2?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/stripes-ai-software-factory-how-1-300-minion-prs-get-merged-each-week-1adf9fa17cd2?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Last.fm API keys will require Pro from first December]]></title>
+        <id>https://support.last.fm/t/api-keys-will-require-pro-from-1st-december/121030</id>
+        <link href="https://support.last.fm/t/api-keys-will-require-pro-from-1st-december/121030"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Software Factories Are Still Software Engineering, and More]]></title>
-        <id>https://pub.towardsai.net/software-factories-are-still-software-engineering-and-more-41e2108165f9?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/software-factories-are-still-software-engineering-and-more-41e2108165f9?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Uruky Site Search indie/small web index has passed 1M URLs]]></title>
+        <id>https://uruky.com/whats-new?il=en</id>
+        <link href="https://uruky.com/whats-new?il=en"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Give Claude Code a Seatbelt: 5 Practical Hooks for Every Project]]></title>
-        <id>https://pub.towardsai.net/give-claude-code-a-seatbelt-5-practical-hooks-for-every-project-fecf0cb80bbe?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/give-claude-code-a-seatbelt-5-practical-hooks-for-every-project-fecf0cb80bbe?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[iOS 4.2.1 on Old Nintendo 3DS natively]]></title>
+        <id>https://www.reddit.com/r/hackios/comments/1xyvcxl/ios_421_on_old_nintendo_3ds_natively/</id>
+        <link href="https://www.reddit.com/r/hackios/comments/1xyvcxl/ios_421_on_old_nintendo_3ds_natively/"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Day 46/100] Reranking for RAG: Retrieve Twenty, Keep the Four That Matter]]></title>
-        <id>https://pub.towardsai.net/day-46-100-reranking-for-rag-retrieve-twenty-keep-the-four-that-matter-915d1f776428?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/day-46-100-reranking-for-rag-retrieve-twenty-keep-the-four-that-matter-915d1f776428?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[We pre-registered a benchmark for our agent-memory tool. It tied a NOTES.md file]]></title>
+        <id>https://github.com/memrohq/memro</id>
+        <link href="https://github.com/memrohq/memro"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Agent Supply Chain: Provenance for Skills, Tools, and Servers]]></title>
-        <id>https://pub.towardsai.net/the-agent-supply-chain-provenance-for-skills-tools-and-servers-c652df405f57?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-agent-supply-chain-provenance-for-skills-tools-and-servers-c652df405f57?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Fisheyes in the Field [pdf]]]></title>
+        <id>https://mikkelrj.dk/wp-content/uploads/jakobsen2009-fisheye.pdf</id>
+        <link href="https://mikkelrj.dk/wp-content/uploads/jakobsen2009-fisheye.pdf"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI Lost Control of Its Test Agents at Least 80 Times.]]></title>
-        <id>https://pub.towardsai.net/openai-lost-control-of-its-test-agents-at-least-80-times-8c06e5d7be2e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/openai-lost-control-of-its-test-agents-at-least-80-times-8c06e5d7be2e?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Build a JSON API in Agentica with Bond and Agentica-Db]]></title>
+        <id>https://www.agentica-lang.com/blog/json-api-with-bond-and-agentica-db/</id>
+        <link href="https://www.agentica-lang.com/blog/json-api-with-bond-and-agentica-db/"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reading Five Agent Studies in One Week: What Their Honesty Sections Taught Me]]></title>
-        <id>https://pub.towardsai.net/reading-five-agent-studies-in-one-week-what-their-honesty-sections-taught-me-a40859db118a?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/reading-five-agent-studies-in-one-week-what-their-honesty-sections-taught-me-a40859db118a?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Wayfinder: Frontier-Level Code Search at a Fraction of the Cost]]></title>
+        <id>https://blog.voyageai.com/2026/11/18/wayfinder-code-search/</id>
+        <link href="https://blog.voyageai.com/2026/11/18/wayfinder-code-search/"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GTA-6,Crime,Jewel Heists,Prison,Corrupt Cops,Mafia,Miami,Money – Lex Fridman [video]]]></title>
+        <id>https://www.youtube.com/watch?v=v1X9Fqs5a14</id>
+        <link href="https://www.youtube.com/watch?v=v1X9Fqs5a14"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waymo pulls driverless taxis from freeways across the US after California ban]]></title>
+        <id>https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways</id>
+        <link href="https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Tips for transitioning from web development to embedded/firmware?]]></title>
+        <id>https://news.ycombinator.com/item?id=50555002</id>
+        <link href="https://news.ycombinator.com/item?id=50555002"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FailTrace – Reproduce a failed GitHub Actions run locally from its URL]]></title>
+        <id>https://github.com/Ri4dH/failtrace</id>
+        <link href="https://github.com/Ri4dH/failtrace"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video: Manned Interstellar Mission]]></title>
+        <id>https://twitter.com/PicoSputnik/status/2123224137959190993</id>
+        <link href="https://twitter.com/PicoSputnik/status/2123224137959190993"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sysdeck: Raycast for Linux and BSD]]></title>
+        <id>https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd</id>
+        <link href="https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Shiro Joins the GitHub Secure Open Source Fund]]></title>
+        <id>https://shiro.apache.org/blog/2026/11/apache-shiro-secure-open-source-fund.html</id>
+        <link href="https://shiro.apache.org/blog/2026/11/apache-shiro-secure-open-source-fund.html"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Access]]></title>
+        <id>https://www.math.columbia.edu/~woit/wordpress/?p=16002</id>
+        <link href="https://www.math.columbia.edu/~woit/wordpress/?p=16002"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Frontier Observatory – A visual timeline of what the AI labs ship]]></title>
+        <id>https://frontier-lab-observatory.lucentcarrot1.chatgpt.site</id>
+        <link href="https://frontier-lab-observatory.lucentcarrot1.chatgpt.site"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palo Alto Networks to Acquire Applied Compute for $4.5B]]></title>
+        <id>https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open</id>
+        <link href="https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software companies are trying to kill home computing]]></title>
+        <id>https://lateblt.livejournal.com/526188.html</id>
+        <link href="https://lateblt.livejournal.com/526188.html"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple vulnerabilities in Regexp and String case conversion]]></title>
+        <id>https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/</id>
+        <link href="https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: GTA 6 is out, so I built an agent to do my job in Chrome]]></title>
+        <id>https://chromewebstore.google.com/detail/shoppilot/jaookbeghccminjahkpgfgpdjblabhia</id>
+        <link href="https://chromewebstore.google.com/detail/shoppilot/jaookbeghccminjahkpgfgpdjblabhia"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PhantaField Projects $0.42/M Output Tokens in Orbit with White Matter and Sophon]]></title>
+        <id>https://www.phantafield.com/news/sizing-an-orbital-ai-datacenter</id>
+        <link href="https://www.phantafield.com/news/sizing-an-orbital-ai-datacenter"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built an image-to-3D workbench with four engines and batch runs]]></title>
+        <id>https://anyimageto3d.com/</id>
+        <link href="https://anyimageto3d.com/"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech Lancaster]]></title>
+        <id>https://techlancaster.org/</id>
+        <link href="https://techlancaster.org/"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft-Decision-1.1 is now GA for fast, low-cost decision making]]></title>
+        <id>https://commandline.microsoft.com/microsoft-decision-model-ga/</id>
+        <link href="https://commandline.microsoft.com/microsoft-decision-model-ga/"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's New in PHP 8.6]]></title>
+        <id>https://www.php.net/releases/8.6/en.php</id>
+        <link href="https://www.php.net/releases/8.6/en.php"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Virtual Background Using the Red5 WebRTC SDK]]></title>
+        <id>https://www.red5.net/blog/virtual-backgrounds-using-the-red5-webrtc-sdk/</id>
+        <link href="https://www.red5.net/blog/virtual-backgrounds-using-the-red5-webrtc-sdk/"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: My CTF Setup with BlackArch in Docker]]></title>
+        <id>https://coding-overhead.com/posts/blackarch-docker/</id>
+        <link href="https://coding-overhead.com/posts/blackarch-docker/"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU Commission targeted in cyberattack, Politico reports]]></title>
+        <id>https://www.reuters.com/legal/litigation/eu-commission-targeted-cyberattack-politico-reports-2026-11-19/</id>
+        <link href="https://www.reuters.com/legal/litigation/eu-commission-targeted-cyberattack-politico-reports-2026-11-19/"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cursor AI vs GitHub Copilot vs Claude Code: Which One Should Developers Choose?]]></title>
+        <id>https://pub.towardsai.net/cursor-ai-vs-github-copilot-vs-claude-code-which-one-should-developers-choose-e13427754a8c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/cursor-ai-vs-github-copilot-vs-claude-code-which-one-should-developers-choose-e13427754a8c?source=rss----98111c9905da---4"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
@@ -358,9 +344,23 @@
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[datasette-arrows 0.1a0]]></title>
-        <id>https://simonwillison.net/2026/Nov/18/datasette-arrows/</id>
-        <link href="https://simonwillison.net/2026/Nov/18/datasette-arrows/"/>
+        <title type="html"><![CDATA[Reading Five Agent Studies in One Week: What Their Honesty Sections Taught Me]]></title>
+        <id>https://pub.towardsai.net/reading-five-agent-studies-in-one-week-what-their-honesty-sections-taught-me-a40859db118a?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/reading-five-agent-studies-in-one-week-what-their-honesty-sections-taught-me-a40859db118a?source=rss----98111c9905da---4"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Lost Control of Its Test Agents at Least 80 Times.]]></title>
+        <id>https://pub.towardsai.net/openai-lost-control-of-its-test-agents-at-least-80-times-8c06e5d7be2e?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/openai-lost-control-of-its-test-agents-at-least-80-times-8c06e5d7be2e?source=rss----98111c9905da---4"/>
+        <updated>2026-11-18T16:00:00.000Z</updated>
+        <published>2026-11-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Agent Supply Chain: Provenance for Skills, Tools, and Servers]]></title>
+        <id>https://pub.towardsai.net/the-agent-supply-chain-provenance-for-skills-tools-and-servers-c652df405f57?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-agent-supply-chain-provenance-for-skills-tools-and-servers-c652df405f57?source=rss----98111c9905da---4"/>
         <updated>2026-11-18T16:00:00.000Z</updated>
         <published>2026-11-18T16:00:00.000Z</published>
     </entry>
