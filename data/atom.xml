@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-20T02:04:15.728Z</updated>
+    <updated>2026-11-20T04:05:09.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -43,9 +43,9 @@
         <published>2026-11-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents]]></title>
-        <id>https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/</id>
-        <link href="https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/"/>
+        <title type="html"><![CDATA[Fiona the Hippo Died After Eating a Hat. But How Does a Hat Kill a Hippo?]]></title>
+        <id>https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/</id>
+        <link href="https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/"/>
         <updated>2026-11-19T16:00:00.000Z</updated>
         <published>2026-11-19T16:00:00.000Z</published>
     </entry>
@@ -53,6 +53,13 @@
         <title type="html"><![CDATA[The Jensen Huang Blast Radius Has Hit His Favorite Restaurants]]></title>
         <id>https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/</id>
         <link href="https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents]]></title>
+        <id>https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/</id>
+        <link href="https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/"/>
         <updated>2026-11-19T16:00:00.000Z</updated>
         <published>2026-11-19T16:00:00.000Z</published>
     </entry>
@@ -92,177 +99,58 @@
         <published>2026-11-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Export Map Places – Export Google Maps Saved Lists]]></title>
-        <id>https://chromewebstore.google.com/detail/export-map-places-google/cbkhbcicafainpfkicjfggkcjncfddjp</id>
-        <link href="https://chromewebstore.google.com/detail/export-map-places-google/cbkhbcicafainpfkicjfggkcjncfddjp"/>
+        <title type="html"><![CDATA[Squeezing Tables with Postgres 19]]></title>
+        <id>https://www.enterprisedb.com/blog/squeezing-tables-postgres-19</id>
+        <link href="https://www.enterprisedb.com/blog/squeezing-tables-postgres-19"/>
         <updated>2026-11-19T16:00:00.000Z</updated>
         <published>2026-11-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I've created a new ‹OpenStreetMap VIEWER›]]></title>
-        <id>https://aman.bh/blog/2026/ive-created-a-new-openstreetmap-viewer</id>
-        <link href="https://aman.bh/blog/2026/ive-created-a-new-openstreetmap-viewer"/>
+        <title type="html"><![CDATA[PostgreSQL 19]]></title>
+        <id>https://www.postgresql.org/docs/release/19.0/</id>
+        <link href="https://www.postgresql.org/docs/release/19.0/"/>
         <updated>2026-11-19T16:00:00.000Z</updated>
         <published>2026-11-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Circled – a calendar for planning my week and making plans with friends]]></title>
-        <id>https://getcircledapp.com/</id>
-        <link href="https://getcircledapp.com/"/>
+        <title type="html"><![CDATA[Simplint: A fast companion linter for Ruff, written in Rust]]></title>
+        <id>https://simplint.readthedocs.io/en/latest/index.html</id>
+        <link href="https://simplint.readthedocs.io/en/latest/index.html"/>
         <updated>2026-11-19T16:00:00.000Z</updated>
         <published>2026-11-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[White House national cyber director leaving his post]]></title>
-        <id>https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/</id>
-        <link href="https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"/>
+        <title type="html"><![CDATA[Decision model for robot status 90% less time and money]]></title>
+        <id>https://www.rightnowai.co/rightnow</id>
+        <link href="https://www.rightnowai.co/rightnow"/>
         <updated>2026-11-19T16:00:00.000Z</updated>
         <published>2026-11-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Low-cost EVs could make some used petrol and diesel models hard to sell]]></title>
-        <id>https://www.abc.net.au/news/science/2026-11-19/low-cost-evs-mean-used-petrol-diesel-cars-lose-value/107374092</id>
-        <link href="https://www.abc.net.au/news/science/2026-11-19/low-cost-evs-mean-used-petrol-diesel-cars-lose-value/107374092"/>
+        <title type="html"><![CDATA[Mapping every neuron in Qwen3-8B]]></title>
+        <id>https://www.fermionresearch.com/research/mapping-every-neuron-in-qwen3-8b/</id>
+        <link href="https://www.fermionresearch.com/research/mapping-every-neuron-in-qwen3-8b/"/>
         <updated>2026-11-19T16:00:00.000Z</updated>
         <published>2026-11-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IRCv3 server implemented using Erlang/OTP with optional voices, files, and E2EE]]></title>
-        <id>https://github.com/egorsmkv/irc-server</id>
-        <link href="https://github.com/egorsmkv/irc-server"/>
+        <title type="html"><![CDATA[Astronomers discover remarkable 3-star system just 28 light-years from Earth]]></title>
+        <id>https://phys.org/news/2026-11-astronomers-remarkable-triple-star-years.html</id>
+        <link href="https://phys.org/news/2026-11-astronomers-remarkable-triple-star-years.html"/>
         <updated>2026-11-19T16:00:00.000Z</updated>
         <published>2026-11-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: SSH OS – an SSH-only operating system for the 1987 Macintosh SE]]></title>
-        <id>https://github.com/naruse/SSH-OS</id>
-        <link href="https://github.com/naruse/SSH-OS"/>
+        <title type="html"><![CDATA[Show HN: Fire Circle – 15-minute 1-on-1 virtual breaks based on shared interests]]></title>
+        <id>https://play.google.com/store/apps/details?id=com.app.firecircle&amp;hl=en_US</id>
+        <link href="https://play.google.com/store/apps/details?id=com.app.firecircle&amp;hl=en_US"/>
         <updated>2026-11-19T16:00:00.000Z</updated>
         <published>2026-11-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA['Companies don't care about you' is a parse error]]></title>
-        <id>https://blog.oliverbalfour.com/2026/11/20/companies-dont-care-about-you.html</id>
-        <link href="https://blog.oliverbalfour.com/2026/11/20/companies-dont-care-about-you.html"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serial: The Port That Won't Die]]></title>
-        <id>https://hackaday.com/2026/11/18/serial-the-port-that-wont-die/</id>
-        <link href="https://hackaday.com/2026/11/18/serial-the-port-that-wont-die/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Host your repo, AI tool or service on ASTAR for learners to build with]]></title>
-        <id>https://beta.astar.inc</id>
-        <link href="https://beta.astar.inc"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codeberg.org domain suspension on 2026-11-18]]></title>
-        <id>https://codeberg.org/Codeberg/changelog/issues/7#issuecomment-28100157</id>
-        <link href="https://codeberg.org/Codeberg/changelog/issues/7#issuecomment-28100157"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rest of World faces prospect of shutting down]]></title>
-        <id>https://www.semafor.com/article/10/25/2026/rest-of-world-faces-prospect-of-shutting-down</id>
-        <link href="https://www.semafor.com/article/10/25/2026/rest-of-world-faces-prospect-of-shutting-down"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When AI-built apps get risky: data from 3,911 repos]]></title>
-        <id>https://pathtoship.com/blog/when-ai-built-apps-actually-break</id>
-        <link href="https://pathtoship.com/blog/when-ai-built-apps-actually-break"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hardening GitHub Actions Against Insider Threats]]></title>
-        <id>https://socket.dev/blog/hardening-github-actions-against-insider-threats</id>
-        <link href="https://socket.dev/blog/hardening-github-actions-against-insider-threats"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cincinnati Zoo's Fiona the hippo has died, days after ingesting a visitor's hat]]></title>
-        <id>https://apnews.com/article/fiona-hippo-cincinnati-zoo-hat-3d90d10c57698af06e5a7a67bed05608</id>
-        <link href="https://apnews.com/article/fiona-hippo-cincinnati-zoo-hat-3d90d10c57698af06e5a7a67bed05608"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Search your Google Maps saved places]]></title>
-        <id>https://maptools.app/</id>
-        <link href="https://maptools.app/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PostEconomic.Supply – buy things from your rich friend's house]]></title>
-        <id>https://posteconomic.supply/house/outside</id>
-        <link href="https://posteconomic.supply/house/outside"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Haudenosaunee Thanksgiving Address: Greetings to the Natural World [pdf]]]></title>
-        <id>https://americanindian.si.edu/environment/pdf/01_02_Thanksgiving_Address.pdf</id>
-        <link href="https://americanindian.si.edu/environment/pdf/01_02_Thanksgiving_Address.pdf"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A SEO Tool to get found by Google and get cited by AI]]></title>
-        <id>https://mozolite.com</id>
-        <link href="https://mozolite.com"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1 in 5 Salaried Workers Reportedly Calling Out as 'Grand Theft Auto VI' Launches]]></title>
-        <id>https://www.forbes.com/sites/antoniopequenoiv/2026/11/18/gta-flu-hits-offices-thursday-heres-how-many-workers-will-call-out/</id>
-        <link href="https://www.forbes.com/sites/antoniopequenoiv/2026/11/18/gta-flu-hits-offices-thursday-heres-how-many-workers-will-call-out/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surveillance Pricing Warrants Further Review]]></title>
-        <id>https://communitysentinel.media/2026/11/18/surveillance-pricing-warrants-further-review/</id>
-        <link href="https://communitysentinel.media/2026/11/18/surveillance-pricing-warrants-further-review/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastodon instance Baraag.net: Server Admin arrested and domain seized by the FBI]]></title>
-        <id>https://old.reddit.com/r/Mastodon/comments/1y0eb7t/mastodon_instance_baraagnet_has_been_forcibly/</id>
-        <link href="https://old.reddit.com/r/Mastodon/comments/1y0eb7t/mastodon_instance_baraagnet_has_been_forcibly/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers]]></title>
-        <id>https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87</id>
-        <link href="https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I never learned Bash (2024)]]></title>
-        <id>https://www.joshooaj.com/blog/2024/12/30/why-i-never-learned-bash/</id>
-        <link href="https://www.joshooaj.com/blog/2024/12/30/why-i-never-learned-bash/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU targeted by cyber attack using AI: 'No one is immune']]></title>
-        <id>https://www.independent.co.uk/news/world/europe/eu-cyber-attack-artificial-intelligence-b3087999.html</id>
-        <link href="https://www.independent.co.uk/news/world/europe/eu-cyber-attack-artificial-intelligence-b3087999.html"/>
+        <title type="html"><![CDATA[I recreated the WORLD in Minecraft at 1:1 scale]]></title>
+        <id>https://twitter.com/cdngdev/status/2122416145517117463</id>
+        <link href="https://twitter.com/cdngdev/status/2122416145517117463"/>
         <updated>2026-11-19T16:00:00.000Z</updated>
         <published>2026-11-19T16:00:00.000Z</published>
     </entry>
@@ -274,9 +162,177 @@
         <published>2026-11-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I recreated the WORLD in Minecraft at 1:1 scale]]></title>
-        <id>https://twitter.com/cdngdev/status/2122416145517117463</id>
-        <link href="https://twitter.com/cdngdev/status/2122416145517117463"/>
+        <title type="html"><![CDATA[EU targeted by cyber attack using AI: 'No one is immune']]></title>
+        <id>https://www.independent.co.uk/news/world/europe/eu-cyber-attack-artificial-intelligence-b3087999.html</id>
+        <link href="https://www.independent.co.uk/news/world/europe/eu-cyber-attack-artificial-intelligence-b3087999.html"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I never learned Bash (2024)]]></title>
+        <id>https://www.joshooaj.com/blog/2024/12/30/why-i-never-learned-bash/</id>
+        <link href="https://www.joshooaj.com/blog/2024/12/30/why-i-never-learned-bash/"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers]]></title>
+        <id>https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87</id>
+        <link href="https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastodon instance Baraag.net: Server Admin arrested and domain seized by the FBI]]></title>
+        <id>https://old.reddit.com/r/Mastodon/comments/1y0eb7t/mastodon_instance_baraagnet_has_been_forcibly/</id>
+        <link href="https://old.reddit.com/r/Mastodon/comments/1y0eb7t/mastodon_instance_baraagnet_has_been_forcibly/"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surveillance Pricing Warrants Further Review]]></title>
+        <id>https://communitysentinel.media/2026/11/18/surveillance-pricing-warrants-further-review/</id>
+        <link href="https://communitysentinel.media/2026/11/18/surveillance-pricing-warrants-further-review/"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1 in 5 Salaried Workers Reportedly Calling Out as 'Grand Theft Auto VI' Launches]]></title>
+        <id>https://www.forbes.com/sites/antoniopequenoiv/2026/11/18/gta-flu-hits-offices-thursday-heres-how-many-workers-will-call-out/</id>
+        <link href="https://www.forbes.com/sites/antoniopequenoiv/2026/11/18/gta-flu-hits-offices-thursday-heres-how-many-workers-will-call-out/"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A SEO Tool to get found by Google and get cited by AI]]></title>
+        <id>https://mozolite.com</id>
+        <link href="https://mozolite.com"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haudenosaunee Thanksgiving Address: Greetings to the Natural World [pdf]]]></title>
+        <id>https://americanindian.si.edu/environment/pdf/01_02_Thanksgiving_Address.pdf</id>
+        <link href="https://americanindian.si.edu/environment/pdf/01_02_Thanksgiving_Address.pdf"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostEconomic.Supply – buy things from your rich friend's house]]></title>
+        <id>https://posteconomic.supply/house/outside</id>
+        <link href="https://posteconomic.supply/house/outside"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Search your Google Maps saved places]]></title>
+        <id>https://maptools.app/</id>
+        <link href="https://maptools.app/"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cincinnati Zoo's Fiona the hippo has died, days after ingesting a visitor's hat]]></title>
+        <id>https://apnews.com/article/fiona-hippo-cincinnati-zoo-hat-3d90d10c57698af06e5a7a67bed05608</id>
+        <link href="https://apnews.com/article/fiona-hippo-cincinnati-zoo-hat-3d90d10c57698af06e5a7a67bed05608"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hardening GitHub Actions Against Insider Threats]]></title>
+        <id>https://socket.dev/blog/hardening-github-actions-against-insider-threats</id>
+        <link href="https://socket.dev/blog/hardening-github-actions-against-insider-threats"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When AI-built apps get risky: data from 3,911 repos]]></title>
+        <id>https://pathtoship.com/blog/when-ai-built-apps-actually-break</id>
+        <link href="https://pathtoship.com/blog/when-ai-built-apps-actually-break"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rest of World faces prospect of shutting down]]></title>
+        <id>https://www.semafor.com/article/10/25/2026/rest-of-world-faces-prospect-of-shutting-down</id>
+        <link href="https://www.semafor.com/article/10/25/2026/rest-of-world-faces-prospect-of-shutting-down"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codeberg.org domain suspension on 2026-11-18]]></title>
+        <id>https://codeberg.org/Codeberg/changelog/issues/7#issuecomment-28100157</id>
+        <link href="https://codeberg.org/Codeberg/changelog/issues/7#issuecomment-28100157"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Host your repo, AI tool or service on ASTAR for learners to build with]]></title>
+        <id>https://beta.astar.inc</id>
+        <link href="https://beta.astar.inc"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serial: The Port That Won't Die]]></title>
+        <id>https://hackaday.com/2026/11/18/serial-the-port-that-wont-die/</id>
+        <link href="https://hackaday.com/2026/11/18/serial-the-port-that-wont-die/"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Companies don't care about you' is a parse error]]></title>
+        <id>https://blog.oliverbalfour.com/2026/11/20/companies-dont-care-about-you.html</id>
+        <link href="https://blog.oliverbalfour.com/2026/11/20/companies-dont-care-about-you.html"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: SSH OS – an SSH-only operating system for the 1987 Macintosh SE]]></title>
+        <id>https://github.com/naruse/SSH-OS</id>
+        <link href="https://github.com/naruse/SSH-OS"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IRCv3 server implemented using Erlang/OTP with optional voices, files, and E2EE]]></title>
+        <id>https://github.com/egorsmkv/irc-server</id>
+        <link href="https://github.com/egorsmkv/irc-server"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low-cost EVs could make some used petrol and diesel models hard to sell]]></title>
+        <id>https://www.abc.net.au/news/science/2026-11-19/low-cost-evs-mean-used-petrol-diesel-cars-lose-value/107374092</id>
+        <link href="https://www.abc.net.au/news/science/2026-11-19/low-cost-evs-mean-used-petrol-diesel-cars-lose-value/107374092"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[White House national cyber director leaving his post]]></title>
+        <id>https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/</id>
+        <link href="https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Circled – a calendar for planning my week and making plans with friends]]></title>
+        <id>https://getcircledapp.com/</id>
+        <link href="https://getcircledapp.com/"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I've created a new ‹OpenStreetMap VIEWER›]]></title>
+        <id>https://aman.bh/blog/2026/ive-created-a-new-openstreetmap-viewer</id>
+        <link href="https://aman.bh/blog/2026/ive-created-a-new-openstreetmap-viewer"/>
+        <updated>2026-11-19T16:00:00.000Z</updated>
+        <published>2026-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Export Map Places – Export Google Maps Saved Lists]]></title>
+        <id>https://chromewebstore.google.com/detail/export-map-places-google/cbkhbcicafainpfkicjfggkcjncfddjp</id>
+        <link href="https://chromewebstore.google.com/detail/export-map-places-google/cbkhbcicafainpfkicjfggkcjncfddjp"/>
         <updated>2026-11-19T16:00:00.000Z</updated>
         <published>2026-11-19T16:00:00.000Z</published>
     </entry>
@@ -305,86 +361,6 @@
         <title type="html"><![CDATA[DeepSeek’s mHC explained: The Highway Inside Every Transformer and the One Rule That Keeps It…]]></title>
         <id>https://pub.towardsai.net/deepseeks-mhc-explained-the-highway-inside-every-transformer-and-the-one-rule-that-keeps-it-49cc6365763d?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/deepseeks-mhc-explained-the-highway-inside-every-transformer-and-the-one-rule-that-keeps-it-49cc6365763d?source=rss----98111c9905da---4"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tabular Foundation Models: What If We Didn’t Have to Train a Model for Every Dataset?]]></title>
-        <id>https://pub.towardsai.net/tabular-foundation-models-what-if-we-didnt-have-to-train-a-model-for-every-dataset-85813d2942f4?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/tabular-foundation-models-what-if-we-didnt-have-to-train-a-model-for-every-dataset-85813d2942f4?source=rss----98111c9905da---4"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PostgreSQL 19 Released]]></title>
-        <id>https://simonwillison.net/2026/Nov/19/postgresql-19/</id>
-        <link href="https://simonwillison.net/2026/Nov/19/postgresql-19/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The best things in open source are built together]]></title>
-        <id>https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/</id>
-        <link href="https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[
-SVAR Gantt v2.8 for React, Svelte, Vue: upgraded scheduling engine & live updates
-]]></title>
-        <id>
-https://svar.dev/blog/svar-gantt-2-8-released/
-</id>
-        <link href="
-https://svar.dev/blog/svar-gantt-2-8-released/
-"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[
-Vovk.ts – Turn Next.js route handlers into MCP tools and typed clients
-]]></title>
-        <id>
-https://vovk.dev
-</id>
-        <link href="
-https://vovk.dev
-"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[
-Full port of CossUI components to Svelte
-]]></title>
-        <id>
-https://cossui-svelte.com/
-</id>
-        <link href="
-https://cossui-svelte.com/
-"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[
-Draw a mandala with mirrored symmetry and export it as PNG or SVG.
-]]></title>
-        <id>
-https://github.com/evoluteur/mandala-maker
-</id>
-        <link href="
-https://github.com/evoluteur/mandala-maker
-"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morse Code Translator: Decoding Dots and Dashes with Python, Node, and the Browser]]></title>
-        <id>https://dev.to/meng_meng_56f17e28e55f140/morse-code-translator-decoding-dots-and-dashes-with-python-node-and-the-browser-45b7</id>
-        <link href="https://dev.to/meng_meng_56f17e28e55f140/morse-code-translator-decoding-dots-and-dashes-with-python-node-and-the-browser-45b7"/>
         <updated>2026-11-19T16:00:00.000Z</updated>
         <published>2026-11-19T16:00:00.000Z</published>
     </entry>
