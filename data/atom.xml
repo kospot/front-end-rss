@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-21T04:05:40.436Z</updated>
+    <updated>2026-11-21T07:03:29.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -204,9 +204,37 @@
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Autonomous Agents Need Adaptive Planning, and How to Implement and Test It With Python And Llms]]></title>
-        <id>https://pub.towardsai.net/why-autonomous-agents-need-adaptive-planning-and-how-to-implement-and-test-it-with-python-and-llms-abe7ccf3589b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-autonomous-agents-need-adaptive-planning-and-how-to-implement-and-test-it-with-python-and-llms-abe7ccf3589b?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[How Many RAG Users Fit on One GPU? A Five-Step Check]]></title>
+        <id>https://pub.towardsai.net/how-many-rag-users-fit-on-one-gpu-a-five-step-check-4a347ee00019?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-many-rag-users-fit-on-one-gpu-a-five-step-check-4a347ee00019?source=rss----98111c9905da---4"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KV Cache Size: How Many Users Fit on One GPU?]]></title>
+        <id>https://pub.towardsai.net/kv-cache-size-how-many-users-fit-on-one-gpu-76bcd3c02ee9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/kv-cache-size-how-many-users-fit-on-one-gpu-76bcd3c02ee9?source=rss----98111c9905da---4"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This AI Model Was Trained to Stay Quiet in a Group Chat]]></title>
+        <id>https://pub.towardsai.net/this-ai-model-was-trained-to-stay-quiet-in-a-group-chat-c4398ccd9eca?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/this-ai-model-was-trained-to-stay-quiet-in-a-group-chat-c4398ccd9eca?source=rss----98111c9905da---4"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This 27-Billion-Parameter AI Model Imagines What a Robot Will See Before It Moves]]></title>
+        <id>https://pub.towardsai.net/this-27-billion-parameter-ai-model-imagines-what-a-robot-will-see-before-it-moves-0c5cc1137b53?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/this-27-billion-parameter-ai-model-imagines-what-a-robot-will-see-before-it-moves-0c5cc1137b53?source=rss----98111c9905da---4"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Pulled the Plug in the Middle of a Movie]]></title>
+        <id>https://pub.towardsai.net/openai-pulled-the-plug-in-the-middle-of-a-movie-d69945897b28?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/openai-pulled-the-plug-in-the-middle-of-a-movie-d69945897b28?source=rss----98111c9905da---4"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
@@ -218,9 +246,9 @@
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI Pulled the Plug in the Middle of a Movie]]></title>
-        <id>https://pub.towardsai.net/openai-pulled-the-plug-in-the-middle-of-a-movie-d69945897b28?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/openai-pulled-the-plug-in-the-middle-of-a-movie-d69945897b28?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Why Autonomous Agents Need Adaptive Planning, and How to Implement and Test It With Python And Llms]]></title>
+        <id>https://pub.towardsai.net/why-autonomous-agents-need-adaptive-planning-and-how-to-implement-and-test-it-with-python-and-llms-abe7ccf3589b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-autonomous-agents-need-adaptive-planning-and-how-to-implement-and-test-it-with-python-and-llms-abe7ccf3589b?source=rss----98111c9905da---4"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
@@ -284,107 +312,79 @@ https://github.com/evoluteur/structured-filter-react
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to send an HTML form to Notion]]></title>
-        <id>https://dev.to/harsimran_jeetsingh_83e2/how-to-send-an-html-form-to-notion-3275</id>
-        <link href="https://dev.to/harsimran_jeetsingh_83e2/how-to-send-an-html-form-to-notion-3275"/>
+        <title type="html"><![CDATA[`npm ci` Doesn't Fix the .npmrc Override. It Just Hides It Better.]]></title>
+        <id>https://dev.to/aheadkit/npm-ci-doesnt-fix-the-npmrc-override-it-just-hides-it-better-3769</id>
+        <link href="https://dev.to/aheadkit/npm-ci-doesnt-fix-the-npmrc-override-it-just-hides-it-better-3769"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Removing PDF metadata usually removes one of five copies]]></title>
-        <id>https://dev.to/bitearcade/removing-pdf-metadata-usually-removes-one-of-five-copies-4le5</id>
-        <link href="https://dev.to/bitearcade/removing-pdf-metadata-usually-removes-one-of-five-copies-4le5"/>
+        <title type="html"><![CDATA[Adding JobPosting structured data to a Next.js job board (and the mistakes we fixed)]]></title>
+        <id>https://dev.to/viechot/adding-jobposting-structured-data-to-a-nextjs-job-board-and-the-mistakes-we-fixed-bp4</id>
+        <link href="https://dev.to/viechot/adding-jobposting-structured-data-to-a-nextjs-job-board-and-the-mistakes-we-fixed-bp4"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Merging PDFs in the browser: what pdf-lib copies, and what it quietly drops]]></title>
-        <id>https://dev.to/bitearcade/merging-pdfs-in-the-browser-what-pdf-lib-copies-and-what-it-quietly-drops-53d3</id>
-        <link href="https://dev.to/bitearcade/merging-pdfs-in-the-browser-what-pdf-lib-copies-and-what-it-quietly-drops-53d3"/>
+        <title type="html"><![CDATA[How We Built a 10-Language Digital Business Card Studio (With RTL Support)]]></title>
+        <id>https://dev.to/rahalune-qr-studio/how-we-built-a-10-language-digital-business-card-studio-with-rtl-support-2235</id>
+        <link href="https://dev.to/rahalune-qr-studio/how-we-built-a-10-language-digital-business-card-studio-with-rtl-support-2235"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Zero-Watermark In-Browser Video Editor with FFmpeg.wasm, WebCodecs & Canvas 2D]]></title>
-        <id>https://dev.to/uchitchakma/building-a-zero-watermark-in-browser-video-editor-with-ffmpegwasm-webcodecs-canvas-2d-258p</id>
-        <link href="https://dev.to/uchitchakma/building-a-zero-watermark-in-browser-video-editor-with-ffmpegwasm-webcodecs-canvas-2d-258p"/>
+        <title type="html"><![CDATA[Draw an Eighth of a Tile and the Wall Paints the Rest]]></title>
+        <id>https://dev.to/stepinto/draw-an-eighth-of-a-tile-and-the-wall-paints-the-rest-4c88</id>
+        <link href="https://dev.to/stepinto/draw-an-eighth-of-a-tile-and-the-wall-paints-the-rest-4c88"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built and shipped a paid Chrome extension for local SEO: here's the stack and what I learned]]></title>
-        <id>https://dev.to/sunny9495/i-built-and-shipped-a-paid-chrome-extension-for-local-seo-heres-the-stack-and-what-i-learned-e6l</id>
-        <link href="https://dev.to/sunny9495/i-built-and-shipped-a-paid-chrome-extension-for-local-seo-heres-the-stack-and-what-i-learned-e6l"/>
+        <title type="html"><![CDATA[I built a free interview study coach that plans around your interview date]]></title>
+        <id>https://dev.to/jeremyah_flowers_2c22b066/i-built-a-free-interview-study-coach-that-plans-around-your-interview-date-3954</id>
+        <link href="https://dev.to/jeremyah_flowers_2c22b066/i-built-a-free-interview-study-coach-that-plans-around-your-interview-date-3954"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Project500: what 105 ranked sets showed about an objective-first controller]]></title>
-        <id>https://dev.to/ahmadproject500/project500-what-105-ranked-sets-showed-about-an-objective-first-controller-14b2</id>
-        <link href="https://dev.to/ahmadproject500/project500-what-105-ranked-sets-showed-about-an-objective-first-controller-14b2"/>
+        <title type="html"><![CDATA[Introducing ONCSS: A Lightweight CSS-in-JS Library for Modern JavaScript Applications]]></title>
+        <id>https://dev.to/devnax/introducing-oncss-a-lightweight-css-in-js-library-for-modern-javascript-applications-4p70</id>
+        <link href="https://dev.to/devnax/introducing-oncss-a-lightweight-css-in-js-library-for-modern-javascript-applications-4p70"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VSCode Extension Security: A 5-Step Audit After Nx Console]]></title>
-        <id>https://dev.to/extensionbooster/vscode-extension-security-a-5-step-audit-after-nx-console-2fnl</id>
-        <link href="https://dev.to/extensionbooster/vscode-extension-security-a-5-step-audit-after-nx-console-2fnl"/>
+        <title type="html"><![CDATA[Three more tools, three more countries: Nepal's gratuity, the Philippines' separation pay and Thailand's Buddhist calendar]]></title>
+        <id>https://dev.to/zaidi617796/three-more-tools-three-more-countries-nepals-gratuity-the-philippines-separation-pay-and-3387</id>
+        <link href="https://dev.to/zaidi617796/three-more-tools-three-more-countries-nepals-gratuity-the-philippines-separation-pay-and-3387"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Verify Webhook Signatures in Node.js: Fix the Raw-Body Bug]]></title>
-        <id>https://dev.to/extensionbooster/verify-webhook-signatures-in-nodejs-fix-the-raw-body-bug-ma3</id>
-        <link href="https://dev.to/extensionbooster/verify-webhook-signatures-in-nodejs-fix-the-raw-body-bug-ma3"/>
+        <title type="html"><![CDATA[Build Zero-Telemetry SaaS Retention and MRR Waterfalls Client-Side]]></title>
+        <id>https://dev.to/nexus_99c5c21c5fa1b1570c5/build-zero-telemetry-saas-retention-and-mrr-waterfalls-client-side-3nb7</id>
+        <link href="https://dev.to/nexus_99c5c21c5fa1b1570c5/build-zero-telemetry-saas-retention-and-mrr-waterfalls-client-side-3nb7"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Refactoring Anxiety: 5 Cognitive Distortions That Sabotage Your Code Cleanup]]></title>
-        <id>https://dev.to/473185670/refactoring-anxiety-5-cognitive-distortions-that-sabotage-your-code-cleanup-2dmc</id>
-        <link href="https://dev.to/473185670/refactoring-anxiety-5-cognitive-distortions-that-sabotage-your-code-cleanup-2dmc"/>
+        <title type="html"><![CDATA[Body temperature in JavaScript: F/ C conversion, rounding and the fever line]]></title>
+        <id>https://dev.to/shehrii/body-temperature-in-javascript-degfdegc-conversion-rounding-and-the-fever-line-1290</id>
+        <link href="https://dev.to/shehrii/body-temperature-in-javascript-degfdegc-conversion-rounding-and-the-fever-line-1290"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My 3D people looked like zombies. Here's every fix it took to make them talk.]]></title>
-        <id>https://dev.to/natuworkguy/my-3d-people-looked-like-zombies-heres-every-fix-it-took-to-make-them-talk-45bj</id>
-        <link href="https://dev.to/natuworkguy/my-3d-people-looked-like-zombies-heres-every-fix-it-took-to-make-them-talk-45bj"/>
+        <title type="html"><![CDATA[Free dataset: installed cost ranges for 35 US home improvement projects (CSV + JSON)]]></title>
+        <id>https://dev.to/shehrii/free-dataset-installed-cost-ranges-for-35-us-home-improvement-projects-csv-json-3el8</id>
+        <link href="https://dev.to/shehrii/free-dataset-installed-cost-ranges-for-35-us-home-improvement-projects-csv-json-3el8"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Image Compressors Strip Metadata — and How to Prevent It]]></title>
-        <id>https://dev.to/geoimagetagger/why-image-compressors-strip-metadata-and-how-to-prevent-it-34no</id>
-        <link href="https://dev.to/geoimagetagger/why-image-compressors-strip-metadata-and-how-to-prevent-it-34no"/>
-        <updated>2026-11-20T16:00:00.000Z</updated>
-        <published>2026-11-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrate a fraud-risk API in five minutes (with a script tag and one POST)]]></title>
-        <id>https://dev.to/signetsentry/integrate-a-fraud-risk-api-in-five-minutes-with-a-script-tag-and-one-post-5gik</id>
-        <link href="https://dev.to/signetsentry/integrate-a-fraud-risk-api-in-five-minutes-with-a-script-tag-and-one-post-5gik"/>
-        <updated>2026-11-20T16:00:00.000Z</updated>
-        <published>2026-11-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript's \b Is ASCII-Only: How It Silently Broke Our Rules in Six Languages]]></title>
-        <id>https://dev.to/lovora/javascripts-b-is-ascii-only-how-it-silently-broke-our-rules-in-six-languages-5bk5</id>
-        <link href="https://dev.to/lovora/javascripts-b-is-ascii-only-how-it-silently-broke-our-rules-in-six-languages-5bk5"/>
-        <updated>2026-11-20T16:00:00.000Z</updated>
-        <published>2026-11-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't Trust AI-Written Code, Generate Counterexamples: Property-Based and Differential Testing with Hypothesis and fast-check]]></title>
-        <id>https://dev.to/eme_gug_0821b41b948be6516/dont-trust-ai-written-code-generate-counterexamples-property-based-and-differential-testing-with-h52</id>
-        <link href="https://dev.to/eme_gug_0821b41b948be6516/dont-trust-ai-written-code-generate-counterexamples-property-based-and-differential-testing-with-h52"/>
-        <updated>2026-11-20T16:00:00.000Z</updated>
-        <published>2026-11-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to URL Encode and Decode Text (With JavaScript Examples)]]></title>
-        <id>https://dev.to/usman_farooqi_f3ef266029b/how-to-url-encode-and-decode-text-with-javascript-examples-245h</id>
-        <link href="https://dev.to/usman_farooqi_f3ef266029b/how-to-url-encode-and-decode-text-with-javascript-examples-245h"/>
+        <title type="html"><![CDATA[Next.js DevIndicators and `appIsrStatus` in 2026: Reading Rendering Mode at a Glance During Development]]></title>
+        <id>https://dev.to/jsmanifest/nextjs-devindicators-and-appisrstatus-in-2026-reading-rendering-mode-at-a-glance-during-4kh3</id>
+        <link href="https://dev.to/jsmanifest/nextjs-devindicators-and-appisrstatus-in-2026-reading-rendering-mode-at-a-glance-during-4kh3"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
