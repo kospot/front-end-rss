@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-20T22:01:02.375Z</updated>
+    <updated>2026-11-21T00:02:32.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -57,37 +57,65 @@
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Supreme Court sentences 29-year-old activist to prison over FB post]]></title>
-        <id>https://prachataienglish.com/node/12123</id>
-        <link href="https://prachataienglish.com/node/12123"/>
+        <title type="html"><![CDATA[Catching Crumbs from the Table [pdf]]]></title>
+        <id>https://gwern.net/doc/fiction/science-fiction/2000-chiang.pdf</id>
+        <link href="https://gwern.net/doc/fiction/science-fiction/2000-chiang.pdf"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Prompt Canaries Detect Prompt Leaks at AI Providers]]></title>
-        <id>https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens</id>
-        <link href="https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"/>
+        <title type="html"><![CDATA[Ask HN: How do you keep code review skills when agents write most of the code?]]></title>
+        <id>https://news.ycombinator.com/item?id=50583987</id>
+        <link href="https://news.ycombinator.com/item?id=50583987"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One Developer, Two Decades, and 30M Users Later – Philip Guo [video]]]></title>
-        <id>https://www.youtube.com/watch?v=GPk0nNuc8S0</id>
-        <link href="https://www.youtube.com/watch?v=GPk0nNuc8S0"/>
+        <title type="html"><![CDATA[Re: Riemann]]></title>
+        <id>https://borretti.me/article/re-riemann</id>
+        <link href="https://borretti.me/article/re-riemann"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows 11 passkey bug cries failure after successful sign-in]]></title>
-        <id>https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263</id>
-        <link href="https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263"/>
+        <title type="html"><![CDATA[GitHub nuked me with no reason, and (so far) no ability to contact a human]]></title>
+        <id>https://nate.mecca1.net/posts/2026-11-20_help/</id>
+        <link href="https://nate.mecca1.net/posts/2026-11-20_help/"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Riemann Hypothesis, Explained [video]]]></title>
-        <id>https://www.youtube.com/watch?v=zlm1aajH6gY</id>
-        <link href="https://www.youtube.com/watch?v=zlm1aajH6gY"/>
+        <title type="html"><![CDATA[Real-Time Video on Embedded Linux Cameras with WebRTC]]></title>
+        <id>https://interrupt.memfault.com/blog/real-time-video-webrtc</id>
+        <link href="https://interrupt.memfault.com/blog/real-time-video-webrtc"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uncontacted Indigenous people emerge from Amazon forest to ask for food]]></title>
+        <id>https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/</id>
+        <link href="https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Officials approved the sale of 580k Nvidia chips to Chinese companies]]></title>
+        <id>https://www.washingtonpost.com/technology/2026/11/20/officials-approved-sale-580000-nvidia-chips-chinese-companies/</id>
+        <link href="https://www.washingtonpost.com/technology/2026/11/20/officials-approved-sale-580000-nvidia-chips-chinese-companies/"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[White House removes cyber-security chief after series of tech outages]]></title>
+        <id>https://www.bbc.com/news/articles/cwz0k3nn5p5mo</id>
+        <link href="https://www.bbc.com/news/articles/cwz0k3nn5p5mo"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICE details Princeton neuroscientist claiming asylum]]></title>
+        <id>https://www.theguardian.com/us-news/2026/nov/20/princeton-doctoral-student-reportedly-detained-ice</id>
+        <link href="https://www.theguardian.com/us-news/2026/nov/20/princeton-doctoral-student-reportedly-detained-ice"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
@@ -99,9 +127,44 @@
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Autonomous Agents Need Adaptive Planning, and How to Implement and Test It With Python And Llms]]></title>
-        <id>https://pub.towardsai.net/why-autonomous-agents-need-adaptive-planning-and-how-to-implement-and-test-it-with-python-and-llms-abe7ccf3589b?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-autonomous-agents-need-adaptive-planning-and-how-to-implement-and-test-it-with-python-and-llms-abe7ccf3589b?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The Riemann Hypothesis, Explained [video]]]></title>
+        <id>https://www.youtube.com/watch?v=zlm1aajH6gY</id>
+        <link href="https://www.youtube.com/watch?v=zlm1aajH6gY"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 passkey bug cries failure after successful sign-in]]></title>
+        <id>https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263</id>
+        <link href="https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Developer, Two Decades, and 30M Users Later – Philip Guo [video]]]></title>
+        <id>https://www.youtube.com/watch?v=GPk0nNuc8S0</id>
+        <link href="https://www.youtube.com/watch?v=GPk0nNuc8S0"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prompt Canaries Detect Prompt Leaks at AI Providers]]></title>
+        <id>https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens</id>
+        <link href="https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supreme Court sentences 29-year-old activist to prison over FB post]]></title>
+        <id>https://prachataienglish.com/node/12123</id>
+        <link href="https://prachataienglish.com/node/12123"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Pulled the Plug in the Middle of a Movie]]></title>
+        <id>https://pub.towardsai.net/openai-pulled-the-plug-in-the-middle-of-a-movie-d69945897b28?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/openai-pulled-the-plug-in-the-middle-of-a-movie-d69945897b28?source=rss----98111c9905da---4"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
@@ -113,30 +176,79 @@
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Server-side Facebook and Instagram ad tracking without GTM, with consent built in]]></title>
-        <id>https://dev.to/jeanmi_3fbea472e70e4e377d/server-side-facebook-and-instagram-ad-tracking-without-gtm-with-consent-built-in-12e1</id>
-        <link href="https://dev.to/jeanmi_3fbea472e70e4e377d/server-side-facebook-and-instagram-ad-tracking-without-gtm-with-consent-built-in-12e1"/>
+        <title type="html"><![CDATA[Why Autonomous Agents Need Adaptive Planning, and How to Implement and Test It With Python And Llms]]></title>
+        <id>https://pub.towardsai.net/why-autonomous-agents-need-adaptive-planning-and-how-to-implement-and-test-it-with-python-and-llms-abe7ccf3589b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-autonomous-agents-need-adaptive-planning-and-how-to-implement-and-test-it-with-python-and-llms-abe7ccf3589b?source=rss----98111c9905da---4"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating Staggered Scroll Animations in React Using AOS]]></title>
-        <id>https://dev.to/alaakh/creating-staggered-scroll-animations-in-react-using-aos-4551</id>
-        <link href="https://dev.to/alaakh/creating-staggered-scroll-animations-in-react-using-aos-4551"/>
+        <title type="html"><![CDATA[从 LOOP 到图探索 —— 算法模型的 AutoResearch 自进化系统架构演进之路]]></title>
+        <id>https://tech.meituan.com/2026/10/22/LOOP-AutoResearch.html</id>
+        <link href="https://tech.meituan.com/2026/10/22/LOOP-AutoResearch.html"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Format, Validate, and Minify JSON in Your Browser (No Install, No Signup)]]></title>
-        <id>https://dev.to/azlaan_malik_99dc83e79ac8/how-to-format-validate-and-minify-json-in-your-browser-no-install-no-signup-3623</id>
-        <link href="https://dev.to/azlaan_malik_99dc83e79ac8/how-to-format-validate-and-minify-json-in-your-browser-no-install-no-signup-3623"/>
+        <title type="html"><![CDATA[Refactoring Anxiety: 5 Cognitive Distortions That Sabotage Your Code Cleanup]]></title>
+        <id>https://dev.to/473185670/refactoring-anxiety-5-cognitive-distortions-that-sabotage-your-code-cleanup-2dmc</id>
+        <link href="https://dev.to/473185670/refactoring-anxiety-5-cognitive-distortions-that-sabotage-your-code-cleanup-2dmc"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a transit map editor in the browser: 45 routing, rounded corners and parallel line bundling]]></title>
-        <id>https://dev.to/transitmapper/building-a-transit-map-editor-in-the-browser-45deg-routing-rounded-corners-and-parallel-line-2c1</id>
-        <link href="https://dev.to/transitmapper/building-a-transit-map-editor-in-the-browser-45deg-routing-rounded-corners-and-parallel-line-2c1"/>
+        <title type="html"><![CDATA[My 3D people looked like zombies. Here's every fix it took to make them talk.]]></title>
+        <id>https://dev.to/natuworkguy/my-3d-people-looked-like-zombies-heres-every-fix-it-took-to-make-them-talk-45bj</id>
+        <link href="https://dev.to/natuworkguy/my-3d-people-looked-like-zombies-heres-every-fix-it-took-to-make-them-talk-45bj"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Image Compressors Strip Metadata — and How to Prevent It]]></title>
+        <id>https://dev.to/geoimagetagger/why-image-compressors-strip-metadata-and-how-to-prevent-it-34no</id>
+        <link href="https://dev.to/geoimagetagger/why-image-compressors-strip-metadata-and-how-to-prevent-it-34no"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrate a fraud-risk API in five minutes (with a script tag and one POST)]]></title>
+        <id>https://dev.to/signetsentry/integrate-a-fraud-risk-api-in-five-minutes-with-a-script-tag-and-one-post-5gik</id>
+        <link href="https://dev.to/signetsentry/integrate-a-fraud-risk-api-in-five-minutes-with-a-script-tag-and-one-post-5gik"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript's \b Is ASCII-Only: How It Silently Broke Our Rules in Six Languages]]></title>
+        <id>https://dev.to/lovora/javascripts-b-is-ascii-only-how-it-silently-broke-our-rules-in-six-languages-5bk5</id>
+        <link href="https://dev.to/lovora/javascripts-b-is-ascii-only-how-it-silently-broke-our-rules-in-six-languages-5bk5"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't Trust AI-Written Code, Generate Counterexamples: Property-Based and Differential Testing with Hypothesis and fast-check]]></title>
+        <id>https://dev.to/eme_gug_0821b41b948be6516/dont-trust-ai-written-code-generate-counterexamples-property-based-and-differential-testing-with-h52</id>
+        <link href="https://dev.to/eme_gug_0821b41b948be6516/dont-trust-ai-written-code-generate-counterexamples-property-based-and-differential-testing-with-h52"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to URL Encode and Decode Text (With JavaScript Examples)]]></title>
+        <id>https://dev.to/usman_farooqi_f3ef266029b/how-to-url-encode-and-decode-text-with-javascript-examples-245h</id>
+        <link href="https://dev.to/usman_farooqi_f3ef266029b/how-to-url-encode-and-decode-text-with-javascript-examples-245h"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From ink drawing to real car: a scan-line reveal for a glTF model in Three.js]]></title>
+        <id>https://dev.to/alexkoho/from-ink-drawing-to-real-car-a-scan-line-reveal-for-a-gltf-model-in-threejs-1pj9</id>
+        <link href="https://dev.to/alexkoho/from-ink-drawing-to-real-car-a-scan-line-reveal-for-a-gltf-model-in-threejs-1pj9"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Body Band: your heartbeat sets the rhythm, your breath shapes the sound]]></title>
+        <id>https://dev.to/abdullahrauf245hue/body-band-your-heartbeat-sets-the-rhythm-your-breath-shapes-the-sound-1771</id>
+        <link href="https://dev.to/abdullahrauf245hue/body-band-your-heartbeat-sets-the-rhythm-your-breath-shapes-the-sound-1771"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
@@ -148,9 +260,30 @@
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Body Band: your heartbeat sets the rhythm, your breath shapes the sound]]></title>
-        <id>https://dev.to/abdullahrauf245hue/body-band-your-heartbeat-sets-the-rhythm-your-breath-shapes-the-sound-1771</id>
-        <link href="https://dev.to/abdullahrauf245hue/body-band-your-heartbeat-sets-the-rhythm-your-breath-shapes-the-sound-1771"/>
+        <title type="html"><![CDATA[Building a transit map editor in the browser: 45 routing, rounded corners and parallel line bundling]]></title>
+        <id>https://dev.to/transitmapper/building-a-transit-map-editor-in-the-browser-45deg-routing-rounded-corners-and-parallel-line-2c1</id>
+        <link href="https://dev.to/transitmapper/building-a-transit-map-editor-in-the-browser-45deg-routing-rounded-corners-and-parallel-line-2c1"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Format, Validate, and Minify JSON in Your Browser (No Install, No Signup)]]></title>
+        <id>https://dev.to/azlaan_malik_99dc83e79ac8/how-to-format-validate-and-minify-json-in-your-browser-no-install-no-signup-3623</id>
+        <link href="https://dev.to/azlaan_malik_99dc83e79ac8/how-to-format-validate-and-minify-json-in-your-browser-no-install-no-signup-3623"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Staggered Scroll Animations in React Using AOS]]></title>
+        <id>https://dev.to/alaakh/creating-staggered-scroll-animations-in-react-using-aos-4551</id>
+        <link href="https://dev.to/alaakh/creating-staggered-scroll-animations-in-react-using-aos-4551"/>
+        <updated>2026-11-20T16:00:00.000Z</updated>
+        <published>2026-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Server-side Facebook and Instagram ad tracking without GTM, with consent built in]]></title>
+        <id>https://dev.to/jeanmi_3fbea472e70e4e377d/server-side-facebook-and-instagram-ad-tracking-without-gtm-with-consent-built-in-12e1</id>
+        <link href="https://dev.to/jeanmi_3fbea472e70e4e377d/server-side-facebook-and-instagram-ad-tracking-without-gtm-with-consent-built-in-12e1"/>
         <updated>2026-11-20T16:00:00.000Z</updated>
         <published>2026-11-20T16:00:00.000Z</published>
     </entry>
@@ -190,65 +323,9 @@
         <published>2026-11-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites]]></title>
-        <id>https://www.wired.com/story/best-early-black-friday-mattress-deals-11-20-2026/</id>
-        <link href="https://www.wired.com/story/best-early-black-friday-mattress-deals-11-20-2026/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Regular Tech Bros Are Worried About Honeypots]]></title>
-        <id>https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/</id>
-        <link href="https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Gifts for the Techie in Your Life (2026)]]></title>
-        <id>https://www.wired.com/story/best-tech-gifts-2026/</id>
-        <link href="https://www.wired.com/story/best-tech-gifts-2026/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[El Niño Is Driving a Record Marine Heat Wave Off the California Coast]]></title>
-        <id>https://www.wired.com/story/el-nino-record-california-marine-heat-wave/</id>
-        <link href="https://www.wired.com/story/el-nino-record-california-marine-heat-wave/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fiona the Hippo Died After Eating a Hat. But How Does a Hat Kill a Hippo?]]></title>
-        <id>https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/</id>
-        <link href="https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Jensen Huang Blast Radius Has Hit His Favorite Restaurants]]></title>
-        <id>https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/</id>
-        <link href="https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents]]></title>
-        <id>https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/</id>
-        <link href="https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Castlery Promo Codes: $600 Off for November 2026]]></title>
-        <id>https://www.wired.com/story/castlery-promo-code/</id>
-        <link href="https://www.wired.com/story/castlery-promo-code/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walgreens Photo Coupons: Up to 70% Off This November 2026]]></title>
-        <id>https://www.wired.com/story/walgreens-photo-coupon/</id>
-        <link href="https://www.wired.com/story/walgreens-photo-coupon/"/>
+        <title type="html"><![CDATA[This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’]]></title>
+        <id>https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/</id>
+        <link href="https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/"/>
         <updated>2026-11-19T16:00:00.000Z</updated>
         <published>2026-11-19T16:00:00.000Z</published>
     </entry>
@@ -260,107 +337,30 @@
         <published>2026-11-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’]]></title>
-        <id>https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/</id>
-        <link href="https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/"/>
+        <title type="html"><![CDATA[Walgreens Photo Coupons: Up to 70% Off This November 2026]]></title>
+        <id>https://www.wired.com/story/walgreens-photo-coupon/</id>
+        <link href="https://www.wired.com/story/walgreens-photo-coupon/"/>
         <updated>2026-11-19T16:00:00.000Z</updated>
         <published>2026-11-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Six AI-powered gadgets that could make your home office smarter]]></title>
-        <id>https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/</id>
-        <link href="https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"/>
+        <title type="html"><![CDATA[Castlery Promo Codes: $600 Off for November 2026]]></title>
+        <id>https://www.wired.com/story/castlery-promo-code/</id>
+        <link href="https://www.wired.com/story/castlery-promo-code/"/>
         <updated>2026-11-19T16:00:00.000Z</updated>
         <published>2026-11-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[California AG subpoenas Nvidia over worries about Huang’s ties with China]]></title>
-        <id>https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/</id>
-        <link href="https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/"/>
+        <title type="html"><![CDATA[Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents]]></title>
+        <id>https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/</id>
+        <link href="https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/"/>
         <updated>2026-11-19T16:00:00.000Z</updated>
         <published>2026-11-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic rival says companies can (mostly) skip the pricey models]]></title>
-        <id>https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/</id>
-        <link href="https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s new Muse Charm device may cost $300]]></title>
-        <id>https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/</id>
-        <link href="https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says]]></title>
-        <id>https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/</id>
-        <link href="https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories]]></title>
-        <id>https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/</id>
-        <link href="https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Want to see your live AI usage on your Mac’s icons? This clever new app lets you]]></title>
-        <id>https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/</id>
-        <link href="https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crafting Targeted MP4 Fuzzers]]></title>
-        <id>https://atredis.com/blog/2026/11/16/crafting-targeted-mp4-fuzzers/</id>
-        <link href="https://atredis.com/blog/2026/11/16/crafting-targeted-mp4-fuzzers/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Funkycache: A Python library to cache functions in SQLite]]></title>
-        <id>https://alexwlchan.net/2026/funkycache/</id>
-        <link href="https://alexwlchan.net/2026/funkycache/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Threats, Insults, Settlements: How Jensen Huang Made Humiliation Routine]]></title>
-        <id>https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html</id>
-        <link href="https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: How do indie developers test their tools on Mac, without owning one]]></title>
-        <id>https://news.ycombinator.com/item?id=50573910</id>
-        <link href="https://news.ycombinator.com/item?id=50573910"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PdfCraft: An open-source PDF reader and editor written from scratch in pure Rust]]></title>
-        <id>https://github.com/storytold/pdfcraft</id>
-        <link href="https://github.com/storytold/pdfcraft"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IMAP Is Indeed Complicated]]></title>
-        <id>https://raphting.dev/imap-is-indeed-complicated/</id>
-        <link href="https://raphting.dev/imap-is-indeed-complicated/"/>
-        <updated>2026-11-19T16:00:00.000Z</updated>
-        <published>2026-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If you stop writing code, you also get worse at reviewing it]]></title>
-        <id>https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/</id>
-        <link href="https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/"/>
+        <title type="html"><![CDATA[The Jensen Huang Blast Radius Has Hit His Favorite Restaurants]]></title>
+        <id>https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/</id>
+        <link href="https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/"/>
         <updated>2026-11-19T16:00:00.000Z</updated>
         <published>2026-11-19T16:00:00.000Z</published>
     </entry>
