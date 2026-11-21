@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-21 08:02:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-21 10:04:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -8,8 +8,8 @@
 
 
 - [2026-10-28-HelloGitHub-第-127-期](https://hellogithub.com/periodical/volume/127) 
-- [2026-11-18-Fixing-Modal-Keyboard-Traps-in-GitLab-UI:-Conditional-Escape-Key-Propagation-in-GlTokenSelector](https://dev.to/manishpatel00/fixing-modal-keyboard-traps-in-gitlab-ui-conditional-escape-key-propagation-in-gltokenselector-2l6m) 
 - [2026-11-18-GitLab-corrige-duas-falhas-XSS-armazenadas-com-CVSS-8,7](https://dev.to/guiadeti/gitlab-corrige-duas-falhas-xss-armazenadas-com-cvss-87-5cc4) 
+- [2026-11-18-Fixing-Modal-Keyboard-Traps-in-GitLab-UI:-Conditional-Escape-Key-Propagation-in-GlTokenSelector](https://dev.to/manishpatel00/fixing-modal-keyboard-traps-in-gitlab-ui-conditional-escape-key-propagation-in-gltokenselector-2l6m) 
 - [2026-11-14-Company-numbers-in-Sweden,-Norway,-Finland-and-France:-formats,-check-digits,-and-the-VAT-number-hiding-inside](https://dev.to/spellzcode/company-numbers-in-sweden-norway-finland-and-france-formats-check-digits-and-the-vat-number-2j7n) 
 - [2026-11-11-I-made-a-GitHub-profile-badge-that-counts-the-good-you-do](https://dev.to/aradar46/i-made-a-github-profile-badge-that-counts-the-good-you-do-351b) 
 - [2026-10-31-Code-Quality-Tools-for-GitHub:-SonarQube-Alternatives-2026](https://dev.to/debtdraft/code-quality-tools-for-github-sonarqube-alternatives-2026-6e) 
@@ -41,8 +41,8 @@ https://github.com/webdiscus/pathmask
 - [2026-11-19-Cursor-AI-vs-GitHub-Copilot-vs-Claude-Code:-Which-One-Should-Developers-Choose?](https://pub.towardsai.net/cursor-ai-vs-github-copilot-vs-claude-code-which-one-should-developers-choose-e13427754a8c?source=rss----98111c9905da---4) 
 - [2026-11-13-12-GitHub-Repos-That-Turn-AI-Into-Your-Slide,-Report-and-Marketing-Team-No-Coding-Needed](https://pub.towardsai.net/12-github-repos-that-turn-ai-into-your-slide-report-and-marketing-team-no-coding-needed-35071c96c885?source=rss----98111c9905da---4) 
 - [2026-11-11-Claude-Code’s-‘Don’t-Ask-Again’-Files-Exposed-Secrets-on-GitHub](https://pub.towardsai.net/claude-codes-don-t-ask-again-files-exposed-secrets-on-github-9bd63d39568c?source=rss----98111c9905da---4) 
-- [2026-11-09-Stop-Building-AI-Agents-From-Scratch.-Try-These-12-GitHub-Repos](https://pub.towardsai.net/stop-building-ai-agents-from-scratch-try-these-12-github-repos-8f6ad76f3599?source=rss----98111c9905da---4) 
 - [2026-11-09-GitHub’s-New-Copilot-Mode-Doesn’t-Pick-One-AI-Model-—-It-Picks-Whichever-One-The-Task-Needs](https://pub.towardsai.net/githubs-new-copilot-mode-doesn-t-pick-one-ai-model-it-picks-whichever-one-the-task-needs-880eaf1c381a?source=rss----98111c9905da---4) 
+- [2026-11-09-Stop-Building-AI-Agents-From-Scratch.-Try-These-12-GitHub-Repos](https://pub.towardsai.net/stop-building-ai-agents-from-scratch-try-these-12-github-repos-8f6ad76f3599?source=rss----98111c9905da---4) 
 - [2026-11-08-I-Stopped-Using-Claude-Code-Like-a-Chatbot.-These-10-GitHub-Tools-Changed-Everything.](https://pub.towardsai.net/i-stopped-using-claude-code-like-a-chatbot-these-10-github-tools-changed-everything-7a476d4d51d8?source=rss----98111c9905da---4) 
 - [2026-11-07-15-GitHub-Repos-That-Turn-Claude-Code,-Codex-and-OpenCode-Into-a-Real-Team](https://pub.towardsai.net/15-github-repos-that-turn-claude-code-codex-and-opencode-into-a-real-team-fb4b18a99efe?source=rss----98111c9905da---4) 
 - [2026-10-31-GitHub-Copilot-Cloud-Sessions:-The-Resume-Gate-That-Stops-Agent-Drift](https://pub.towardsai.net/github-copilot-cloud-sessions-the-resume-gate-that-stops-agent-drift-263e2bfc300b?source=rss----98111c9905da---4) 
