@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-22 23:02:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-23 06:01:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -22,13 +22,12 @@
 - [2026-11-14-GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) 
 - [2026-11-17-《Agent评测白皮书》系列02：商家-AI-助手的评测与优化闭环实践](https://tech.meituan.com/2026/11/17/Agent-Evaluation-White-Paper-02.html) 
 - [2026-11-14-SLM-生成式高并发推理引擎：延迟约束下的有效吞吐优化](https://tech.meituan.com/2026/10/15/Small-Language-Model-in-meituan.html) 
-- [2026-10-24-SEO,-AEO,-and-GEO:-The-New-Search-Strategy-Every-Business-Needs-in-2026](https://pub.towardsai.net/seo-aeo-and-geo-the-new-search-strategy-every-business-needs-in-2026-a83494c070d0?source=rss----98111c9905da---4) 
 - [2026-11-22-Show-HN:-Grassline,-a-simple-alternative-to-Paseo-for-talking-to-agents-remotely](https://github.com/andunieee/grassline/blob/master/README.md) 
 - [2026-11-21-Generative-Engine-Optimisation:-Good-Geo-Relies-on-Good-SEO](https://bitilia.com/blog/generative-engine-optimisation/) 
 - [2026-11-20-Show-HN:-A-SEO-Tool-to-get-found-by-Google-and-get-cited-by-AI](https://mozolite.com) 
 - [2026-11-12-Astronomers-Find-Hints-of-Star-Population-That-Failed-to-Explode](https://www.caltech.edu/about/news/astronomers-find-hints-of-star-population-that-failed-to-explode) 
-- [2026-11-06-Claude-Code,-but-for-SEO](https://twitter.com/brodieseo/status/2118299596292305356) 
 - [2026-11-06-Technical/eng-breakdown-of-Framer's-Lighthouse-13.6-optimizations](https://www.framer.com/blog/lighthouse-13-6/) 
+- [2026-11-06-Claude-Code,-but-for-SEO](https://twitter.com/brodieseo/status/2118299596292305356) 
 - [2026-11-01-Show-HN:-Rust-crawler-for-SEO-and-content-audits,-with-optional-LLM-review](https://crawler.siteone.io/) 
 - [2026-10-29-Show-HN:-Startica-Open-source-app-for-SEO,-marketing,-accessibility-and-security](https://github.com/chriscasper/startica) 
 - [2026-10-25-Free-SEO-audit-and-AI-search-tools.-No-sign-up](https://seowins.net/) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-22 23:02:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-23 06:01:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -7,18 +7,19 @@
 
 
 
+- [2026-11-23-Vue.js-2.8:-the-framework-Vue-3-could-have-been](https://dev.to/fyodorio/vuejs-28-the-framework-vue-3-could-have-been-1b1d) 
 - [2026-11-19-Keeping-Localized-Converter-Content-and-URLs-in-Sync-in-Vue](https://dev.to/begoodtool/keeping-localized-converter-content-and-urls-in-sync-in-vue-d56) 
 - [2026-11-18-Resetting-Vue-State-When-Related-Converter-Routes-Reuse-One-Component](https://dev.to/begoodtool/resetting-vue-state-when-related-converter-routes-reuse-one-component-3hgb) 
 - [2026-11-17-Building-a-Zero-Login,-Ephemeral-Chat-App-with-Vue.js-and-Supabase-feat.-QR-Invites](https://dev.to/dixitcoder/building-a-zero-login-ephemeral-chat-app-with-vuejs-and-supabase-feat-qr-invites-o5k) 
 - [2026-11-15-Shifting-Compute-to-the-Client:-Architecture-and-Advantages-of-Zero-Backend-File-Utilities](https://dev.to/janith_madusanka_49129a13/shifting-compute-to-the-client-architecture-and-advantages-of-zero-backend-file-utilities-o86) 
 - [2026-11-14-Preventing-Feedback-Loops-in-a-Two-Way-Vue-Unit-Converter](https://dev.to/begoodtool/preventing-feedback-loops-in-a-two-way-vue-unit-converter-1gni) 
-- [2026-11-11-What-a-Number-Guessing-Game-Teaches-About-Binary-Search-and-Vue-State](https://dev.to/begoodtool/what-a-number-guessing-game-teaches-about-binary-search-and-vue-state-445a) 
 - [2026-11-11-You're-Still-Optimizing-Re-Renders-Wrong:-The-Vue-3-Architecture-That-Outsmarted-the-Virtual-DOM](https://dev.to/smtahosin/youre-still-optimizing-re-renders-wrong-the-vue-3-architecture-that-outsmarted-the-virtual-dom-3fd1) 
+- [2026-11-11-What-a-Number-Guessing-Game-Teaches-About-Binary-Search-and-Vue-State](https://dev.to/begoodtool/what-a-number-guessing-game-teaches-about-binary-search-and-vue-state-445a) 
 - [2026-11-09-Firefox-for-Web-Developers:-DevTools-Advantages-and-Extensions-Worth-Installing](https://dev.to/weatherclockdash/firefox-for-web-developers-devtools-advantages-and-extensions-worth-installing-2if7) 
 - [2026-11-07-Vue.js-for-Beginners:-Build-Interactive-Websites-Without-the-Steep-Learning-Curve](https://dev.to/arhan_khan/vuejs-for-beginners-build-interactive-websites-without-the-steep-learning-curve-4m5g) 
 - [2026-11-04-Engineering-Sector-76:-Building-a-Factorio-Inspired-Dieselpunk-MMO-in-the-Browser-Vue-3,-sass,-Three.js,-GSAP](https://dev.to/manukyan21/engineering-sector-76-building-a-factorio-inspired-dieselpunk-mmo-in-the-browser-vue-3-sass-27ib) 
-- [2026-11-03-What-migrating-a-Vuetify-2-dashboard-to-Vue-3-actually-took](https://dev.to/sayedesmail/what-migrating-a-vuetify-2-dashboard-to-vue-3-actually-took-2nih) 
 - [2026-11-03-Streaming-Markdown-in-Vue:-Rendering-LLM-Tokens-Without-Flicker](https://dev.to/simonhe95/streaming-markdown-in-vue-rendering-llm-tokens-without-flicker-4fne) 
+- [2026-11-03-What-migrating-a-Vuetify-2-dashboard-to-Vue-3-actually-took](https://dev.to/sayedesmail/what-migrating-a-vuetify-2-dashboard-to-vue-3-actually-took-2nih) 
 - [2026-11-01-Why-Personal-Branding-in-2026-Is-a-Powerful-Business-Advantage-https://theabin.com/](https://dev.to/abin_8de28b1fac6c29579cf2/why-personal-branding-in-2026-is-a-powerful-business-advantage-33mk) 
 - [2026-10-26-Contributing-to-Vite+-Inside-Stories-—-Vue-Fes-Japan-2026-Speaker-Notes](https://dev.to/naokihaba/contributing-to-vite-inside-stories-vue-fes-japan-2026-speaker-notes-3pm4) 
 - [2026-10-25-My-Vue-Library-Had-99%-Line-Coverage.-Mutation-Testing-Found-Two-Bugs-Anyway.](https://dev.to/navidjaberi/my-vue-library-had-99-line-coverage-mutation-testing-found-two-bugs-anyway-d5b) 
@@ -38,6 +39,5 @@
 - [2026-11-11-Show-HN:-Find-relevant-signals-on-X-for-your-company](https://www.tweexai.com) 
 - [2026-11-01-Why-Design-in-the-1980s-Looked-So-Weird-and-Why-It's-Relevant-Today-video](https://www.youtube.com/watch?v=0zVQ_SibpyM) 
 - [2026-10-31-Good-writing-is-a-business-advantage-2020](http://adaged.blogspot.com/2020/04/good-writing-is-business-advantage.html) 
-- [2026-10-24-Malaysian-PM-Anwar-Bans-Civil-Servants-from-Using-Israel-Developed-Mapping-App](https://thediplomat.com/2026/10/malaysian-pm-anwar-bans-civil-servants-from-using-israel-developed-navigation-app/) 
 - [2026-11-13-‘A-Servant-Class,-Not-a-Working-Class’:-Stephen-Miller’s-Biographer-on-What-Comes-Next](https://www.wired.com/story/a-servant-class-not-a-working-class-stephen-millers-biographer-on-what-comes-next/) 
 - [2026-10-29-An-AI-Breakthrough-Has-Made-Decades-of-Computer-Science-Research-‘Irrelevant’](https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/) 
