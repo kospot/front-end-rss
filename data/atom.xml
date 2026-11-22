@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-22T04:03:48.118Z</updated>
+    <updated>2026-11-22T07:05:08.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,107 +36,51 @@
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Printing documents in the age of AI cyberattacks]]></title>
-        <id>https://news.ycombinator.com/item?id=50596012</id>
-        <link href="https://news.ycombinator.com/item?id=50596012"/>
+        <title type="html"><![CDATA[Notes on the discrete Fourier transform (DFT)]]></title>
+        <id>https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/</id>
+        <link href="https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: GitHub Plays Linux]]></title>
-        <id>https://github.com/seg6</id>
-        <link href="https://github.com/seg6"/>
+        <title type="html"><![CDATA[Show HN: App Pixel3D – Dream to 3D Reality]]></title>
+        <id>https://apps.apple.com/hu/app/pixel3d-dream-to-3d-reality/id6479245806</id>
+        <link href="https://apps.apple.com/hu/app/pixel3d-dream-to-3d-reality/id6479245806"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Upgrade my old MacBook turned home server]]></title>
-        <id>https://andreagao.com/posts/upgrade-macbook-turned-home-server/</id>
-        <link href="https://andreagao.com/posts/upgrade-macbook-turned-home-server/"/>
+        <title type="html"><![CDATA[Postgres 19 is out: try it on Neon]]></title>
+        <id>https://neon.com/blog/postgres-19-is-out-try-it-on-neon</id>
+        <link href="https://neon.com/blog/postgres-19-is-out-try-it-on-neon"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fast and Incremental iPhone Backups for Windows]]></title>
-        <id>https://mahdis24.tech/iphone-backup-sync/</id>
-        <link href="https://mahdis24.tech/iphone-backup-sync/"/>
+        <title type="html"><![CDATA[Why agent swarms get better at optimizing code as they grow]]></title>
+        <id>https://frontier.replit.com/throwing-headcount-at-the-problem/</id>
+        <link href="https://frontier.replit.com/throwing-headcount-at-the-problem/"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Physlib – Digitalizing Physics in Lean 4]]></title>
-        <id>https://physlib.io/</id>
-        <link href="https://physlib.io/"/>
+        <title type="html"><![CDATA[Stephen Wolfram "Live CEOing" videos of Wolfram Language feature development]]></title>
+        <id>https://www.youtube.com/playlist?list=PLxn-kpJHbPx14mHrB5BlhImVOWo5Geg6f</id>
+        <link href="https://www.youtube.com/playlist?list=PLxn-kpJHbPx14mHrB5BlhImVOWo5Geg6f"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: WorldFoundry – AI agents need experience, not just training data]]></title>
-        <id>https://worldfoundry-demo.vercel.app/</id>
-        <link href="https://worldfoundry-demo.vercel.app/"/>
+        <title type="html"><![CDATA[Show HN: The Riemann Proof Handbook]]></title>
+        <id>https://github.com/tamnd/riemann-handbook</id>
+        <link href="https://github.com/tamnd/riemann-handbook"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting Robot-Use Agents to Run in Real Time]]></title>
-        <id>https://fastrua.ai/blog/2026-11-realtime-rua/</id>
-        <link href="https://fastrua.ai/blog/2026-11-realtime-rua/"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: My whole life storytelling in this website]]></title>
-        <id>https://www.nitinjaiswal.com/</id>
-        <link href="https://www.nitinjaiswal.com/"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gnome getting heat on Reddit for rejecting layer-shell, which Discord app uses]]></title>
-        <id>https://www.reddit.com/r/linux_gaming/s/qRYkewbGqe</id>
-        <link href="https://www.reddit.com/r/linux_gaming/s/qRYkewbGqe"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Api.live – Point it at a repo, get every endpoint as a runnable request]]></title>
-        <id>https://api.live/</id>
-        <link href="https://api.live/"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese-Born Neuroscientist Is Detained by ICE While Traveling from Conference]]></title>
-        <id>https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html</id>
-        <link href="https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Network Science Transform Health and Nutrition?]]></title>
-        <id>https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/</id>
-        <link href="https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple's iPhone camera chief, an opponent of AI-altered photos, has retired]]></title>
-        <id>https://www.dpreview.com/news/apples-iphone-camera-chief-has-retired/</id>
-        <link href="https://www.dpreview.com/news/apples-iphone-camera-chief-has-retired/"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why raw prices lie: adjusting Casablanca Stock Exchange data for stock splits]]></title>
-        <id>https://sahm-terminal.vercel.app</id>
-        <link href="https://sahm-terminal.vercel.app"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steve Furber: How two first-timers created the most popular processor [video]]]></title>
-        <id>https://www.youtube.com/watch?v=3K9L0dRRzOs</id>
-        <link href="https://www.youtube.com/watch?v=3K9L0dRRzOs"/>
+        <title type="html"><![CDATA[Show HN: Npx.tools, a keyboard-friendly index of developer tools]]></title>
+        <id>https://npx.tools/</id>
+        <link href="https://npx.tools/"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
@@ -148,23 +92,142 @@
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Day 48/100] Parent-Document and Sentence-Window Retrieval: Search Small, Answer Big]]></title>
-        <id>https://pub.towardsai.net/day-48-100-parent-document-and-sentence-window-retrieval-search-small-answer-big-c2f54fd0b41c?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/day-48-100-parent-document-and-sentence-window-retrieval-search-small-answer-big-c2f54fd0b41c?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Steve Furber: How two first-timers created the most popular processor [video]]]></title>
+        <id>https://www.youtube.com/watch?v=3K9L0dRRzOs</id>
+        <link href="https://www.youtube.com/watch?v=3K9L0dRRzOs"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[At a 0.9 Threshold, Three Decision APIs Implied Under 5% Error. Five Annotators Said 17–37%.]]></title>
-        <id>https://pub.towardsai.net/at-a-0-9-threshold-three-decision-apis-implied-under-5-error-five-annotators-said-17-37-70a55bf1abf0?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/at-a-0-9-threshold-three-decision-apis-implied-under-5-error-five-annotators-said-17-37-70a55bf1abf0?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Why raw prices lie: adjusting Casablanca Stock Exchange data for stock splits]]></title>
+        <id>https://sahm-terminal.vercel.app</id>
+        <link href="https://sahm-terminal.vercel.app"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Night-Chalk Drive: a 12-fps rotoscope pipeline from Meta Ray-Ban night footage]]></title>
-        <id>https://pub.towardsai.net/night-chalk-drive-a-12-fps-rotoscope-pipeline-from-meta-ray-ban-night-footage-e118341b766e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/night-chalk-drive-a-12-fps-rotoscope-pipeline-from-meta-ray-ban-night-footage-e118341b766e?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Apple's iPhone camera chief, an opponent of AI-altered photos, has retired]]></title>
+        <id>https://www.dpreview.com/news/apples-iphone-camera-chief-has-retired/</id>
+        <link href="https://www.dpreview.com/news/apples-iphone-camera-chief-has-retired/"/>
+        <updated>2026-11-21T16:00:00.000Z</updated>
+        <published>2026-11-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Network Science Transform Health and Nutrition?]]></title>
+        <id>https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/</id>
+        <link href="https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/"/>
+        <updated>2026-11-21T16:00:00.000Z</updated>
+        <published>2026-11-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese-Born Neuroscientist Is Detained by ICE While Traveling from Conference]]></title>
+        <id>https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html</id>
+        <link href="https://www.nytimes.com/2026/11/20/science/chinese-scientist-detained-ice-princeton-eva-yi-xie-.html"/>
+        <updated>2026-11-21T16:00:00.000Z</updated>
+        <published>2026-11-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Api.live – Point it at a repo, get every endpoint as a runnable request]]></title>
+        <id>https://api.live/</id>
+        <link href="https://api.live/"/>
+        <updated>2026-11-21T16:00:00.000Z</updated>
+        <published>2026-11-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gnome getting heat on Reddit for rejecting layer-shell, which Discord app uses]]></title>
+        <id>https://www.reddit.com/r/linux_gaming/s/qRYkewbGqe</id>
+        <link href="https://www.reddit.com/r/linux_gaming/s/qRYkewbGqe"/>
+        <updated>2026-11-21T16:00:00.000Z</updated>
+        <published>2026-11-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: My whole life storytelling in this website]]></title>
+        <id>https://www.nitinjaiswal.com/</id>
+        <link href="https://www.nitinjaiswal.com/"/>
+        <updated>2026-11-21T16:00:00.000Z</updated>
+        <published>2026-11-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Robot-Use Agents to Run in Real Time]]></title>
+        <id>https://fastrua.ai/blog/2026-11-realtime-rua/</id>
+        <link href="https://fastrua.ai/blog/2026-11-realtime-rua/"/>
+        <updated>2026-11-21T16:00:00.000Z</updated>
+        <published>2026-11-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: WorldFoundry – AI agents need experience, not just training data]]></title>
+        <id>https://worldfoundry-demo.vercel.app/</id>
+        <link href="https://worldfoundry-demo.vercel.app/"/>
+        <updated>2026-11-21T16:00:00.000Z</updated>
+        <published>2026-11-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physlib – Digitalizing Physics in Lean 4]]></title>
+        <id>https://physlib.io/</id>
+        <link href="https://physlib.io/"/>
+        <updated>2026-11-21T16:00:00.000Z</updated>
+        <published>2026-11-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast and Incremental iPhone Backups for Windows]]></title>
+        <id>https://mahdis24.tech/iphone-backup-sync/</id>
+        <link href="https://mahdis24.tech/iphone-backup-sync/"/>
+        <updated>2026-11-21T16:00:00.000Z</updated>
+        <published>2026-11-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upgrade my old MacBook turned home server]]></title>
+        <id>https://andreagao.com/posts/upgrade-macbook-turned-home-server/</id>
+        <link href="https://andreagao.com/posts/upgrade-macbook-turned-home-server/"/>
+        <updated>2026-11-21T16:00:00.000Z</updated>
+        <published>2026-11-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: GitHub Plays Linux]]></title>
+        <id>https://github.com/seg6</id>
+        <link href="https://github.com/seg6"/>
+        <updated>2026-11-21T16:00:00.000Z</updated>
+        <published>2026-11-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Printing documents in the age of AI cyberattacks]]></title>
+        <id>https://news.ycombinator.com/item?id=50596012</id>
+        <link href="https://news.ycombinator.com/item?id=50596012"/>
+        <updated>2026-11-21T16:00:00.000Z</updated>
+        <published>2026-11-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Models Think, and Where They Run: From One Weight to a GPU Server]]></title>
+        <id>https://pub.towardsai.net/how-ai-models-think-and-where-they-run-from-one-weight-to-a-gpu-server-8f07423dfde0?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-ai-models-think-and-where-they-run-from-one-weight-to-a-gpu-server-8f07423dfde0?source=rss----98111c9905da---4"/>
+        <updated>2026-11-21T16:00:00.000Z</updated>
+        <published>2026-11-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gadsby-4B: The Model That Was Banned From Talking Normal, So It Learned to Shitpost Instead]]></title>
+        <id>https://pub.towardsai.net/gadsby-4b-the-model-that-was-banned-from-talking-normal-so-it-learned-to-shitpost-instead-03cbb12312a3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/gadsby-4b-the-model-that-was-banned-from-talking-normal-so-it-learned-to-shitpost-instead-03cbb12312a3?source=rss----98111c9905da---4"/>
+        <updated>2026-11-21T16:00:00.000Z</updated>
+        <published>2026-11-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DP, TP, PP and EP: How LLM Parallelism Actually Fits Together]]></title>
+        <id>https://pub.towardsai.net/dp-tp-pp-and-ep-how-llm-parallelism-actually-fits-together-2cc4e611da72?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/dp-tp-pp-and-ep-how-llm-parallelism-actually-fits-together-2cc4e611da72?source=rss----98111c9905da---4"/>
+        <updated>2026-11-21T16:00:00.000Z</updated>
+        <published>2026-11-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Audio Model Release of the Month by Tencent is Not Something You Would Expect]]></title>
+        <id>https://pub.towardsai.net/the-audio-model-release-of-the-month-by-tencent-is-not-something-you-would-expect-bb3f818ecb80?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-audio-model-release-of-the-month-by-tencent-is-not-something-you-would-expect-bb3f818ecb80?source=rss----98111c9905da---4"/>
+        <updated>2026-11-21T16:00:00.000Z</updated>
+        <published>2026-11-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why AI-Generated Videos Fall Apart Over Time — and What LongCat 1.6 Does Differently]]></title>
+        <id>https://pub.towardsai.net/why-ai-generated-videos-fall-apart-over-time-and-what-longcat-1-6-does-differently-b7d37c9eb0e7?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-ai-generated-videos-fall-apart-over-time-and-what-longcat-1-6-does-differently-b7d37c9eb0e7?source=rss----98111c9905da---4"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
@@ -176,184 +239,121 @@
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[__gCrWeb, __firefox__ and Script error.: filtering errors your site never threw]]></title>
-        <id>https://dev.to/mohamedgado/gcrweb-firefox-and-script-error-filtering-errors-your-site-never-threw-1gjj</id>
-        <link href="https://dev.to/mohamedgado/gcrweb-firefox-and-script-error-filtering-errors-your-site-never-threw-1gjj"/>
+        <title type="html"><![CDATA[Night-Chalk Drive: a 12-fps rotoscope pipeline from Meta Ray-Ban night footage]]></title>
+        <id>https://pub.towardsai.net/night-chalk-drive-a-12-fps-rotoscope-pipeline-from-meta-ray-ban-night-footage-e118341b766e?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/night-chalk-drive-a-12-fps-rotoscope-pipeline-from-meta-ray-ban-night-footage-e118341b766e?source=rss----98111c9905da---4"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eleventy Static Site Tutorial: Build a Fast Shop Site]]></title>
-        <id>https://dev.to/practicaldevblog/eleventy-static-site-tutorial-build-a-fast-shop-site-36dl</id>
-        <link href="https://dev.to/practicaldevblog/eleventy-static-site-tutorial-build-a-fast-shop-site-36dl"/>
+        <title type="html"><![CDATA[At a 0.9 Threshold, Three Decision APIs Implied Under 5% Error. Five Annotators Said 17–37%.]]></title>
+        <id>https://pub.towardsai.net/at-a-0-9-threshold-three-decision-apis-implied-under-5-error-five-annotators-said-17-37-70a55bf1abf0?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/at-a-0-9-threshold-three-decision-apis-implied-under-5-error-five-annotators-said-17-37-70a55bf1abf0?source=rss----98111c9905da---4"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mapeo inteligente con flatMap en Javascript]]></title>
-        <id>https://dev.to/javier_ee5cb8a318b2596536/mapeo-inteligente-con-flatmap-en-javascript-315d</id>
-        <link href="https://dev.to/javier_ee5cb8a318b2596536/mapeo-inteligente-con-flatmap-en-javascript-315d"/>
+        <title type="html"><![CDATA[[Day 48/100] Parent-Document and Sentence-Window Retrieval: Search Small, Answer Big]]></title>
+        <id>https://pub.towardsai.net/day-48-100-parent-document-and-sentence-window-retrieval-search-small-answer-big-c2f54fd0b41c?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/day-48-100-parent-document-and-sentence-window-retrieval-search-small-answer-big-c2f54fd0b41c?source=rss----98111c9905da---4"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XRPL WebSocket: Build a Live XRP Whale Alert in Node.js (No API Key)]]></title>
-        <id>https://dev.to/xrplto/xrpl-websocket-build-a-live-xrp-whale-alert-in-nodejs-no-api-key-3mb1</id>
-        <link href="https://dev.to/xrplto/xrpl-websocket-build-a-live-xrp-whale-alert-in-nodejs-no-api-key-3mb1"/>
+        <title type="html"><![CDATA[How I Built a 3D Three.js Virtual Office with 7 AI Agents & Vercel Cron]]></title>
+        <id>https://dev.to/muhammed_ashuq_7b380ba7da/how-i-built-a-3d-threejs-virtual-office-with-7-ai-agents-vercel-cron-1heb</id>
+        <link href="https://dev.to/muhammed_ashuq_7b380ba7da/how-i-built-a-3d-threejs-virtual-office-with-7-ai-agents-vercel-cron-1heb"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Zero-Upload Multi-Layer HTML5 Canvas Image Editor with Non-Destructive Frame Clipping]]></title>
-        <id>https://dev.to/uchitchakma/building-a-zero-upload-multi-layer-html5-canvas-image-editor-with-non-destructive-frame-clipping-2cp</id>
-        <link href="https://dev.to/uchitchakma/building-a-zero-upload-multi-layer-html5-canvas-image-editor-with-non-destructive-frame-clipping-2cp"/>
+        <title type="html"><![CDATA[Two new video tools: pull any frame out of a video, right in your browser]]></title>
+        <id>https://dev.to/zaidi617796/two-new-video-tools-pull-any-frame-out-of-a-video-right-in-your-browser-56en</id>
+        <link href="https://dev.to/zaidi617796/two-new-video-tools-pull-any-frame-out-of-a-video-right-in-your-browser-56en"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Many Websites Use Google AdSense? 1.28M Sites and What adsbygoogle.js Proves]]></title>
-        <id>https://dev.to/webatla/how-many-websites-use-google-adsense-128m-sites-and-what-adsbygooglejs-proves-10hf</id>
-        <link href="https://dev.to/webatla/how-many-websites-use-google-adsense-128m-sites-and-what-adsbygooglejs-proves-10hf"/>
+        <title type="html"><![CDATA[React `taint` APIs in 2026: Preventing Sensitive Data From Accidentally Reaching Client Components]]></title>
+        <id>https://dev.to/jsmanifest/react-taint-apis-in-2026-preventing-sensitive-data-from-accidentally-reaching-client-components-1co7</id>
+        <link href="https://dev.to/jsmanifest/react-taint-apis-in-2026-preventing-sensitive-data-from-accidentally-reaching-client-components-1co7"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Consistent Native GIF Assets with GPT Image 2.6]]></title>
-        <id>https://dev.to/germey/building-consistent-native-gif-assets-with-gpt-image-26-5e01</id>
-        <link href="https://dev.to/germey/building-consistent-native-gif-assets-with-gpt-image-26-5e01"/>
+        <title type="html"><![CDATA[Rounding clock times to the nearest 15 minutes: what the law allows and what I coded]]></title>
+        <id>https://dev.to/mobeenahmedgondal/rounding-clock-times-to-the-nearest-15-minutes-what-the-law-allows-and-what-i-coded-37db</id>
+        <link href="https://dev.to/mobeenahmedgondal/rounding-clock-times-to-the-nearest-15-minutes-what-the-law-allows-and-what-i-coded-37db"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why We Ditched Cloud Servers for In-Browser WebAssembly to Process Sensitive PDFs]]></title>
-        <id>https://dev.to/vishnucod/why-we-ditched-cloud-servers-for-in-browser-webassembly-to-process-sensitive-pdfs-gi0</id>
-        <link href="https://dev.to/vishnucod/why-we-ditched-cloud-servers-for-in-browser-webassembly-to-process-sensitive-pdfs-gi0"/>
+        <title type="html"><![CDATA[Inside Limn Engine: How a 360-Level Raycast FPS Runs in a Single HTML File]]></title>
+        <id>https://dev.to/kehinde_owolabi_e2e54567a/inside-limn-engine-how-a-360-level-raycast-fps-runs-in-a-single-html-file-2ofl</id>
+        <link href="https://dev.to/kehinde_owolabi_e2e54567a/inside-limn-engine-how-a-360-level-raycast-fps-runs-in-a-single-html-file-2ofl"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Pronunciation Guide App with AI Voice]]></title>
-        <id>https://dev.to/voice_developer/how-to-build-a-pronunciation-guide-app-with-ai-voice-2b3b</id>
-        <link href="https://dev.to/voice_developer/how-to-build-a-pronunciation-guide-app-with-ai-voice-2b3b"/>
+        <title type="html"><![CDATA[Intent-Deferred Edge RAG Chatbots: Adding AI Sales Agents Without Hurting Core Web Vitals (95+ PageSpeed)]]></title>
+        <id>https://dev.to/uchitchakma/intent-deferred-edge-rag-chatbots-adding-ai-sales-agents-without-hurting-core-web-vitals-95-3k84</id>
+        <link href="https://dev.to/uchitchakma/intent-deferred-edge-rag-chatbots-adding-ai-sales-agents-without-hurting-core-web-vitals-95-3k84"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pull the top pumpfun traders and what they are buying from a free public API, in TypeScript]]></title>
-        <id>https://dev.to/copytop/pull-the-top-pumpfun-traders-and-what-they-are-buying-from-a-free-public-api-in-typescript-7d9</id>
-        <link href="https://dev.to/copytop/pull-the-top-pumpfun-traders-and-what-they-are-buying-from-a-free-public-api-in-typescript-7d9"/>
+        <title type="html"><![CDATA[Importance of Artificial Intelligence (AI)]]></title>
+        <id>https://dev.to/athar_baig2211/importance-of-artificial-intelligence-ai-1nh7</id>
+        <link href="https://dev.to/athar_baig2211/importance-of-artificial-intelligence-ai-1nh7"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is This Height Comparison Up to Scale? How to Draw One Correctly in JavaScript and SVG]]></title>
-        <id>https://dev.to/charlotte_nelson_9aadde70/is-this-height-comparison-up-to-scale-how-to-draw-one-correctly-in-javascript-and-svg-21m</id>
-        <link href="https://dev.to/charlotte_nelson_9aadde70/is-this-height-comparison-up-to-scale-how-to-draw-one-correctly-in-javascript-and-svg-21m"/>
+        <title type="html"><![CDATA[Do not pretty-print, lint-fix, or re-minify MeowShield output]]></title>
+        <id>https://dev.to/veilvm/do-not-pretty-print-lint-fix-or-re-minify-meowshield-output-c5</id>
+        <link href="https://dev.to/veilvm/do-not-pretty-print-lint-fix-or-re-minify-meowshield-output-c5"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We unpacked 445 popular npm packages. 39% of them ship their full original source.]]></title>
-        <id>https://dev.to/lineanswered/we-unpacked-445-popular-npm-packages-39-of-them-ship-their-full-original-source-48h9</id>
-        <link href="https://dev.to/lineanswered/we-unpacked-445-popular-npm-packages-39-of-them-ship-their-full-original-source-48h9"/>
+        <title type="html"><![CDATA[How many Chrome extensions are there? Half are from 2026]]></title>
+        <id>https://dev.to/extensionbooster/how-many-chrome-extensions-are-there-half-are-from-2026-4kdh</id>
+        <link href="https://dev.to/extensionbooster/how-many-chrome-extensions-are-there-half-are-from-2026-4kdh"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Headless CMS Frontend Frameworks]]></title>
-        <id>https://dev.to/kevinlearynet/headless-cms-frontend-frameworks-41cj</id>
-        <link href="https://dev.to/kevinlearynet/headless-cms-frontend-frameworks-41cj"/>
+        <title type="html"><![CDATA[How I Built a Zero-Dependency HTML/JS Project Scope & Quote Estimator for Freelancers]]></title>
+        <id>https://dev.to/online_services00/how-i-built-a-zero-dependency-htmljs-project-scope-quote-estimator-for-freelancers-2aom</id>
+        <link href="https://dev.to/online_services00/how-i-built-a-zero-dependency-htmljs-project-scope-quote-estimator-for-freelancers-2aom"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Spinning Up Headless Chrome for Public JSON: HTTP-First Extraction Patterns for Shopify, Multi-ATS Boards, and Substack (with n8n)]]></title>
-        <id>https://dev.to/pulse-extract/stop-spinning-up-headless-chrome-for-public-json-http-first-extraction-patterns-for-shopify-1mi5</id>
-        <link href="https://dev.to/pulse-extract/stop-spinning-up-headless-chrome-for-public-json-http-first-extraction-patterns-for-shopify-1mi5"/>
+        <title type="html"><![CDATA[Generating 1:1 Vector PDF and CAD DXF Packaging Dielines in Pure Browser JS (Zero Dependencies)]]></title>
+        <id>https://dev.to/alicewu222/generating-11-vector-pdf-and-cad-dxf-packaging-dielines-in-pure-browser-js-zero-dependencies-4nd5</id>
+        <link href="https://dev.to/alicewu222/generating-11-vector-pdf-and-cad-dxf-packaging-dielines-in-pure-browser-js-zero-dependencies-4nd5"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build an AI Label Remover in the Browser: Strip C2PA, IPTC and XMP From Images With JavaScript]]></title>
-        <id>https://dev.to/aiflagremover/build-an-ai-label-remover-in-the-browser-strip-c2pa-iptc-and-xmp-from-images-with-javascript-36jn</id>
-        <link href="https://dev.to/aiflagremover/build-an-ai-label-remover-in-the-browser-strip-c2pa-iptc-and-xmp-from-images-with-javascript-36jn"/>
+        <title type="html"><![CDATA[Recording a Chrome extension's side panel with Playwright and ffmpeg]]></title>
+        <id>https://dev.to/ali_nemati_3c24b36d5512b2/recording-a-chrome-extensions-side-panel-with-playwright-and-ffmpeg-3cjo</id>
+        <link href="https://dev.to/ali_nemati_3c24b36d5512b2/recording-a-chrome-extensions-side-panel-with-playwright-and-ffmpeg-3cjo"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[178 organizations served malware through one trusted Optimizely snippet: 6 third-party script checks to put in code review in 2026]]></title>
-        <id>https://dev.to/dev_barron/178-organizations-served-malware-through-one-trusted-optimizely-snippet-6-third-party-script-471</id>
-        <link href="https://dev.to/dev_barron/178-organizations-served-malware-through-one-trusted-optimizely-snippet-6-third-party-script-471"/>
+        <title type="html"><![CDATA[Building a listening-practice video player: the design decisions that mattered]]></title>
+        <id>https://dev.to/limo_b432649fb13e7b3/building-a-listening-practice-video-player-the-design-decisions-that-mattered-3aop</id>
+        <link href="https://dev.to/limo_b432649fb13e7b3/building-a-listening-practice-video-player-the-design-decisions-that-mattered-3aop"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6 Web Audio API pitfalls I hit building a browser-only mic test]]></title>
-        <id>https://dev.to/katao/6-web-audio-api-pitfalls-i-hit-building-a-browser-only-mic-test-525g</id>
-        <link href="https://dev.to/katao/6-web-audio-api-pitfalls-i-hit-building-a-browser-only-mic-test-525g"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Text-to-Speech Chrome Extension]]></title>
-        <id>https://dev.to/voice_developer/build-a-text-to-speech-chrome-extension-gfc</id>
-        <link href="https://dev.to/voice_developer/build-a-text-to-speech-chrome-extension-gfc"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why YouTube's 0.75x ruins music — and how I built a real-time Slowed + Reverb Chrome extension with Web Audio API]]></title>
-        <id>https://dev.to/slowreverb/why-youtubes-075x-ruins-music-and-how-i-built-a-real-time-slowed-reverb-chrome-extension-with-2a4n</id>
-        <link href="https://dev.to/slowreverb/why-youtubes-075x-ruins-music-and-how-i-built-a-real-time-slowed-reverb-chrome-extension-with-2a4n"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decoding WebAuthn Passkey CBOR (attestationObject, authenticatorData, COSE Keys) Without a Backend]]></title>
-        <id>https://dev.to/dev_in_the_fog/decoding-webauthn-passkey-cbor-attestationobject-authenticatordata-cose-keys-without-a-backend-311j</id>
-        <link href="https://dev.to/dev_in_the_fog/decoding-webauthn-passkey-cbor-attestationobject-authenticatordata-cose-keys-without-a-backend-311j"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Voice to Your React App with ElevenLabs]]></title>
-        <id>https://dev.to/voice_developer/how-to-add-voice-to-your-react-app-with-elevenlabs-5f1p</id>
-        <link href="https://dev.to/voice_developer/how-to-add-voice-to-your-react-app-with-elevenlabs-5f1p"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antivirüs .bat dosyalarımı siliyor, Node projelerimi Windows'ta nasıl başlatıyorum?]]></title>
-        <id>https://dev.to/erdemcirik/antivirus-bat-dosyalarimi-siliyor-node-projelerimi-windowsta-nasil-baslatiyorum-4nk2</id>
-        <link href="https://dev.to/erdemcirik/antivirus-bat-dosyalarimi-siliyor-node-projelerimi-windowsta-nasil-baslatiyorum-4nk2"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I vibe-coded a bottle-smashing game to promote my sobriety app. Nobody played it.]]></title>
-        <id>https://dev.to/sergiuszbuilds/i-vibe-coded-a-bottle-smashing-game-to-promote-my-sobriety-app-nobody-played-it-41k3</id>
-        <link href="https://dev.to/sergiuszbuilds/i-vibe-coded-a-bottle-smashing-game-to-promote-my-sobriety-app-nobody-played-it-41k3"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 5 — Concurrency & Node.js Internals: What's Actually Happening Behind `async/await`?]]></title>
-        <id>https://dev.to/heyitsalok/part-5-concurrency-nodejs-internals-whats-actually-happening-behind-asyncawait-2g2f</id>
-        <link href="https://dev.to/heyitsalok/part-5-concurrency-nodejs-internals-whats-actually-happening-behind-asyncawait-2g2f"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Userscripts can hook any function your page leaves on window]]></title>
-        <id>https://dev.to/veilvm/userscripts-can-hook-any-function-your-page-leaves-on-window-1075</id>
-        <link href="https://dev.to/veilvm/userscripts-can-hook-any-function-your-page-leaves-on-window-1075"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A metered paywall that counts in the browser can be reset by any reader]]></title>
-        <id>https://dev.to/veilvm/a-metered-paywall-that-counts-in-the-browser-can-be-reset-by-any-reader-ho5</id>
-        <link href="https://dev.to/veilvm/a-metered-paywall-that-counts-in-the-browser-can-be-reset-by-any-reader-ho5"/>
+        <title type="html"><![CDATA[Engineering Kabloom Daily: Building a Viral Volcano Trivia Puzzle with Zero-Duplicate Rules and Sub-50ms Edge Delivery]]></title>
+        <id>https://dev.to/powerechozhang/engineering-kabloom-daily-building-a-viral-volcano-trivia-puzzle-with-zero-duplicate-rules-and-46be</id>
+        <link href="https://dev.to/powerechozhang/engineering-kabloom-daily-building-a-viral-volcano-trivia-puzzle-with-zero-duplicate-rules-and-46be"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
