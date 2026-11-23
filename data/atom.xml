@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-22T22:01:17.620Z</updated>
+    <updated>2026-11-23T00:02:01.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[We haven’t seen the last of the major tech outages]]></title>
+        <id>https://www.theverge.com/tech/1039851/major-tech-outages</id>
+        <link href="https://www.theverge.com/tech/1039851/major-tech-outages"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Binding of Isaac developer removes AI music from Repentance Plus]]></title>
         <id>https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</id>
@@ -85,58 +92,44 @@
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building an Embed License for My Site's Calculators: Post #1 — Extracting the Embed Kit]]></title>
-        <id>https://dev.to/vickeryfinance/building-an-embed-license-for-my-sites-calculators-post-1-extracting-the-embed-kit-1717</id>
-        <link href="https://dev.to/vickeryfinance/building-an-embed-license-for-my-sites-calculators-post-1-extracting-the-embed-kit-1717"/>
+        <title type="html"><![CDATA[Make Your AI Agent Stay Inside the Limits You Set]]></title>
+        <id>https://pub.towardsai.net/make-your-ai-agent-stay-inside-the-limits-you-set-a298428c4a76?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/make-your-ai-agent-stay-inside-the-limits-you-set-a298428c4a76?source=rss----98111c9905da---4"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Prepare PDF Text for an Audiobook]]></title>
-        <id>https://dev.to/cleora/how-i-prepare-pdf-text-for-an-audiobook-5c7i</id>
-        <link href="https://dev.to/cleora/how-i-prepare-pdf-text-for-an-audiobook-5c7i"/>
+        <title type="html"><![CDATA[I built the same multi-step MUI form twice: react-hook-form + Zod vs. SurveyJS]]></title>
+        <id>https://dev.to/surveyjs/i-built-the-same-multi-step-mui-form-twice-react-hook-form-zod-vs-surveyjs-4fdd</id>
+        <link href="https://dev.to/surveyjs/i-built-the-same-multi-step-mui-form-twice-react-hook-form-zod-vs-surveyjs-4fdd"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Generating 1080x1920 Viral Story Cards in Pure HTML5 Canvas (Zero Libraries)]]></title>
-        <id>https://dev.to/er_carltz_ad2c0e2e57f54b3/generating-1080x1920-viral-story-cards-in-pure-html5-canvas-zero-libraries-330l</id>
-        <link href="https://dev.to/er_carltz_ad2c0e2e57f54b3/generating-1080x1920-viral-story-cards-in-pure-html5-canvas-zero-libraries-330l"/>
+        <title type="html"><![CDATA[Handling sandbox API errors in TypeScript: what to retry, what to surface, what to recover]]></title>
+        <id>https://dev.to/sandscale/handling-sandbox-api-errors-in-typescript-what-to-retry-what-to-surface-what-to-recover-kao</id>
+        <link href="https://dev.to/sandscale/handling-sandbox-api-errors-in-typescript-what-to-retry-what-to-surface-what-to-recover-kao"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create an Interactive Audio Story Generator]]></title>
-        <id>https://dev.to/voice_developer/create-an-interactive-audio-story-generator-1ioh</id>
-        <link href="https://dev.to/voice_developer/create-an-interactive-audio-story-generator-1ioh"/>
+        <title type="html"><![CDATA[Building a "Sorry 100 Times" Text Repeater in Vanilla JavaScript]]></title>
+        <id>https://dev.to/sonny_9cfaf8b35514f/building-a-sorry-100-times-text-repeater-in-vanilla-javascript-3dnh</id>
+        <link href="https://dev.to/sonny_9cfaf8b35514f/building-a-sorry-100-times-text-repeater-in-vanilla-javascript-3dnh"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Turning any website into clean Markdown chunks for RAG, without a headless browser]]></title>
-        <id>https://dev.to/agebreakcoprog/turning-any-website-into-clean-markdown-chunks-for-rag-without-a-headless-browser-7al</id>
-        <link href="https://dev.to/agebreakcoprog/turning-any-website-into-clean-markdown-chunks-for-rag-without-a-headless-browser-7al"/>
+        <title type="html"><![CDATA[Browser-Side Film Negative Inversion and Anti-Aliased Logo Recoloring with Canvas 2D]]></title>
+        <id>https://dev.to/jimmy_fa_df2a6d4a40947e2a/browser-side-film-negative-inversion-and-anti-aliased-logo-recoloring-with-canvas-2d-1lo4</id>
+        <link href="https://dev.to/jimmy_fa_df2a6d4a40947e2a/browser-side-film-negative-inversion-and-anti-aliased-logo-recoloring-with-canvas-2d-1lo4"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scraping App Store reviews across countries without proxies (and turning them into a sentiment dataset)]]></title>
-        <id>https://dev.to/agebreakcoprog/scraping-app-store-reviews-across-countries-without-proxies-and-turning-them-into-a-sentiment-o1l</id>
-        <link href="https://dev.to/agebreakcoprog/scraping-app-store-reviews-across-countries-without-proxies-and-turning-them-into-a-sentiment-o1l"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I decoded "free" QR codes from 20 generators with Playwright and jsQR. Here's what was inside]]></title>
-        <id>https://dev.to/endureqr/i-decoded-free-qr-codes-from-20-generators-with-playwright-and-jsqr-heres-what-was-inside-41ch</id>
-        <link href="https://dev.to/endureqr/i-decoded-free-qr-codes-from-20-generators-with-playwright-and-jsqr-heres-what-was-inside-41ch"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Ask a friend" with no backend: comparing two people's ratings through a URL]]></title>
-        <id>https://dev.to/ilyazonov/ask-a-friend-with-no-backend-comparing-two-peoples-ratings-through-a-url-5hie</id>
-        <link href="https://dev.to/ilyazonov/ask-a-friend-with-no-backend-comparing-two-peoples-ratings-through-a-url-5hie"/>
+        <title type="html"><![CDATA[Asset Recovery Services : Reclaim Stolen Crypto Assets]]></title>
+        <id>https://dev.to/parker_smith_46075c1682b2/asset-recovery-services-reclaim-stolen-crypto-assets-4e0k</id>
+        <link href="https://dev.to/parker_smith_46075c1682b2/asset-recovery-services-reclaim-stolen-crypto-assets-4e0k"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
@@ -148,30 +141,65 @@
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Protesters storm Meta offices in India]]></title>
-        <id>https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india</id>
-        <link href="https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
+        <title type="html"><![CDATA["Ask a friend" with no backend: comparing two people's ratings through a URL]]></title>
+        <id>https://dev.to/ilyazonov/ask-a-friend-with-no-backend-comparing-two-peoples-ratings-through-a-url-5hie</id>
+        <link href="https://dev.to/ilyazonov/ask-a-friend-with-no-backend-comparing-two-peoples-ratings-through-a-url-5hie"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nintendo’s Switch 2 console is $50 off for Black Friday]]></title>
-        <id>https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale</id>
-        <link href="https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
+        <title type="html"><![CDATA[I decoded "free" QR codes from 20 generators with Playwright and jsQR. Here's what was inside]]></title>
+        <id>https://dev.to/endureqr/i-decoded-free-qr-codes-from-20-generators-with-playwright-and-jsqr-heres-what-was-inside-41ch</id>
+        <link href="https://dev.to/endureqr/i-decoded-free-qr-codes-from-20-generators-with-playwright-and-jsqr-heres-what-was-inside-41ch"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon’s first digital photo frame is up to 50 percent off for Black Friday]]></title>
-        <id>https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Scraping App Store reviews across countries without proxies (and turning them into a sentiment dataset)]]></title>
+        <id>https://dev.to/agebreakcoprog/scraping-app-store-reviews-across-countries-without-proxies-and-turning-them-into-a-sentiment-o1l</id>
+        <link href="https://dev.to/agebreakcoprog/scraping-app-store-reviews-across-countries-without-proxies-and-turning-them-into-a-sentiment-o1l"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The vibe-coding revolution is coming to all the gadgets]]></title>
-        <id>https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera</id>
-        <link href="https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"/>
+        <title type="html"><![CDATA[Turning any website into clean Markdown chunks for RAG, without a headless browser]]></title>
+        <id>https://dev.to/agebreakcoprog/turning-any-website-into-clean-markdown-chunks-for-rag-without-a-headless-browser-7al</id>
+        <link href="https://dev.to/agebreakcoprog/turning-any-website-into-clean-markdown-chunks-for-rag-without-a-headless-browser-7al"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create an Interactive Audio Story Generator]]></title>
+        <id>https://dev.to/voice_developer/create-an-interactive-audio-story-generator-1ioh</id>
+        <link href="https://dev.to/voice_developer/create-an-interactive-audio-story-generator-1ioh"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generating 1080x1920 Viral Story Cards in Pure HTML5 Canvas (Zero Libraries)]]></title>
+        <id>https://dev.to/er_carltz_ad2c0e2e57f54b3/generating-1080x1920-viral-story-cards-in-pure-html5-canvas-zero-libraries-330l</id>
+        <link href="https://dev.to/er_carltz_ad2c0e2e57f54b3/generating-1080x1920-viral-story-cards-in-pure-html5-canvas-zero-libraries-330l"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Prepare PDF Text for an Audiobook]]></title>
+        <id>https://dev.to/cleora/how-i-prepare-pdf-text-for-an-audiobook-5c7i</id>
+        <link href="https://dev.to/cleora/how-i-prepare-pdf-text-for-an-audiobook-5c7i"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building an Embed License for My Site's Calculators: Post #1 — Extracting the Embed Kit]]></title>
+        <id>https://dev.to/vickeryfinance/building-an-embed-license-for-my-sites-calculators-post-1-extracting-the-embed-kit-1717</id>
+        <link href="https://dev.to/vickeryfinance/building-an-embed-license-for-my-sites-calculators-post-1-extracting-the-embed-kit-1717"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Tamagotchis got us hooked on digital pets]]></title>
+        <id>https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary</id>
+        <link href="https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
@@ -183,9 +211,30 @@
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Tamagotchis got us hooked on digital pets]]></title>
-        <id>https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary</id>
-        <link href="https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary"/>
+        <title type="html"><![CDATA[The vibe-coding revolution is coming to all the gadgets]]></title>
+        <id>https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera</id>
+        <link href="https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"/>
+        <updated>2026-11-21T16:00:00.000Z</updated>
+        <published>2026-11-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon’s first digital photo frame is up to 50 percent off for Black Friday]]></title>
+        <id>https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale"/>
+        <updated>2026-11-21T16:00:00.000Z</updated>
+        <published>2026-11-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo’s Switch 2 console is $50 off for Black Friday]]></title>
+        <id>https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale</id>
+        <link href="https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale"/>
+        <updated>2026-11-21T16:00:00.000Z</updated>
+        <published>2026-11-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protesters storm Meta offices in India]]></title>
+        <id>https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india</id>
+        <link href="https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
@@ -312,55 +361,6 @@
         <title type="html"><![CDATA[Show HN: App Pixel3D – Dream to 3D Reality]]></title>
         <id>https://apps.apple.com/hu/app/pixel3d-dream-to-3d-reality/id6479245806</id>
         <link href="https://apps.apple.com/hu/app/pixel3d-dream-to-3d-reality/id6479245806"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postgres 19 is out: try it on Neon]]></title>
-        <id>https://neon.com/blog/postgres-19-is-out-try-it-on-neon</id>
-        <link href="https://neon.com/blog/postgres-19-is-out-try-it-on-neon"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why agent swarms get better at optimizing code as they grow]]></title>
-        <id>https://frontier.replit.com/throwing-headcount-at-the-problem/</id>
-        <link href="https://frontier.replit.com/throwing-headcount-at-the-problem/"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stephen Wolfram "Live CEOing" videos of Wolfram Language feature development]]></title>
-        <id>https://www.youtube.com/playlist?list=PLxn-kpJHbPx14mHrB5BlhImVOWo5Geg6f</id>
-        <link href="https://www.youtube.com/playlist?list=PLxn-kpJHbPx14mHrB5BlhImVOWo5Geg6f"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: The Riemann Proof Handbook]]></title>
-        <id>https://github.com/tamnd/riemann-handbook</id>
-        <link href="https://github.com/tamnd/riemann-handbook"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Npx.tools, a keyboard-friendly index of developer tools]]></title>
-        <id>https://npx.tools/</id>
-        <link href="https://npx.tools/"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palmer Luckey on War 2.0 [video]]]></title>
-        <id>https://www.youtube.com/watch?v=QARxiqCkJF4</id>
-        <link href="https://www.youtube.com/watch?v=QARxiqCkJF4"/>
-        <updated>2026-11-21T16:00:00.000Z</updated>
-        <published>2026-11-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steve Furber: How two first-timers created the most popular processor [video]]]></title>
-        <id>https://www.youtube.com/watch?v=3K9L0dRRzOs</id>
-        <link href="https://www.youtube.com/watch?v=3K9L0dRRzOs"/>
         <updated>2026-11-21T16:00:00.000Z</updated>
         <published>2026-11-21T16:00:00.000Z</published>
     </entry>
