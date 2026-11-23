@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-23T04:05:39.704Z</updated>
+    <updated>2026-11-23T07:05:37.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -57,149 +57,65 @@
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Codexed – A local settings editor for Codex CLI]]></title>
-        <id>https://github.com/codex-config/codexed</id>
-        <link href="https://github.com/codex-config/codexed"/>
+        <title type="html"><![CDATA[SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance]]></title>
+        <id>https://dl.acm.org/doi/10.1145/3828523.3857112</id>
+        <link href="https://dl.acm.org/doi/10.1145/3828523.3857112"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GömböC–The Shape That Shouldn't Exist [video]]]></title>
-        <id>https://www.youtube.com/watch?v=rvVF5QWSYF4</id>
-        <link href="https://www.youtube.com/watch?v=rvVF5QWSYF4"/>
+        <title type="html"><![CDATA[Microsoft 365 Outage – Post Incident Report [pdf]]]></title>
+        <id>https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf</id>
+        <link href="https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Motion Brew, 100 free animated React components your AI agent can install]]></title>
-        <id>https://motion-brew.com/</id>
-        <link href="https://motion-brew.com/"/>
+        <title type="html"><![CDATA[Show HN: Smartesto – Run custom prompts on webpages and text with Apple devices]]></title>
+        <id>https://www.giuliomagnifico.dev/apps/smartesto/</id>
+        <link href="https://www.giuliomagnifico.dev/apps/smartesto/"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XNU Linux: Full OS X GUI Userspace on Linux]]></title>
-        <id>https://github.com/AFK-surf/xnulinux</id>
-        <link href="https://github.com/AFK-surf/xnulinux"/>
+        <title type="html"><![CDATA[Show HN: AI code review in VS Code with your own API key or Ollama, no account]]></title>
+        <id>https://marketplace.visualstudio.com/items?itemName=puzaricloud.ai-code-review-any-model</id>
+        <link href="https://marketplace.visualstudio.com/items?itemName=puzaricloud.ai-code-review-any-model"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The FBI has 5 mass hire positions for anyone looking for work]]></title>
-        <id>https://www.fbijobs.gov/openings</id>
-        <link href="https://www.fbijobs.gov/openings"/>
+        <title type="html"><![CDATA[Is selling an AI version of your face to this startup the future of Hollywood?]]></title>
+        <id>https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/</id>
+        <link href="https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The New Docker: Built to Run on Trust]]></title>
-        <id>https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/</id>
-        <link href="https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/"/>
+        <title type="html"><![CDATA[How the Y2Y2R AI music video was made, shot by shot, with the prompts]]></title>
+        <id>https://directthemachine.com/Y2Y2R/index.html</id>
+        <link href="https://directthemachine.com/Y2Y2R/index.html"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amory and Judy Lovins grow bananas at 7,100 ft, -47°F, with no furnace [video]]]></title>
-        <id>https://www.youtube.com/watch?v=PuDNSInJsH0</id>
-        <link href="https://www.youtube.com/watch?v=PuDNSInJsH0"/>
+        <title type="html"><![CDATA[The court said stop. The army said it doesn't have to. [video]]]></title>
+        <id>https://www.youtube.com/watch?v=lgcq1R9sCzY</id>
+        <link href="https://www.youtube.com/watch?v=lgcq1R9sCzY"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SceneWeave: Local-first video production with hardware-bound modules]]></title>
-        <id>https://2tinteractive.com/solutions/sceneweave/</id>
-        <link href="https://2tinteractive.com/solutions/sceneweave/"/>
+        <title type="html"><![CDATA[Show HN: Open-source MCP server to check AI search crawler readiness]]></title>
+        <id>https://github.com/alicexixi85/geo-seo-mcp-pro</id>
+        <link href="https://github.com/alicexixi85/geo-seo-mcp-pro"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thanks for asking I went back and worked on this specific failure scenario]]></title>
-        <id>https://github.com/avelone123123/shard</id>
-        <link href="https://github.com/avelone123123/shard"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: PortReaper – see which project and git branch holds each port on a Mac]]></title>
-        <id>https://github.com/amitgal45/portreaper</id>
-        <link href="https://github.com/amitgal45/portreaper"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secure Exclaves and Ambient Sensing]]></title>
-        <id>https://security.apple.com/blog/secure-exclaves/</id>
-        <link href="https://security.apple.com/blog/secure-exclaves/"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Donald Hoffman Meets Stephen Wolfram for the First Time on Toe [video]]]></title>
-        <id>https://www.youtube.com/watch?v=1m7bXNH8gEM</id>
-        <link href="https://www.youtube.com/watch?v=1m7bXNH8gEM"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F/OSS Comics #16: BSD Unix, Part 6 – The Struggle for Freedom]]></title>
-        <id>https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/</id>
-        <link href="https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US klezmer group helped Soviet refuseniks with a musical cipher]]></title>
-        <id>https://www.timesofisrael.com/how-a-us-klezmer-group-helped-soviet-refuseniks-by-hiding-information-in-a-musical-cipher/</id>
-        <link href="https://www.timesofisrael.com/how-a-us-klezmer-group-helped-soviet-refuseniks-by-hiding-information-in-a-musical-cipher/"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Hacked Harley's $100M Motorcycle [video]]]></title>
-        <id>https://www.youtube.com/watch?v=Z4Ty0oqA_Bk</id>
-        <link href="https://www.youtube.com/watch?v=Z4Ty0oqA_Bk"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LiberNT: An AI-Fueled Fork of ReactOS Focused on Windows 11 Compatibility]]></title>
-        <id>https://www.phoronix.com/news/LiberNT</id>
-        <link href="https://www.phoronix.com/news/LiberNT"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Thir – Linux 6.12 kernel with an all-Rust userspace and framebuffer GUI]]></title>
-        <id>https://github.com/Adhishtanaka/thir</id>
-        <link href="https://github.com/Adhishtanaka/thir"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gliver Completes the Guix Desktop]]></title>
-        <id>https://dustycloud.org/blog/gliver-completes-the-guix-desktop/</id>
-        <link href="https://dustycloud.org/blog/gliver-completes-the-guix-desktop/"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Fable 5.2 to animate a Riemann Hypothesis proof explainer]]></title>
-        <id>https://clankers.fm/riemann</id>
-        <link href="https://clankers.fm/riemann"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dario Amodei suggests video games could pacify the masses after AI takes jobs]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The importance of genes does not predict their mutation rate]]></title>
-        <id>https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004089</id>
-        <link href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004089"/>
+        <title type="html"><![CDATA[Appeal court says accommodations law for pregnant workers unconstitutional]]></title>
+        <id>https://apnews.com/article/law-pregnant-workers-court-appeals-c3b964c0f0cafaed2f20099055eb79cd</id>
+        <link href="https://apnews.com/article/law-pregnant-workers-court-appeals-c3b964c0f0cafaed2f20099055eb79cd"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
@@ -211,9 +127,149 @@
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Appeal court says accommodations law for pregnant workers unconstitutional]]></title>
-        <id>https://apnews.com/article/law-pregnant-workers-court-appeals-c3b964c0f0cafaed2f20099055eb79cd</id>
-        <link href="https://apnews.com/article/law-pregnant-workers-court-appeals-c3b964c0f0cafaed2f20099055eb79cd"/>
+        <title type="html"><![CDATA[The importance of genes does not predict their mutation rate]]></title>
+        <id>https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004089</id>
+        <link href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004089"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dario Amodei suggests video games could pacify the masses after AI takes jobs]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Fable 5.2 to animate a Riemann Hypothesis proof explainer]]></title>
+        <id>https://clankers.fm/riemann</id>
+        <link href="https://clankers.fm/riemann"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gliver Completes the Guix Desktop]]></title>
+        <id>https://dustycloud.org/blog/gliver-completes-the-guix-desktop/</id>
+        <link href="https://dustycloud.org/blog/gliver-completes-the-guix-desktop/"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Thir – Linux 6.12 kernel with an all-Rust userspace and framebuffer GUI]]></title>
+        <id>https://github.com/Adhishtanaka/thir</id>
+        <link href="https://github.com/Adhishtanaka/thir"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LiberNT: An AI-Fueled Fork of ReactOS Focused on Windows 11 Compatibility]]></title>
+        <id>https://www.phoronix.com/news/LiberNT</id>
+        <link href="https://www.phoronix.com/news/LiberNT"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Hacked Harley's $100M Motorcycle [video]]]></title>
+        <id>https://www.youtube.com/watch?v=Z4Ty0oqA_Bk</id>
+        <link href="https://www.youtube.com/watch?v=Z4Ty0oqA_Bk"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US klezmer group helped Soviet refuseniks with a musical cipher]]></title>
+        <id>https://www.timesofisrael.com/how-a-us-klezmer-group-helped-soviet-refuseniks-by-hiding-information-in-a-musical-cipher/</id>
+        <link href="https://www.timesofisrael.com/how-a-us-klezmer-group-helped-soviet-refuseniks-by-hiding-information-in-a-musical-cipher/"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F/OSS Comics #16: BSD Unix, Part 6 – The Struggle for Freedom]]></title>
+        <id>https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/</id>
+        <link href="https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Donald Hoffman Meets Stephen Wolfram for the First Time on Toe [video]]]></title>
+        <id>https://www.youtube.com/watch?v=1m7bXNH8gEM</id>
+        <link href="https://www.youtube.com/watch?v=1m7bXNH8gEM"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure Exclaves and Ambient Sensing]]></title>
+        <id>https://security.apple.com/blog/secure-exclaves/</id>
+        <link href="https://security.apple.com/blog/secure-exclaves/"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: PortReaper – see which project and git branch holds each port on a Mac]]></title>
+        <id>https://github.com/amitgal45/portreaper</id>
+        <link href="https://github.com/amitgal45/portreaper"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thanks for asking I went back and worked on this specific failure scenario]]></title>
+        <id>https://github.com/avelone123123/shard</id>
+        <link href="https://github.com/avelone123123/shard"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SceneWeave: Local-first video production with hardware-bound modules]]></title>
+        <id>https://2tinteractive.com/solutions/sceneweave/</id>
+        <link href="https://2tinteractive.com/solutions/sceneweave/"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amory and Judy Lovins grow bananas at 7,100 ft, -47°F, with no furnace [video]]]></title>
+        <id>https://www.youtube.com/watch?v=PuDNSInJsH0</id>
+        <link href="https://www.youtube.com/watch?v=PuDNSInJsH0"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New Docker: Built to Run on Trust]]></title>
+        <id>https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/</id>
+        <link href="https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The FBI has 5 mass hire positions for anyone looking for work]]></title>
+        <id>https://www.fbijobs.gov/openings</id>
+        <link href="https://www.fbijobs.gov/openings"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XNU Linux: Full OS X GUI Userspace on Linux]]></title>
+        <id>https://github.com/AFK-surf/xnulinux</id>
+        <link href="https://github.com/AFK-surf/xnulinux"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motion Brew, 100 free animated React components your AI agent can install]]></title>
+        <id>https://motion-brew.com/</id>
+        <link href="https://motion-brew.com/"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GömböC–The Shape That Shouldn't Exist [video]]]></title>
+        <id>https://www.youtube.com/watch?v=rvVF5QWSYF4</id>
+        <link href="https://www.youtube.com/watch?v=rvVF5QWSYF4"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Codexed – A local settings editor for Codex CLI]]></title>
+        <id>https://github.com/codex-config/codexed</id>
+        <link href="https://github.com/codex-config/codexed"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
@@ -246,121 +302,65 @@
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why One Regex Freezes Your Node.js Event Loop: Detecting Catastrophic Backtracking (ReDoS)]]></title>
-        <id>https://dev.to/dev_in_the_fog/why-one-regex-freezes-your-nodejs-event-loop-detecting-catastrophic-backtracking-redos-3n4b</id>
-        <link href="https://dev.to/dev_in_the_fog/why-one-regex-freezes-your-nodejs-event-loop-detecting-catastrophic-backtracking-redos-3n4b"/>
+        <title type="html"><![CDATA[Depth-Linked Residual Tokens for Multimodal Retrieval and Generation]]></title>
+        <id>https://arxiv.org/abs/2611.26752</id>
+        <link href="https://arxiv.org/abs/2611.26752"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Load the MeowShield-protected chunk when it is needed, not on your critical path]]></title>
-        <id>https://dev.to/veilvm/load-the-meowshield-protected-chunk-when-it-is-needed-not-on-your-critical-path-486g</id>
-        <link href="https://dev.to/veilvm/load-the-meowshield-protected-chunk-when-it-is-needed-not-on-your-critical-path-486g"/>
+        <title type="html"><![CDATA[Who Should Verify? Reviewer Selection with Partial Information and Outcome Audits]]></title>
+        <id>https://arxiv.org/abs/2611.26770</id>
+        <link href="https://arxiv.org/abs/2611.26770"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Put the size and startup cost of a MeowShield build on a budget, measured in CI]]></title>
-        <id>https://dev.to/veilvm/put-the-size-and-startup-cost-of-a-meowshield-build-on-a-budget-measured-in-ci-3191</id>
-        <link href="https://dev.to/veilvm/put-the-size-and-startup-cost-of-a-meowshield-build-on-a-budget-measured-in-ci-3191"/>
+        <title type="html"><![CDATA[LEAN: Library-Based Adaptation for Asynchronous, Federated Fine-Tuning]]></title>
+        <id>https://arxiv.org/abs/2611.26805</id>
+        <link href="https://arxiv.org/abs/2611.26805"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Zero-Server Video-to-Audio Stream Extractor: FFmpeg.wasm Demuxing & In-Browser PCM WAV Pipeline]]></title>
-        <id>https://dev.to/uchitchakma/building-a-zero-server-video-to-audio-stream-extractor-ffmpegwasm-demuxing-in-browser-pcm-wav-3nkd</id>
-        <link href="https://dev.to/uchitchakma/building-a-zero-server-video-to-audio-stream-extractor-ffmpegwasm-demuxing-in-browser-pcm-wav-3nkd"/>
+        <title type="html"><![CDATA[A Sparsity Analysis of Traffic Forecasting Architectures: How Much Missing Data is Too Much?]]></title>
+        <id>https://arxiv.org/abs/2611.26847</id>
+        <link href="https://arxiv.org/abs/2611.26847"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Check how old a "trading platform" domain is with 40 lines of Node and RDAP]]></title>
-        <id>https://dev.to/flipzo_io/check-how-old-a-trading-platform-domain-is-with-40-lines-of-node-and-rdap-4p4k</id>
-        <link href="https://dev.to/flipzo_io/check-how-old-a-trading-platform-domain-is-with-40-lines-of-node-and-rdap-4p4k"/>
+        <title type="html"><![CDATA[Self-Supervised Learning with Recursive Quadrature Filters for Neural Time Series]]></title>
+        <id>https://arxiv.org/abs/2611.26856</id>
+        <link href="https://arxiv.org/abs/2611.26856"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hai lần giảm giá liên tiếp trong JavaScript: kiểm thử bằng số nguyên]]></title>
-        <id>https://dev.to/gia_ssv_69530693b7ff92c/hai-lan-giam-gia-lien-tiep-trong-javascript-kiem-thu-bang-so-nguyen-1262</id>
-        <link href="https://dev.to/gia_ssv_69530693b7ff92c/hai-lan-giam-gia-lien-tiep-trong-javascript-kiem-thu-bang-so-nguyen-1262"/>
+        <title type="html"><![CDATA[Multi-Tier Edge Triage: Optimizing Latency for Safe Clinical Agents]]></title>
+        <id>https://arxiv.org/abs/2611.26914</id>
+        <link href="https://arxiv.org/abs/2611.26914"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Which files are blocking your first paint? A 20-line console snippet]]></title>
-        <id>https://dev.to/rizehub-ph/which-files-are-blocking-your-first-paint-a-20-line-console-snippet-16he</id>
-        <link href="https://dev.to/rizehub-ph/which-files-are-blocking-your-first-paint-a-20-line-console-snippet-16he"/>
+        <title type="html"><![CDATA[Toward a digital twin of the ICU patient: Forecasting and treatment response in a generative event model]]></title>
+        <id>https://arxiv.org/abs/2611.27028</id>
+        <link href="https://arxiv.org/abs/2611.27028"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built the same multi-step MUI form twice: react-hook-form + Zod vs. SurveyJS]]></title>
-        <id>https://dev.to/surveyjs/i-built-the-same-multi-step-mui-form-twice-react-hook-form-zod-vs-surveyjs-4fdd</id>
-        <link href="https://dev.to/surveyjs/i-built-the-same-multi-step-mui-form-twice-react-hook-form-zod-vs-surveyjs-4fdd"/>
+        <title type="html"><![CDATA[Hypergraph Structural Entropy-Enhanced Hierarchy-Aware Semi-Supervised Graph Classification]]></title>
+        <id>https://arxiv.org/abs/2611.27043</id>
+        <link href="https://arxiv.org/abs/2611.27043"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Handling sandbox API errors in TypeScript: what to retry, what to surface, what to recover]]></title>
-        <id>https://dev.to/sandscale/handling-sandbox-api-errors-in-typescript-what-to-retry-what-to-surface-what-to-recover-kao</id>
-        <link href="https://dev.to/sandscale/handling-sandbox-api-errors-in-typescript-what-to-retry-what-to-surface-what-to-recover-kao"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a "Sorry 100 Times" Text Repeater in Vanilla JavaScript]]></title>
-        <id>https://dev.to/sonny_9cfaf8b35514f/building-a-sorry-100-times-text-repeater-in-vanilla-javascript-3dnh</id>
-        <link href="https://dev.to/sonny_9cfaf8b35514f/building-a-sorry-100-times-text-repeater-in-vanilla-javascript-3dnh"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Browser-Side Film Negative Inversion and Anti-Aliased Logo Recoloring with Canvas 2D]]></title>
-        <id>https://dev.to/jimmy_fa_df2a6d4a40947e2a/browser-side-film-negative-inversion-and-anti-aliased-logo-recoloring-with-canvas-2d-1lo4</id>
-        <link href="https://dev.to/jimmy_fa_df2a6d4a40947e2a/browser-side-film-negative-inversion-and-anti-aliased-logo-recoloring-with-canvas-2d-1lo4"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asset Recovery Services : Reclaim Stolen Crypto Assets]]></title>
-        <id>https://dev.to/parker_smith_46075c1682b2/asset-recovery-services-reclaim-stolen-crypto-assets-4e0k</id>
-        <link href="https://dev.to/parker_smith_46075c1682b2/asset-recovery-services-reclaim-stolen-crypto-assets-4e0k"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue.js 2.8: the framework Vue 3 could have been]]></title>
-        <id>https://dev.to/fyodorio/vuejs-28-the-framework-vue-3-could-have-been-1b1d</id>
-        <link href="https://dev.to/fyodorio/vuejs-28-the-framework-vue-3-could-have-been-1b1d"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Ask a friend" with no backend: comparing two people's ratings through a URL]]></title>
-        <id>https://dev.to/ilyazonov/ask-a-friend-with-no-backend-comparing-two-peoples-ratings-through-a-url-5hie</id>
-        <link href="https://dev.to/ilyazonov/ask-a-friend-with-no-backend-comparing-two-peoples-ratings-through-a-url-5hie"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I decoded "free" QR codes from 20 generators with Playwright and jsQR. Here's what was inside]]></title>
-        <id>https://dev.to/endureqr/i-decoded-free-qr-codes-from-20-generators-with-playwright-and-jsqr-heres-what-was-inside-41ch</id>
-        <link href="https://dev.to/endureqr/i-decoded-free-qr-codes-from-20-generators-with-playwright-and-jsqr-heres-what-was-inside-41ch"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scraping App Store reviews across countries without proxies (and turning them into a sentiment dataset)]]></title>
-        <id>https://dev.to/agebreakcoprog/scraping-app-store-reviews-across-countries-without-proxies-and-turning-them-into-a-sentiment-o1l</id>
-        <link href="https://dev.to/agebreakcoprog/scraping-app-store-reviews-across-countries-without-proxies-and-turning-them-into-a-sentiment-o1l"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turning any website into clean Markdown chunks for RAG, without a headless browser]]></title>
-        <id>https://dev.to/agebreakcoprog/turning-any-website-into-clean-markdown-chunks-for-rag-without-a-headless-browser-7al</id>
-        <link href="https://dev.to/agebreakcoprog/turning-any-website-into-clean-markdown-chunks-for-rag-without-a-headless-browser-7al"/>
+        <title type="html"><![CDATA[Action-Conditioned Spatio-Temporal Forecasting]]></title>
+        <id>https://arxiv.org/abs/2611.27044</id>
+        <link href="https://arxiv.org/abs/2611.27044"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
