@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-23 18:04:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-23 21:03:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -27,8 +27,8 @@
 - [2026-11-21-Generative-Engine-Optimisation:-Good-Geo-Relies-on-Good-SEO](https://bitilia.com/blog/generative-engine-optimisation/) 
 - [2026-11-20-Show-HN:-A-SEO-Tool-to-get-found-by-Google-and-get-cited-by-AI](https://mozolite.com) 
 - [2026-11-12-Astronomers-Find-Hints-of-Star-Population-That-Failed-to-Explode](https://www.caltech.edu/about/news/astronomers-find-hints-of-star-population-that-failed-to-explode) 
-- [2026-11-06-Technical/eng-breakdown-of-Framer's-Lighthouse-13.6-optimizations](https://www.framer.com/blog/lighthouse-13-6/) 
 - [2026-11-06-Claude-Code,-but-for-SEO](https://twitter.com/brodieseo/status/2118299596292305356) 
+- [2026-11-06-Technical/eng-breakdown-of-Framer's-Lighthouse-13.6-optimizations](https://www.framer.com/blog/lighthouse-13-6/) 
 - [2026-11-01-Show-HN:-Rust-crawler-for-SEO-and-content-audits,-with-optional-LLM-review](https://crawler.siteone.io/) 
 - [2026-10-29-Show-HN:-Startica-Open-source-app-for-SEO,-marketing,-accessibility-and-security](https://github.com/chriscasper/startica) 
 - [2026-10-25-Free-SEO-audit-and-AI-search-tools.-No-sign-up](https://seowins.net/) 
