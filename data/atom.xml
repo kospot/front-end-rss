@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-23T13:03:28.116Z</updated>
+    <updated>2026-11-23T15:03:31.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,23 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Meta Muse can do your Black Friday shopping at Walmart]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We haven’t seen the last of the major tech outages]]></title>
-        <id>https://www.theverge.com/tech/1039851/major-tech-outages</id>
-        <link href="https://www.theverge.com/tech/1039851/major-tech-outages"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binding of Isaac developer removes AI music from Repentance Plus]]></title>
-        <id>https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</id>
-        <link href="https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"/>
+        <title type="html"><![CDATA[The Verge’s favorite holiday gifts that cost $50 or less]]></title>
+        <id>https://www.theverge.com/gadgets/1023471/best-gifts-under-50-2026</id>
+        <link href="https://www.theverge.com/gadgets/1023471/best-gifts-under-50-2026"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
@@ -43,9 +29,37 @@
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO]]></title>
-        <id>https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</id>
-        <link href="https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"/>
+        <title type="html"><![CDATA[Binding of Isaac developer removes AI music from Repentance Plus]]></title>
+        <id>https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</id>
+        <link href="https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We haven’t seen the last of the major tech outages]]></title>
+        <id>https://www.theverge.com/tech/1039851/major-tech-outages</id>
+        <link href="https://www.theverge.com/tech/1039851/major-tech-outages"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Muse can do your Black Friday shopping at Walmart]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sierra doubles valuation to $30B within six months as demand for AI in CX takes off]]></title>
+        <id>https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/</id>
+        <link href="https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI’s chief scientist has thoughts on how to limit AI development]]></title>
+        <id>https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</id>
+        <link href="https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
@@ -57,9 +71,9 @@
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI’s chief scientist has thoughts on how to limit AI development]]></title>
-        <id>https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</id>
-        <link href="https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"/>
+        <title type="html"><![CDATA[How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO]]></title>
+        <id>https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</id>
+        <link href="https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[Enjoy this guy getting bricked over the detail of towers in GTA6]]></title>
         <id>https://bsky.app/profile/floppyadult.com/post/3n2tgw7rofc2v</id>
         <link href="https://bsky.app/profile/floppyadult.com/post/3n2tgw7rofc2v"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live Fleet Viewer]]></title>
-        <id>https://pequalnp.com/live</id>
-        <link href="https://pequalnp.com/live"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta AI Chief Warns of AI Risks;Obama's Ex-Speechwriter Calls It F***Ing Madness]]></title>
-        <id>https://www.ibtimes.sg/meta-ai-chief-warns-superintelligence-risks-obamas-former-speechwriter-calls-it-fing-madness-96538</id>
-        <link href="https://www.ibtimes.sg/meta-ai-chief-warns-superintelligence-risks-obamas-former-speechwriter-calls-it-fing-madness-96538"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
