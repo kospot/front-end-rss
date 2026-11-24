@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-24T13:03:45.345Z</updated>
+    <updated>2026-11-24T15:02:29.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,23 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Claude AI can review pull requests and ship fixes on its own now]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"/>
+        <title type="html"><![CDATA[Bambu’s five-nozzle P3C isn’t quite the 3D printer I expected]]></title>
+        <id>https://www.theverge.com/tech/1041034/bambu-p3c-3d-printer-price-release-date</id>
+        <link href="https://www.theverge.com/tech/1041034/bambu-p3c-3d-printer-price-release-date"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HBO Max is offering one of the best Black Friday deals we’ve seen this year]]></title>
-        <id>https://www.theverge.com/gadgets/1039300/hbo-max-black-friday-2026-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1039300/hbo-max-black-friday-2026-deal-sale"/>
+        <title type="html"><![CDATA[Uber, Nuro, and Lucid kick off fully driverless robotaxi testing]]></title>
+        <id>https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area</id>
+        <link href="https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Verge’s 2026 holiday gift guide]]></title>
+        <id>https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026</id>
+        <link href="https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
@@ -36,9 +43,16 @@
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Verge’s 2026 holiday gift guide]]></title>
-        <id>https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026</id>
-        <link href="https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026"/>
+        <title type="html"><![CDATA[HBO Max is offering one of the best Black Friday deals we’ve seen this year]]></title>
+        <id>https://www.theverge.com/gadgets/1039300/hbo-max-black-friday-2026-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1039300/hbo-max-black-friday-2026-deal-sale"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude AI can review pull requests and ship fixes on its own now]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
@@ -85,16 +99,9 @@
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes]]></title>
-        <id>https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</id>
-        <link href="https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CrowdStrike to acquire Zscaler for $44 billion]]></title>
-        <id>https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/</id>
-        <link href="https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/"/>
+        <title type="html"><![CDATA[‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia]]></title>
+        <id>https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/</id>
+        <link href="https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
@@ -106,247 +113,121 @@
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia]]></title>
-        <id>https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/</id>
-        <link href="https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/"/>
+        <title type="html"><![CDATA[CrowdStrike to acquire Zscaler for $44 billion]]></title>
+        <id>https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/</id>
+        <link href="https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cardly – Self-hosted Anki web client powered by official Rust core]]></title>
-        <id>https://github.com/OrkenSab/cardly</id>
-        <link href="https://github.com/OrkenSab/cardly"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Fused – (Auto)Stereoscopic 3D data visualization]]></title>
-        <id>https://github.com/tgaloppo/fused</id>
-        <link href="https://github.com/tgaloppo/fused"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Make Audioreactive Visuals with Python]]></title>
-        <id>https://github.com/Sangarshanan/chladni</id>
-        <link href="https://github.com/Sangarshanan/chladni"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT 5.6 is getting retired]]></title>
-        <id>https://twitter.com/ChatGPT/status/2124981905380569283</id>
-        <link href="https://twitter.com/ChatGPT/status/2124981905380569283"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker WSL Manager – Open-Source Docker Desktop Alternative for Windows (<3MB)]]></title>
-        <id>https://github.com/elazaroo/docker-wsl-manager</id>
-        <link href="https://github.com/elazaroo/docker-wsl-manager"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM agents work for their parent companies, not for you]]></title>
-        <id>https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/</id>
-        <link href="https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI is supposed to be unstoppable. Huang's brief exile suggests boom anything but]]></title>
-        <id>https://www.businessinsider.com/jensen-huang-nvidia-exile-ai-boom-weakness-2026-11</id>
-        <link href="https://www.businessinsider.com/jensen-huang-nvidia-exile-ai-boom-weakness-2026-11"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: QuadletGen – Docker Compose to Podman Quadlet, in the Browser]]></title>
-        <id>https://quadletgen.com/</id>
-        <link href="https://quadletgen.com/"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon CloudFront Announces HTTP/2 Support for Connections to Origins]]></title>
-        <id>https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cloudfront-http2-origins/</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cloudfront-http2-origins/"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Frantic White House Push to Get Jensen Huang Back]]></title>
-        <id>https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961</id>
-        <link href="https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can an LLM Grade Objective Facts Without Favoring Itself?]]></title>
-        <id>https://blog.logcat.ai/2026/11/23/can-an-llm-grade-objective-facts-without-favoring-itself/</id>
-        <link href="https://blog.logcat.ai/2026/11/23/can-an-llm-grade-objective-facts-without-favoring-itself/"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyber Security Certification Roadmap 2026 Edition]]></title>
-        <id>https://tools.hackhouse.com/roadmap/</id>
-        <link href="https://tools.hackhouse.com/roadmap/"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India's opposition storms Meta's offices to get its Instagram accounts back]]></title>
-        <id>https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html</id>
-        <link href="https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Agent Memory Tarpit: ~8k GitHub Repos and Counting]]></title>
-        <id>https://morethanamachine.com/posts/agent-memory-tarpit/</id>
-        <link href="https://morethanamachine.com/posts/agent-memory-tarpit/"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs]]></title>
-        <id>https://jayd.ml/2026/11/14/rockbox-on-yp3.html</id>
-        <link href="https://jayd.ml/2026/11/14/rockbox-on-yp3.html"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humanity's Last System: Coding agents building inference systems from scratch]]></title>
-        <id>https://hlsbench.com/blog/introducing-hls/</id>
-        <link href="https://hlsbench.com/blog/introducing-hls/"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberattacks are targeting US Ports]]></title>
-        <id>https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f</id>
-        <link href="https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Merget – Merge queue using code graphs to order and resolve GitHub PRs]]></title>
-        <id>https://merget.ai/</id>
-        <link href="https://merget.ai/"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statement Regarding Agreed Settlements with Elon Musk and Tesla (2018)]]></title>
-        <id>https://www.sec.gov/newsroom/speeches-statements/clayton-settlements-elon-musk-tesla</id>
-        <link href="https://www.sec.gov/newsroom/speeches-statements/clayton-settlements-elon-musk-tesla"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VIctory: Grand Theft Auto VI (Xbox Series X|S) Natively on Windows]]></title>
-        <id>https://github.com/Marvisak/VIctory</id>
-        <link href="https://github.com/Marvisak/VIctory"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: CompMD – Markdown with components that still reads as Markdown]]></title>
-        <id>https://compmd.dev/blog/first-packs/</id>
-        <link href="https://compmd.dev/blog/first-packs/"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump postpones planned detonation of toxic drums at Iowa army facility]]></title>
-        <id>https://www.nbcnews.com/science/environment/trump-postpones-planned-detonation-toxic-drums-iowa-army-facility-rcna610945</id>
-        <link href="https://www.nbcnews.com/science/environment/trump-postpones-planned-detonation-toxic-drums-iowa-army-facility-rcna610945"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematics, artificial intelligence and the opportunities ahead]]></title>
-        <id>https://www.acadmathsci.org.uk/perspectives-on-ai/mathematics-artificial-intelligence-and-the-opportunities-ahead/</id>
-        <link href="https://www.acadmathsci.org.uk/perspectives-on-ai/mathematics-artificial-intelligence-and-the-opportunities-ahead/"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Datasette-Arrows 0.1a0]]></title>
-        <id>https://simonwillison.net/2026/Nov/18/datasette-arrows/</id>
-        <link href="https://simonwillison.net/2026/Nov/18/datasette-arrows/"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Budget – an open-source private budgeting app for Mac and Windows]]></title>
-        <id>https://github.com/hendrikdemir/budget</id>
-        <link href="https://github.com/hendrikdemir/budget"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securing AI agents against intent hijacking with Semantic governance policies]]></title>
-        <id>https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/</id>
-        <link href="https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Commissioned Music For My Indie Game]]></title>
-        <id>https://landenlove.com/how-i-commissioned-music-for-my-indie-game/</id>
-        <link href="https://landenlove.com/how-i-commissioned-music-for-my-indie-game/"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hkust 3D Prints a Titanium Alloy That Keeps Hardening]]></title>
-        <id>https://3dprinting.com/news/hkust-researchers-3d-print-a-titanium-alloy-that-keeps-hardening-under-strain/</id>
-        <link href="https://3dprinting.com/news/hkust-researchers-3d-print-a-titanium-alloy-that-keeps-hardening-under-strain/"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Tripup – Type words not in a text corpus as fast as you can]]></title>
-        <id>https://tripup.me/</id>
-        <link href="https://tripup.me/"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TheGitAI Desktop App Is Available on macOS, Windows, and Linux]]></title>
-        <id>https://thegit.ai/desktop</id>
-        <link href="https://thegit.ai/desktop"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A React Native math keypad for kids – fractions, exponents, no WebView]]></title>
-        <id>https://github.com/rabbithole-school/react-native-math-keypad</id>
-        <link href="https://github.com/rabbithole-school/react-native-math-keypad"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic launches Claude Ship, agents review, fix, & approve code changes now]]></title>
+        <title type="html"><![CDATA[Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes]]></title>
         <id>https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</id>
         <link href="https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[California Legislators Passed a Bill Targeting ICE Contractors. Newsom Vetoed It]]></title>
-        <id>https://truthout.org/articles/ca-legislators-passed-a-bill-targeting-ice-contractors-newsom-vetoed-it/</id>
-        <link href="https://truthout.org/articles/ca-legislators-passed-a-bill-targeting-ice-contractors-newsom-vetoed-it/"/>
+        <title type="html"><![CDATA[Show HN: Chili3D – Open-source browser CAD with parametric/push-pull modeling]]></title>
+        <id>https://github.com/xiangechen/chili3d</id>
+        <link href="https://github.com/xiangechen/chili3d"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VisualDrive Server – drop-in replacement for Sharepoint/OneDrive]]></title>
-        <id>https://www.axiorema.com/visualdrive-server/</id>
-        <link href="https://www.axiorema.com/visualdrive-server/"/>
+        <title type="html"><![CDATA[LLMs don't have Taste Buds]]></title>
+        <id>https://www.gorillasun.de/blog/llms-dont-have-taste-buds/</id>
+        <link href="https://www.gorillasun.de/blog/llms-dont-have-taste-buds/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interview Preparation and Job Application Support for Software Engineers [video]]]></title>
+        <id>https://www.youtube.com/watch?v=aTR-QnV9GdA</id>
+        <link href="https://www.youtube.com/watch?v=aTR-QnV9GdA"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: SetScout – A Lego price tracker that checks if a "sale" is a real deal]]></title>
+        <id>https://setscout.app/</id>
+        <link href="https://setscout.app/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome dev team declares bug report bankruptcy]]></title>
+        <id>https://blog.plover.com/2026/11/18/#bug-reports</id>
+        <link href="https://blog.plover.com/2026/11/18/#bug-reports"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Riemann Hypothesis was cracked [video]]]></title>
+        <id>https://www.youtube.com/watch?v=PjGlt3y-Nco</id>
+        <link href="https://www.youtube.com/watch?v=PjGlt3y-Nco"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looped Weight-Space Programming: use AI to set model weights]]></title>
+        <id>https://twitter.com/ahmedmm72234641/status/2124869402634129901</id>
+        <link href="https://twitter.com/ahmedmm72234641/status/2124869402634129901"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: InterviewLint–The Thinking-First technical interview platform]]></title>
+        <id>https://interviewlint.com/</id>
+        <link href="https://interviewlint.com/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Megaspeed added to entity list (export controls for US companies) [pdf]]]></title>
+        <id>https://public-inspection.federalregister.gov/2026-23999.pdf</id>
+        <link href="https://public-inspection.federalregister.gov/2026-23999.pdf"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: AraBrief – create personal radio with your briefings between music]]></title>
+        <id>https://www.arabrief.com/en</id>
+        <link href="https://www.arabrief.com/en"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[He Quit a $103K/Year Job to Sell Comic Books [video]]]></title>
+        <id>https://www.youtube.com/watch?v=i9t1p6Um450</id>
+        <link href="https://www.youtube.com/watch?v=i9t1p6Um450"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Death Clock: The Internet's friendly reminder that life is slipping away]]></title>
+        <id>http://www.deathclock.com</id>
+        <link href="http://www.deathclock.com"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drone Maps of Salvage Yards]]></title>
+        <id>https://salvageyarddrone.wordpress.com/</id>
+        <link href="https://salvageyarddrone.wordpress.com/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlumCalc – 33 client-side calculators with a public MCP server]]></title>
+        <id>https://plumcalc.com/</id>
+        <link href="https://plumcalc.com/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mcpseal: Grade an MCP server for safety before you install it]]></title>
+        <id>https://www.npmjs.com/package/@hashshabbir/mcp-pack</id>
+        <link href="https://www.npmjs.com/package/@hashshabbir/mcp-pack"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
@@ -358,9 +239,128 @@
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mcpseal: Grade an MCP server for safety before you install it]]></title>
-        <id>https://www.npmjs.com/package/@hashshabbir/mcp-pack</id>
-        <link href="https://www.npmjs.com/package/@hashshabbir/mcp-pack"/>
+        <title type="html"><![CDATA[VisualDrive Server – drop-in replacement for Sharepoint/OneDrive]]></title>
+        <id>https://www.axiorema.com/visualdrive-server/</id>
+        <link href="https://www.axiorema.com/visualdrive-server/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California Legislators Passed a Bill Targeting ICE Contractors. Newsom Vetoed It]]></title>
+        <id>https://truthout.org/articles/ca-legislators-passed-a-bill-targeting-ice-contractors-newsom-vetoed-it/</id>
+        <link href="https://truthout.org/articles/ca-legislators-passed-a-bill-targeting-ice-contractors-newsom-vetoed-it/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic launches Claude Ship, agents review, fix, & approve code changes now]]></title>
+        <id>https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</id>
+        <link href="https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A React Native math keypad for kids – fractions, exponents, no WebView]]></title>
+        <id>https://github.com/rabbithole-school/react-native-math-keypad</id>
+        <link href="https://github.com/rabbithole-school/react-native-math-keypad"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TheGitAI Desktop App Is Available on macOS, Windows, and Linux]]></title>
+        <id>https://thegit.ai/desktop</id>
+        <link href="https://thegit.ai/desktop"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Tripup – Type words not in a text corpus as fast as you can]]></title>
+        <id>https://tripup.me/</id>
+        <link href="https://tripup.me/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hkust 3D Prints a Titanium Alloy That Keeps Hardening]]></title>
+        <id>https://3dprinting.com/news/hkust-researchers-3d-print-a-titanium-alloy-that-keeps-hardening-under-strain/</id>
+        <link href="https://3dprinting.com/news/hkust-researchers-3d-print-a-titanium-alloy-that-keeps-hardening-under-strain/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Commissioned Music For My Indie Game]]></title>
+        <id>https://landenlove.com/how-i-commissioned-music-for-my-indie-game/</id>
+        <link href="https://landenlove.com/how-i-commissioned-music-for-my-indie-game/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing AI agents against intent hijacking with Semantic governance policies]]></title>
+        <id>https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/</id>
+        <link href="https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Budget – an open-source private budgeting app for Mac and Windows]]></title>
+        <id>https://github.com/hendrikdemir/budget</id>
+        <link href="https://github.com/hendrikdemir/budget"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Datasette-Arrows 0.1a0]]></title>
+        <id>https://simonwillison.net/2026/Nov/18/datasette-arrows/</id>
+        <link href="https://simonwillison.net/2026/Nov/18/datasette-arrows/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematics, artificial intelligence and the opportunities ahead]]></title>
+        <id>https://www.acadmathsci.org.uk/perspectives-on-ai/mathematics-artificial-intelligence-and-the-opportunities-ahead/</id>
+        <link href="https://www.acadmathsci.org.uk/perspectives-on-ai/mathematics-artificial-intelligence-and-the-opportunities-ahead/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump postpones planned detonation of toxic drums at Iowa army facility]]></title>
+        <id>https://www.nbcnews.com/science/environment/trump-postpones-planned-detonation-toxic-drums-iowa-army-facility-rcna610945</id>
+        <link href="https://www.nbcnews.com/science/environment/trump-postpones-planned-detonation-toxic-drums-iowa-army-facility-rcna610945"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: CompMD – Markdown with components that still reads as Markdown]]></title>
+        <id>https://compmd.dev/blog/first-packs/</id>
+        <link href="https://compmd.dev/blog/first-packs/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VIctory: Grand Theft Auto VI (Xbox Series X|S) Natively on Windows]]></title>
+        <id>https://github.com/Marvisak/VIctory</id>
+        <link href="https://github.com/Marvisak/VIctory"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statement Regarding Agreed Settlements with Elon Musk and Tesla (2018)]]></title>
+        <id>https://www.sec.gov/newsroom/speeches-statements/clayton-settlements-elon-musk-tesla</id>
+        <link href="https://www.sec.gov/newsroom/speeches-statements/clayton-settlements-elon-musk-tesla"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Merget – Merge queue using code graphs to order and resolve GitHub PRs]]></title>
+        <id>https://merget.ai/</id>
+        <link href="https://merget.ai/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberattacks are targeting US Ports]]></title>
+        <id>https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f</id>
+        <link href="https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
