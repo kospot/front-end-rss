@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-23T22:01:03.567Z</updated>
+    <updated>2026-11-24T00:01:42.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,16 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Claude AI can review pull requests and ship fixes on its own now]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"/>
-        <updated>2026-11-23T16:00:00.000Z</updated>
-        <published>2026-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HBO Max is offering one of the best Black Friday deals we’ve seen this year]]></title>
-        <id>https://www.theverge.com/gadgets/1039300/hbo-max-black-friday-2026-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1039300/hbo-max-black-friday-2026-deal-sale"/>
+        <title type="html"><![CDATA[The Verge’s 2026 holiday gift guide]]></title>
+        <id>https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026</id>
+        <link href="https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
@@ -36,16 +29,23 @@
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia]]></title>
-        <id>https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/</id>
-        <link href="https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/"/>
+        <title type="html"><![CDATA[HBO Max is offering one of the best Black Friday deals we’ve seen this year]]></title>
+        <id>https://www.theverge.com/gadgets/1039300/hbo-max-black-friday-2026-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1039300/hbo-max-black-friday-2026-deal-sale"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta throws out its net-zero goal — its competitors should be furious]]></title>
-        <id>https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/</id>
-        <link href="https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/"/>
+        <title type="html"><![CDATA[Claude AI can review pull requests and ship fixes on its own now]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes]]></title>
+        <id>https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</id>
+        <link href="https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
@@ -57,23 +57,79 @@
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trump postpones planned detonation of toxic drums at Iowa army facility]]></title>
-        <id>https://www.nbcnews.com/science/environment/trump-postpones-planned-detonation-toxic-drums-iowa-army-facility-rcna610945</id>
-        <link href="https://www.nbcnews.com/science/environment/trump-postpones-planned-detonation-toxic-drums-iowa-army-facility-rcna610945"/>
+        <title type="html"><![CDATA[Meta throws out its net-zero goal — its competitors should be furious]]></title>
+        <id>https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/</id>
+        <link href="https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mathematics, artificial intelligence and the opportunities ahead]]></title>
-        <id>https://www.acadmathsci.org.uk/perspectives-on-ai/mathematics-artificial-intelligence-and-the-opportunities-ahead/</id>
-        <link href="https://www.acadmathsci.org.uk/perspectives-on-ai/mathematics-artificial-intelligence-and-the-opportunities-ahead/"/>
+        <title type="html"><![CDATA[‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia]]></title>
+        <id>https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/</id>
+        <link href="https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Datasette-Arrows 0.1a0]]></title>
-        <id>https://simonwillison.net/2026/Nov/18/datasette-arrows/</id>
-        <link href="https://simonwillison.net/2026/Nov/18/datasette-arrows/"/>
+        <title type="html"><![CDATA[VisualDrive Server – drop-in replacement for Sharepoint/OneDrive]]></title>
+        <id>https://www.axiorema.com/visualdrive-server/</id>
+        <link href="https://www.axiorema.com/visualdrive-server/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California Legislators Passed a Bill Targeting ICE Contractors. Newsom Vetoed It]]></title>
+        <id>https://truthout.org/articles/ca-legislators-passed-a-bill-targeting-ice-contractors-newsom-vetoed-it/</id>
+        <link href="https://truthout.org/articles/ca-legislators-passed-a-bill-targeting-ice-contractors-newsom-vetoed-it/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic launches Claude Ship, agents review, fix, & approve code changes now]]></title>
+        <id>https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</id>
+        <link href="https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A React Native math keypad for kids – fractions, exponents, no WebView]]></title>
+        <id>https://github.com/rabbithole-school/react-native-math-keypad</id>
+        <link href="https://github.com/rabbithole-school/react-native-math-keypad"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TheGitAI Desktop App Is Available on macOS, Windows, and Linux]]></title>
+        <id>https://thegit.ai/desktop</id>
+        <link href="https://thegit.ai/desktop"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Tripup – Type words not in a text corpus as fast as you can]]></title>
+        <id>https://tripup.me/</id>
+        <link href="https://tripup.me/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hkust 3D Prints a Titanium Alloy That Keeps Hardening]]></title>
+        <id>https://3dprinting.com/news/hkust-researchers-3d-print-a-titanium-alloy-that-keeps-hardening-under-strain/</id>
+        <link href="https://3dprinting.com/news/hkust-researchers-3d-print-a-titanium-alloy-that-keeps-hardening-under-strain/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Commissioned Music For My Indie Game]]></title>
+        <id>https://landenlove.com/how-i-commissioned-music-for-my-indie-game/</id>
+        <link href="https://landenlove.com/how-i-commissioned-music-for-my-indie-game/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing AI agents against intent hijacking with Semantic governance policies]]></title>
+        <id>https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/</id>
+        <link href="https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
@@ -85,9 +141,23 @@
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Explored Claude Fable 5.2. These Capabilities Stood Out]]></title>
-        <id>https://pub.towardsai.net/i-explored-claude-fable-5-2-these-capabilities-stood-out-7ac65f1709e2?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-explored-claude-fable-5-2-these-capabilities-stood-out-7ac65f1709e2?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Datasette-Arrows 0.1a0]]></title>
+        <id>https://simonwillison.net/2026/Nov/18/datasette-arrows/</id>
+        <link href="https://simonwillison.net/2026/Nov/18/datasette-arrows/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematics, artificial intelligence and the opportunities ahead]]></title>
+        <id>https://www.acadmathsci.org.uk/perspectives-on-ai/mathematics-artificial-intelligence-and-the-opportunities-ahead/</id>
+        <link href="https://www.acadmathsci.org.uk/perspectives-on-ai/mathematics-artificial-intelligence-and-the-opportunities-ahead/"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump postpones planned detonation of toxic drums at Iowa army facility]]></title>
+        <id>https://www.nbcnews.com/science/environment/trump-postpones-planned-detonation-toxic-drums-iowa-army-facility-rcna610945</id>
+        <link href="https://www.nbcnews.com/science/environment/trump-postpones-planned-detonation-toxic-drums-iowa-army-facility-rcna610945"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
@@ -99,58 +169,72 @@
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guide Sur Les Variables En JavaScript Pour Les Nuls]]></title>
-        <id>https://dev.to/kycode21/guide-sur-les-variables-en-javascript-pour-les-nuls-3261</id>
-        <link href="https://dev.to/kycode21/guide-sur-les-variables-en-javascript-pour-les-nuls-3261"/>
+        <title type="html"><![CDATA[I Explored Claude Fable 5.2. These Capabilities Stood Out]]></title>
+        <id>https://pub.towardsai.net/i-explored-claude-fable-5-2-these-capabilities-stood-out-7ac65f1709e2?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-explored-claude-fable-5-2-these-capabilities-stood-out-7ac65f1709e2?source=rss----98111c9905da---4"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[npx -p playwright node script.mjs still threw ERR_MODULE_NOT_FOUND. The fix was to stop trusting npx.]]></title>
-        <id>https://dev.to/phi_blankslate/npx-p-playwright-node-scriptmjs-still-threw-errmodulenotfound-the-fix-was-to-stop-trusting-1l17</id>
-        <link href="https://dev.to/phi_blankslate/npx-p-playwright-node-scriptmjs-still-threw-errmodulenotfound-the-fix-was-to-stop-trusting-1l17"/>
+        <title type="html"><![CDATA[Max drawdown and the longest losing streak of a trader, in TypeScript]]></title>
+        <id>https://dev.to/copytop/max-drawdown-and-the-longest-losing-streak-of-a-trader-in-typescript-154a</id>
+        <link href="https://dev.to/copytop/max-drawdown-and-the-longest-losing-streak-of-a-trader-in-typescript-154a"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A logout that lasted 120 milliseconds]]></title>
-        <id>https://dev.to/zerox80/a-logout-that-lasted-120-milliseconds-3fo2</id>
-        <link href="https://dev.to/zerox80/a-logout-that-lasted-120-milliseconds-3fo2"/>
+        <title type="html"><![CDATA[Highlighter is live on Edge: quote-anchored web highlights that survive page edits]]></title>
+        <id>https://dev.to/alapha888/highlighter-is-live-on-edge-quote-anchored-web-highlights-that-survive-page-edits-3nki</id>
+        <link href="https://dev.to/alapha888/highlighter-is-live-on-edge-quote-anchored-web-highlights-that-survive-page-edits-3nki"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Diagnosing a bank reconciliation difference in 30 lines of JavaScript (integer cents, no floats)]]></title>
-        <id>https://dev.to/tidycents/diagnosing-a-bank-reconciliation-difference-in-30-lines-of-javascript-integer-cents-no-floats-48i3</id>
-        <link href="https://dev.to/tidycents/diagnosing-a-bank-reconciliation-difference-in-30-lines-of-javascript-integer-cents-no-floats-48i3"/>
+        <title type="html"><![CDATA[I Built a Two-Language Christmas Game in Pure JavaScript — and Here's What It Taught Me]]></title>
+        <id>https://dev.to/mar_gus/i-built-a-two-language-christmas-game-in-pure-javascript-and-heres-what-it-taught-me-5c35</id>
+        <link href="https://dev.to/mar_gus/i-built-a-two-language-christmas-game-in-pure-javascript-and-heres-what-it-taught-me-5c35"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Built an Automated Serverless Print-on-Demand Studio on Cloudflare Workers, R2 & KV]]></title>
-        <id>https://dev.to/tranhoangtuit/how-i-built-an-automated-serverless-print-on-demand-studio-on-cloudflare-workers-r2-kv-88i</id>
-        <link href="https://dev.to/tranhoangtuit/how-i-built-an-automated-serverless-print-on-demand-studio-on-cloudflare-workers-r2-kv-88i"/>
+        <title type="html"><![CDATA[How Is Weight Trend Actually Calculated? Build a Weight Trend Line in JavaScript (EMA, Missing Days, Lag)]]></title>
+        <id>https://dev.to/charlotte_nelson_9aadde70/how-is-weight-trend-actually-calculated-build-a-weight-trend-line-in-javascript-ema-missing-3bn</id>
+        <link href="https://dev.to/charlotte_nelson_9aadde70/how-is-weight-trend-actually-calculated-build-a-weight-trend-line-in-javascript-ema-missing-3bn"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Use Xero Emoji from npm and jsDelivr]]></title>
-        <id>https://dev.to/xerographerfonts/use-xero-emoji-from-npm-and-jsdelivr-36j7</id>
-        <link href="https://dev.to/xerographerfonts/use-xero-emoji-from-npm-and-jsdelivr-36j7"/>
+        <title type="html"><![CDATA[How we built three zero-signup browser tools for indie iOS app marketers]]></title>
+        <id>https://dev.to/areys/how-we-built-three-zero-signup-browser-tools-for-indie-ios-app-marketers-4dg</id>
+        <link href="https://dev.to/areys/how-we-built-three-zero-signup-browser-tools-for-indie-ios-app-marketers-4dg"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Day 1 of 45: Troubleshooting a Double-Spend Bug with JavaScript]]></title>
-        <id>https://dev.to/chioma_nwosu_99d57862fb18/day-1-of-45-troubleshooting-a-double-spend-bug-with-javascript-477n</id>
-        <link href="https://dev.to/chioma_nwosu_99d57862fb18/day-1-of-45-troubleshooting-a-double-spend-bug-with-javascript-477n"/>
+        <title type="html"><![CDATA[The Subset Font That Turned My Arabic Text Into Empty Boxes]]></title>
+        <id>https://dev.to/wahib_el_khadiri_0/the-subset-font-that-turned-my-arabic-text-into-empty-boxes-3k9c</id>
+        <link href="https://dev.to/wahib_el_khadiri_0/the-subset-font-that-turned-my-arabic-text-into-empty-boxes-3k9c"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Turn football coaching videos into training notes with Supadata and Claude]]></title>
-        <id>https://dev.to/reymane/turn-football-coaching-videos-into-training-notes-with-supadata-and-claude-3l0p</id>
-        <link href="https://dev.to/reymane/turn-football-coaching-videos-into-training-notes-with-supadata-and-claude-3l0p"/>
+        <title type="html"><![CDATA[I Built My First Real Website With React From Scratch]]></title>
+        <id>https://dev.to/wahib_el_khadiri_0/i-built-my-first-real-website-with-react-from-scratch-9el</id>
+        <link href="https://dev.to/wahib_el_khadiri_0/i-built-my-first-real-website-with-react-from-scratch-9el"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instant UI Mockups from JSON: 100% Client-Side Generator]]></title>
+        <id>https://dev.to/nexus_99c5c21c5fa1b1570c5/instant-ui-mockups-from-json-100-client-side-generator-11mh</id>
+        <link href="https://dev.to/nexus_99c5c21c5fa1b1570c5/instant-ui-mockups-from-json-100-client-side-generator-11mh"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Turned a Single-Page React Site Into a Real Multi-Page App With React Router]]></title>
+        <id>https://dev.to/wahib_el_khadiri_0/i-turned-a-single-page-react-site-into-a-real-multi-page-app-with-react-router-1n6b</id>
+        <link href="https://dev.to/wahib_el_khadiri_0/i-turned-a-single-page-react-site-into-a-real-multi-page-app-with-react-router-1n6b"/>
         <updated>2026-11-23T16:00:00.000Z</updated>
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
@@ -162,23 +246,65 @@
         <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta Muse can do your Black Friday shopping at Walmart]]></title>
-        <id>https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Turn football coaching videos into training notes with Supadata and Claude]]></title>
+        <id>https://dev.to/reymane/turn-football-coaching-videos-into-training-notes-with-supadata-and-claude-3l0p</id>
+        <link href="https://dev.to/reymane/turn-football-coaching-videos-into-training-notes-with-supadata-and-claude-3l0p"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We haven’t seen the last of the major tech outages]]></title>
-        <id>https://www.theverge.com/tech/1039851/major-tech-outages</id>
-        <link href="https://www.theverge.com/tech/1039851/major-tech-outages"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Day 1 of 45: Troubleshooting a Double-Spend Bug with JavaScript]]></title>
+        <id>https://dev.to/chioma_nwosu_99d57862fb18/day-1-of-45-troubleshooting-a-double-spend-bug-with-javascript-477n</id>
+        <link href="https://dev.to/chioma_nwosu_99d57862fb18/day-1-of-45-troubleshooting-a-double-spend-bug-with-javascript-477n"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Binding of Isaac developer removes AI music from Repentance Plus]]></title>
-        <id>https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</id>
-        <link href="https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"/>
+        <title type="html"><![CDATA[Use Xero Emoji from npm and jsDelivr]]></title>
+        <id>https://dev.to/xerographerfonts/use-xero-emoji-from-npm-and-jsdelivr-36j7</id>
+        <link href="https://dev.to/xerographerfonts/use-xero-emoji-from-npm-and-jsdelivr-36j7"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built an Automated Serverless Print-on-Demand Studio on Cloudflare Workers, R2 & KV]]></title>
+        <id>https://dev.to/tranhoangtuit/how-i-built-an-automated-serverless-print-on-demand-studio-on-cloudflare-workers-r2-kv-88i</id>
+        <link href="https://dev.to/tranhoangtuit/how-i-built-an-automated-serverless-print-on-demand-studio-on-cloudflare-workers-r2-kv-88i"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diagnosing a bank reconciliation difference in 30 lines of JavaScript (integer cents, no floats)]]></title>
+        <id>https://dev.to/tidycents/diagnosing-a-bank-reconciliation-difference-in-30-lines-of-javascript-integer-cents-no-floats-48i3</id>
+        <link href="https://dev.to/tidycents/diagnosing-a-bank-reconciliation-difference-in-30-lines-of-javascript-integer-cents-no-floats-48i3"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A logout that lasted 120 milliseconds]]></title>
+        <id>https://dev.to/zerox80/a-logout-that-lasted-120-milliseconds-3fo2</id>
+        <link href="https://dev.to/zerox80/a-logout-that-lasted-120-milliseconds-3fo2"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[npx -p playwright node script.mjs still threw ERR_MODULE_NOT_FOUND. The fix was to stop trusting npx.]]></title>
+        <id>https://dev.to/phi_blankslate/npx-p-playwright-node-scriptmjs-still-threw-errmodulenotfound-the-fix-was-to-stop-trusting-1l17</id>
+        <link href="https://dev.to/phi_blankslate/npx-p-playwright-node-scriptmjs-still-threw-errmodulenotfound-the-fix-was-to-stop-trusting-1l17"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guide Sur Les Variables En JavaScript Pour Les Nuls]]></title>
+        <id>https://dev.to/kycode21/guide-sur-les-variables-en-javascript-pour-les-nuls-3261</id>
+        <link href="https://dev.to/kycode21/guide-sur-les-variables-en-javascript-pour-les-nuls-3261"/>
+        <updated>2026-11-23T16:00:00.000Z</updated>
+        <published>2026-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Verge’s favorite holiday gifts that cost $50 or less]]></title>
+        <id>https://www.theverge.com/gadgets/1023471/best-gifts-under-50-2026</id>
+        <link href="https://www.theverge.com/gadgets/1023471/best-gifts-under-50-2026"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
@@ -190,9 +316,23 @@
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Verge’s favorite holiday gifts that cost $50 or less]]></title>
-        <id>https://www.theverge.com/gadgets/1023471/best-gifts-under-50-2026</id>
-        <link href="https://www.theverge.com/gadgets/1023471/best-gifts-under-50-2026"/>
+        <title type="html"><![CDATA[Binding of Isaac developer removes AI music from Repentance Plus]]></title>
+        <id>https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</id>
+        <link href="https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We haven’t seen the last of the major tech outages]]></title>
+        <id>https://www.theverge.com/tech/1039851/major-tech-outages</id>
+        <link href="https://www.theverge.com/tech/1039851/major-tech-outages"/>
+        <updated>2026-11-22T16:00:00.000Z</updated>
+        <published>2026-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Muse can do your Black Friday shopping at Walmart]]></title>
+        <id>https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
@@ -221,146 +361,6 @@
         <title type="html"><![CDATA[A Power Provider for Meta Urged Regulators to Exempt Data Center Plants From Acid Rain Rules]]></title>
         <id>https://www.wired.com/story/a-power-provider-for-meta-urged-regulators-to-exempt-data-center-plants-from-acid-rain-rules/</id>
         <link href="https://www.wired.com/story/a-power-provider-for-meta-urged-regulators-to-exempt-data-center-plants-from-acid-rain-rules/"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO]]></title>
-        <id>https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</id>
-        <link href="https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The best apps to make new friends right now]]></title>
-        <id>https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/</id>
-        <link href="https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI’s chief scientist has thoughts on how to limit AI development]]></title>
-        <id>https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</id>
-        <link href="https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sierra doubles valuation to $30B within six months as demand for AI in CX takes off]]></title>
-        <id>https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/</id>
-        <link href="https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redesign the Php.net Homepage]]></title>
-        <id>https://github.com/php/web-php/pull/2105</id>
-        <link href="https://github.com/php/web-php/pull/2105"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Video Generator – Nano-Video]]></title>
-        <id>https://nano-video.io/</id>
-        <link href="https://nano-video.io/"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calculate how many mesh radio nodes your city needs]]></title>
-        <id>https://meshcoveragecalculator.lalala.ing/</id>
-        <link href="https://meshcoveragecalculator.lalala.ing/"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis]]></title>
-        <id>https://philarchive.org/rec/NIEIOT-2</id>
-        <link href="https://philarchive.org/rec/NIEIOT-2"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta AI Chief Warns of AI Risks;Obama's Ex-Speechwriter Calls It F***Ing Madness]]></title>
-        <id>https://www.ibtimes.sg/meta-ai-chief-warns-superintelligence-risks-obamas-former-speechwriter-calls-it-fing-madness-96538</id>
-        <link href="https://www.ibtimes.sg/meta-ai-chief-warns-superintelligence-risks-obamas-former-speechwriter-calls-it-fing-madness-96538"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live Fleet Viewer]]></title>
-        <id>https://pequalnp.com/live</id>
-        <link href="https://pequalnp.com/live"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enjoy this guy getting bricked over the detail of towers in GTA6]]></title>
-        <id>https://bsky.app/profile/floppyadult.com/post/3n2tgw7rofc2v</id>
-        <link href="https://bsky.app/profile/floppyadult.com/post/3n2tgw7rofc2v"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jcode: High performance coding agent harness written in Rust]]></title>
-        <id>https://github.com/1jehuang/jcode</id>
-        <link href="https://github.com/1jehuang/jcode"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Codexed – A local settings editor for Codex CLI]]></title>
-        <id>https://github.com/codex-config/codexed</id>
-        <link href="https://github.com/codex-config/codexed"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GömböC–The Shape That Shouldn't Exist [video]]]></title>
-        <id>https://www.youtube.com/watch?v=rvVF5QWSYF4</id>
-        <link href="https://www.youtube.com/watch?v=rvVF5QWSYF4"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motion Brew, 100 free animated React components your AI agent can install]]></title>
-        <id>https://motion-brew.com/</id>
-        <link href="https://motion-brew.com/"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XNU Linux: Full OS X GUI Userspace on Linux]]></title>
-        <id>https://github.com/AFK-surf/xnulinux</id>
-        <link href="https://github.com/AFK-surf/xnulinux"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The FBI has 5 mass hire positions for anyone looking for work]]></title>
-        <id>https://www.fbijobs.gov/openings</id>
-        <link href="https://www.fbijobs.gov/openings"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The New Docker: Built to Run on Trust]]></title>
-        <id>https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/</id>
-        <link href="https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amory and Judy Lovins grow bananas at 7,100 ft, -47°F, with no furnace [video]]]></title>
-        <id>https://www.youtube.com/watch?v=PuDNSInJsH0</id>
-        <link href="https://www.youtube.com/watch?v=PuDNSInJsH0"/>
-        <updated>2026-11-22T16:00:00.000Z</updated>
-        <published>2026-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SceneWeave: Local-first video production with hardware-bound modules]]></title>
-        <id>https://2tinteractive.com/solutions/sceneweave/</id>
-        <link href="https://2tinteractive.com/solutions/sceneweave/"/>
         <updated>2026-11-22T16:00:00.000Z</updated>
         <published>2026-11-22T16:00:00.000Z</published>
     </entry>
