@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-25T02:02:35.029Z</updated>
+    <updated>2026-11-25T04:02:57.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -106,163 +106,44 @@
         <published>2026-11-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I have not seen my patients improve with AI [video]]]></title>
-        <id>https://www.youtube.com/shorts/pIKXjg6ak4U</id>
-        <link href="https://www.youtube.com/shorts/pIKXjg6ak4U"/>
+        <title type="html"><![CDATA[Marginalia Search, Money, C++, Rust, AI, Stuff]]></title>
+        <id>https://www.marginalia.nu/log/a_141_marginalia_update/</id>
+        <link href="https://www.marginalia.nu/log/a_141_marginalia_update/"/>
         <updated>2026-11-24T16:00:00.000Z</updated>
         <published>2026-11-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT 6.2 Astra Solves a Historical Mystery]]></title>
-        <id>https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical</id>
-        <link href="https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"/>
+        <title type="html"><![CDATA[A critical vulnerability allowing for arbitrary code execution in Chrome]]></title>
+        <id>https://app.opencve.io/cve/CVE-2026-134401</id>
+        <link href="https://app.opencve.io/cve/CVE-2026-134401"/>
         <updated>2026-11-24T16:00:00.000Z</updated>
         <published>2026-11-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pete Hegseth's DC Church: 'Babylon on the Potomac' Attracts Elites]]></title>
-        <id>https://www.wired.com/story/babylon-on-the-potomac-pete-hegseths-radical-dc-church-attracts-government-elites/</id>
-        <link href="https://www.wired.com/story/babylon-on-the-potomac-pete-hegseths-radical-dc-church-attracts-government-elites/"/>
+        <title type="html"><![CDATA[A faster algorithm for extracting hexadecimal digits of π]]></title>
+        <id>https://www.stylewarning.com/posts/faster-digit-extraction/</id>
+        <link href="https://www.stylewarning.com/posts/faster-digit-extraction/"/>
         <updated>2026-11-24T16:00:00.000Z</updated>
         <published>2026-11-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RL Infrastructure at Microsoft AI]]></title>
-        <id>https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/</id>
-        <link href="https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/"/>
+        <title type="html"><![CDATA[Show HN: Instant Calc Hub – fast, free calculators, no sign-up]]></title>
+        <id>https://instantcalchub.com/</id>
+        <link href="https://instantcalchub.com/"/>
         <updated>2026-11-24T16:00:00.000Z</updated>
         <published>2026-11-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How PyTorch's autograd works, rebuilt in 60 lines of Python]]></title>
-        <id>https://farid-alexander.github.io/autograd-from-scratch/</id>
-        <link href="https://farid-alexander.github.io/autograd-from-scratch/"/>
+        <title type="html"><![CDATA[FastFrames: Video Generation at Interactive Latency]]></title>
+        <id>https://huggingface.co/apple/FastFrames-S</id>
+        <link href="https://huggingface.co/apple/FastFrames-S"/>
         <updated>2026-11-24T16:00:00.000Z</updated>
         <published>2026-11-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top-cited scientists in maps and charts (2026 Stanford/Elsevier data)]]></title>
-        <id>https://topcitedscientists.com/figures/</id>
-        <link href="https://topcitedscientists.com/figures/"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alpöge's Riemann Hypothesis Proof, Rewritten for Humans (<300 Pages) [pdf]]]></title>
-        <id>https://github.com/jimjamzola/RH-Alpoge-Reconstruction/blob/main/manuscript/main.pdf</id>
-        <link href="https://github.com/jimjamzola/RH-Alpoge-Reconstruction/blob/main/manuscript/main.pdf"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NashGPT: Training a Transformer Model on Poker Solver Output]]></title>
-        <id>https://nickingravallo.github.io/TurboFire/index.html</id>
-        <link href="https://nickingravallo.github.io/TurboFire/index.html"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Zpup – tiny 3D scene format made for LLMs to write]]></title>
-        <id>https://rxolve.github.io/zpup/game/</id>
-        <link href="https://rxolve.github.io/zpup/game/"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Science After Super Intelligence]]></title>
-        <id>https://nautil.us/science-after-super-intelligence-1286807</id>
-        <link href="https://nautil.us/science-after-super-intelligence-1286807"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: The all-in cost of buying $1k of Bitcoin in 58 countries, updated daily]]></title>
-        <id>https://www.cryptotruecost.com/en/bitcoin-cost-map/</id>
-        <link href="https://www.cryptotruecost.com/en/bitcoin-cost-map/"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metro: The Documentary on Microsoft's Boldest Design]]></title>
-        <id>https://www.youtube.com/watch?v=MYyyhAhHgT8</id>
-        <link href="https://www.youtube.com/watch?v=MYyyhAhHgT8"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To My Fellow Millionaires [video]]]></title>
-        <id>https://www.youtube.com/watch?v=o9qJ4a9Xty8</id>
-        <link href="https://www.youtube.com/watch?v=o9qJ4a9Xty8"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live GPS Interference Map]]></title>
-        <id>https://gpswise.aero/map</id>
-        <link href="https://gpswise.aero/map"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trajectories in, improvements out: building a learning machine for search]]></title>
-        <id>https://keenable.ai/blog/trajectories-in-improvements-out</id>
-        <link href="https://keenable.ai/blog/trajectories-in-improvements-out"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[South Korea Offers $375,000 Reward to Catch Test Cheaters Using AI]]></title>
-        <id>https://www.wsj.com/world/asia/south-korea-offers-375-000-reward-to-catch-test-cheaters-using-ai-5908db9d</id>
-        <link href="https://www.wsj.com/world/asia/south-korea-offers-375-000-reward-to-catch-test-cheaters-using-ai-5908db9d"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OnDeck – Booking software for small sports facilities and barbershops]]></title>
-        <id>https://on-deck.app</id>
-        <link href="https://on-deck.app"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Locking down untrusted JavaScript after it loads]]></title>
-        <id>https://transcend.io/blog/why-your-csp-needs-a-runtime-layer</id>
-        <link href="https://transcend.io/blog/why-your-csp-needs-a-runtime-layer"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub: Fixed Upstream, Invisible Downstream]]></title>
-        <id>https://limbo.watch/blog/review-gap/</id>
-        <link href="https://limbo.watch/blog/review-gap/"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why supervision does not scale with the AI coding agents]]></title>
-        <id>https://tillerly.dev/blog/managing-multiple-ai-coding-agents-from-one-list/</id>
-        <link href="https://tillerly.dev/blog/managing-multiple-ai-coding-agents-from-one-list/"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full Text Search in SmithDB: Designing an Inverted Index for Object Storage]]></title>
-        <id>https://www.langchain.com/blog/full-text-search-in-smithdb-designing-an-inverted-index-for-object-storage</id>
-        <link href="https://www.langchain.com/blog/full-text-search-in-smithdb-designing-an-inverted-index-for-object-storage"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The house that JavaScript built]]></title>
-        <id>https://www.jonoalderson.com/misc/the-house-that-javascript-built/</id>
-        <link href="https://www.jonoalderson.com/misc/the-house-that-javascript-built/"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU introduces import quotas for hybrids from China and other countries]]></title>
-        <id>https://www.electrive.com/2026/11/24/eu-introduces-import-quotas-for-hybrids-from-china-and-other-countries/</id>
-        <link href="https://www.electrive.com/2026/11/24/eu-introduces-import-quotas-for-hybrids-from-china-and-other-countries/"/>
+        <title type="html"><![CDATA[Interview with a Productivity Freak in 2026]]></title>
+        <id>https://www.youtube.com/watch?v=guvFKt_Zjqw</id>
+        <link href="https://www.youtube.com/watch?v=guvFKt_Zjqw"/>
         <updated>2026-11-24T16:00:00.000Z</updated>
         <published>2026-11-24T16:00:00.000Z</published>
     </entry>
@@ -274,16 +155,198 @@
         <published>2026-11-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Day 49/100] Agentic RAG in LangGraph: Let the Agent Decide What to Retrieve]]></title>
-        <id>https://pub.towardsai.net/day-49-100-agentic-rag-in-langgraph-let-the-agent-decide-what-to-retrieve-7ec5cdf3a432?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/day-49-100-agentic-rag-in-langgraph-let-the-agent-decide-what-to-retrieve-7ec5cdf3a432?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[EU introduces import quotas for hybrids from China and other countries]]></title>
+        <id>https://www.electrive.com/2026/11/24/eu-introduces-import-quotas-for-hybrids-from-china-and-other-countries/</id>
+        <link href="https://www.electrive.com/2026/11/24/eu-introduces-import-quotas-for-hybrids-from-china-and-other-countries/"/>
         <updated>2026-11-24T16:00:00.000Z</updated>
         <published>2026-11-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Launches Gemini 4 Neon: How This New AI Model Handles Complex Coding Tasks]]></title>
-        <id>https://pub.towardsai.net/google-launches-gemini-4-neon-how-this-new-ai-model-handles-complex-coding-tasks-93c3b6d6dd1e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/google-launches-gemini-4-neon-how-this-new-ai-model-handles-complex-coding-tasks-93c3b6d6dd1e?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The house that JavaScript built]]></title>
+        <id>https://www.jonoalderson.com/misc/the-house-that-javascript-built/</id>
+        <link href="https://www.jonoalderson.com/misc/the-house-that-javascript-built/"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full Text Search in SmithDB: Designing an Inverted Index for Object Storage]]></title>
+        <id>https://www.langchain.com/blog/full-text-search-in-smithdb-designing-an-inverted-index-for-object-storage</id>
+        <link href="https://www.langchain.com/blog/full-text-search-in-smithdb-designing-an-inverted-index-for-object-storage"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why supervision does not scale with the AI coding agents]]></title>
+        <id>https://tillerly.dev/blog/managing-multiple-ai-coding-agents-from-one-list/</id>
+        <link href="https://tillerly.dev/blog/managing-multiple-ai-coding-agents-from-one-list/"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub: Fixed Upstream, Invisible Downstream]]></title>
+        <id>https://limbo.watch/blog/review-gap/</id>
+        <link href="https://limbo.watch/blog/review-gap/"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Locking down untrusted JavaScript after it loads]]></title>
+        <id>https://transcend.io/blog/why-your-csp-needs-a-runtime-layer</id>
+        <link href="https://transcend.io/blog/why-your-csp-needs-a-runtime-layer"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OnDeck – Booking software for small sports facilities and barbershops]]></title>
+        <id>https://on-deck.app</id>
+        <link href="https://on-deck.app"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[South Korea Offers $375,000 Reward to Catch Test Cheaters Using AI]]></title>
+        <id>https://www.wsj.com/world/asia/south-korea-offers-375-000-reward-to-catch-test-cheaters-using-ai-5908db9d</id>
+        <link href="https://www.wsj.com/world/asia/south-korea-offers-375-000-reward-to-catch-test-cheaters-using-ai-5908db9d"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trajectories in, improvements out: building a learning machine for search]]></title>
+        <id>https://keenable.ai/blog/trajectories-in-improvements-out</id>
+        <link href="https://keenable.ai/blog/trajectories-in-improvements-out"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live GPS Interference Map]]></title>
+        <id>https://gpswise.aero/map</id>
+        <link href="https://gpswise.aero/map"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To My Fellow Millionaires [video]]]></title>
+        <id>https://www.youtube.com/watch?v=o9qJ4a9Xty8</id>
+        <link href="https://www.youtube.com/watch?v=o9qJ4a9Xty8"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metro: The Documentary on Microsoft's Boldest Design]]></title>
+        <id>https://www.youtube.com/watch?v=MYyyhAhHgT8</id>
+        <link href="https://www.youtube.com/watch?v=MYyyhAhHgT8"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: The all-in cost of buying $1k of Bitcoin in 58 countries, updated daily]]></title>
+        <id>https://www.cryptotruecost.com/en/bitcoin-cost-map/</id>
+        <link href="https://www.cryptotruecost.com/en/bitcoin-cost-map/"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Science After Super Intelligence]]></title>
+        <id>https://nautil.us/science-after-super-intelligence-1286807</id>
+        <link href="https://nautil.us/science-after-super-intelligence-1286807"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Zpup – tiny 3D scene format made for LLMs to write]]></title>
+        <id>https://rxolve.github.io/zpup/game/</id>
+        <link href="https://rxolve.github.io/zpup/game/"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NashGPT: Training a Transformer Model on Poker Solver Output]]></title>
+        <id>https://nickingravallo.github.io/TurboFire/index.html</id>
+        <link href="https://nickingravallo.github.io/TurboFire/index.html"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpöge's Riemann Hypothesis Proof, Rewritten for Humans (<300 Pages) [pdf]]]></title>
+        <id>https://github.com/jimjamzola/RH-Alpoge-Reconstruction/blob/main/manuscript/main.pdf</id>
+        <link href="https://github.com/jimjamzola/RH-Alpoge-Reconstruction/blob/main/manuscript/main.pdf"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top-cited scientists in maps and charts (2026 Stanford/Elsevier data)]]></title>
+        <id>https://topcitedscientists.com/figures/</id>
+        <link href="https://topcitedscientists.com/figures/"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How PyTorch's autograd works, rebuilt in 60 lines of Python]]></title>
+        <id>https://farid-alexander.github.io/autograd-from-scratch/</id>
+        <link href="https://farid-alexander.github.io/autograd-from-scratch/"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RL Infrastructure at Microsoft AI]]></title>
+        <id>https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/</id>
+        <link href="https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pete Hegseth's DC Church: 'Babylon on the Potomac' Attracts Elites]]></title>
+        <id>https://www.wired.com/story/babylon-on-the-potomac-pete-hegseths-radical-dc-church-attracts-government-elites/</id>
+        <link href="https://www.wired.com/story/babylon-on-the-potomac-pete-hegseths-radical-dc-church-attracts-government-elites/"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT 6.2 Astra Solves a Historical Mystery]]></title>
+        <id>https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical</id>
+        <link href="https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I have not seen my patients improve with AI [video]]]></title>
+        <id>https://www.youtube.com/shorts/pIKXjg6ak4U</id>
+        <link href="https://www.youtube.com/shorts/pIKXjg6ak4U"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shrinking the KV Cache: An End-to-End Guide to KV Compression, with Deep Dives into TurboQuant and…]]></title>
+        <id>https://pub.towardsai.net/shrinking-the-kv-cache-an-end-to-end-guide-to-kv-compression-with-deep-dives-into-turboquant-and-756639756a1e?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/shrinking-the-kv-cache-an-end-to-end-guide-to-kv-compression-with-deep-dives-into-turboquant-and-756639756a1e?source=rss----98111c9905da---4"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safe Against What? Evaluating LLM Harmlessness]]></title>
+        <id>https://pub.towardsai.net/safe-against-what-evaluating-llm-harmlessness-67553d60056d?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/safe-against-what-evaluating-llm-harmlessness-67553d60056d?source=rss----98111c9905da---4"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Secure, Multi-Persona Streamlit in Snowflake App for AI_EXTRACT Document Review]]></title>
+        <id>https://pub.towardsai.net/building-a-secure-multi-persona-streamlit-in-snowflake-app-for-ai-extract-document-review-9fa69f509c97?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/building-a-secure-multi-persona-streamlit-in-snowflake-app-for-ai-extract-document-review-9fa69f509c97?source=rss----98111c9905da---4"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Your First MCP Server with Python FastMCP: A Hands-On Guide to Enterprise AI Integrations]]></title>
+        <id>https://pub.towardsai.net/building-your-first-mcp-server-with-python-fastmcp-a-hands-on-guide-to-enterprise-ai-integrations-b984e7f512d9?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/building-your-first-mcp-server-with-python-fastmcp-a-hands-on-guide-to-enterprise-ai-integrations-b984e7f512d9?source=rss----98111c9905da---4"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This AI Model Listens While It Talks — Processing Audio Every 133 Milliseconds]]></title>
+        <id>https://pub.towardsai.net/this-ai-model-listens-while-it-talks-processing-audio-every-133-milliseconds-017235a2861b?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/this-ai-model-listens-while-it-talks-processing-audio-every-133-milliseconds-017235a2861b?source=rss----98111c9905da---4"/>
         <updated>2026-11-24T16:00:00.000Z</updated>
         <published>2026-11-24T16:00:00.000Z</published>
     </entry>
@@ -295,72 +358,9 @@
         <published>2026-11-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT 6.2 Astra Solves a Historical Mystery]]></title>
-        <id>https://simonwillison.net/2026/Nov/24/astra-historical-mystery/</id>
-        <link href="https://simonwillison.net/2026/Nov/24/astra-historical-mystery/"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I built 30 pricing calculators as plain static HTML (no framework, no backend)]]></title>
-        <id>https://dev.to/tradepricingcontrol/how-i-built-30-pricing-calculators-as-plain-static-html-no-framework-no-backend-2cbi</id>
-        <link href="https://dev.to/tradepricingcontrol/how-i-built-30-pricing-calculators-as-plain-static-html-no-framework-no-backend-2cbi"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running PDF Merge, Image Compression, and Calculators 100% Client-Side]]></title>
-        <id>https://dev.to/parimalmakes/running-pdf-merge-image-compression-and-calculators-100-client-side-4kh6</id>
-        <link href="https://dev.to/parimalmakes/running-pdf-merge-image-compression-and-calculators-100-client-side-4kh6"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Fair Random Name Picker Wheel for Any Browser]]></title>
-        <id>https://dev.to/parimalmakes/building-a-fair-random-name-picker-wheel-for-any-browser-5ao3</id>
-        <link href="https://dev.to/parimalmakes/building-a-fair-random-name-picker-wheel-for-any-browser-5ao3"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IPTV Setup Explained: Devices, Playback Checks and Max-Tele Canada Plans]]></title>
-        <id>https://dev.to/gaotman/iptv-setup-explained-devices-playback-checks-and-max-tele-canada-plans-4n99</id>
-        <link href="https://dev.to/gaotman/iptv-setup-explained-devices-playback-checks-and-max-tele-canada-plans-4n99"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Cold Email Scoring System with JavaScript]]></title>
-        <id>https://dev.to/peterpark_coldmail/how-to-build-a-cold-email-scoring-system-with-javascript-42kl</id>
-        <link href="https://dev.to/peterpark_coldmail/how-to-build-a-cold-email-scoring-system-with-javascript-42kl"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pantone matching in the browser: why CIEDE2000 returns candidates, not answers]]></title>
-        <id>https://dev.to/neo_xia_3f4c019330af5fb9d/pantone-matching-in-the-browser-why-ciede2000-returns-candidates-not-answers-5he6</id>
-        <link href="https://dev.to/neo_xia_3f4c019330af5fb9d/pantone-matching-in-the-browser-why-ciede2000-returns-candidates-not-answers-5he6"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js "Hydration Failed Because the Server Rendered HTML Didn't Match the Client": Find the Cause, Then Pick the Fix]]></title>
-        <id>https://dev.to/libme/nextjs-hydration-failed-because-the-server-rendered-html-didnt-match-the-client-find-the-3ap6</id>
-        <link href="https://dev.to/libme/nextjs-hydration-failed-because-the-server-rendered-html-didnt-match-the-client-find-the-3ap6"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Deterministic Multi-Axis Personality Scoring Engine and SVG Radar Chart in TypeScript]]></title>
-        <id>https://dev.to/jimmy_fa_df2a6d4a40947e2a/building-a-deterministic-multi-axis-personality-scoring-engine-and-svg-radar-chart-in-typescript-4h5l</id>
-        <link href="https://dev.to/jimmy_fa_df2a6d4a40947e2a/building-a-deterministic-multi-axis-personality-scoring-engine-and-svg-radar-chart-in-typescript-4h5l"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Resume an Audiobook Conversion After Closing the Tab]]></title>
-        <id>https://dev.to/cleora/how-i-resume-an-audiobook-conversion-after-closing-the-tab-31op</id>
-        <link href="https://dev.to/cleora/how-i-resume-an-audiobook-conversion-after-closing-the-tab-31op"/>
+        <title type="html"><![CDATA[Google Launches Gemini 4 Neon: How This New AI Model Handles Complex Coding Tasks]]></title>
+        <id>https://pub.towardsai.net/google-launches-gemini-4-neon-how-this-new-ai-model-handles-complex-coding-tasks-93c3b6d6dd1e?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/google-launches-gemini-4-neon-how-this-new-ai-model-handles-complex-coding-tasks-93c3b6d6dd1e?source=rss----98111c9905da---4"/>
         <updated>2026-11-24T16:00:00.000Z</updated>
         <published>2026-11-24T16:00:00.000Z</published>
     </entry>
