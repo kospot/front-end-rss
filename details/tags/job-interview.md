@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-25 06:01:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-25 08:02:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -11,10 +11,10 @@
 - [2026-10-29-Friday-Offer-Click-here-and-Shop-Now](https://dev.to/faisal_ayub_2b2142cd33c61/friday-offer-click-here-and-shop-now-4goe) 
 - [2026-11-23-Tesla-FSD-V15-offers-visualizations-that-distract-from-"25x"](https://www.forbes.com/sites/bradtempleton/2026/11/22/tesla-fsd-v15-offers-stunning-visualizations-that-distract-from-25x/) 
 - [2026-11-14-I-received-a-job-offer,-and-they-hid-a-way-to-launch-malicious-code](https://www.reddit.com/r/programming/comments/1xvwjeh/how_i_received_a_job_offer_and_they_hid_a_way_to/) 
-- [2026-11-10-Anthropic's-Initial-Public-Offering](https://ipo.anthropic.com/us/) 
 - [2026-11-10-Jolla-and-CivSec-AB-to-Offer-Jolla-Phone-for-the-Swedish-Public-Safety-Market](https://jolla.com/content/uploads/2026/10/CivSec-and-Jolla-Public-Safety-Market-Oct2026.pdf?x87445) 
-- [2026-10-28-Microsoft-offers-buyouts-to-nearly-30%-of-workforce](https://fortune.com/2026/10/26/microsoft-offers-buyouts-to-nearly-30-of-workforce-in-ongoing-ai-shift/) 
+- [2026-11-10-Anthropic's-Initial-Public-Offering](https://ipo.anthropic.com/us/) 
 - [2026-10-28-Musk's-xAI-offered-to-buy-homes-if-they-don't-sue-over-datacentre-noise](https://uk.news.yahoo.com/elonville-mississippi-residents-musk-xai-113001859.html) 
+- [2026-10-28-Microsoft-offers-buyouts-to-nearly-30%-of-workforce](https://fortune.com/2026/10/26/microsoft-offers-buyouts-to-nearly-30-of-workforce-in-ongoing-ai-shift/) 
 - [2026-11-07-Pentagon-offers-battery-startup-6K-$250M-loan-to-build-US-factory](https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/) 
 - [2026-10-29-Upwind-raises-$400M-after-walking-away-from-Datadog-acquisition-offer](https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/) 
 - [2026-11-12-Lovehoney-Coupon-Offers:-70%-Off](https://www.wired.com/story/lovehoney-discount-code/) 
