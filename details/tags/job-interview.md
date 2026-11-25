@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-25 23:02:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-26 06:00:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -19,4 +19,5 @@
 - [2026-10-29-Upwind-raises-$400M-after-walking-away-from-Datadog-acquisition-offer](https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/) 
 - [2026-11-12-Lovehoney-Coupon-Offers:-70%-Off](https://www.wired.com/story/lovehoney-discount-code/) 
 - [2026-10-29-Petlibro-Offers:-30%-Off-in-November-2026](https://www.wired.com/story/petlibro-discount-code/) 
+- [2026-11-26-Nothing-offers-a-full-look-at-its-AI-earbuds-and-charging-case](https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal) 
 - [2026-11-25-Dreame-and-Eufy-are-offering-nearly-60-percent-off-robovacs-for-Black-Friday](https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026) 
