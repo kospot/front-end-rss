@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-25T22:00:57.588Z</updated>
+    <updated>2026-11-26T00:01:10.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,23 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[The loneliest peptide party in New York]]></title>
-        <id>https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow</id>
-        <link href="https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow"/>
+        <title type="html"><![CDATA[Amazon loses its latest attempt to get out of handling more recall notices]]></title>
+        <id>https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc</id>
+        <link href="https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future]]></title>
+        <id>https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent</id>
+        <link href="https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Verge’s 2026 holiday gift guide for travelers]]></title>
+        <id>https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026</id>
+        <link href="https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
@@ -29,23 +43,9 @@
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it]]></title>
-        <id>https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/</id>
-        <link href="https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The canceled Tesla Cybertruck is the fastest-selling used truck in America]]></title>
-        <id>https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/</id>
-        <link href="https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Want to buy your kid an AI toy this Christmas? Not in New York]]></title>
-        <id>https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/</id>
-        <link href="https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"/>
+        <title type="html"><![CDATA[The loneliest peptide party in New York]]></title>
+        <id>https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow</id>
+        <link href="https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
@@ -57,6 +57,41 @@
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Want to buy your kid an AI toy this Christmas? Not in New York]]></title>
+        <id>https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/</id>
+        <link href="https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The canceled Tesla Cybertruck is the fastest-selling used truck in America]]></title>
+        <id>https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/</id>
+        <link href="https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it]]></title>
+        <id>https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/</id>
+        <link href="https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond the Basics: Why Claude Certified Developer Professional (CCDV-P) Is the Real Benchmark for…]]></title>
+        <id>https://pub.towardsai.net/beyond-the-basics-why-claude-certified-developer-professional-ccdv-p-is-the-real-benchmark-for-ed14597a1690?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/beyond-the-basics-why-claude-certified-developer-professional-ccdv-p-is-the-real-benchmark-for-ed14597a1690?source=rss----98111c9905da---4"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our MCP Checklist: No Reference Server Passed All 7 Checks]]></title>
+        <id>https://pub.towardsai.net/our-mcp-checklist-no-reference-server-passed-all-7-checks-29f6f81884ed?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/our-mcp-checklist-no-reference-server-passed-all-7-checks-29f6f81884ed?source=rss----98111c9905da---4"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The GPU Does the Math. The CPU Runs the Show.]]></title>
         <id>https://pub.towardsai.net/the-gpu-does-the-math-the-cpu-runs-the-show-f5983ecfa9d6?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/the-gpu-does-the-math-the-cpu-runs-the-show-f5983ecfa9d6?source=rss----98111c9905da---4"/>
@@ -64,9 +99,72 @@
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to export WAV files and ZIP archives entirely in the browser with vanilla JavaScript]]></title>
-        <id>https://dev.to/secondwindmc/how-to-export-wav-files-and-zip-archives-entirely-in-the-browser-with-vanilla-javascript-1j1c</id>
-        <link href="https://dev.to/secondwindmc/how-to-export-wav-files-and-zip-archives-entirely-in-the-browser-with-vanilla-javascript-1j1c"/>
+        <title type="html"><![CDATA[Build a Free Currency Converter for a Static Site: 25 Lines of JavaScript, No Backend]]></title>
+        <id>https://dev.to/chathuranga_basnayaka_818/build-a-free-currency-converter-for-a-static-site-25-lines-of-javascript-no-backend-dj1</id>
+        <link href="https://dev.to/chathuranga_basnayaka_818/build-a-free-currency-converter-for-a-static-site-25-lines-of-javascript-no-backend-dj1"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Exchange Rate API with No API Key: One URL, Any Base Currency, CORS On]]></title>
+        <id>https://dev.to/allratestodaycom/free-exchange-rate-api-with-no-api-key-one-url-any-base-currency-cors-on-197h</id>
+        <link href="https://dev.to/allratestodaycom/free-exchange-rate-api-with-no-api-key-one-url-any-base-currency-cors-on-197h"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modeling Japan's 10 Regional Tiered Electricity Tariffs in a Zero-Backend Web App]]></title>
+        <id>https://dev.to/laozhangname/modeling-japans-10-regional-tiered-electricity-tariffs-in-a-zero-backend-web-app-73a</id>
+        <link href="https://dev.to/laozhangname/modeling-japans-10-regional-tiered-electricity-tariffs-in-a-zero-backend-web-app-73a"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is FFMI a Misleading Number? Build an FFMI Calculator in JavaScript That Shows Its Error Bars]]></title>
+        <id>https://dev.to/charlotte_nelson_9aadde70/is-ffmi-a-misleading-number-build-an-ffmi-calculator-in-javascript-that-shows-its-error-bars-e1j</id>
+        <link href="https://dev.to/charlotte_nelson_9aadde70/is-ffmi-a-misleading-number-build-an-ffmi-calculator-in-javascript-that-shows-its-error-bars-e1j"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lightning checkout for static digital products with OpenReceive, NWC, and Netlify Functions]]></title>
+        <id>https://dev.to/secondwindmc/lightning-checkout-for-static-digital-products-with-openreceive-nwc-and-netlify-functions-42bf</id>
+        <link href="https://dev.to/secondwindmc/lightning-checkout-for-static-digital-products-with-openreceive-nwc-and-netlify-functions-42bf"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before Switching to P2P, I Measured Whether WebRTC Would Even Connect]]></title>
+        <id>https://dev.to/kangchanghwan/before-switching-to-p2p-i-measured-whether-webrtc-would-even-connect-213d</id>
+        <link href="https://dev.to/kangchanghwan/before-switching-to-p2p-i-measured-whether-webrtc-would-even-connect-213d"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built a 200-Page Red/Blue PDF Blueprint Overlay & Diff Tool 100% in Browser Canvas (Zero Backend)]]></title>
+        <id>https://dev.to/ryan_w_lab/how-i-built-a-200-page-redblue-pdf-blueprint-overlay-diff-tool-100-in-browser-canvas-zero-2be7</id>
+        <link href="https://dev.to/ryan_w_lab/how-i-built-a-200-page-redblue-pdf-blueprint-overlay-diff-tool-100-in-browser-canvas-zero-2be7"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero-upload B2B workflows with Canvas, Web Crypto, and plain JavaScript]]></title>
+        <id>https://dev.to/eth_shihao_26864ff19b7b61/zero-upload-b2b-workflows-with-canvas-web-crypto-and-plain-javascript-2d24</id>
+        <link href="https://dev.to/eth_shihao_26864ff19b7b61/zero-upload-b2b-workflows-with-canvas-web-crypto-and-plain-javascript-2d24"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to deliver digital downloads automatically after BTCPay invoices with Netlify Functions]]></title>
+        <id>https://dev.to/secondwindmc/how-to-deliver-digital-downloads-automatically-after-btcpay-invoices-with-netlify-functions-c6j</id>
+        <link href="https://dev.to/secondwindmc/how-to-deliver-digital-downloads-automatically-after-btcpay-invoices-with-netlify-functions-c6j"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NPM Under the Hood: How Dependency Management, Lockfiles, Workspaces, Publishing & Security Really Work]]></title>
+        <id>https://dev.to/abanoubkerols/npm-under-the-hood-how-dependency-management-lockfiles-workspaces-publishing-security-really-4l02</id>
+        <link href="https://dev.to/abanoubkerols/npm-under-the-hood-how-dependency-management-lockfiles-workspaces-publishing-security-really-4l02"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
@@ -74,6 +172,13 @@
         <title type="html"><![CDATA[How to choose automation infrastructure for a crypto trading team]]></title>
         <id>https://dev.to/litprotocol/how-to-choose-automation-infrastructure-for-a-crypto-trading-team-g6m</id>
         <link href="https://dev.to/litprotocol/how-to-choose-automation-infrastructure-for-a-crypto-trading-team-g6m"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to export WAV files and ZIP archives entirely in the browser with vanilla JavaScript]]></title>
+        <id>https://dev.to/secondwindmc/how-to-export-wav-files-and-zip-archives-entirely-in-the-browser-with-vanilla-javascript-1j1c</id>
+        <link href="https://dev.to/secondwindmc/how-to-export-wav-files-and-zip-archives-entirely-in-the-browser-with-vanilla-javascript-1j1c"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
@@ -92,30 +197,9 @@
         <published>2026-11-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Verge’s guide to affordable holiday gifts under $25]]></title>
-        <id>https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026</id>
-        <link href="https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huawei found guilty of stealing trade secrets]]></title>
-        <id>https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial</id>
-        <link href="https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Now Firefox can select which sites use its VPN, and clear your browsing history with one click]]></title>
-        <id>https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button</id>
-        <link href="https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Verge’s 2026 holiday gift guide for moms]]></title>
-        <id>https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026</id>
-        <link href="https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026"/>
+        <title type="html"><![CDATA[‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV]]></title>
+        <id>https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa</id>
+        <link href="https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa"/>
         <updated>2026-11-24T16:00:00.000Z</updated>
         <published>2026-11-24T16:00:00.000Z</published>
     </entry>
@@ -127,9 +211,30 @@
         <published>2026-11-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV]]></title>
-        <id>https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa</id>
-        <link href="https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa"/>
+        <title type="html"><![CDATA[The Verge’s 2026 holiday gift guide for moms]]></title>
+        <id>https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026</id>
+        <link href="https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Now Firefox can select which sites use its VPN, and clear your browsing history with one click]]></title>
+        <id>https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button</id>
+        <link href="https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huawei found guilty of stealing trade secrets]]></title>
+        <id>https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial</id>
+        <link href="https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Verge’s guide to affordable holiday gifts under $25]]></title>
+        <id>https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026</id>
+        <link href="https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026"/>
         <updated>2026-11-24T16:00:00.000Z</updated>
         <published>2026-11-24T16:00:00.000Z</published>
     </entry>
@@ -169,51 +274,9 @@
         <published>2026-11-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon and Meta reportedly in talks to lift blockade on AI agent Muse]]></title>
-        <id>https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/</id>
-        <link href="https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jensen Huang still thinks a succession plan creates unnecessary hierarchy]]></title>
-        <id>https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/</id>
-        <link href="https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinterest will now let parents limit the AI-generated content their teens see]]></title>
-        <id>https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/</id>
-        <link href="https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why a Crusoe investor is betting on solar and batteries to power future AI data centers]]></title>
-        <id>https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/</id>
-        <link href="https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch]]></title>
-        <id>https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/</id>
-        <link href="https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta brings its Muse AI assistant directly into Instagram DMs]]></title>
-        <id>https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/</id>
-        <link href="https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank]]></title>
-        <id>https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/</id>
-        <link href="https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/"/>
+        <title type="html"><![CDATA[Walmart teams up with Meta to bring Black Friday deals to AI agent Muse]]></title>
+        <id>https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/</id>
+        <link href="https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"/>
         <updated>2026-11-24T16:00:00.000Z</updated>
         <published>2026-11-24T16:00:00.000Z</published>
     </entry>
@@ -225,9 +288,51 @@
         <published>2026-11-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Walmart teams up with Meta to bring Black Friday deals to AI agent Muse]]></title>
-        <id>https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/</id>
-        <link href="https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"/>
+        <title type="html"><![CDATA[Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank]]></title>
+        <id>https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/</id>
+        <link href="https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta brings its Muse AI assistant directly into Instagram DMs]]></title>
+        <id>https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/</id>
+        <link href="https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch]]></title>
+        <id>https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/</id>
+        <link href="https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why a Crusoe investor is betting on solar and batteries to power future AI data centers]]></title>
+        <id>https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/</id>
+        <link href="https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pinterest will now let parents limit the AI-generated content their teens see]]></title>
+        <id>https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/</id>
+        <link href="https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jensen Huang still thinks a succession plan creates unnecessary hierarchy]]></title>
+        <id>https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/</id>
+        <link href="https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/"/>
+        <updated>2026-11-24T16:00:00.000Z</updated>
+        <published>2026-11-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon and Meta reportedly in talks to lift blockade on AI agent Muse]]></title>
+        <id>https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/</id>
+        <link href="https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"/>
         <updated>2026-11-24T16:00:00.000Z</updated>
         <published>2026-11-24T16:00:00.000Z</published>
     </entry>
@@ -256,111 +361,6 @@
         <title type="html"><![CDATA[Show HN: FlowSpeak – Local push-to-talk dictation in Go and whisper.cpp Metal]]></title>
         <id>https://smolkapps.com/flowspeak/</id>
         <link href="https://smolkapps.com/flowspeak/"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australians can sue big tech for online harm under digital duty of care law]]></title>
-        <id>https://theconversation.com/australians-will-be-able-to-sue-big-tech-platforms-for-online-harm-under-digital-duty-of-care-law-297390</id>
-        <link href="https://theconversation.com/australians-will-be-able-to-sue-big-tech-platforms-for-online-harm-under-digital-duty-of-care-law-297390"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: What is the best unhobbled model for medical queries?]]></title>
-        <id>https://news.ycombinator.com/item?id=50639275</id>
-        <link href="https://news.ycombinator.com/item?id=50639275"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNUStep November Monthly Meeting [video]]]></title>
-        <id>https://www.youtube.com/watch?v=MFuwCmHXj68</id>
-        <link href="https://www.youtube.com/watch?v=MFuwCmHXj68"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Termius was asking me for $120 a year, so I built my own SSH client]]></title>
-        <id>https://branchbay.dev/branchshell</id>
-        <link href="https://branchbay.dev/branchshell"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swift Death of Statelessness]]></title>
-        <id>https://bexx.io/post/swift-death-of-statelessness/</id>
-        <link href="https://bexx.io/post/swift-death-of-statelessness/"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI consumes less water per dollar spent than almond milk or golf]]></title>
-        <id>https://www.reuters.com/technology/ai-consumes-less-water-per-dollar-spent-than-almond-milk-or-golf-enverus-report-2026-11-24/</id>
-        <link href="https://www.reuters.com/technology/ai-consumes-less-water-per-dollar-spent-than-almond-milk-or-golf-enverus-report-2026-11-24/"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artex: CIA – ODNI unclassified intelligence system hacked]]></title>
-        <id>https://www.nextgov.com/cybersecurity/2026/11/cia-odni-unclassified-intelligence-system-hacked/417438/</id>
-        <link href="https://www.nextgov.com/cybersecurity/2026/11/cia-odni-unclassified-intelligence-system-hacked/417438/"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Sightline – Windows CLI for AI agents to capture UI and map DPI coords]]></title>
-        <id>https://github.com/sao-coding/sightline</id>
-        <link href="https://github.com/sao-coding/sightline"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I have not seen my patients improve with AI [video]]]></title>
-        <id>https://www.youtube.com/shorts/pIKXjg6ak4U</id>
-        <link href="https://www.youtube.com/shorts/pIKXjg6ak4U"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT 6.2 Astra Solves a Historical Mystery]]></title>
-        <id>https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical</id>
-        <link href="https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pete Hegseth's DC Church: 'Babylon on the Potomac' Attracts Elites]]></title>
-        <id>https://www.wired.com/story/babylon-on-the-potomac-pete-hegseths-radical-dc-church-attracts-government-elites/</id>
-        <link href="https://www.wired.com/story/babylon-on-the-potomac-pete-hegseths-radical-dc-church-attracts-government-elites/"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RL Infrastructure at Microsoft AI]]></title>
-        <id>https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/</id>
-        <link href="https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How PyTorch's autograd works, rebuilt in 60 lines of Python]]></title>
-        <id>https://farid-alexander.github.io/autograd-from-scratch/</id>
-        <link href="https://farid-alexander.github.io/autograd-from-scratch/"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top-cited scientists in maps and charts (2026 Stanford/Elsevier data)]]></title>
-        <id>https://topcitedscientists.com/figures/</id>
-        <link href="https://topcitedscientists.com/figures/"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alpöge's Riemann Hypothesis Proof, Rewritten for Humans (<300 Pages) [pdf]]]></title>
-        <id>https://github.com/jimjamzola/RH-Alpoge-Reconstruction/blob/main/manuscript/main.pdf</id>
-        <link href="https://github.com/jimjamzola/RH-Alpoge-Reconstruction/blob/main/manuscript/main.pdf"/>
         <updated>2026-11-24T16:00:00.000Z</updated>
         <published>2026-11-24T16:00:00.000Z</published>
     </entry>
