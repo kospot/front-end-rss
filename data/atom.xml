@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-26T10:03:24.672Z</updated>
+    <updated>2026-11-26T13:03:35.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,23 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Amazon loses its latest attempt to get out of handling more recall notices]]></title>
-        <id>https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc</id>
-        <link href="https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc"/>
+        <title type="html"><![CDATA[X is finally getting its first parental controls]]></title>
+        <id>https://www.theverge.com/news/1043078/x-parental-controls-features</id>
+        <link href="https://www.theverge.com/news/1043078/x-parental-controls-features"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future]]></title>
-        <id>https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent</id>
-        <link href="https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Verge’s 2026 holiday gift guide for travelers]]></title>
-        <id>https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026</id>
-        <link href="https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026"/>
+        <title type="html"><![CDATA[The loneliest peptide party in New York]]></title>
+        <id>https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow</id>
+        <link href="https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
@@ -43,9 +36,23 @@
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The loneliest peptide party in New York]]></title>
-        <id>https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow</id>
-        <link href="https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow"/>
+        <title type="html"><![CDATA[The Verge’s 2026 holiday gift guide for travelers]]></title>
+        <id>https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026</id>
+        <link href="https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future]]></title>
+        <id>https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent</id>
+        <link href="https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon loses its latest attempt to get out of handling more recall notices]]></title>
+        <id>https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc</id>
+        <link href="https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
@@ -85,191 +92,51 @@
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency]]></title>
-        <id>https://arxiv.org/abs/2603.14133</id>
-        <link href="https://arxiv.org/abs/2603.14133"/>
+        <title type="html"><![CDATA[Linus Torvalds: "Tell Your AI Companion to Get Its Act Together"]]></title>
+        <id>https://lore.kernel.org/lkml/CAHk-=whyUfwzMDMTpih8Xs1MxmhwTCDAc_YwUSZG79vXFMLU=Q@mail.gmail.com/</id>
+        <link href="https://lore.kernel.org/lkml/CAHk-=whyUfwzMDMTpih8Xs1MxmhwTCDAc_YwUSZG79vXFMLU=Q@mail.gmail.com/"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email]]></title>
-        <id>https://techstackups.com/articles/google-workspace-ai-agents-mcp/</id>
-        <link href="https://techstackups.com/articles/google-workspace-ai-agents-mcp/"/>
+        <title type="html"><![CDATA[The "Godfather of AI" on the Risks That Worry Him Most [video]]]></title>
+        <id>https://www.youtube.com/watch?v=L8HdlknRkA4</id>
+        <link href="https://www.youtube.com/watch?v=L8HdlknRkA4"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Dieter Rams-inspired ambient drone synthesizer in the browser]]></title>
-        <id>https://sneed-and-feed.github.io/</id>
-        <link href="https://sneed-and-feed.github.io/"/>
+        <title type="html"><![CDATA[Faulty appliances returned to UK supermarkets found at e-waste dump in Ghana]]></title>
+        <id>https://unearthed.greenpeace.org/2026/11/26/faulty-appliances-returned-to-uk-supermarkets-found-at-e-waste-dump-in-ghana/</id>
+        <link href="https://unearthed.greenpeace.org/2026/11/26/faulty-appliances-returned-to-uk-supermarkets-found-at-e-waste-dump-in-ghana/"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Last Boring Slide]]></title>
-        <id>https://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah#calendar-3</id>
-        <link href="https://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah#calendar-3"/>
+        <title type="html"><![CDATA[The Giant Batteries Revolutionizing America's Power Supply]]></title>
+        <id>https://www.nytimes.com/2026/11/26/opinion/electricity-batteries-commodity-economy.html</id>
+        <link href="https://www.nytimes.com/2026/11/26/opinion/electricity-batteries-commodity-economy.html"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts (2025)]]></title>
-        <id>https://arxiv.org/abs/2509.24832</id>
-        <link href="https://arxiv.org/abs/2509.24832"/>
+        <title type="html"><![CDATA[AI-Driven Shortages in Basic PCB Components Could Be Worse Than 2021 Chip Crisis]]></title>
+        <id>https://www.hackster.io/news/ai-driven-shortages-in-basic-pcb-components-could-be-worse-than-the-2021-chip-crisis-report-warns-c39f06f36677</id>
+        <link href="https://www.hackster.io/news/ai-driven-shortages-in-basic-pcb-components-could-be-worse-than-the-2021-chip-crisis-report-warns-c39f06f36677"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tools are Hiding NPM Audits from You]]></title>
-        <id>https://www.zachleat.com/web/npm-audit-report/</id>
-        <link href="https://www.zachleat.com/web/npm-audit-report/"/>
+        <title type="html"><![CDATA[Hegseth considered reinstating Nvidia boss using military law]]></title>
+        <id>https://www.yahoo.com/news/politics/articles/hegseth-considered-reinstating-nvidia-boss-102733462.html</id>
+        <link href="https://www.yahoo.com/news/politics/articles/hegseth-considered-reinstating-nvidia-boss-102733462.html"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why would a country ask to stay least developed?]]></title>
-        <id>https://finshots.in/archive/why-would-a-country-ask-to-stay-least-developed/</id>
-        <link href="https://finshots.in/archive/why-would-a-country-ask-to-stay-least-developed/"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HNSW Hit Memory and Filter Wall: Elasticsearch, OpenSearch Faiss, Qdrant, Milvus [video]]]></title>
-        <id>https://www.youtube.com/watch?v=fnZiKAPpn-A</id>
-        <link href="https://www.youtube.com/watch?v=fnZiKAPpn-A"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get notified when a new vulnerability is exploited]]></title>
-        <id>https://pushout.app/@cve</id>
-        <link href="https://pushout.app/@cve"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster]]></title>
-        <id>https://twitter.com/thsottiaux/status/2125784147889393806</id>
-        <link href="https://twitter.com/thsottiaux/status/2125784147889393806"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: LEIE Check – Search the OIG health care exclusion list by name or NPI]]></title>
-        <id>https://leiecheck.com</id>
-        <link href="https://leiecheck.com"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minipg: PostgreSQL as a Single Executable]]></title>
-        <id>https://progrium.github.io/minipg/</id>
-        <link href="https://progrium.github.io/minipg/"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Comprehensive Guide to Encrypted Inference with Tees]]></title>
-        <id>https://trynito.ai/blog/encrypted-inference-tees</id>
-        <link href="https://trynito.ai/blog/encrypted-inference-tees"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GTA VI Ambient Context Monetization Spyware]]></title>
-        <id>https://twitter.com/leopardracer/status/2124519048096395309</id>
-        <link href="https://twitter.com/leopardracer/status/2124519048096395309"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayfly Chat: Transient Chat for Agents]]></title>
-        <id>https://blog.exe.dev/mayfly-chat</id>
-        <link href="https://blog.exe.dev/mayfly-chat"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Little Free Bakery- come for the pastries and stay for community connection]]></title>
-        <id>https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection</id>
-        <link href="https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shirudo doesn't work, this does]]></title>
-        <id>https://news.ycombinator.com/item?id=50650310</id>
-        <link href="https://news.ycombinator.com/item?id=50650310"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FastUnlock: Windows Narrator LockScreen Bypass 0day Vulnerability]]></title>
-        <id>https://github.com/MSNightmare/FastUnlock</id>
-        <link href="https://github.com/MSNightmare/FastUnlock"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You've been lied to about Perl [video]]]></title>
-        <id>https://www.youtube.com/watch?v=TDV2ACy-oaU</id>
-        <link href="https://www.youtube.com/watch?v=TDV2ACy-oaU"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guitar wars – the transatlantic battle over the Stratocaster]]></title>
-        <id>https://www.bbc.com/news/articles/cqd01l9x8k48o</id>
-        <link href="https://www.bbc.com/news/articles/cqd01l9x8k48o"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opus Next (5.6/6) launch video of a fake model for SVG pelicans on bicycles]]></title>
-        <id>https://twitter.com/shneural/status/2125658847323017291</id>
-        <link href="https://twitter.com/shneural/status/2125658847323017291"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sierpinski Gaskets on Pascal's Triangle mod n]]></title>
-        <id>https://presheaf.blogspot.com/2026/11/sierpinski-gaskets-on-pascals-triangle.html</id>
-        <link href="https://presheaf.blogspot.com/2026/11/sierpinski-gaskets-on-pascals-triangle.html"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MCP v2: Moving from Tool Calling to Async Tasks, Elicitation, and File Handoffs]]></title>
-        <id>https://vigneshx.com/blog/what-is-mcp/</id>
-        <link href="https://vigneshx.com/blog/what-is-mcp/"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia halts chip shipments to south-East Asia]]></title>
-        <id>https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370</id>
-        <link href="https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Keeps Asking If It's Conscious [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ghxoAM5io18</id>
-        <link href="https://www.youtube.com/watch?v=ghxoAM5io18"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iranian authorities flog woman for performing without hijab]]></title>
-        <id>https://www.nbcnews.com/world/iran/iran-carries-flogging-singer-performed-hijab-rcna611047</id>
-        <link href="https://www.nbcnews.com/world/iran/iran-carries-flogging-singer-performed-hijab-rcna611047"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Getting around NPM typo squatting?]]></title>
-        <id>https://news.ycombinator.com/item?id=50652314</id>
-        <link href="https://news.ycombinator.com/item?id=50652314"/>
+        <title type="html"><![CDATA[Megatron-LM and Core – GPU-optimized library for training models at scale]]></title>
+        <id>https://github.com/NVIDIA/Megatron-LM</id>
+        <link href="https://github.com/NVIDIA/Megatron-LM"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
@@ -281,51 +148,198 @@
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This 27B AI Model Learned From Its Mistakes — and More Than Doubled Its Agent Benchmark Score]]></title>
-        <id>https://pub.towardsai.net/this-27b-ai-model-learned-from-its-mistakes-and-more-than-doubled-its-agent-benchmark-score-8d9856752bae?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/this-27b-ai-model-learned-from-its-mistakes-and-more-than-doubled-its-agent-benchmark-score-8d9856752bae?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Ask HN: Getting around NPM typo squatting?]]></title>
+        <id>https://news.ycombinator.com/item?id=50652314</id>
+        <link href="https://news.ycombinator.com/item?id=50652314"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Tiny AI Just Cracked the Secret Code of the Human Body]]></title>
-        <id>https://pub.towardsai.net/this-tiny-ai-just-cracked-the-secret-code-of-the-human-body-35d2e087f0cc?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/this-tiny-ai-just-cracked-the-secret-code-of-the-human-body-35d2e087f0cc?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Iranian authorities flog woman for performing without hijab]]></title>
+        <id>https://www.nbcnews.com/world/iran/iran-carries-flogging-singer-performed-hijab-rcna611047</id>
+        <link href="https://www.nbcnews.com/world/iran/iran-carries-flogging-singer-performed-hijab-rcna611047"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTTP 200 OK, Yet Completely Wrong: How We Built an Observability Engine for AI Agents]]></title>
-        <id>https://pub.towardsai.net/http-200-ok-yet-completely-wrong-how-we-built-an-observability-engine-for-ai-agents-f628b49e9f19?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/http-200-ok-yet-completely-wrong-how-we-built-an-observability-engine-for-ai-agents-f628b49e9f19?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[AI Keeps Asking If It's Conscious [video]]]></title>
+        <id>https://www.youtube.com/watch?v=ghxoAM5io18</id>
+        <link href="https://www.youtube.com/watch?v=ghxoAM5io18"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WhatsApp, Claude and Cursor Quietly Ate 60 GB of My Mac. Here’s Where It Hides.]]></title>
-        <id>https://pub.towardsai.net/what-is-system-data-on-mac-whats-safe-to-delete-1bcf3bc00c49?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/what-is-system-data-on-mac-whats-safe-to-delete-1bcf3bc00c49?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Nvidia halts chip shipments to south-East Asia]]></title>
+        <id>https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370</id>
+        <link href="https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chat or Cowork? Let Copilot Decide, but Set These Four Controls First]]></title>
-        <id>https://pub.towardsai.net/microsoft-copilot-home-chat-vs-cowork-routing-controls-380d8a1734d1?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/microsoft-copilot-home-chat-vs-cowork-routing-controls-380d8a1734d1?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[MCP v2: Moving from Tool Calling to Async Tasks, Elicitation, and File Handoffs]]></title>
+        <id>https://vigneshx.com/blog/what-is-mcp/</id>
+        <link href="https://vigneshx.com/blog/what-is-mcp/"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beyond the Basics: Why Claude Certified Developer Professional (CCDV-P) Is the Real Benchmark for…]]></title>
-        <id>https://pub.towardsai.net/beyond-the-basics-why-claude-certified-developer-professional-ccdv-p-is-the-real-benchmark-for-ed14597a1690?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/beyond-the-basics-why-claude-certified-developer-professional-ccdv-p-is-the-real-benchmark-for-ed14597a1690?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Sierpinski Gaskets on Pascal's Triangle mod n]]></title>
+        <id>https://presheaf.blogspot.com/2026/11/sierpinski-gaskets-on-pascals-triangle.html</id>
+        <link href="https://presheaf.blogspot.com/2026/11/sierpinski-gaskets-on-pascals-triangle.html"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Our MCP Checklist: No Reference Server Passed All 7 Checks]]></title>
-        <id>https://pub.towardsai.net/our-mcp-checklist-no-reference-server-passed-all-7-checks-29f6f81884ed?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/our-mcp-checklist-no-reference-server-passed-all-7-checks-29f6f81884ed?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Opus Next (5.6/6) launch video of a fake model for SVG pelicans on bicycles]]></title>
+        <id>https://twitter.com/shneural/status/2125658847323017291</id>
+        <link href="https://twitter.com/shneural/status/2125658847323017291"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guitar wars – the transatlantic battle over the Stratocaster]]></title>
+        <id>https://www.bbc.com/news/articles/cqd01l9x8k48o</id>
+        <link href="https://www.bbc.com/news/articles/cqd01l9x8k48o"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You've been lied to about Perl [video]]]></title>
+        <id>https://www.youtube.com/watch?v=TDV2ACy-oaU</id>
+        <link href="https://www.youtube.com/watch?v=TDV2ACy-oaU"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FastUnlock: Windows Narrator LockScreen Bypass 0day Vulnerability]]></title>
+        <id>https://github.com/MSNightmare/FastUnlock</id>
+        <link href="https://github.com/MSNightmare/FastUnlock"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shirudo doesn't work, this does]]></title>
+        <id>https://news.ycombinator.com/item?id=50650310</id>
+        <link href="https://news.ycombinator.com/item?id=50650310"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Little Free Bakery- come for the pastries and stay for community connection]]></title>
+        <id>https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection</id>
+        <link href="https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mayfly Chat: Transient Chat for Agents]]></title>
+        <id>https://blog.exe.dev/mayfly-chat</id>
+        <link href="https://blog.exe.dev/mayfly-chat"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GTA VI Ambient Context Monetization Spyware]]></title>
+        <id>https://twitter.com/leopardracer/status/2124519048096395309</id>
+        <link href="https://twitter.com/leopardracer/status/2124519048096395309"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Comprehensive Guide to Encrypted Inference with Tees]]></title>
+        <id>https://trynito.ai/blog/encrypted-inference-tees</id>
+        <link href="https://trynito.ai/blog/encrypted-inference-tees"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minipg: PostgreSQL as a Single Executable]]></title>
+        <id>https://progrium.github.io/minipg/</id>
+        <link href="https://progrium.github.io/minipg/"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: LEIE Check – Search the OIG health care exclusion list by name or NPI]]></title>
+        <id>https://leiecheck.com</id>
+        <link href="https://leiecheck.com"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster]]></title>
+        <id>https://twitter.com/thsottiaux/status/2125784147889393806</id>
+        <link href="https://twitter.com/thsottiaux/status/2125784147889393806"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get notified when a new vulnerability is exploited]]></title>
+        <id>https://pushout.app/@cve</id>
+        <link href="https://pushout.app/@cve"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HNSW Hit Memory and Filter Wall: Elasticsearch, OpenSearch Faiss, Qdrant, Milvus [video]]]></title>
+        <id>https://www.youtube.com/watch?v=fnZiKAPpn-A</id>
+        <link href="https://www.youtube.com/watch?v=fnZiKAPpn-A"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why would a country ask to stay least developed?]]></title>
+        <id>https://finshots.in/archive/why-would-a-country-ask-to-stay-least-developed/</id>
+        <link href="https://finshots.in/archive/why-would-a-country-ask-to-stay-least-developed/"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tools are Hiding NPM Audits from You]]></title>
+        <id>https://www.zachleat.com/web/npm-audit-report/</id>
+        <link href="https://www.zachleat.com/web/npm-audit-report/"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SemShareKV: Efficient KVCache Sharing for Semantically Similar Prompts (2025)]]></title>
+        <id>https://arxiv.org/abs/2509.24832</id>
+        <link href="https://arxiv.org/abs/2509.24832"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Last Boring Slide]]></title>
+        <id>https://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah#calendar-3</id>
+        <link href="https://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah#calendar-3"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Dieter Rams-inspired ambient drone synthesizer in the browser]]></title>
+        <id>https://sneed-and-feed.github.io/</id>
+        <link href="https://sneed-and-feed.github.io/"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email]]></title>
+        <id>https://techstackups.com/articles/google-workspace-ai-agents-mcp/</id>
+        <link href="https://techstackups.com/articles/google-workspace-ai-agents-mcp/"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency]]></title>
+        <id>https://arxiv.org/abs/2603.14133</id>
+        <link href="https://arxiv.org/abs/2603.14133"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a Reviewer Agent Found a Silent Bug in My LLM Eval]]></title>
+        <id>https://pub.towardsai.net/how-a-reviewer-agent-found-a-silent-bug-in-my-llm-eval-a4dc2ed987bc?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/how-a-reviewer-agent-found-a-silent-bug-in-my-llm-eval-a4dc2ed987bc?source=rss----98111c9905da---4"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
@@ -337,30 +351,16 @@
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[sqlite3_rsync: Database Remote-Copy Tool For SQLite]]></title>
-        <id>https://simonwillison.net/2026/Nov/26/sqlite3-rsync/</id>
-        <link href="https://simonwillison.net/2026/Nov/26/sqlite3-rsync/"/>
+        <title type="html"><![CDATA[Our MCP Checklist: No Reference Server Passed All 7 Checks]]></title>
+        <id>https://pub.towardsai.net/our-mcp-checklist-no-reference-server-passed-all-7-checks-29f6f81884ed?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/our-mcp-checklist-no-reference-server-passed-all-7-checks-29f6f81884ed?source=rss----98111c9905da---4"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[datasette-charts 0.3a0]]></title>
-        <id>https://simonwillison.net/2026/Nov/25/datasette-charts/</id>
-        <link href="https://simonwillison.net/2026/Nov/25/datasette-charts/"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code availability is not enough: schemas for documenting and extending data analysis]]></title>
-        <id>https://arxiv.org/abs/2611.33167</id>
-        <link href="https://arxiv.org/abs/2611.33167"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KiRA: Kronecker Input-Gated Rank Adaptation for Parameter-Efficient Fine-Tuning of Pretrained Models]]></title>
-        <id>https://arxiv.org/abs/2611.33236</id>
-        <link href="https://arxiv.org/abs/2611.33236"/>
+        <title type="html"><![CDATA[Beyond the Basics: Why Claude Certified Developer Professional (CCDV-P) Is the Real Benchmark for…]]></title>
+        <id>https://pub.towardsai.net/beyond-the-basics-why-claude-certified-developer-professional-ccdv-p-is-the-real-benchmark-for-ed14597a1690?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/beyond-the-basics-why-claude-certified-developer-professional-ccdv-p-is-the-real-benchmark-for-ed14597a1690?source=rss----98111c9905da---4"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
