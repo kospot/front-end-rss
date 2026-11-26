@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-26 10:03:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-26 12:03:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-11-26-One-page,-four-addresses:-the-SEO-bugs-your-browser-can't-show-you](https://dev.to/superfire/one-page-four-addresses-the-seo-bugs-your-browser-cant-show-you-1298) 
 - [2026-11-23-Technical-SEO-for-Modern-Websites:-7-Mistakes-Developers-Should-Avoid](https://dev.to/imolecule_softech/technical-seo-for-modern-websites-7-mistakes-developers-should-avoid-2gim) 
 - [2026-11-21-I-built-and-shipped-a-paid-Chrome-extension-for-local-SEO:-here's-the-stack-and-what-I-learned](https://dev.to/sunny9495/i-built-and-shipped-a-paid-chrome-extension-for-local-seo-heres-the-stack-and-what-i-learned-e6l) 
 - [2026-11-19-Shipping-new-mini-games-to-an-Android-app-without-app-updates:-a-remote-catalog,-account-free-voting-and-per-game-SEO-pages](https://dev.to/godivin/shipping-new-mini-games-to-an-android-app-without-app-updates-a-remote-catalog-account-free-327l) 
@@ -26,7 +27,7 @@
 - [2026-11-21-Generative-Engine-Optimisation:-Good-Geo-Relies-on-Good-SEO](https://bitilia.com/blog/generative-engine-optimisation/) 
 - [2026-11-20-Show-HN:-A-SEO-Tool-to-get-found-by-Google-and-get-cited-by-AI](https://mozolite.com) 
 - [2026-11-12-Astronomers-Find-Hints-of-Star-Population-That-Failed-to-Explode](https://www.caltech.edu/about/news/astronomers-find-hints-of-star-population-that-failed-to-explode) 
-- [2026-11-06-Claude-Code,-but-for-SEO](https://twitter.com/brodieseo/status/2118299596292305356) 
 - [2026-11-06-Technical/eng-breakdown-of-Framer's-Lighthouse-13.6-optimizations](https://www.framer.com/blog/lighthouse-13-6/) 
+- [2026-11-06-Claude-Code,-but-for-SEO](https://twitter.com/brodieseo/status/2118299596292305356) 
 - [2026-11-01-Show-HN:-Rust-crawler-for-SEO-and-content-audits,-with-optional-LLM-review](https://crawler.siteone.io/) 
 - [2026-10-29-Show-HN:-Startica-Open-source-app-for-SEO,-marketing,-accessibility-and-security](https://github.com/chriscasper/startica) 

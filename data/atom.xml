@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-26T02:03:23.224Z</updated>
+    <updated>2026-11-26T04:03:28.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,23 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Amazon loses its latest attempt to get out of handling more recall notices]]></title>
-        <id>https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc</id>
-        <link href="https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future]]></title>
-        <id>https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent</id>
-        <link href="https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Verge’s 2026 holiday gift guide for travelers]]></title>
-        <id>https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026</id>
-        <link href="https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026"/>
+        <title type="html"><![CDATA[The loneliest peptide party in New York]]></title>
+        <id>https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow</id>
+        <link href="https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
@@ -43,9 +29,23 @@
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The loneliest peptide party in New York]]></title>
-        <id>https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow</id>
-        <link href="https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow"/>
+        <title type="html"><![CDATA[The Verge’s 2026 holiday gift guide for travelers]]></title>
+        <id>https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026</id>
+        <link href="https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future]]></title>
+        <id>https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent</id>
+        <link href="https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon loses its latest attempt to get out of handling more recall notices]]></title>
+        <id>https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc</id>
+        <link href="https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
@@ -78,44 +78,44 @@
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You've been lied to about Perl [video]]]></title>
-        <id>https://www.youtube.com/watch?v=TDV2ACy-oaU</id>
-        <link href="https://www.youtube.com/watch?v=TDV2ACy-oaU"/>
+        <title type="html"><![CDATA[Why would a country ask to stay least developed?]]></title>
+        <id>https://finshots.in/archive/why-would-a-country-ask-to-stay-least-developed/</id>
+        <link href="https://finshots.in/archive/why-would-a-country-ask-to-stay-least-developed/"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FastUnlock: Windows Narrator LockScreen Bypass 0day Vulnerability]]></title>
-        <id>https://github.com/MSNightmare/FastUnlock</id>
-        <link href="https://github.com/MSNightmare/FastUnlock"/>
+        <title type="html"><![CDATA[HNSW Hit Memory and Filter Wall: Elasticsearch, OpenSearch Faiss, Qdrant, Milvus [video]]]></title>
+        <id>https://www.youtube.com/watch?v=fnZiKAPpn-A</id>
+        <link href="https://www.youtube.com/watch?v=fnZiKAPpn-A"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shirudo doesn't work, this does]]></title>
-        <id>https://news.ycombinator.com/item?id=50650310</id>
-        <link href="https://news.ycombinator.com/item?id=50650310"/>
+        <title type="html"><![CDATA[Get notified when a new vulnerability is exploited]]></title>
+        <id>https://pushout.app/@cve</id>
+        <link href="https://pushout.app/@cve"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Little Free Bakery- come for the pastries and stay for community connection]]></title>
-        <id>https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection</id>
-        <link href="https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection"/>
+        <title type="html"><![CDATA[OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster]]></title>
+        <id>https://twitter.com/thsottiaux/status/2125784147889393806</id>
+        <link href="https://twitter.com/thsottiaux/status/2125784147889393806"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mayfly Chat: Transient Chat for Agents]]></title>
-        <id>https://blog.exe.dev/mayfly-chat</id>
-        <link href="https://blog.exe.dev/mayfly-chat"/>
+        <title type="html"><![CDATA[Show HN: LEIE Check – Search the OIG health care exclusion list by name or NPI]]></title>
+        <id>https://leiecheck.com</id>
+        <link href="https://leiecheck.com"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GTA VI Ambient Context Monetization Spyware]]></title>
-        <id>https://twitter.com/leopardracer/status/2124519048096395309</id>
-        <link href="https://twitter.com/leopardracer/status/2124519048096395309"/>
+        <title type="html"><![CDATA[Minipg: PostgreSQL as a Single Executable]]></title>
+        <id>https://progrium.github.io/minipg/</id>
+        <link href="https://progrium.github.io/minipg/"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
@@ -127,9 +127,86 @@
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The GPU Does the Math. The CPU Runs the Show.]]></title>
-        <id>https://pub.towardsai.net/the-gpu-does-the-math-the-cpu-runs-the-show-f5983ecfa9d6?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/the-gpu-does-the-math-the-cpu-runs-the-show-f5983ecfa9d6?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[GTA VI Ambient Context Monetization Spyware]]></title>
+        <id>https://twitter.com/leopardracer/status/2124519048096395309</id>
+        <link href="https://twitter.com/leopardracer/status/2124519048096395309"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mayfly Chat: Transient Chat for Agents]]></title>
+        <id>https://blog.exe.dev/mayfly-chat</id>
+        <link href="https://blog.exe.dev/mayfly-chat"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Little Free Bakery- come for the pastries and stay for community connection]]></title>
+        <id>https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection</id>
+        <link href="https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shirudo doesn't work, this does]]></title>
+        <id>https://news.ycombinator.com/item?id=50650310</id>
+        <link href="https://news.ycombinator.com/item?id=50650310"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FastUnlock: Windows Narrator LockScreen Bypass 0day Vulnerability]]></title>
+        <id>https://github.com/MSNightmare/FastUnlock</id>
+        <link href="https://github.com/MSNightmare/FastUnlock"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You've been lied to about Perl [video]]]></title>
+        <id>https://www.youtube.com/watch?v=TDV2ACy-oaU</id>
+        <link href="https://www.youtube.com/watch?v=TDV2ACy-oaU"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This 27B AI Model Learned From Its Mistakes — and More Than Doubled Its Agent Benchmark Score]]></title>
+        <id>https://pub.towardsai.net/this-27b-ai-model-learned-from-its-mistakes-and-more-than-doubled-its-agent-benchmark-score-8d9856752bae?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/this-27b-ai-model-learned-from-its-mistakes-and-more-than-doubled-its-agent-benchmark-score-8d9856752bae?source=rss----98111c9905da---4"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Tiny AI Just Cracked the Secret Code of the Human Body]]></title>
+        <id>https://pub.towardsai.net/this-tiny-ai-just-cracked-the-secret-code-of-the-human-body-35d2e087f0cc?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/this-tiny-ai-just-cracked-the-secret-code-of-the-human-body-35d2e087f0cc?source=rss----98111c9905da---4"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP 200 OK, Yet Completely Wrong: How We Built an Observability Engine for AI Agents]]></title>
+        <id>https://pub.towardsai.net/http-200-ok-yet-completely-wrong-how-we-built-an-observability-engine-for-ai-agents-f628b49e9f19?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/http-200-ok-yet-completely-wrong-how-we-built-an-observability-engine-for-ai-agents-f628b49e9f19?source=rss----98111c9905da---4"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp, Claude and Cursor Quietly Ate 60 GB of My Mac. Here’s Where It Hides.]]></title>
+        <id>https://pub.towardsai.net/what-is-system-data-on-mac-whats-safe-to-delete-1bcf3bc00c49?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/what-is-system-data-on-mac-whats-safe-to-delete-1bcf3bc00c49?source=rss----98111c9905da---4"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chat or Cowork? Let Copilot Decide, but Set These Four Controls First]]></title>
+        <id>https://pub.towardsai.net/microsoft-copilot-home-chat-vs-cowork-routing-controls-380d8a1734d1?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/microsoft-copilot-home-chat-vs-cowork-routing-controls-380d8a1734d1?source=rss----98111c9905da---4"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond the Basics: Why Claude Certified Developer Professional (CCDV-P) Is the Real Benchmark for…]]></title>
+        <id>https://pub.towardsai.net/beyond-the-basics-why-claude-certified-developer-professional-ccdv-p-is-the-real-benchmark-for-ed14597a1690?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/beyond-the-basics-why-claude-certified-developer-professional-ccdv-p-is-the-real-benchmark-for-ed14597a1690?source=rss----98111c9905da---4"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
@@ -141,9 +218,9 @@
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beyond the Basics: Why Claude Certified Developer Professional (CCDV-P) Is the Real Benchmark for…]]></title>
-        <id>https://pub.towardsai.net/beyond-the-basics-why-claude-certified-developer-professional-ccdv-p-is-the-real-benchmark-for-ed14597a1690?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/beyond-the-basics-why-claude-certified-developer-professional-ccdv-p-is-the-real-benchmark-for-ed14597a1690?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[The GPU Does the Math. The CPU Runs the Show.]]></title>
+        <id>https://pub.towardsai.net/the-gpu-does-the-math-the-cpu-runs-the-show-f5983ecfa9d6?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/the-gpu-does-the-math-the-cpu-runs-the-show-f5983ecfa9d6?source=rss----98111c9905da---4"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
@@ -187,128 +264,51 @@ https://lightfin.io/
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Test Email Address Deliverability in Node.js: MX Records, Null MX and the Retry Trap]]></title>
-        <id>https://dev.to/emaildigit/test-email-address-deliverability-in-nodejs-mx-records-null-mx-and-the-retry-trap-19ei</id>
-        <link href="https://dev.to/emaildigit/test-email-address-deliverability-in-nodejs-mx-records-null-mx-and-the-retry-trap-19ei"/>
+        <title type="html"><![CDATA[One page, four addresses: the SEO bugs your browser can't show you]]></title>
+        <id>https://dev.to/superfire/one-page-four-addresses-the-seo-bugs-your-browser-cant-show-you-1298</id>
+        <link href="https://dev.to/superfire/one-page-four-addresses-the-seo-bugs-your-browser-cant-show-you-1298"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I built a GitHub roaster with zero backend (and 60 requests an hour)]]></title>
-        <id>https://dev.to/pranavatreya10/i-built-a-github-roaster-with-zero-backend-and-60-requests-an-hour-36c3</id>
-        <link href="https://dev.to/pranavatreya10/i-built-a-github-roaster-with-zero-backend-and-60-requests-an-hour-36c3"/>
+        <title type="html"><![CDATA[Use a Composite Order Key Without Delimiter Collisions in JavaScript]]></title>
+        <id>https://dev.to/tom_8d160ea57bf5c0395981d/use-a-composite-order-key-without-delimiter-collisions-in-javascript-5h0e</id>
+        <link href="https://dev.to/tom_8d160ea57bf5c0395981d/use-a-composite-order-key-without-delimiter-collisions-in-javascript-5h0e"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[473 checkboxes, 3 KB of JavaScript, no account: how a camo tracker stores progress]]></title>
-        <id>https://dev.to/succday/473-checkboxes-3-kb-of-javascript-no-account-how-a-camo-tracker-stores-progress-48p9</id>
-        <link href="https://dev.to/succday/473-checkboxes-3-kb-of-javascript-no-account-how-a-camo-tracker-stores-progress-48p9"/>
+        <title type="html"><![CDATA[Building a Zero-Upload In-Browser AI Auto Subtitle & SRT/VTT Caption Generator with Whisper WASM & WebGPU]]></title>
+        <id>https://dev.to/uchitchakma/building-a-zero-upload-in-browser-ai-auto-subtitle-srtvtt-caption-generator-with-whisper-wasm--5cla</id>
+        <link href="https://dev.to/uchitchakma/building-a-zero-upload-in-browser-ai-auto-subtitle-srtvtt-caption-generator-with-whisper-wasm--5cla"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A client-side PII redactor still ships its detection patterns]]></title>
-        <id>https://dev.to/veilvm/a-client-side-pii-redactor-still-ships-its-detection-patterns-3o7o</id>
-        <link href="https://dev.to/veilvm/a-client-side-pii-redactor-still-ships-its-detection-patterns-3o7o"/>
+        <title type="html"><![CDATA[Blocking by country on Cloudflare Workers (HTTP 451) without blocking search crawlers]]></title>
+        <id>https://dev.to/phil_bishop_87292d6835cda/blocking-by-country-on-cloudflare-workers-http-451-without-blocking-search-crawlers-5170</id>
+        <link href="https://dev.to/phil_bishop_87292d6835cda/blocking-by-country-on-cloudflare-workers-http-451-without-blocking-search-crawlers-5170"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A browser circuit simulator still ships its component models and solver]]></title>
-        <id>https://dev.to/veilvm/a-browser-circuit-simulator-still-ships-its-component-models-and-solver-i7l</id>
-        <link href="https://dev.to/veilvm/a-browser-circuit-simulator-still-ships-its-component-models-and-solver-i7l"/>
+        <title type="html"><![CDATA[Create an AI Podcast Generator with ElevenLabs]]></title>
+        <id>https://dev.to/voice_developer/create-an-ai-podcast-generator-with-elevenlabs-4a6d</id>
+        <link href="https://dev.to/voice_developer/create-an-ai-podcast-generator-with-elevenlabs-4a6d"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A client-side content-moderation filter still ships its wordlists and classifiers]]></title>
-        <id>https://dev.to/veilvm/a-client-side-content-moderation-filter-still-ships-its-wordlists-and-classifiers-1fgc</id>
-        <link href="https://dev.to/veilvm/a-client-side-content-moderation-filter-still-ships-its-wordlists-and-classifiers-1fgc"/>
+        <title type="html"><![CDATA[Test Morse timing as data before playing audio]]></title>
+        <id>https://dev.to/laconicleon/test-morse-timing-as-data-before-playing-audio-pid</id>
+        <link href="https://dev.to/laconicleon/test-morse-timing-as-data-before-playing-audio-pid"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ElevenLabs + React: Building a Voice-Enabled UI]]></title>
-        <id>https://dev.to/voice_developer/elevenlabs-react-building-a-voice-enabled-ui-2oja</id>
-        <link href="https://dev.to/voice_developer/elevenlabs-react-building-a-voice-enabled-ui-2oja"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to export WAV files and ZIP archives entirely in the browser with vanilla JavaScript]]></title>
-        <id>https://dev.to/secondwindmc/how-to-export-wav-files-and-zip-archives-entirely-in-the-browser-with-vanilla-javascript-1j1c</id>
-        <link href="https://dev.to/secondwindmc/how-to-export-wav-files-and-zip-archives-entirely-in-the-browser-with-vanilla-javascript-1j1c"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to choose automation infrastructure for a crypto trading team]]></title>
-        <id>https://dev.to/litprotocol/how-to-choose-automation-infrastructure-for-a-crypto-trading-team-g6m</id>
-        <link href="https://dev.to/litprotocol/how-to-choose-automation-infrastructure-for-a-crypto-trading-team-g6m"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NPM Under the Hood: How Dependency Management, Lockfiles, Workspaces, Publishing & Security Really Work]]></title>
-        <id>https://dev.to/abanoubkerols/npm-under-the-hood-how-dependency-management-lockfiles-workspaces-publishing-security-really-4l02</id>
-        <link href="https://dev.to/abanoubkerols/npm-under-the-hood-how-dependency-management-lockfiles-workspaces-publishing-security-really-4l02"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to deliver digital downloads automatically after BTCPay invoices with Netlify Functions]]></title>
-        <id>https://dev.to/secondwindmc/how-to-deliver-digital-downloads-automatically-after-btcpay-invoices-with-netlify-functions-c6j</id>
-        <link href="https://dev.to/secondwindmc/how-to-deliver-digital-downloads-automatically-after-btcpay-invoices-with-netlify-functions-c6j"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero-upload B2B workflows with Canvas, Web Crypto, and plain JavaScript]]></title>
-        <id>https://dev.to/eth_shihao_26864ff19b7b61/zero-upload-b2b-workflows-with-canvas-web-crypto-and-plain-javascript-2d24</id>
-        <link href="https://dev.to/eth_shihao_26864ff19b7b61/zero-upload-b2b-workflows-with-canvas-web-crypto-and-plain-javascript-2d24"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Built a 200-Page Red/Blue PDF Blueprint Overlay & Diff Tool 100% in Browser Canvas (Zero Backend)]]></title>
-        <id>https://dev.to/ryan_w_lab/how-i-built-a-200-page-redblue-pdf-blueprint-overlay-diff-tool-100-in-browser-canvas-zero-2be7</id>
-        <link href="https://dev.to/ryan_w_lab/how-i-built-a-200-page-redblue-pdf-blueprint-overlay-diff-tool-100-in-browser-canvas-zero-2be7"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Before Switching to P2P, I Measured Whether WebRTC Would Even Connect]]></title>
-        <id>https://dev.to/kangchanghwan/before-switching-to-p2p-i-measured-whether-webrtc-would-even-connect-213d</id>
-        <link href="https://dev.to/kangchanghwan/before-switching-to-p2p-i-measured-whether-webrtc-would-even-connect-213d"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lightning checkout for static digital products with OpenReceive, NWC, and Netlify Functions]]></title>
-        <id>https://dev.to/secondwindmc/lightning-checkout-for-static-digital-products-with-openreceive-nwc-and-netlify-functions-42bf</id>
-        <link href="https://dev.to/secondwindmc/lightning-checkout-for-static-digital-products-with-openreceive-nwc-and-netlify-functions-42bf"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is FFMI a Misleading Number? Build an FFMI Calculator in JavaScript That Shows Its Error Bars]]></title>
-        <id>https://dev.to/charlotte_nelson_9aadde70/is-ffmi-a-misleading-number-build-an-ffmi-calculator-in-javascript-that-shows-its-error-bars-e1j</id>
-        <link href="https://dev.to/charlotte_nelson_9aadde70/is-ffmi-a-misleading-number-build-an-ffmi-calculator-in-javascript-that-shows-its-error-bars-e1j"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modeling Japan's 10 Regional Tiered Electricity Tariffs in a Zero-Backend Web App]]></title>
-        <id>https://dev.to/laozhangname/modeling-japans-10-regional-tiered-electricity-tariffs-in-a-zero-backend-web-app-73a</id>
-        <link href="https://dev.to/laozhangname/modeling-japans-10-regional-tiered-electricity-tariffs-in-a-zero-backend-web-app-73a"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Exchange Rate API with No API Key: One URL, Any Base Currency, CORS On]]></title>
-        <id>https://dev.to/allratestodaycom/free-exchange-rate-api-with-no-api-key-one-url-any-base-currency-cors-on-197h</id>
-        <link href="https://dev.to/allratestodaycom/free-exchange-rate-api-with-no-api-key-one-url-any-base-currency-cors-on-197h"/>
+        <title type="html"><![CDATA[Generating RFC 5545 .ics Calendar Files in 35 Lines of Zero-Dependency JS (2027 Moon Phases & Kodak's 13-Month Grid)]]></title>
+        <id>https://dev.to/er_carltz_ad2c0e2e57f54b3/generating-rfc-5545-ics-calendar-files-in-35-lines-of-zero-dependency-js-2027-moon-phases--3495</id>
+        <link href="https://dev.to/er_carltz_ad2c0e2e57f54b3/generating-rfc-5545-ics-calendar-files-in-35-lines-of-zero-dependency-js-2027-moon-phases--3495"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
@@ -320,66 +320,66 @@ https://lightfin.io/
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Motion Design with CSS Anchors]]></title>
-        <id>https://blog.master.dev/motion-design-with-css-anchors/</id>
-        <link href="https://blog.master.dev/motion-design-with-css-anchors/"/>
+        <title type="html"><![CDATA[Free Exchange Rate API with No API Key: One URL, Any Base Currency, CORS On]]></title>
+        <id>https://dev.to/allratestodaycom/free-exchange-rate-api-with-no-api-key-one-url-any-base-currency-cors-on-197h</id>
+        <link href="https://dev.to/allratestodaycom/free-exchange-rate-api-with-no-api-key-one-url-any-base-currency-cors-on-197h"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你]]></title>
-        <id>https://sspai.com/post/119310</id>
-        <link href="https://sspai.com/post/119310"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Modeling Japan's 10 Regional Tiered Electricity Tariffs in a Zero-Backend Web App]]></title>
+        <id>https://dev.to/laozhangname/modeling-japans-10-regional-tiered-electricity-tariffs-in-a-zero-backend-web-app-73a</id>
+        <link href="https://dev.to/laozhangname/modeling-japans-10-regional-tiered-electricity-tariffs-in-a-zero-backend-web-app-73a"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV]]></title>
-        <id>https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa</id>
-        <link href="https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Is FFMI a Misleading Number? Build an FFMI Calculator in JavaScript That Shows Its Error Bars]]></title>
+        <id>https://dev.to/charlotte_nelson_9aadde70/is-ffmi-a-misleading-number-build-an-ffmi-calculator-in-javascript-that-shows-its-error-bars-e1j</id>
+        <link href="https://dev.to/charlotte_nelson_9aadde70/is-ffmi-a-misleading-number-build-an-ffmi-calculator-in-javascript-that-shows-its-error-bars-e1j"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tapo’s new indoor security camera includes a touchscreen for video calls]]></title>
-        <id>https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt</id>
-        <link href="https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Lightning checkout for static digital products with OpenReceive, NWC, and Netlify Functions]]></title>
+        <id>https://dev.to/secondwindmc/lightning-checkout-for-static-digital-products-with-openreceive-nwc-and-netlify-functions-42bf</id>
+        <link href="https://dev.to/secondwindmc/lightning-checkout-for-static-digital-products-with-openreceive-nwc-and-netlify-functions-42bf"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Verge’s 2026 holiday gift guide for moms]]></title>
-        <id>https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026</id>
-        <link href="https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Before Switching to P2P, I Measured Whether WebRTC Would Even Connect]]></title>
+        <id>https://dev.to/kangchanghwan/before-switching-to-p2p-i-measured-whether-webrtc-would-even-connect-213d</id>
+        <link href="https://dev.to/kangchanghwan/before-switching-to-p2p-i-measured-whether-webrtc-would-even-connect-213d"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Now Firefox can select which sites use its VPN, and clear your browsing history with one click]]></title>
-        <id>https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button</id>
-        <link href="https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
+        <title type="html"><![CDATA[How I Built a 200-Page Red/Blue PDF Blueprint Overlay & Diff Tool 100% in Browser Canvas (Zero Backend)]]></title>
+        <id>https://dev.to/ryan_w_lab/how-i-built-a-200-page-redblue-pdf-blueprint-overlay-diff-tool-100-in-browser-canvas-zero-2be7</id>
+        <link href="https://dev.to/ryan_w_lab/how-i-built-a-200-page-redblue-pdf-blueprint-overlay-diff-tool-100-in-browser-canvas-zero-2be7"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Huawei found guilty of stealing trade secrets]]></title>
-        <id>https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial</id>
-        <link href="https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Zero-upload B2B workflows with Canvas, Web Crypto, and plain JavaScript]]></title>
+        <id>https://dev.to/eth_shihao_26864ff19b7b61/zero-upload-b2b-workflows-with-canvas-web-crypto-and-plain-javascript-2d24</id>
+        <link href="https://dev.to/eth_shihao_26864ff19b7b61/zero-upload-b2b-workflows-with-canvas-web-crypto-and-plain-javascript-2d24"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Verge’s guide to affordable holiday gifts under $25]]></title>
-        <id>https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026</id>
-        <link href="https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
+        <title type="html"><![CDATA[How to deliver digital downloads automatically after BTCPay invoices with Netlify Functions]]></title>
+        <id>https://dev.to/secondwindmc/how-to-deliver-digital-downloads-automatically-after-btcpay-invoices-with-netlify-functions-c6j</id>
+        <link href="https://dev.to/secondwindmc/how-to-deliver-digital-downloads-automatically-after-btcpay-invoices-with-netlify-functions-c6j"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Jump-Roping Toy Soldiers Accidentally Took Over Your FYP]]></title>
-        <id>https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/</id>
-        <link href="https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/"/>
-        <updated>2026-11-24T16:00:00.000Z</updated>
-        <published>2026-11-24T16:00:00.000Z</published>
+        <title type="html"><![CDATA[NPM Under the Hood: How Dependency Management, Lockfiles, Workspaces, Publishing & Security Really Work]]></title>
+        <id>https://dev.to/abanoubkerols/npm-under-the-hood-how-dependency-management-lockfiles-workspaces-publishing-security-really-4l02</id>
+        <link href="https://dev.to/abanoubkerols/npm-under-the-hood-how-dependency-management-lockfiles-workspaces-publishing-security-really-4l02"/>
+        <updated>2026-11-25T16:00:00.000Z</updated>
+        <published>2026-11-25T16:00:00.000Z</published>
     </entry>
 </feed>
