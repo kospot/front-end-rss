@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-27 21:05:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-27 23:04:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-11-27-Local-SEO-checklist-for-developers-shipping-small-business-sites](https://dev.to/leadreef_ai/local-seo-checklist-for-developers-shipping-small-business-sites-58bl) 
 - [2026-11-26-One-page,-four-addresses:-the-SEO-bugs-your-browser-can't-show-you](https://dev.to/superfire/one-page-four-addresses-the-seo-bugs-your-browser-cant-show-you-1298) 
 - [2026-11-23-Technical-SEO-for-Modern-Websites:-7-Mistakes-Developers-Should-Avoid](https://dev.to/imolecule_softech/technical-seo-for-modern-websites-7-mistakes-developers-should-avoid-2gim) 
 - [2026-11-21-I-built-and-shipped-a-paid-Chrome-extension-for-local-SEO:-here's-the-stack-and-what-I-learned](https://dev.to/sunny9495/i-built-and-shipped-a-paid-chrome-extension-for-local-seo-heres-the-stack-and-what-i-learned-e6l) 

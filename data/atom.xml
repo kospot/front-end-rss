@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-27T13:05:11.886Z</updated>
+    <updated>2026-11-27T15:05:00.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,16 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[Netflix’s coziest show has made a very quiet return]]></title>
-        <id>https://www.theverge.com/entertainment/1043489/midnight-diner-season3</id>
-        <link href="https://www.theverge.com/entertainment/1043489/midnight-diner-season3"/>
+        <title type="html"><![CDATA[Android’s DIY widgets are a bit of vibe-coding fun]]></title>
+        <id>https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini</id>
+        <link href="https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This gaming mouse should be a Logitech-killer, but it has one big flaw]]></title>
+        <id>https://www.theverge.com/games/1043028/keychron-g6-he-hall-effect-magoptic-gaming-mouse-impressions</id>
+        <link href="https://www.theverge.com/games/1043028/keychron-g6-he-hall-effect-magoptic-gaming-mouse-impressions"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
@@ -25,6 +32,13 @@
         <title type="html"><![CDATA[Federal judge blocks the FCC from reviewing ABC’s licenses early]]></title>
         <id>https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block</id>
         <link href="https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix’s coziest show has made a very quiet return]]></title>
+        <id>https://www.theverge.com/entertainment/1043489/midnight-diner-season3</id>
+        <link href="https://www.theverge.com/entertainment/1043489/midnight-diner-season3"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
@@ -302,30 +316,9 @@
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic’s Claude Is Getting Smarter: 5 Things You Should Know in 2026]]></title>
-        <id>https://pub.towardsai.net/anthropics-claude-is-getting-smarter-5-things-you-should-know-in-2026-ab4577877619?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/anthropics-claude-is-getting-smarter-5-things-you-should-know-in-2026-ab4577877619?source=rss----98111c9905da---4"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This 1.8B Translation Model Beat a 30B Predecessor on One Real-World Test]]></title>
-        <id>https://pub.towardsai.net/this-1-8b-translation-model-beat-a-30b-predecessor-on-one-real-world-test-728d9a1706e3?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/this-1-8b-translation-model-beat-a-30b-predecessor-on-one-real-world-test-728d9a1706e3?source=rss----98111c9905da---4"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[342 Penguins Show How a Correlation Can Point Backwards]]></title>
-        <id>https://pub.towardsai.net/pearson-correlation-built-by-hand-covariance-to-r-a950579cda09?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/pearson-correlation-built-by-hand-covariance-to-r-a950579cda09?source=rss----98111c9905da---4"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why RNNs and LSTMs Died on Modern GPUs (It Was Not Just Vanishing Gradients)]]></title>
-        <id>https://pub.towardsai.net/why-rnns-and-lstms-died-on-modern-gpus-it-was-not-just-vanishing-gradients-8a833836c125?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-rnns-and-lstms-died-on-modern-gpus-it-was-not-just-vanishing-gradients-8a833836c125?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[THIRSTDAY #13: Your First Job May Disappear Before Anyone Gets Fired]]></title>
+        <id>https://pub.towardsai.net/thirstday-13-your-first-job-may-disappear-before-anyone-gets-fired-9b153e041535?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/thirstday-13-your-first-job-may-disappear-before-anyone-gets-fired-9b153e041535?source=rss----98111c9905da---4"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
@@ -337,9 +330,30 @@
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[THIRSTDAY #13: Your First Job May Disappear Before Anyone Gets Fired]]></title>
-        <id>https://pub.towardsai.net/thirstday-13-your-first-job-may-disappear-before-anyone-gets-fired-9b153e041535?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/thirstday-13-your-first-job-may-disappear-before-anyone-gets-fired-9b153e041535?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Why RNNs and LSTMs Died on Modern GPUs (It Was Not Just Vanishing Gradients)]]></title>
+        <id>https://pub.towardsai.net/why-rnns-and-lstms-died-on-modern-gpus-it-was-not-just-vanishing-gradients-8a833836c125?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-rnns-and-lstms-died-on-modern-gpus-it-was-not-just-vanishing-gradients-8a833836c125?source=rss----98111c9905da---4"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[342 Penguins Show How a Correlation Can Point Backwards]]></title>
+        <id>https://pub.towardsai.net/pearson-correlation-built-by-hand-covariance-to-r-a950579cda09?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/pearson-correlation-built-by-hand-covariance-to-r-a950579cda09?source=rss----98111c9905da---4"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This 1.8B Translation Model Beat a 30B Predecessor on One Real-World Test]]></title>
+        <id>https://pub.towardsai.net/this-1-8b-translation-model-beat-a-30b-predecessor-on-one-real-world-test-728d9a1706e3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/this-1-8b-translation-model-beat-a-30b-predecessor-on-one-real-world-test-728d9a1706e3?source=rss----98111c9905da---4"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic’s Claude Is Getting Smarter: 5 Things You Should Know in 2026]]></title>
+        <id>https://pub.towardsai.net/anthropics-claude-is-getting-smarter-5-things-you-should-know-in-2026-ab4577877619?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/anthropics-claude-is-getting-smarter-5-things-you-should-know-in-2026-ab4577877619?source=rss----98111c9905da---4"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
@@ -347,26 +361,6 @@
         <title type="html"><![CDATA[How cutting-edge prosthetics can help probe the human mind]]></title>
         <id>https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/</id>
         <link href="https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[
-Vite+ 1.0 is out
-]]></title>
-        <id>
-https://voidzero.dev/posts/announcing-vite-plus-1-0
-</id>
-        <link href="
-https://voidzero.dev/posts/announcing-vite-plus-1-0
-"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An electricity bill isn't price times kWh: 81 JCP&L tariff revisions and a 3,000-case PHP/JS parity test]]></title>
-        <id>https://dev.to/jeremiah_say/an-electricity-bill-isnt-price-times-kwh-81-jcpl-tariff-revisions-and-a-3000-case-phpjs-parity-5c92</id>
-        <link href="https://dev.to/jeremiah_say/an-electricity-bill-isnt-price-times-kwh-81-jcpl-tariff-revisions-and-a-3000-case-phpjs-parity-5c92"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
