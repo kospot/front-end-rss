@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-27T02:02:52.247Z</updated>
+    <updated>2026-11-27T04:03:19.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -141,6 +141,41 @@
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[THIRSTDAY #13: Your First Job May Disappear Before Anyone Gets Fired]]></title>
+        <id>https://pub.towardsai.net/thirstday-13-your-first-job-may-disappear-before-anyone-gets-fired-9b153e041535?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/thirstday-13-your-first-job-may-disappear-before-anyone-gets-fired-9b153e041535?source=rss----98111c9905da---4"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This 560B Parameter AI Model Is Designed for Long-Horizon Medical Tasks]]></title>
+        <id>https://pub.towardsai.net/this-560b-parameter-ai-model-is-designed-for-long-horizon-medical-tasks-25c577d61014?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/this-560b-parameter-ai-model-is-designed-for-long-horizon-medical-tasks-25c577d61014?source=rss----98111c9905da---4"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why RNNs and LSTMs Died on Modern GPUs (It Was Not Just Vanishing Gradients)]]></title>
+        <id>https://pub.towardsai.net/why-rnns-and-lstms-died-on-modern-gpus-it-was-not-just-vanishing-gradients-8a833836c125?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-rnns-and-lstms-died-on-modern-gpus-it-was-not-just-vanishing-gradients-8a833836c125?source=rss----98111c9905da---4"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[342 Penguins Show How a Correlation Can Point Backwards]]></title>
+        <id>https://pub.towardsai.net/pearson-correlation-built-by-hand-covariance-to-r-a950579cda09?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/pearson-correlation-built-by-hand-covariance-to-r-a950579cda09?source=rss----98111c9905da---4"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This 1.8B Translation Model Beat a 30B Predecessor on One Real-World Test]]></title>
+        <id>https://pub.towardsai.net/this-1-8b-translation-model-beat-a-30b-predecessor-on-one-real-world-test-728d9a1706e3?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/this-1-8b-translation-model-beat-a-30b-predecessor-on-one-real-world-test-728d9a1706e3?source=rss----98111c9905da---4"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Anthropic’s Claude Is Getting Smarter: 5 Things You Should Know in 2026]]></title>
         <id>https://pub.towardsai.net/anthropics-claude-is-getting-smarter-5-things-you-should-know-in-2026-ab4577877619?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/anthropics-claude-is-getting-smarter-5-things-you-should-know-in-2026-ab4577877619?source=rss----98111c9905da---4"/>
@@ -148,100 +183,64 @@
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WebRTC Leaks in Chrome: Why a Proxy Doesn't Stop Them, and How to Actually Check]]></title>
-        <id>https://dev.to/axioapi/webrtc-leaks-in-chrome-why-a-proxy-doesnt-stop-them-and-how-to-actually-check-5adj</id>
-        <link href="https://dev.to/axioapi/webrtc-leaks-in-chrome-why-a-proxy-doesnt-stop-them-and-how-to-actually-check-5adj"/>
+        <title type="html"><![CDATA[
+Vite+ 1.0 is out
+]]></title>
+        <id>
+https://voidzero.dev/posts/announcing-vite-plus-1-0
+</id>
+        <link href="
+https://voidzero.dev/posts/announcing-vite-plus-1-0
+"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why I Built a 100% Client-Side Arabic PDF & Merchant Toolkit (Zero Server Uploads)]]></title>
-        <id>https://dev.to/mahmoud_hamdy_359dcf342db/why-i-built-a-100-client-side-arabic-pdf-merchant-toolkit-zero-server-uploads-2gd1</id>
-        <link href="https://dev.to/mahmoud_hamdy_359dcf342db/why-i-built-a-100-client-side-arabic-pdf-merchant-toolkit-zero-server-uploads-2gd1"/>
+        <title type="html"><![CDATA[How to Check If a Clinic or MedSpa Website Leaks Meta Pixel, GA4, or Clarity Under HIPAA Rules (2026)]]></title>
+        <id>https://dev.to/tangyipeng/how-to-check-if-a-clinic-or-medspa-website-leaks-meta-pixel-ga4-or-clarity-under-hipaa-rules-3h8c</id>
+        <link href="https://dev.to/tangyipeng/how-to-check-if-a-clinic-or-medspa-website-leaks-meta-pixel-ga4-or-clarity-under-hipaa-rules-3h8c"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Zero-Library Interactive 2D CAD Canvas in TypeScript: Cursor Zoom, Ortho/T-Junction Snapping & Layered Hit-Testing]]></title>
-        <id>https://dev.to/clara_sutton/building-a-zero-library-interactive-2d-cad-canvas-in-typescript-cursor-zoom-orthot-junction-3ha7</id>
-        <link href="https://dev.to/clara_sutton/building-a-zero-library-interactive-2d-cad-canvas-in-typescript-cursor-zoom-orthot-junction-3ha7"/>
+        <title type="html"><![CDATA[Building Non-Square Grids & Fair Isle Float Checks in HTML5 Canvas]]></title>
+        <id>https://dev.to/fatt/building-non-square-grids-fair-isle-float-checks-in-html5-canvas-3jfl</id>
+        <link href="https://dev.to/fatt/building-non-square-grids-fair-isle-float-checks-in-html5-canvas-3jfl"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Does decoding a JWT mean the token is valid?]]></title>
-        <id>https://dev.to/ameenusman/does-decoding-a-jwt-mean-the-token-is-valid-300</id>
-        <link href="https://dev.to/ameenusman/does-decoding-a-jwt-mean-the-token-is-valid-300"/>
+        <title type="html"><![CDATA[Modelling EU VAT across 7 countries in a static site (no backend, no library)]]></title>
+        <id>https://dev.to/daniel_wang_718ea181919c8/modelling-eu-vat-across-7-countries-in-a-static-site-no-backend-no-library-51gj</id>
+        <link href="https://dev.to/daniel_wang_718ea181919c8/modelling-eu-vat-across-7-countries-in-a-static-site-no-backend-no-library-51gj"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6 characters, 32 symbols, 3 rooms a minute: the arithmetic behind account-less room codes]]></title>
-        <id>https://dev.to/succday/6-characters-32-symbols-3-rooms-a-minute-the-arithmetic-behind-account-less-room-codes-3p6b</id>
-        <link href="https://dev.to/succday/6-characters-32-symbols-3-rooms-a-minute-the-arithmetic-behind-account-less-room-codes-3p6b"/>
+        <title type="html"><![CDATA[Why `"SKU42" === "SKU42"` Can Be False When One Value Is Pasted]]></title>
+        <id>https://dev.to/lmxjw3/why-sku42-sku42-can-be-false-when-one-value-is-pasted-3058</id>
+        <link href="https://dev.to/lmxjw3/why-sku42-sku42-can-be-false-when-one-value-is-pasted-3058"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Practical JavaScript Async/Await Patterns for Clean API Calls]]></title>
-        <id>https://dev.to/yongchang_zhang_d603bd1c1/practical-javascript-asyncawait-patterns-for-clean-api-calls-gcl</id>
-        <link href="https://dev.to/yongchang_zhang_d603bd1c1/practical-javascript-asyncawait-patterns-for-clean-api-calls-gcl"/>
+        <title type="html"><![CDATA[Show “Copied” Only After the Clipboard Write Succeeds]]></title>
+        <id>https://dev.to/yanwang/show-copied-only-after-the-clipboard-write-succeeds-4bhh</id>
+        <link href="https://dev.to/yanwang/show-copied-only-after-the-clipboard-write-succeeds-4bhh"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building frame-accurate browser video review without forcing clients to sign up]]></title>
-        <id>https://dev.to/fusiastudio/building-frame-accurate-browser-video-review-without-forcing-clients-to-sign-up-197h</id>
-        <link href="https://dev.to/fusiastudio/building-frame-accurate-browser-video-review-without-forcing-clients-to-sign-up-197h"/>
+        <title type="html"><![CDATA[remove.bg API Shuts Down in 4 Days (Dec 1): How to Migrate in 1 Line Without Rewriting for Async Polling]]></title>
+        <id>https://dev.to/a353551071/removebg-api-shuts-down-in-4-days-dec-1-how-to-migrate-in-1-line-without-rewriting-for-async-4doj</id>
+        <link href="https://dev.to/a353551071/removebg-api-shuts-down-in-4-days-dec-1-how-to-migrate-in-1-line-without-rewriting-for-async-4doj"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Render a Catmull–Rom camera path for AI video]]></title>
-        <id>https://dev.to/eth_shihao_26864ff19b7b61/render-a-catmull-rom-camera-path-for-ai-video-5b9g</id>
-        <link href="https://dev.to/eth_shihao_26864ff19b7b61/render-a-catmull-rom-camera-path-for-ai-video-5b9g"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built a barcode generator that never sends your data to a server. Printing was the hard part.]]></title>
-        <id>https://dev.to/ajay_sukhadeve_8cef324e7a/i-built-a-barcode-generator-that-never-sends-your-data-to-a-server-printing-was-the-hard-part-55fe</id>
-        <link href="https://dev.to/ajay_sukhadeve_8cef324e7a/i-built-a-barcode-generator-that-never-sends-your-data-to-a-server-printing-was-the-hard-part-55fe"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Browser-Local WebGPU PSD Editing in 2026: Replacing Ad-Heavy Cloud Photo Editors Without Uploading Client Files]]></title>
-        <id>https://dev.to/aiacstudio/browser-local-webgpu-psd-editing-in-2026-replacing-ad-heavy-cloud-photo-editors-without-uploading-43j3</id>
-        <link href="https://dev.to/aiacstudio/browser-local-webgpu-psd-editing-in-2026-replacing-ad-heavy-cloud-photo-editors-without-uploading-43j3"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Never Paste Production JWTs Into Server-Side Decoders (and How Web Crypto Solves It)]]></title>
-        <id>https://dev.to/kitwharf/why-you-should-never-paste-production-jwts-into-server-side-decoders-and-how-web-crypto-solves-it-4gee</id>
-        <link href="https://dev.to/kitwharf/why-you-should-never-paste-production-jwts-into-server-side-decoders-and-how-web-crypto-solves-it-4gee"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Label Is Not a Carrier Handoff: Model Fulfillment Events Explicitly]]></title>
-        <id>https://dev.to/tom_8d160ea57bf5c0395981d/a-label-is-not-a-carrier-handoff-model-fulfillment-events-explicitly-15pk</id>
-        <link href="https://dev.to/tom_8d160ea57bf5c0395981d/a-label-is-not-a-carrier-handoff-model-fulfillment-events-explicitly-15pk"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js Bundling a wasm Package Breaks Only in Production]]></title>
-        <id>https://dev.to/cometakaito/nextjs-bundling-a-wasm-package-breaks-only-in-production-2ggd</id>
-        <link href="https://dev.to/cometakaito/nextjs-bundling-a-wasm-package-breaks-only-in-production-2ggd"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Vietnamese payroll calculator: the 4 rules that trip up developers]]></title>
-        <id>https://dev.to/pmda3010/building-a-vietnamese-payroll-calculator-the-4-rules-that-trip-up-developers-12h0</id>
-        <link href="https://dev.to/pmda3010/building-a-vietnamese-payroll-calculator-the-4-rules-that-trip-up-developers-12h0"/>
+        <title type="html"><![CDATA[Parsing ChatGPT's Nested Mapping Tree and Export ZIPs in Zero-Dependency Browser JS]]></title>
+        <id>https://dev.to/_0db220eb1b87373faff664/parsing-chatgpts-nested-mapping-tree-and-export-zips-in-zero-dependency-browser-js-31cb</id>
+        <link href="https://dev.to/_0db220eb1b87373faff664/parsing-chatgpts-nested-mapping-tree-and-export-zips-in-zero-dependency-browser-js-31cb"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
@@ -253,9 +252,100 @@
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parsing ChatGPT's Nested Mapping Tree and Export ZIPs in Zero-Dependency Browser JS]]></title>
-        <id>https://dev.to/_0db220eb1b87373faff664/parsing-chatgpts-nested-mapping-tree-and-export-zips-in-zero-dependency-browser-js-31cb</id>
-        <link href="https://dev.to/_0db220eb1b87373faff664/parsing-chatgpts-nested-mapping-tree-and-export-zips-in-zero-dependency-browser-js-31cb"/>
+        <title type="html"><![CDATA[Building a Vietnamese payroll calculator: the 4 rules that trip up developers]]></title>
+        <id>https://dev.to/pmda3010/building-a-vietnamese-payroll-calculator-the-4-rules-that-trip-up-developers-12h0</id>
+        <link href="https://dev.to/pmda3010/building-a-vietnamese-payroll-calculator-the-4-rules-that-trip-up-developers-12h0"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js Bundling a wasm Package Breaks Only in Production]]></title>
+        <id>https://dev.to/cometakaito/nextjs-bundling-a-wasm-package-breaks-only-in-production-2ggd</id>
+        <link href="https://dev.to/cometakaito/nextjs-bundling-a-wasm-package-breaks-only-in-production-2ggd"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Label Is Not a Carrier Handoff: Model Fulfillment Events Explicitly]]></title>
+        <id>https://dev.to/tom_8d160ea57bf5c0395981d/a-label-is-not-a-carrier-handoff-model-fulfillment-events-explicitly-15pk</id>
+        <link href="https://dev.to/tom_8d160ea57bf5c0395981d/a-label-is-not-a-carrier-handoff-model-fulfillment-events-explicitly-15pk"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Never Paste Production JWTs Into Server-Side Decoders (and How Web Crypto Solves It)]]></title>
+        <id>https://dev.to/kitwharf/why-you-should-never-paste-production-jwts-into-server-side-decoders-and-how-web-crypto-solves-it-4gee</id>
+        <link href="https://dev.to/kitwharf/why-you-should-never-paste-production-jwts-into-server-side-decoders-and-how-web-crypto-solves-it-4gee"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Browser-Local WebGPU PSD Editing in 2026: Replacing Ad-Heavy Cloud Photo Editors Without Uploading Client Files]]></title>
+        <id>https://dev.to/aiacstudio/browser-local-webgpu-psd-editing-in-2026-replacing-ad-heavy-cloud-photo-editors-without-uploading-43j3</id>
+        <link href="https://dev.to/aiacstudio/browser-local-webgpu-psd-editing-in-2026-replacing-ad-heavy-cloud-photo-editors-without-uploading-43j3"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a barcode generator that never sends your data to a server. Printing was the hard part.]]></title>
+        <id>https://dev.to/ajay_sukhadeve_8cef324e7a/i-built-a-barcode-generator-that-never-sends-your-data-to-a-server-printing-was-the-hard-part-55fe</id>
+        <link href="https://dev.to/ajay_sukhadeve_8cef324e7a/i-built-a-barcode-generator-that-never-sends-your-data-to-a-server-printing-was-the-hard-part-55fe"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Render a Catmull–Rom camera path for AI video]]></title>
+        <id>https://dev.to/eth_shihao_26864ff19b7b61/render-a-catmull-rom-camera-path-for-ai-video-5b9g</id>
+        <link href="https://dev.to/eth_shihao_26864ff19b7b61/render-a-catmull-rom-camera-path-for-ai-video-5b9g"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building frame-accurate browser video review without forcing clients to sign up]]></title>
+        <id>https://dev.to/fusiastudio/building-frame-accurate-browser-video-review-without-forcing-clients-to-sign-up-197h</id>
+        <link href="https://dev.to/fusiastudio/building-frame-accurate-browser-video-review-without-forcing-clients-to-sign-up-197h"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical JavaScript Async/Await Patterns for Clean API Calls]]></title>
+        <id>https://dev.to/yongchang_zhang_d603bd1c1/practical-javascript-asyncawait-patterns-for-clean-api-calls-gcl</id>
+        <link href="https://dev.to/yongchang_zhang_d603bd1c1/practical-javascript-asyncawait-patterns-for-clean-api-calls-gcl"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 characters, 32 symbols, 3 rooms a minute: the arithmetic behind account-less room codes]]></title>
+        <id>https://dev.to/succday/6-characters-32-symbols-3-rooms-a-minute-the-arithmetic-behind-account-less-room-codes-3p6b</id>
+        <link href="https://dev.to/succday/6-characters-32-symbols-3-rooms-a-minute-the-arithmetic-behind-account-less-room-codes-3p6b"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does decoding a JWT mean the token is valid?]]></title>
+        <id>https://dev.to/ameenusman/does-decoding-a-jwt-mean-the-token-is-valid-300</id>
+        <link href="https://dev.to/ameenusman/does-decoding-a-jwt-mean-the-token-is-valid-300"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Zero-Library Interactive 2D CAD Canvas in TypeScript: Cursor Zoom, Ortho/T-Junction Snapping & Layered Hit-Testing]]></title>
+        <id>https://dev.to/clara_sutton/building-a-zero-library-interactive-2d-cad-canvas-in-typescript-cursor-zoom-orthot-junction-3ha7</id>
+        <link href="https://dev.to/clara_sutton/building-a-zero-library-interactive-2d-cad-canvas-in-typescript-cursor-zoom-orthot-junction-3ha7"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I Built a 100% Client-Side Arabic PDF & Merchant Toolkit (Zero Server Uploads)]]></title>
+        <id>https://dev.to/mahmoud_hamdy_359dcf342db/why-i-built-a-100-client-side-arabic-pdf-merchant-toolkit-zero-server-uploads-2gd1</id>
+        <link href="https://dev.to/mahmoud_hamdy_359dcf342db/why-i-built-a-100-client-side-arabic-pdf-merchant-toolkit-zero-server-uploads-2gd1"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebRTC Leaks in Chrome: Why a Proxy Doesn't Stop Them, and How to Actually Check]]></title>
+        <id>https://dev.to/axioapi/webrtc-leaks-in-chrome-why-a-proxy-doesnt-stop-them-and-how-to-actually-check-5adj</id>
+        <link href="https://dev.to/axioapi/webrtc-leaks-in-chrome-why-a-proxy-doesnt-stop-them-and-how-to-actually-check-5adj"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
@@ -277,90 +367,6 @@
         <title type="html"><![CDATA[The loneliest peptide party in New York]]></title>
         <id>https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow</id>
         <link href="https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Verge’s guide to the best gifts under $100]]></title>
-        <id>https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026</id>
-        <link href="https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Verge’s 2026 holiday gift guide for travelers]]></title>
-        <id>https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026</id>
-        <link href="https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future]]></title>
-        <id>https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent</id>
-        <link href="https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon loses its latest attempt to get out of handling more recall notices]]></title>
-        <id>https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc</id>
-        <link href="https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung’s R95H TV shows what RGB LED is capable of]]></title>
-        <id>https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review</id>
-        <link href="https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic]]></title>
-        <id>https://www.wired.com/gallery/best-meal-kit-services-1/</id>
-        <link href="https://www.wired.com/gallery/best-meal-kit-services-1/"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains]]></title>
-        <id>https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/</id>
-        <link href="https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AT&T Promo Codes: $50 Off This November 2026]]></title>
-        <id>https://www.wired.com/story/att-promo-code/</id>
-        <link href="https://www.wired.com/story/att-promo-code/"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it]]></title>
-        <id>https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/</id>
-        <link href="https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The canceled Tesla Cybertruck is the fastest-selling used truck in America]]></title>
-        <id>https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/</id>
-        <link href="https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Want to buy your kid an AI toy this Christmas? Not in New York]]></title>
-        <id>https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/</id>
-        <link href="https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X’s latest update for creators focuses on vertical video]]></title>
-        <id>https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/</id>
-        <link href="https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
