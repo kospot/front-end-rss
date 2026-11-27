@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-26T22:01:21.338Z</updated>
+    <updated>2026-11-27T00:02:07.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -85,16 +85,58 @@
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building frame-accurate browser video review without forcing clients to sign up]]></title>
-        <id>https://dev.to/fusiastudio/building-frame-accurate-browser-video-review-without-forcing-clients-to-sign-up-197h</id>
-        <link href="https://dev.to/fusiastudio/building-frame-accurate-browser-video-review-without-forcing-clients-to-sign-up-197h"/>
+        <title type="html"><![CDATA[Anthropic’s Claude Is Getting Smarter: 5 Things You Should Know in 2026]]></title>
+        <id>https://pub.towardsai.net/anthropics-claude-is-getting-smarter-5-things-you-should-know-in-2026-ab4577877619?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/anthropics-claude-is-getting-smarter-5-things-you-should-know-in-2026-ab4577877619?source=rss----98111c9905da---4"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Render a Catmull–Rom camera path for AI video]]></title>
-        <id>https://dev.to/eth_shihao_26864ff19b7b61/render-a-catmull-rom-camera-path-for-ai-video-5b9g</id>
-        <link href="https://dev.to/eth_shihao_26864ff19b7b61/render-a-catmull-rom-camera-path-for-ai-video-5b9g"/>
+        <title type="html"><![CDATA[Parsing ChatGPT's Nested Mapping Tree and Export ZIPs in Zero-Dependency Browser JS]]></title>
+        <id>https://dev.to/_0db220eb1b87373faff664/parsing-chatgpts-nested-mapping-tree-and-export-zips-in-zero-dependency-browser-js-31cb</id>
+        <link href="https://dev.to/_0db220eb1b87373faff664/parsing-chatgpts-nested-mapping-tree-and-export-zips-in-zero-dependency-browser-js-31cb"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Silent Data Corruption Bugs When Converting CSV to JSON (UTF-8 BOM, Leading Zeros, and 64-Bit IDs)]]></title>
+        <id>https://dev.to/dev_in_the_fog/4-silent-data-corruption-bugs-when-converting-csv-to-json-utf-8-bom-leading-zeros-and-64-bit-ids-2lno</id>
+        <link href="https://dev.to/dev_in_the_fog/4-silent-data-corruption-bugs-when-converting-csv-to-json-utf-8-bom-leading-zeros-and-64-bit-ids-2lno"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Vietnamese payroll calculator: the 4 rules that trip up developers]]></title>
+        <id>https://dev.to/pmda3010/building-a-vietnamese-payroll-calculator-the-4-rules-that-trip-up-developers-12h0</id>
+        <link href="https://dev.to/pmda3010/building-a-vietnamese-payroll-calculator-the-4-rules-that-trip-up-developers-12h0"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js Bundling a wasm Package Breaks Only in Production]]></title>
+        <id>https://dev.to/cometakaito/nextjs-bundling-a-wasm-package-breaks-only-in-production-2ggd</id>
+        <link href="https://dev.to/cometakaito/nextjs-bundling-a-wasm-package-breaks-only-in-production-2ggd"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Label Is Not a Carrier Handoff: Model Fulfillment Events Explicitly]]></title>
+        <id>https://dev.to/tom_8d160ea57bf5c0395981d/a-label-is-not-a-carrier-handoff-model-fulfillment-events-explicitly-15pk</id>
+        <link href="https://dev.to/tom_8d160ea57bf5c0395981d/a-label-is-not-a-carrier-handoff-model-fulfillment-events-explicitly-15pk"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Never Paste Production JWTs Into Server-Side Decoders (and How Web Crypto Solves It)]]></title>
+        <id>https://dev.to/kitwharf/why-you-should-never-paste-production-jwts-into-server-side-decoders-and-how-web-crypto-solves-it-4gee</id>
+        <link href="https://dev.to/kitwharf/why-you-should-never-paste-production-jwts-into-server-side-decoders-and-how-web-crypto-solves-it-4gee"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Browser-Local WebGPU PSD Editing in 2026: Replacing Ad-Heavy Cloud Photo Editors Without Uploading Client Files]]></title>
+        <id>https://dev.to/aiacstudio/browser-local-webgpu-psd-editing-in-2026-replacing-ad-heavy-cloud-photo-editors-without-uploading-43j3</id>
+        <link href="https://dev.to/aiacstudio/browser-local-webgpu-psd-editing-in-2026-replacing-ad-heavy-cloud-photo-editors-without-uploading-43j3"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
@@ -106,9 +148,16 @@
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Browser-Local WebGPU PSD Editing in 2026: Replacing Ad-Heavy Cloud Photo Editors Without Uploading Client Files]]></title>
-        <id>https://dev.to/aiacstudio/browser-local-webgpu-psd-editing-in-2026-replacing-ad-heavy-cloud-photo-editors-without-uploading-43j3</id>
-        <link href="https://dev.to/aiacstudio/browser-local-webgpu-psd-editing-in-2026-replacing-ad-heavy-cloud-photo-editors-without-uploading-43j3"/>
+        <title type="html"><![CDATA[Render a Catmull–Rom camera path for AI video]]></title>
+        <id>https://dev.to/eth_shihao_26864ff19b7b61/render-a-catmull-rom-camera-path-for-ai-video-5b9g</id>
+        <link href="https://dev.to/eth_shihao_26864ff19b7b61/render-a-catmull-rom-camera-path-for-ai-video-5b9g"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building frame-accurate browser video review without forcing clients to sign up]]></title>
+        <id>https://dev.to/fusiastudio/building-frame-accurate-browser-video-review-without-forcing-clients-to-sign-up-197h</id>
+        <link href="https://dev.to/fusiastudio/building-frame-accurate-browser-video-review-without-forcing-clients-to-sign-up-197h"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
@@ -312,55 +361,6 @@
         <title type="html"><![CDATA[Opus Next (5.6/6) launch video of a fake model for SVG pelicans on bicycles]]></title>
         <id>https://twitter.com/shneural/status/2125658847323017291</id>
         <link href="https://twitter.com/shneural/status/2125658847323017291"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guitar wars – the transatlantic battle over the Stratocaster]]></title>
-        <id>https://www.bbc.com/news/articles/cqd01l9x8k48o</id>
-        <link href="https://www.bbc.com/news/articles/cqd01l9x8k48o"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You've been lied to about Perl [video]]]></title>
-        <id>https://www.youtube.com/watch?v=TDV2ACy-oaU</id>
-        <link href="https://www.youtube.com/watch?v=TDV2ACy-oaU"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FastUnlock: Windows Narrator LockScreen Bypass 0day Vulnerability]]></title>
-        <id>https://github.com/MSNightmare/FastUnlock</id>
-        <link href="https://github.com/MSNightmare/FastUnlock"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shirudo doesn't work, this does]]></title>
-        <id>https://news.ycombinator.com/item?id=50650310</id>
-        <link href="https://news.ycombinator.com/item?id=50650310"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Little Free Bakery- come for the pastries and stay for community connection]]></title>
-        <id>https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection</id>
-        <link href="https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayfly Chat: Transient Chat for Agents]]></title>
-        <id>https://blog.exe.dev/mayfly-chat</id>
-        <link href="https://blog.exe.dev/mayfly-chat"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GTA VI Ambient Context Monetization Spyware]]></title>
-        <id>https://twitter.com/leopardracer/status/2124519048096395309</id>
-        <link href="https://twitter.com/leopardracer/status/2124519048096395309"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
