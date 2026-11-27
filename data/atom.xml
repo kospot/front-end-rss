@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-27T10:03:10.014Z</updated>
+    <updated>2026-11-27T13:05:11.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,13 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Netflix’s coziest show has made a very quiet return]]></title>
+        <id>https://www.theverge.com/entertainment/1043489/midnight-diner-season3</id>
+        <link href="https://www.theverge.com/entertainment/1043489/midnight-diner-season3"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Federal judge blocks the FCC from reviewing ABC’s licenses early]]></title>
         <id>https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block</id>
         <link href="https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block"/>
@@ -22,9 +29,23 @@
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Netflix’s coziest show has made a very quiet return]]></title>
-        <id>https://www.theverge.com/entertainment/1043489/midnight-diner-season3</id>
-        <link href="https://www.theverge.com/entertainment/1043489/midnight-diner-season3"/>
+        <title type="html"><![CDATA[Best Black Friday Nintendo Switch 2 Deals (2026): Up to $50 Off Bundles, Games, Accessories]]></title>
+        <id>https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-27-2026/</id>
+        <link href="https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-27-2026/"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Black Friday iPad Deals On the Latest 2026 Models: Get $100 Off]]></title>
+        <id>https://www.wired.com/story/best-black-friday-ipad-deals-11-27-2026/</id>
+        <link href="https://www.wired.com/story/best-black-friday-ipad-deals-11-27-2026/"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists Use ‘Grand Theft Auto’ to Model the Effects of Climate Change]]></title>
+        <id>https://www.wired.com/story/scientists-use-grand-theft-auto-to-model-the-effects-of-climate-change/</id>
+        <link href="https://www.wired.com/story/scientists-use-grand-theft-auto-to-model-the-effects-of-climate-change/"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
@@ -57,170 +78,51 @@
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mount Fuji – Mapterhorn Contours (Sound Map)]]></title>
-        <id>https://mapsmania.github.io/mapchallenge/contours.html</id>
-        <link href="https://mapsmania.github.io/mapchallenge/contours.html"/>
+        <title type="html"><![CDATA[A Study of Geodesic Domes]]></title>
+        <id>https://geodesemetry.net/</id>
+        <link href="https://geodesemetry.net/"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Claude's Riemann proof comes down to a coin toss]]></title>
-        <id>https://www.youtube.com/watch?v=-z0RKi30iSY</id>
-        <link href="https://www.youtube.com/watch?v=-z0RKi30iSY"/>
+        <title type="html"><![CDATA[The Monumental Achievement of the Stanford Encyclopedia of Philosophy]]></title>
+        <id>https://www.newyorker.com/culture/annals-of-inquiry/the-monumental-achievement-of-the-stanford-encyclopedia-of-philosophy</id>
+        <link href="https://www.newyorker.com/culture/annals-of-inquiry/the-monumental-achievement-of-the-stanford-encyclopedia-of-philosophy"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Black Weekend – Reduced Prices on Evil]]></title>
-        <id>https://medium.com/luminasticity/black-weekend-reduced-prices-on-evil-b84039e03361</id>
-        <link href="https://medium.com/luminasticity/black-weekend-reduced-prices-on-evil-b84039e03361"/>
+        <title type="html"><![CDATA[Divegrader Rust CLI for automatic underwater photo and video color correction]]></title>
+        <id>https://github.com/quenode/Divegrader/</id>
+        <link href="https://github.com/quenode/Divegrader/"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cost of Thanksgiving dinner went up 6% from last year]]></title>
-        <id>https://iowacapitaldispatch.com/2026/11/26/cost-of-thanksgiving-dinner-went-up-6-from-last-year/</id>
-        <link href="https://iowacapitaldispatch.com/2026/11/26/cost-of-thanksgiving-dinner-went-up-6-from-last-year/"/>
+        <title type="html"><![CDATA[Strong Views on PostgreSQL VIEWs]]></title>
+        <id>https://boringsql.com/posts/strong-views/</id>
+        <link href="https://boringsql.com/posts/strong-views/"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Beauty of CSS Mixins]]></title>
-        <id>https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/</id>
-        <link href="https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minecraft's Reclusive Creator Has a Proposition for Anthropic]]></title>
-        <id>https://www.businessinsider.com/minecraft-creator-markus-persson-has-a-proposition-for-anthropic-2026-11</id>
-        <link href="https://www.businessinsider.com/minecraft-creator-markus-persson-has-a-proposition-for-anthropic-2026-11"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Brief Walk Through Program Space: Agents and edge-case-driven development]]></title>
-        <id>https://neilmacintyre.com/posts/walks-in-program-space/</id>
-        <link href="https://neilmacintyre.com/posts/walks-in-program-space/"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: The fastest and most accurate way to convert bank statements to Excel]]></title>
-        <id>https://bayainy.com/en</id>
-        <link href="https://bayainy.com/en"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CXMT Accelerates 4F² DRAM Push, Eyes Year-End Server DDR5 Rdimm Launch]]></title>
-        <id>https://www.trendforce.com/news/2026/10/12/news-cxmt-accelerates-4f%c2%b2-dram-push-eyes-year-end-server-ddr5-rdimm-launch/</id>
-        <link href="https://www.trendforce.com/news/2026/10/12/news-cxmt-accelerates-4f%c2%b2-dram-push-eyes-year-end-server-ddr5-rdimm-launch/"/>
+        <title type="html"><![CDATA[Extending the Nokia FastMile 5G Gateway 3.2]]></title>
+        <id>https://blog.gingerbeardman.com/2026/11/06/extending-the-nokia-fastmile-5g-gateway-32/</id>
+        <link href="https://blog.gingerbeardman.com/2026/11/06/extending-the-nokia-fastmile-5g-gateway-32/"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Last Boring Slide]]></title>
-        <id>https://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah</id>
-        <link href="https://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah"/>
+        <id>https://thelastboringslide.com/</id>
+        <link href="https://thelastboringslide.com/"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Doctor Who Treats Patients with a Gaming Mouse]]></title>
-        <id>https://textexpander.com/blog/doctor-gaming-mouse</id>
-        <link href="https://textexpander.com/blog/doctor-gaming-mouse"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Faster Mac Use – Background Chrome/macOS MCP and 5-lane routing skill]]></title>
-        <id>https://github.com/lifan-builds/faster-mac-use</id>
-        <link href="https://github.com/lifan-builds/faster-mac-use"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hierarchy Exists]]></title>
-        <id>https://kore-nordmann.de/blog/hierarchy_exists.html</id>
-        <link href="https://kore-nordmann.de/blog/hierarchy_exists.html"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What happens if there's a fast factoring algorithm? And related scenarios]]></title>
-        <id>https://klauria.tech/factoring-in-p/</id>
-        <link href="https://klauria.tech/factoring-in-p/"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: People who use Codex ultrafast, what workflows do you use it for?]]></title>
-        <id>https://news.ycombinator.com/item?id=50659983</id>
-        <link href="https://news.ycombinator.com/item?id=50659983"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emacs Redux: Smarter Minibuffer Prompts in Projectile]]></title>
-        <id>https://emacsredux.com/blog/2026/11/26/smarter-minibuffer-prompts-in-projectile/</id>
-        <link href="https://emacsredux.com/blog/2026/11/26/smarter-minibuffer-prompts-in-projectile/"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SafeJIT: A Speculating JIT Engine Verified Down to the Machine Code]]></title>
-        <id>https://arxiv.org/abs/2611.28436</id>
-        <link href="https://arxiv.org/abs/2611.28436"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Musk pledges to give two SpaceX shares to every child in the US]]></title>
-        <id>https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us</id>
-        <link href="https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI labs are rumored to have results relevant to crypto]]></title>
-        <id>https://twitter.com/secparam/status/2126079107817787693</id>
-        <link href="https://twitter.com/secparam/status/2126079107817787693"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We trained time-series AI models on AWS Trainium2, 2x cheaper than H200s]]></title>
-        <id>https://twitter.com/martinmaritsch/status/2126195898795573437</id>
-        <link href="https://twitter.com/martinmaritsch/status/2126195898795573437"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soda Stallion Peak Review: Benefits, Features and Key Details]]></title>
-        <id>https://open.spotify.com/episode/0oKBBLJCfHDf4n8d7C3Jk3</id>
-        <link href="https://open.spotify.com/episode/0oKBBLJCfHDf4n8d7C3Jk3"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Liora Tools – 100% client-side browser utilities in 6 languages]]></title>
-        <id>https://www.lioratools.com</id>
-        <link href="https://www.lioratools.com"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Overview of the Aeneas Rust Verification Toolchain]]></title>
-        <id>https://www.sonho.fr//2026/03/18/aeneas-overview.html</id>
-        <link href="https://www.sonho.fr//2026/03/18/aeneas-overview.html"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S&P Warns Nvidia's Board May Be Compromised]]></title>
-        <id>https://www.usnews.com/news/top-news/articles/2026-11-25/us-finds-no-evidence-china-directed-executive-to-spy-on-nvidia-ceo-wsj-reports</id>
-        <link href="https://www.usnews.com/news/top-news/articles/2026-11-25/us-finds-no-evidence-china-directed-executive-to-spy-on-nvidia-ceo-wsj-reports"/>
+        <title type="html"><![CDATA[Taking Trainium3 to the Track: Generating Videos with LTX-2.5]]></title>
+        <id>https://huggingface.co/blog/video-trainium3</id>
+        <link href="https://huggingface.co/blog/video-trainium3"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
@@ -232,30 +134,177 @@
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[THIRSTDAY #13: Your First Job May Disappear Before Anyone Gets Fired]]></title>
-        <id>https://pub.towardsai.net/thirstday-13-your-first-job-may-disappear-before-anyone-gets-fired-9b153e041535?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/thirstday-13-your-first-job-may-disappear-before-anyone-gets-fired-9b153e041535?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[S&P Warns Nvidia's Board May Be Compromised]]></title>
+        <id>https://www.usnews.com/news/top-news/articles/2026-11-25/us-finds-no-evidence-china-directed-executive-to-spy-on-nvidia-ceo-wsj-reports</id>
+        <link href="https://www.usnews.com/news/top-news/articles/2026-11-25/us-finds-no-evidence-china-directed-executive-to-spy-on-nvidia-ceo-wsj-reports"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This 560B Parameter AI Model Is Designed for Long-Horizon Medical Tasks]]></title>
-        <id>https://pub.towardsai.net/this-560b-parameter-ai-model-is-designed-for-long-horizon-medical-tasks-25c577d61014?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/this-560b-parameter-ai-model-is-designed-for-long-horizon-medical-tasks-25c577d61014?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[An Overview of the Aeneas Rust Verification Toolchain]]></title>
+        <id>https://www.sonho.fr//2026/03/18/aeneas-overview.html</id>
+        <link href="https://www.sonho.fr//2026/03/18/aeneas-overview.html"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why RNNs and LSTMs Died on Modern GPUs (It Was Not Just Vanishing Gradients)]]></title>
-        <id>https://pub.towardsai.net/why-rnns-and-lstms-died-on-modern-gpus-it-was-not-just-vanishing-gradients-8a833836c125?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/why-rnns-and-lstms-died-on-modern-gpus-it-was-not-just-vanishing-gradients-8a833836c125?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Show HN: Liora Tools – 100% client-side browser utilities in 6 languages]]></title>
+        <id>https://www.lioratools.com</id>
+        <link href="https://www.lioratools.com"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[342 Penguins Show How a Correlation Can Point Backwards]]></title>
-        <id>https://pub.towardsai.net/pearson-correlation-built-by-hand-covariance-to-r-a950579cda09?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/pearson-correlation-built-by-hand-covariance-to-r-a950579cda09?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Soda Stallion Peak Review: Benefits, Features and Key Details]]></title>
+        <id>https://open.spotify.com/episode/0oKBBLJCfHDf4n8d7C3Jk3</id>
+        <link href="https://open.spotify.com/episode/0oKBBLJCfHDf4n8d7C3Jk3"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We trained time-series AI models on AWS Trainium2, 2x cheaper than H200s]]></title>
+        <id>https://twitter.com/martinmaritsch/status/2126195898795573437</id>
+        <link href="https://twitter.com/martinmaritsch/status/2126195898795573437"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI labs are rumored to have results relevant to crypto]]></title>
+        <id>https://twitter.com/secparam/status/2126079107817787693</id>
+        <link href="https://twitter.com/secparam/status/2126079107817787693"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Musk pledges to give two SpaceX shares to every child in the US]]></title>
+        <id>https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us</id>
+        <link href="https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SafeJIT: A Speculating JIT Engine Verified Down to the Machine Code]]></title>
+        <id>https://arxiv.org/abs/2611.28436</id>
+        <link href="https://arxiv.org/abs/2611.28436"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emacs Redux: Smarter Minibuffer Prompts in Projectile]]></title>
+        <id>https://emacsredux.com/blog/2026/11/26/smarter-minibuffer-prompts-in-projectile/</id>
+        <link href="https://emacsredux.com/blog/2026/11/26/smarter-minibuffer-prompts-in-projectile/"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: People who use Codex ultrafast, what workflows do you use it for?]]></title>
+        <id>https://news.ycombinator.com/item?id=50659983</id>
+        <link href="https://news.ycombinator.com/item?id=50659983"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What happens if there's a fast factoring algorithm? And related scenarios]]></title>
+        <id>https://klauria.tech/factoring-in-p/</id>
+        <link href="https://klauria.tech/factoring-in-p/"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hierarchy Exists]]></title>
+        <id>https://kore-nordmann.de/blog/hierarchy_exists.html</id>
+        <link href="https://kore-nordmann.de/blog/hierarchy_exists.html"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Faster Mac Use – Background Chrome/macOS MCP and 5-lane routing skill]]></title>
+        <id>https://github.com/lifan-builds/faster-mac-use</id>
+        <link href="https://github.com/lifan-builds/faster-mac-use"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Doctor Who Treats Patients with a Gaming Mouse]]></title>
+        <id>https://textexpander.com/blog/doctor-gaming-mouse</id>
+        <link href="https://textexpander.com/blog/doctor-gaming-mouse"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Last Boring Slide]]></title>
+        <id>https://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah</id>
+        <link href="https://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CXMT Accelerates 4F² DRAM Push, Eyes Year-End Server DDR5 Rdimm Launch]]></title>
+        <id>https://www.trendforce.com/news/2026/10/12/news-cxmt-accelerates-4f%c2%b2-dram-push-eyes-year-end-server-ddr5-rdimm-launch/</id>
+        <link href="https://www.trendforce.com/news/2026/10/12/news-cxmt-accelerates-4f%c2%b2-dram-push-eyes-year-end-server-ddr5-rdimm-launch/"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: The fastest and most accurate way to convert bank statements to Excel]]></title>
+        <id>https://bayainy.com/en</id>
+        <link href="https://bayainy.com/en"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Brief Walk Through Program Space: Agents and edge-case-driven development]]></title>
+        <id>https://neilmacintyre.com/posts/walks-in-program-space/</id>
+        <link href="https://neilmacintyre.com/posts/walks-in-program-space/"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minecraft's Reclusive Creator Has a Proposition for Anthropic]]></title>
+        <id>https://www.businessinsider.com/minecraft-creator-markus-persson-has-a-proposition-for-anthropic-2026-11</id>
+        <link href="https://www.businessinsider.com/minecraft-creator-markus-persson-has-a-proposition-for-anthropic-2026-11"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Beauty of CSS Mixins]]></title>
+        <id>https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/</id>
+        <link href="https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cost of Thanksgiving dinner went up 6% from last year]]></title>
+        <id>https://iowacapitaldispatch.com/2026/11/26/cost-of-thanksgiving-dinner-went-up-6-from-last-year/</id>
+        <link href="https://iowacapitaldispatch.com/2026/11/26/cost-of-thanksgiving-dinner-went-up-6-from-last-year/"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Weekend – Reduced Prices on Evil]]></title>
+        <id>https://medium.com/luminasticity/black-weekend-reduced-prices-on-evil-b84039e03361</id>
+        <link href="https://medium.com/luminasticity/black-weekend-reduced-prices-on-evil-b84039e03361"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Claude's Riemann proof comes down to a coin toss]]></title>
+        <id>https://www.youtube.com/watch?v=-z0RKi30iSY</id>
+        <link href="https://www.youtube.com/watch?v=-z0RKi30iSY"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mount Fuji – Mapterhorn Contours (Sound Map)]]></title>
+        <id>https://mapsmania.github.io/mapchallenge/contours.html</id>
+        <link href="https://mapsmania.github.io/mapchallenge/contours.html"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic’s Claude Is Getting Smarter: 5 Things You Should Know in 2026]]></title>
+        <id>https://pub.towardsai.net/anthropics-claude-is-getting-smarter-5-things-you-should-know-in-2026-ab4577877619?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/anthropics-claude-is-getting-smarter-5-things-you-should-know-in-2026-ab4577877619?source=rss----98111c9905da---4"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
@@ -267,9 +316,37 @@
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic’s Claude Is Getting Smarter: 5 Things You Should Know in 2026]]></title>
-        <id>https://pub.towardsai.net/anthropics-claude-is-getting-smarter-5-things-you-should-know-in-2026-ab4577877619?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/anthropics-claude-is-getting-smarter-5-things-you-should-know-in-2026-ab4577877619?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[342 Penguins Show How a Correlation Can Point Backwards]]></title>
+        <id>https://pub.towardsai.net/pearson-correlation-built-by-hand-covariance-to-r-a950579cda09?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/pearson-correlation-built-by-hand-covariance-to-r-a950579cda09?source=rss----98111c9905da---4"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why RNNs and LSTMs Died on Modern GPUs (It Was Not Just Vanishing Gradients)]]></title>
+        <id>https://pub.towardsai.net/why-rnns-and-lstms-died-on-modern-gpus-it-was-not-just-vanishing-gradients-8a833836c125?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/why-rnns-and-lstms-died-on-modern-gpus-it-was-not-just-vanishing-gradients-8a833836c125?source=rss----98111c9905da---4"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This 560B Parameter AI Model Is Designed for Long-Horizon Medical Tasks]]></title>
+        <id>https://pub.towardsai.net/this-560b-parameter-ai-model-is-designed-for-long-horizon-medical-tasks-25c577d61014?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/this-560b-parameter-ai-model-is-designed-for-long-horizon-medical-tasks-25c577d61014?source=rss----98111c9905da---4"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THIRSTDAY #13: Your First Job May Disappear Before Anyone Gets Fired]]></title>
+        <id>https://pub.towardsai.net/thirstday-13-your-first-job-may-disappear-before-anyone-gets-fired-9b153e041535?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/thirstday-13-your-first-job-may-disappear-before-anyone-gets-fired-9b153e041535?source=rss----98111c9905da---4"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How cutting-edge prosthetics can help probe the human mind]]></title>
+        <id>https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/</id>
+        <link href="https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
@@ -287,86 +364,9 @@ https://voidzero.dev/posts/announcing-vite-plus-1-0
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Five npm supply chain habits that take ten minutes]]></title>
-        <id>https://dev.to/viveks0530/five-npm-supply-chain-habits-that-take-ten-minutes-2cp4</id>
-        <link href="https://dev.to/viveks0530/five-npm-supply-chain-habits-that-take-ten-minutes-2cp4"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Mock API Calls in React Native and Expo]]></title>
-        <id>https://dev.to/sgedda/how-to-mock-api-calls-in-react-native-and-expo-2b51</id>
-        <link href="https://dev.to/sgedda/how-to-mock-api-calls-in-react-native-and-expo-2b51"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Built a 100% Client-Side Robot Voice Generator & 1982 SAM Synth with Web Audio API (Zero Server Cost)]]></title>
-        <id>https://dev.to/faddeiwang/how-i-built-a-100-client-side-robot-voice-generator-1982-sam-synth-with-web-audio-api-zero-5agg</id>
-        <link href="https://dev.to/faddeiwang/how-i-built-a-100-client-side-robot-voice-generator-1982-sam-synth-with-web-audio-api-zero-5agg"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your Transparent PNG Still Taints the HTML5 Canvas (and Breaks Export)]]></title>
-        <id>https://dev.to/jojo_willnn_/why-your-transparent-png-still-taints-the-html5-canvas-and-breaks-export-j00</id>
-        <link href="https://dev.to/jojo_willnn_/why-your-transparent-png-still-taints-the-html5-canvas-and-breaks-export-j00"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cheese Roll Game - Building a Fast 3D Browser Arcade Downhill Runner]]></title>
-        <id>https://dev.to/nickling017/cheese-roll-game-building-a-fast-3d-browser-arcade-downhill-runner-58bm</id>
-        <link href="https://dev.to/nickling017/cheese-roll-game-building-a-fast-3d-browser-arcade-downhill-runner-58bm"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How JavaScript and AI Can Improve a Restaurant Menu Website]]></title>
-        <id>https://dev.to/culvermenu44/how-javascript-and-ai-can-improve-a-restaurant-menu-website-o6j</id>
-        <link href="https://dev.to/culvermenu44/how-javascript-and-ai-can-improve-a-restaurant-menu-website-o6j"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FDA Nutrition Facts rounding in JavaScript, benchmarked at the cutoffs]]></title>
-        <id>https://dev.to/eth_shihao_26864ff19b7b61/fda-nutrition-facts-rounding-in-javascript-benchmarked-at-the-cutoffs-415</id>
-        <link href="https://dev.to/eth_shihao_26864ff19b7b61/fda-nutrition-facts-rounding-in-javascript-benchmarked-at-the-cutoffs-415"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Check If a Clinic or MedSpa Website Leaks Meta Pixel, GA4, or Clarity Under HIPAA Rules (2026)]]></title>
-        <id>https://dev.to/tangyipeng/how-to-check-if-a-clinic-or-medspa-website-leaks-meta-pixel-ga4-or-clarity-under-hipaa-rules-3h8c</id>
-        <link href="https://dev.to/tangyipeng/how-to-check-if-a-clinic-or-medspa-website-leaks-meta-pixel-ga4-or-clarity-under-hipaa-rules-3h8c"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Non-Square Grids & Fair Isle Float Checks in HTML5 Canvas]]></title>
-        <id>https://dev.to/fatt/building-non-square-grids-fair-isle-float-checks-in-html5-canvas-3jfl</id>
-        <link href="https://dev.to/fatt/building-non-square-grids-fair-isle-float-checks-in-html5-canvas-3jfl"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modelling EU VAT across 7 countries in a static site (no backend, no library)]]></title>
-        <id>https://dev.to/daniel_wang_718ea181919c8/modelling-eu-vat-across-7-countries-in-a-static-site-no-backend-no-library-51gj</id>
-        <link href="https://dev.to/daniel_wang_718ea181919c8/modelling-eu-vat-across-7-countries-in-a-static-site-no-backend-no-library-51gj"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why `"SKU42" === "SKU42"` Can Be False When One Value Is Pasted]]></title>
-        <id>https://dev.to/lmxjw3/why-sku42-sku42-can-be-false-when-one-value-is-pasted-3058</id>
-        <link href="https://dev.to/lmxjw3/why-sku42-sku42-can-be-false-when-one-value-is-pasted-3058"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show “Copied” Only After the Clipboard Write Succeeds]]></title>
-        <id>https://dev.to/yanwang/show-copied-only-after-the-clipboard-write-succeeds-4bhh</id>
-        <link href="https://dev.to/yanwang/show-copied-only-after-the-clipboard-write-succeeds-4bhh"/>
+        <title type="html"><![CDATA[An electricity bill isn't price times kWh: 81 JCP&L tariff revisions and a 3,000-case PHP/JS parity test]]></title>
+        <id>https://dev.to/jeremiah_say/an-electricity-bill-isnt-price-times-kwh-81-jcpl-tariff-revisions-and-a-3000-case-phpjs-parity-5c92</id>
+        <link href="https://dev.to/jeremiah_say/an-electricity-bill-isnt-price-times-kwh-81-jcpl-tariff-revisions-and-a-3000-case-phpjs-parity-5c92"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
