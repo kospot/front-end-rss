@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-27 23:04:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-28 06:00:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -18,7 +18,6 @@
 - [2026-11-10-INP-explained:-why-Lighthouse-cannot-measure-it,-and-how-to-find-the-pages-that-fail-it](https://dev.to/josh99smith/inp-explained-why-lighthouse-cannot-measure-it-and-how-to-find-the-pages-that-fail-it-29n4) 
 - [2026-11-03-Pagination-SEO-in-2026:-rel=next-is-dead,-and-these-5-checks-matter-instead](https://dev.to/seotto/pagination-seo-in-2026-relnext-is-dead-and-these-5-checks-matter-instead-16e0) 
 - [2026-10-31-Architecting-for-Zero-Trust:-How-We-Built-a-30-Tool-Suite-with-Zero-Backend-&amp;-100/100-Lighthouse](https://dev.to/urbanmixo/architecting-for-zero-trust-how-we-built-a-30-tool-suite-with-zero-backend-100100-lighthouse-17ef) 
-- [2026-10-29-Cookie-Dependent-Content-and-SEO:-Test-the-Page-Without-Yesterday's-State](https://dev.to/urielbitton/cookie-dependent-content-and-seo-test-the-page-without-yesterdays-state-2coh) 
 - [2026-10-30-懒加载图片新支持了sizes=”auto”属性，其作用是？](https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/) 
 - [2026-11-14-GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) 
 - [2026-11-17-《Agent评测白皮书》系列02：商家-AI-助手的评测与优化闭环实践](https://tech.meituan.com/2026/11/17/Agent-Evaluation-White-Paper-02.html) 
@@ -30,4 +29,3 @@
 - [2026-11-06-Claude-Code,-but-for-SEO](https://twitter.com/brodieseo/status/2118299596292305356) 
 - [2026-11-06-Technical/eng-breakdown-of-Framer's-Lighthouse-13.6-optimizations](https://www.framer.com/blog/lighthouse-13-6/) 
 - [2026-11-01-Show-HN:-Rust-crawler-for-SEO-and-content-audits,-with-optional-LLM-review](https://crawler.siteone.io/) 
-- [2026-10-29-Show-HN:-Startica-Open-source-app-for-SEO,-marketing,-accessibility-and-security](https://github.com/chriscasper/startica) 
