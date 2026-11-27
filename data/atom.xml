@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-27T00:02:07.399Z</updated>
+    <updated>2026-11-27T02:02:52.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -50,30 +50,58 @@
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Musk pledges to give two SpaceX shares to every child in the US]]></title>
-        <id>https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us</id>
-        <link href="https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us"/>
+        <title type="html"><![CDATA[Minecraft's Reclusive Creator Has a Proposition for Anthropic]]></title>
+        <id>https://www.businessinsider.com/minecraft-creator-markus-persson-has-a-proposition-for-anthropic-2026-11</id>
+        <link href="https://www.businessinsider.com/minecraft-creator-markus-persson-has-a-proposition-for-anthropic-2026-11"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SafeJIT: A Speculating JIT Engine Verified Down to the Machine Code]]></title>
-        <id>https://arxiv.org/abs/2611.28436</id>
-        <link href="https://arxiv.org/abs/2611.28436"/>
+        <title type="html"><![CDATA[A Brief Walk Through Program Space: Agents and edge-case-driven development]]></title>
+        <id>https://neilmacintyre.com/posts/walks-in-program-space/</id>
+        <link href="https://neilmacintyre.com/posts/walks-in-program-space/"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Emacs Redux: Smarter Minibuffer Prompts in Projectile]]></title>
-        <id>https://emacsredux.com/blog/2026/11/26/smarter-minibuffer-prompts-in-projectile/</id>
-        <link href="https://emacsredux.com/blog/2026/11/26/smarter-minibuffer-prompts-in-projectile/"/>
+        <title type="html"><![CDATA[Show HN: The fastest and most accurate way to convert bank statements to Excel]]></title>
+        <id>https://bayainy.com/en</id>
+        <link href="https://bayainy.com/en"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: People who use Codex ultrafast, what workflows do you use it for?]]></title>
-        <id>https://news.ycombinator.com/item?id=50659983</id>
-        <link href="https://news.ycombinator.com/item?id=50659983"/>
+        <title type="html"><![CDATA[CXMT Accelerates 4F² DRAM Push, Eyes Year-End Server DDR5 Rdimm Launch]]></title>
+        <id>https://www.trendforce.com/news/2026/10/12/news-cxmt-accelerates-4f%c2%b2-dram-push-eyes-year-end-server-ddr5-rdimm-launch/</id>
+        <link href="https://www.trendforce.com/news/2026/10/12/news-cxmt-accelerates-4f%c2%b2-dram-push-eyes-year-end-server-ddr5-rdimm-launch/"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Last Boring Slide]]></title>
+        <id>https://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah</id>
+        <link href="https://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Doctor Who Treats Patients with a Gaming Mouse]]></title>
+        <id>https://textexpander.com/blog/doctor-gaming-mouse</id>
+        <link href="https://textexpander.com/blog/doctor-gaming-mouse"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Faster Mac Use – Background Chrome/macOS MCP and 5-lane routing skill]]></title>
+        <id>https://github.com/lifan-builds/faster-mac-use</id>
+        <link href="https://github.com/lifan-builds/faster-mac-use"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hierarchy Exists]]></title>
+        <id>https://kore-nordmann.de/blog/hierarchy_exists.html</id>
+        <link href="https://kore-nordmann.de/blog/hierarchy_exists.html"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
@@ -85,6 +113,34 @@
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask HN: People who use Codex ultrafast, what workflows do you use it for?]]></title>
+        <id>https://news.ycombinator.com/item?id=50659983</id>
+        <link href="https://news.ycombinator.com/item?id=50659983"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emacs Redux: Smarter Minibuffer Prompts in Projectile]]></title>
+        <id>https://emacsredux.com/blog/2026/11/26/smarter-minibuffer-prompts-in-projectile/</id>
+        <link href="https://emacsredux.com/blog/2026/11/26/smarter-minibuffer-prompts-in-projectile/"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SafeJIT: A Speculating JIT Engine Verified Down to the Machine Code]]></title>
+        <id>https://arxiv.org/abs/2611.28436</id>
+        <link href="https://arxiv.org/abs/2611.28436"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Musk pledges to give two SpaceX shares to every child in the US]]></title>
+        <id>https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us</id>
+        <link href="https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Anthropic’s Claude Is Getting Smarter: 5 Things You Should Know in 2026]]></title>
         <id>https://pub.towardsai.net/anthropics-claude-is-getting-smarter-5-things-you-should-know-in-2026-ab4577877619?source=rss----98111c9905da---4</id>
         <link href="https://pub.towardsai.net/anthropics-claude-is-getting-smarter-5-things-you-should-know-in-2026-ab4577877619?source=rss----98111c9905da---4"/>
@@ -92,58 +148,51 @@
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parsing ChatGPT's Nested Mapping Tree and Export ZIPs in Zero-Dependency Browser JS]]></title>
-        <id>https://dev.to/_0db220eb1b87373faff664/parsing-chatgpts-nested-mapping-tree-and-export-zips-in-zero-dependency-browser-js-31cb</id>
-        <link href="https://dev.to/_0db220eb1b87373faff664/parsing-chatgpts-nested-mapping-tree-and-export-zips-in-zero-dependency-browser-js-31cb"/>
+        <title type="html"><![CDATA[WebRTC Leaks in Chrome: Why a Proxy Doesn't Stop Them, and How to Actually Check]]></title>
+        <id>https://dev.to/axioapi/webrtc-leaks-in-chrome-why-a-proxy-doesnt-stop-them-and-how-to-actually-check-5adj</id>
+        <link href="https://dev.to/axioapi/webrtc-leaks-in-chrome-why-a-proxy-doesnt-stop-them-and-how-to-actually-check-5adj"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4 Silent Data Corruption Bugs When Converting CSV to JSON (UTF-8 BOM, Leading Zeros, and 64-Bit IDs)]]></title>
-        <id>https://dev.to/dev_in_the_fog/4-silent-data-corruption-bugs-when-converting-csv-to-json-utf-8-bom-leading-zeros-and-64-bit-ids-2lno</id>
-        <link href="https://dev.to/dev_in_the_fog/4-silent-data-corruption-bugs-when-converting-csv-to-json-utf-8-bom-leading-zeros-and-64-bit-ids-2lno"/>
+        <title type="html"><![CDATA[Why I Built a 100% Client-Side Arabic PDF & Merchant Toolkit (Zero Server Uploads)]]></title>
+        <id>https://dev.to/mahmoud_hamdy_359dcf342db/why-i-built-a-100-client-side-arabic-pdf-merchant-toolkit-zero-server-uploads-2gd1</id>
+        <link href="https://dev.to/mahmoud_hamdy_359dcf342db/why-i-built-a-100-client-side-arabic-pdf-merchant-toolkit-zero-server-uploads-2gd1"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Vietnamese payroll calculator: the 4 rules that trip up developers]]></title>
-        <id>https://dev.to/pmda3010/building-a-vietnamese-payroll-calculator-the-4-rules-that-trip-up-developers-12h0</id>
-        <link href="https://dev.to/pmda3010/building-a-vietnamese-payroll-calculator-the-4-rules-that-trip-up-developers-12h0"/>
+        <title type="html"><![CDATA[Building a Zero-Library Interactive 2D CAD Canvas in TypeScript: Cursor Zoom, Ortho/T-Junction Snapping & Layered Hit-Testing]]></title>
+        <id>https://dev.to/clara_sutton/building-a-zero-library-interactive-2d-cad-canvas-in-typescript-cursor-zoom-orthot-junction-3ha7</id>
+        <link href="https://dev.to/clara_sutton/building-a-zero-library-interactive-2d-cad-canvas-in-typescript-cursor-zoom-orthot-junction-3ha7"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js Bundling a wasm Package Breaks Only in Production]]></title>
-        <id>https://dev.to/cometakaito/nextjs-bundling-a-wasm-package-breaks-only-in-production-2ggd</id>
-        <link href="https://dev.to/cometakaito/nextjs-bundling-a-wasm-package-breaks-only-in-production-2ggd"/>
+        <title type="html"><![CDATA[Does decoding a JWT mean the token is valid?]]></title>
+        <id>https://dev.to/ameenusman/does-decoding-a-jwt-mean-the-token-is-valid-300</id>
+        <link href="https://dev.to/ameenusman/does-decoding-a-jwt-mean-the-token-is-valid-300"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Label Is Not a Carrier Handoff: Model Fulfillment Events Explicitly]]></title>
-        <id>https://dev.to/tom_8d160ea57bf5c0395981d/a-label-is-not-a-carrier-handoff-model-fulfillment-events-explicitly-15pk</id>
-        <link href="https://dev.to/tom_8d160ea57bf5c0395981d/a-label-is-not-a-carrier-handoff-model-fulfillment-events-explicitly-15pk"/>
+        <title type="html"><![CDATA[6 characters, 32 symbols, 3 rooms a minute: the arithmetic behind account-less room codes]]></title>
+        <id>https://dev.to/succday/6-characters-32-symbols-3-rooms-a-minute-the-arithmetic-behind-account-less-room-codes-3p6b</id>
+        <link href="https://dev.to/succday/6-characters-32-symbols-3-rooms-a-minute-the-arithmetic-behind-account-less-room-codes-3p6b"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why You Should Never Paste Production JWTs Into Server-Side Decoders (and How Web Crypto Solves It)]]></title>
-        <id>https://dev.to/kitwharf/why-you-should-never-paste-production-jwts-into-server-side-decoders-and-how-web-crypto-solves-it-4gee</id>
-        <link href="https://dev.to/kitwharf/why-you-should-never-paste-production-jwts-into-server-side-decoders-and-how-web-crypto-solves-it-4gee"/>
+        <title type="html"><![CDATA[Practical JavaScript Async/Await Patterns for Clean API Calls]]></title>
+        <id>https://dev.to/yongchang_zhang_d603bd1c1/practical-javascript-asyncawait-patterns-for-clean-api-calls-gcl</id>
+        <link href="https://dev.to/yongchang_zhang_d603bd1c1/practical-javascript-asyncawait-patterns-for-clean-api-calls-gcl"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Browser-Local WebGPU PSD Editing in 2026: Replacing Ad-Heavy Cloud Photo Editors Without Uploading Client Files]]></title>
-        <id>https://dev.to/aiacstudio/browser-local-webgpu-psd-editing-in-2026-replacing-ad-heavy-cloud-photo-editors-without-uploading-43j3</id>
-        <link href="https://dev.to/aiacstudio/browser-local-webgpu-psd-editing-in-2026-replacing-ad-heavy-cloud-photo-editors-without-uploading-43j3"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built a barcode generator that never sends your data to a server. Printing was the hard part.]]></title>
-        <id>https://dev.to/ajay_sukhadeve_8cef324e7a/i-built-a-barcode-generator-that-never-sends-your-data-to-a-server-printing-was-the-hard-part-55fe</id>
-        <link href="https://dev.to/ajay_sukhadeve_8cef324e7a/i-built-a-barcode-generator-that-never-sends-your-data-to-a-server-printing-was-the-hard-part-55fe"/>
+        <title type="html"><![CDATA[Building frame-accurate browser video review without forcing clients to sign up]]></title>
+        <id>https://dev.to/fusiastudio/building-frame-accurate-browser-video-review-without-forcing-clients-to-sign-up-197h</id>
+        <link href="https://dev.to/fusiastudio/building-frame-accurate-browser-video-review-without-forcing-clients-to-sign-up-197h"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
@@ -155,9 +204,65 @@
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building frame-accurate browser video review without forcing clients to sign up]]></title>
-        <id>https://dev.to/fusiastudio/building-frame-accurate-browser-video-review-without-forcing-clients-to-sign-up-197h</id>
-        <link href="https://dev.to/fusiastudio/building-frame-accurate-browser-video-review-without-forcing-clients-to-sign-up-197h"/>
+        <title type="html"><![CDATA[I built a barcode generator that never sends your data to a server. Printing was the hard part.]]></title>
+        <id>https://dev.to/ajay_sukhadeve_8cef324e7a/i-built-a-barcode-generator-that-never-sends-your-data-to-a-server-printing-was-the-hard-part-55fe</id>
+        <link href="https://dev.to/ajay_sukhadeve_8cef324e7a/i-built-a-barcode-generator-that-never-sends-your-data-to-a-server-printing-was-the-hard-part-55fe"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Browser-Local WebGPU PSD Editing in 2026: Replacing Ad-Heavy Cloud Photo Editors Without Uploading Client Files]]></title>
+        <id>https://dev.to/aiacstudio/browser-local-webgpu-psd-editing-in-2026-replacing-ad-heavy-cloud-photo-editors-without-uploading-43j3</id>
+        <link href="https://dev.to/aiacstudio/browser-local-webgpu-psd-editing-in-2026-replacing-ad-heavy-cloud-photo-editors-without-uploading-43j3"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Never Paste Production JWTs Into Server-Side Decoders (and How Web Crypto Solves It)]]></title>
+        <id>https://dev.to/kitwharf/why-you-should-never-paste-production-jwts-into-server-side-decoders-and-how-web-crypto-solves-it-4gee</id>
+        <link href="https://dev.to/kitwharf/why-you-should-never-paste-production-jwts-into-server-side-decoders-and-how-web-crypto-solves-it-4gee"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Label Is Not a Carrier Handoff: Model Fulfillment Events Explicitly]]></title>
+        <id>https://dev.to/tom_8d160ea57bf5c0395981d/a-label-is-not-a-carrier-handoff-model-fulfillment-events-explicitly-15pk</id>
+        <link href="https://dev.to/tom_8d160ea57bf5c0395981d/a-label-is-not-a-carrier-handoff-model-fulfillment-events-explicitly-15pk"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js Bundling a wasm Package Breaks Only in Production]]></title>
+        <id>https://dev.to/cometakaito/nextjs-bundling-a-wasm-package-breaks-only-in-production-2ggd</id>
+        <link href="https://dev.to/cometakaito/nextjs-bundling-a-wasm-package-breaks-only-in-production-2ggd"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Vietnamese payroll calculator: the 4 rules that trip up developers]]></title>
+        <id>https://dev.to/pmda3010/building-a-vietnamese-payroll-calculator-the-4-rules-that-trip-up-developers-12h0</id>
+        <link href="https://dev.to/pmda3010/building-a-vietnamese-payroll-calculator-the-4-rules-that-trip-up-developers-12h0"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Silent Data Corruption Bugs When Converting CSV to JSON (UTF-8 BOM, Leading Zeros, and 64-Bit IDs)]]></title>
+        <id>https://dev.to/dev_in_the_fog/4-silent-data-corruption-bugs-when-converting-csv-to-json-utf-8-bom-leading-zeros-and-64-bit-ids-2lno</id>
+        <link href="https://dev.to/dev_in_the_fog/4-silent-data-corruption-bugs-when-converting-csv-to-json-utf-8-bom-leading-zeros-and-64-bit-ids-2lno"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parsing ChatGPT's Nested Mapping Tree and Export ZIPs in Zero-Dependency Browser JS]]></title>
+        <id>https://dev.to/_0db220eb1b87373faff664/parsing-chatgpts-nested-mapping-tree-and-export-zips-in-zero-dependency-browser-js-31cb</id>
+        <link href="https://dev.to/_0db220eb1b87373faff664/parsing-chatgpts-nested-mapping-tree-and-export-zips-in-zero-dependency-browser-js-31cb"/>
+        <updated>2026-11-26T16:00:00.000Z</updated>
+        <published>2026-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HelloGitHub 第 128 期]]></title>
+        <id>https://hellogithub.com/periodical/volume/128</id>
+        <link href="https://hellogithub.com/periodical/volume/128"/>
         <updated>2026-11-26T16:00:00.000Z</updated>
         <published>2026-11-26T16:00:00.000Z</published>
     </entry>
@@ -256,111 +361,6 @@
         <title type="html"><![CDATA[X’s latest update for creators focuses on vertical video]]></title>
         <id>https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/</id>
         <link href="https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linus Torvalds: "Tell Your AI Companion to Get Its Act Together"]]></title>
-        <id>https://lore.kernel.org/lkml/CAHk-=whyUfwzMDMTpih8Xs1MxmhwTCDAc_YwUSZG79vXFMLU=Q@mail.gmail.com/</id>
-        <link href="https://lore.kernel.org/lkml/CAHk-=whyUfwzMDMTpih8Xs1MxmhwTCDAc_YwUSZG79vXFMLU=Q@mail.gmail.com/"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The "Godfather of AI" on the Risks That Worry Him Most [video]]]></title>
-        <id>https://www.youtube.com/watch?v=L8HdlknRkA4</id>
-        <link href="https://www.youtube.com/watch?v=L8HdlknRkA4"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faulty appliances returned to UK supermarkets found at e-waste dump in Ghana]]></title>
-        <id>https://unearthed.greenpeace.org/2026/11/26/faulty-appliances-returned-to-uk-supermarkets-found-at-e-waste-dump-in-ghana/</id>
-        <link href="https://unearthed.greenpeace.org/2026/11/26/faulty-appliances-returned-to-uk-supermarkets-found-at-e-waste-dump-in-ghana/"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Giant Batteries Revolutionizing America's Power Supply]]></title>
-        <id>https://www.nytimes.com/2026/11/26/opinion/electricity-batteries-commodity-economy.html</id>
-        <link href="https://www.nytimes.com/2026/11/26/opinion/electricity-batteries-commodity-economy.html"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI-Driven Shortages in Basic PCB Components Could Be Worse Than 2021 Chip Crisis]]></title>
-        <id>https://www.hackster.io/news/ai-driven-shortages-in-basic-pcb-components-could-be-worse-than-the-2021-chip-crisis-report-warns-c39f06f36677</id>
-        <link href="https://www.hackster.io/news/ai-driven-shortages-in-basic-pcb-components-could-be-worse-than-the-2021-chip-crisis-report-warns-c39f06f36677"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hegseth considered reinstating Nvidia boss using military law]]></title>
-        <id>https://www.yahoo.com/news/politics/articles/hegseth-considered-reinstating-nvidia-boss-102733462.html</id>
-        <link href="https://www.yahoo.com/news/politics/articles/hegseth-considered-reinstating-nvidia-boss-102733462.html"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Megatron-LM and Core – GPU-optimized library for training models at scale]]></title>
-        <id>https://github.com/NVIDIA/Megatron-LM</id>
-        <link href="https://github.com/NVIDIA/Megatron-LM"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fortescue's 6MW Robotic EV Charger and Electric Haul Trucks [video]]]></title>
-        <id>https://www.youtube.com/watch?v=pJ07iuMuXq4</id>
-        <link href="https://www.youtube.com/watch?v=pJ07iuMuXq4"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Getting around NPM typo squatting?]]></title>
-        <id>https://news.ycombinator.com/item?id=50652314</id>
-        <link href="https://news.ycombinator.com/item?id=50652314"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iranian authorities flog woman for performing without hijab]]></title>
-        <id>https://www.nbcnews.com/world/iran/iran-carries-flogging-singer-performed-hijab-rcna611047</id>
-        <link href="https://www.nbcnews.com/world/iran/iran-carries-flogging-singer-performed-hijab-rcna611047"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Keeps Asking If It's Conscious [video]]]></title>
-        <id>https://www.youtube.com/watch?v=ghxoAM5io18</id>
-        <link href="https://www.youtube.com/watch?v=ghxoAM5io18"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia halts chip shipments to south-East Asia]]></title>
-        <id>https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370</id>
-        <link href="https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MCP v2: Moving from Tool Calling to Async Tasks, Elicitation, and File Handoffs]]></title>
-        <id>https://vigneshx.com/blog/what-is-mcp/</id>
-        <link href="https://vigneshx.com/blog/what-is-mcp/"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sierpinski Gaskets on Pascal's Triangle mod n]]></title>
-        <id>https://presheaf.blogspot.com/2026/11/sierpinski-gaskets-on-pascals-triangle.html</id>
-        <link href="https://presheaf.blogspot.com/2026/11/sierpinski-gaskets-on-pascals-triangle.html"/>
-        <updated>2026-11-25T16:00:00.000Z</updated>
-        <published>2026-11-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opus Next (5.6/6) launch video of a fake model for SVG pelicans on bicycles]]></title>
-        <id>https://twitter.com/shneural/status/2125658847323017291</id>
-        <link href="https://twitter.com/shneural/status/2125658847323017291"/>
         <updated>2026-11-25T16:00:00.000Z</updated>
         <published>2026-11-25T16:00:00.000Z</published>
     </entry>
