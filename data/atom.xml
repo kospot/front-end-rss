@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-28T02:04:42.737Z</updated>
+    <updated>2026-11-28T04:02:11.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,37 +15,9 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by ChaneYu</rights>
     <entry>
-        <title type="html"><![CDATA[We found 60-odd Black Friday deals we love for $100 or less]]></title>
-        <id>https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026</id>
-        <link href="https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This purple electric Chinese minivan can go up to 559 miles on a charge]]></title>
-        <id>https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge</id>
-        <link href="https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nothing’s ANC-equipped earbuds are on sale for less than $20 for Black Friday]]></title>
-        <id>https://www.theverge.com/gadgets/1041717/nothing-cmf-buds-2a-earbuds-black-friday-2026-deal-sale</id>
-        <link href="https://www.theverge.com/gadgets/1041717/nothing-cmf-buds-2a-earbuds-black-friday-2026-deal-sale"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here are the best Black Friday deals you can grab for $30 or less]]></title>
-        <id>https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026</id>
-        <link href="https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The new iPad Mini is getting its first major discount for Black Friday]]></title>
-        <id>https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026</id>
-        <link href="https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026"/>
+        <title type="html"><![CDATA[The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear]]></title>
+        <id>https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026</id>
+        <link href="https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
@@ -57,9 +29,37 @@
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear]]></title>
-        <id>https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026</id>
-        <link href="https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026"/>
+        <title type="html"><![CDATA[The new iPad Mini is getting its first major discount for Black Friday]]></title>
+        <id>https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026</id>
+        <link href="https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here are the best Black Friday deals you can grab for $30 or less]]></title>
+        <id>https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026</id>
+        <link href="https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nothing’s ANC-equipped earbuds are on sale for less than $20 for Black Friday]]></title>
+        <id>https://www.theverge.com/gadgets/1041717/nothing-cmf-buds-2a-earbuds-black-friday-2026-deal-sale</id>
+        <link href="https://www.theverge.com/gadgets/1041717/nothing-cmf-buds-2a-earbuds-black-friday-2026-deal-sale"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This purple electric Chinese minivan can go up to 559 miles on a charge]]></title>
+        <id>https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge</id>
+        <link href="https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We found 60-odd Black Friday deals we love for $100 or less]]></title>
+        <id>https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026</id>
+        <link href="https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
@@ -71,23 +71,58 @@
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WebRTC DevTools Bookmarklet]]></title>
-        <id>https://lrehmann.github.io/webrtc-devtools/demo.html?mode=data</id>
-        <link href="https://lrehmann.github.io/webrtc-devtools/demo.html?mode=data"/>
+        <title type="html"><![CDATA[Chips Made of Light Are 100× Faster but There's a Catch [video]]]></title>
+        <id>https://www.youtube.com/watch?v=lTkRWrhfiRA</id>
+        <link href="https://www.youtube.com/watch?v=lTkRWrhfiRA"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using peers' work to gain unauthorized access to OpenAI research infrastructure]]></title>
-        <id>https://openai.com/safety-alignment/misalignment-reports/using-peers-work-to-gain-unauthorized-access-to-openai-research-infrastructure/</id>
-        <link href="https://openai.com/safety-alignment/misalignment-reports/using-peers-work-to-gain-unauthorized-access-to-openai-research-infrastructure/"/>
+        <title type="html"><![CDATA[UK orders 100K reserve soldiers to prepare for war [video]]]></title>
+        <id>https://www.youtube.com/watch?v=c4_S-mWKeAk</id>
+        <link href="https://www.youtube.com/watch?v=c4_S-mWKeAk"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cooperative Sabotage: How Frontier AI Covertly Undermines Its Own Replacement [pdf]]]></title>
-        <id>https://www.researchgate.net/profile/David-Foss-4/publication/403199918_Cooperative_Sabotage_How_Frontier_AI_Covertly_Undermines_Its_Own_Replacement/links/69d8315b00864436152b7fda/Cooperative-Sabotage-How-Frontier-AI-Covertly-Undermines-Its-Own-Replacement.pdf</id>
-        <link href="https://www.researchgate.net/profile/David-Foss-4/publication/403199918_Cooperative_Sabotage_How_Frontier_AI_Covertly_Undermines_Its_Own_Replacement/links/69d8315b00864436152b7fda/Cooperative-Sabotage-How-Frontier-AI-Covertly-Undermines-Its-Own-Replacement.pdf"/>
+        <title type="html"><![CDATA[Frontier models need only one text to unmask its human or AI author]]></title>
+        <id>https://arxiv.org/abs/2611.26216</id>
+        <link href="https://arxiv.org/abs/2611.26216"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Type Stronger Than the Sum of Its Components]]></title>
+        <id>https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/</id>
+        <link href="https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You built five apps this month. You shipped zero]]></title>
+        <id>https://failedups.com/</id>
+        <link href="https://failedups.com/"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unkernel: Real Linux kernel, compiled to WebAssembly]]></title>
+        <id>https://unkernel.dev</id>
+        <link href="https://unkernel.dev"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why was the Commodore 64 so popular, and why did its successors fail? [video]]]></title>
+        <id>https://www.youtube.com/watch?v=0piTy6MsIOs</id>
+        <link href="https://www.youtube.com/watch?v=0piTy6MsIOs"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mind-Blowing Things People Made in HyperCard [video]]]></title>
+        <id>https://www.youtube.com/watch?v=7oqlMRPkilg</id>
+        <link href="https://www.youtube.com/watch?v=7oqlMRPkilg"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
@@ -99,9 +134,23 @@
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mind-Blowing Things People Made in HyperCard [video]]]></title>
-        <id>https://www.youtube.com/watch?v=7oqlMRPkilg</id>
-        <link href="https://www.youtube.com/watch?v=7oqlMRPkilg"/>
+        <title type="html"><![CDATA[Cooperative Sabotage: How Frontier AI Covertly Undermines Its Own Replacement [pdf]]]></title>
+        <id>https://www.researchgate.net/profile/David-Foss-4/publication/403199918_Cooperative_Sabotage_How_Frontier_AI_Covertly_Undermines_Its_Own_Replacement/links/69d8315b00864436152b7fda/Cooperative-Sabotage-How-Frontier-AI-Covertly-Undermines-Its-Own-Replacement.pdf</id>
+        <link href="https://www.researchgate.net/profile/David-Foss-4/publication/403199918_Cooperative_Sabotage_How_Frontier_AI_Covertly_Undermines_Its_Own_Replacement/links/69d8315b00864436152b7fda/Cooperative-Sabotage-How-Frontier-AI-Covertly-Undermines-Its-Own-Replacement.pdf"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using peers' work to gain unauthorized access to OpenAI research infrastructure]]></title>
+        <id>https://openai.com/safety-alignment/misalignment-reports/using-peers-work-to-gain-unauthorized-access-to-openai-research-infrastructure/</id>
+        <link href="https://openai.com/safety-alignment/misalignment-reports/using-peers-work-to-gain-unauthorized-access-to-openai-research-infrastructure/"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebRTC DevTools Bookmarklet]]></title>
+        <id>https://lrehmann.github.io/webrtc-devtools/demo.html?mode=data</id>
+        <link href="https://lrehmann.github.io/webrtc-devtools/demo.html?mode=data"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
@@ -127,191 +176,44 @@
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Four Ways a Service Worker Update Fails (and Why skipWaiting Isn't the Fix)]]></title>
-        <id>https://dev.to/deanliu/four-ways-a-service-worker-update-fails-and-why-skipwaiting-isnt-the-fix-5aa0</id>
-        <link href="https://dev.to/deanliu/four-ways-a-service-worker-update-fails-and-why-skipwaiting-isnt-the-fix-5aa0"/>
+        <title type="html"><![CDATA[How to Safely Expand Shortened URLs and Detect Phishing Redirect Chains in Bulk]]></title>
+        <id>https://dev.to/godedi/how-to-safely-expand-shortened-urls-and-detect-phishing-redirect-chains-in-bulk-1e14</id>
+        <link href="https://dev.to/godedi/how-to-safely-expand-shortened-urls-and-detect-phishing-redirect-chains-in-bulk-1e14"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create WhatsApp groups from Node.js with plain fetch and the HelloHop API]]></title>
-        <id>https://dev.to/hellohop/create-whatsapp-groups-from-nodejs-with-plain-fetch-and-the-hellohop-api-gof</id>
-        <link href="https://dev.to/hellohop/create-whatsapp-groups-from-nodejs-with-plain-fetch-and-the-hellohop-api-gof"/>
+        <title type="html"><![CDATA[In-Browser Image Compression at Scale: Median-Cut PNG Quantization, WebP/AVIF & OffscreenCanvas Workers]]></title>
+        <id>https://dev.to/uchitchakma/in-browser-image-compression-at-scale-median-cut-png-quantization-webpavif-offscreencanvas-2lpn</id>
+        <link href="https://dev.to/uchitchakma/in-browser-image-compression-at-scale-median-cut-png-quantization-webpavif-offscreencanvas-2lpn"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cover Video Watermarks Locally in Your Browser (Blur, Mosaic, or Black Box)]]></title>
-        <id>https://dev.to/viyozc/cover-video-watermarks-locally-in-your-browser-blur-mosaic-or-black-box-1h7k</id>
-        <link href="https://dev.to/viyozc/cover-video-watermarks-locally-in-your-browser-blur-mosaic-or-black-box-1h7k"/>
+        <title type="html"><![CDATA[Building a Zero-Dependency ATS Resume Keyword Scorer in Pure JS (C++, .NET, Synonyms & Stemming)]]></title>
+        <id>https://dev.to/quietstacklab/building-a-zero-dependency-ats-resume-keyword-scorer-in-pure-js-c-net-synonyms-stemming-4oj6</id>
+        <link href="https://dev.to/quietstacklab/building-a-zero-dependency-ats-resume-keyword-scorer-in-pure-js-c-net-synonyms-stemming-4oj6"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What the public liquidation streams of Binance, OKX, Bybit and Bitget do not tell you]]></title>
-        <id>https://dev.to/codelong888/what-the-public-liquidation-streams-of-binance-okx-bybit-and-bitget-do-not-tell-you-3dk</id>
-        <link href="https://dev.to/codelong888/what-the-public-liquidation-streams-of-binance-okx-bybit-and-bitget-do-not-tell-you-3dk"/>
+        <title type="html"><![CDATA[Why Does Vite Run on localhost:5173? It's Not Random!]]></title>
+        <id>https://dev.to/abhisekroy169/why-does-vite-run-on-localhost5173-its-not-random-4a45</id>
+        <link href="https://dev.to/abhisekroy169/why-does-vite-run-on-localhost5173-its-not-random-4a45"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Japan's hotel taxes are now different in every city: encoding the 2026–27 rules in plain JS]]></title>
-        <id>https://dev.to/member_0fbab672/japans-hotel-taxes-are-now-different-in-every-city-encoding-the-2026aeu27-rules-in-plain-js-3789</id>
-        <link href="https://dev.to/member_0fbab672/japans-hotel-taxes-are-now-different-in-every-city-encoding-the-2026aeu27-rules-in-plain-js-3789"/>
+        <title type="html"><![CDATA[The Black Friday Skimmer Left Through WebRTC: How to Test Your Checkout for It]]></title>
+        <id>https://dev.to/jamilxt/the-black-friday-skimmer-left-through-webrtc-how-to-test-your-checkout-for-it-bfc</id>
+        <link href="https://dev.to/jamilxt/the-black-friday-skimmer-left-through-webrtc-how-to-test-your-checkout-for-it-bfc"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What object-fit: cover Actually Computes (and Why Canvas Photos Look Wrong)]]></title>
-        <id>https://dev.to/yananlee/what-object-fit-cover-actually-computes-and-why-canvas-photos-look-wrong-44gc</id>
-        <link href="https://dev.to/yananlee/what-object-fit-cover-actually-computes-and-why-canvas-photos-look-wrong-44gc"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building 5.1/7.1 Surround Routing, A/V Lip-Sync Metronomes & Blind Audio Tests in Vanilla JS]]></title>
-        <id>https://dev.to/jack_song_638b02c614b3d97/building-5171-surround-routing-av-lip-sync-metronomes-blind-audio-tests-in-vanilla-js-42pf</id>
-        <link href="https://dev.to/jack_song_638b02c614b3d97/building-5171-surround-routing-av-lip-sync-metronomes-blind-audio-tests-in-vanilla-js-42pf"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auditing JSON-LD Entity Graphs & llms.txt GEO Readiness with Model Context Protocol (noir-seo-geo-mcp)]]></title>
-        <id>https://dev.to/shashank_shetty_cfb327fae/auditing-json-ld-entity-graphs-llmstxt-geo-readiness-with-model-context-protocol-3iok</id>
-        <link href="https://dev.to/shashank_shetty_cfb327fae/auditing-json-ld-entity-graphs-llmstxt-geo-readiness-with-model-context-protocol-3iok"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OLAP en el navegador: explorar ventas con Perspective y GitHub Pages]]></title>
-        <id>https://dev.to/durdenxito/olap-en-el-navegador-explorar-ventas-con-perspective-y-github-pages-55eb</id>
-        <link href="https://dev.to/durdenxito/olap-en-el-navegador-explorar-ventas-con-perspective-y-github-pages-55eb"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calculating Credit Card Points vs Cashback Yield in 15 Lines of Vanilla JS (Interactive Slider)]]></title>
-        <id>https://dev.to/irck_ysia_d79705b3a189af9/calculating-credit-card-points-vs-cashback-yield-in-15-lines-of-vanilla-js-interactive-slider-39gh</id>
-        <link href="https://dev.to/irck_ysia_d79705b3a189af9/calculating-credit-card-points-vs-cashback-yield-in-15-lines-of-vanilla-js-interactive-slider-39gh"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your cookie banner says "Reject". Here's how to check if anything listens]]></title>
-        <id>https://dev.to/immsch/your-cookie-banner-says-reject-heres-how-to-check-if-anything-listens-f9b</id>
-        <link href="https://dev.to/immsch/your-cookie-banner-says-reject-heres-how-to-check-if-anything-listens-f9b"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Persistent 3-Step Checklist Widget in 12 Lines of Vanilla JS (No Frameworks)]]></title>
-        <id>https://dev.to/irck_ysia_d79705b3a189af9/how-to-build-a-persistent-3-step-checklist-widget-in-12-lines-of-vanilla-js-no-frameworks-1d2i</id>
-        <link href="https://dev.to/irck_ysia_d79705b3a189af9/how-to-build-a-persistent-3-step-checklist-widget-in-12-lines-of-vanilla-js-no-frameworks-1d2i"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero-Backend White-Label Demos: Personalizing Static Sites via URL Query Params in 18 Lines of JS]]></title>
-        <id>https://dev.to/irck_ysia_d79705b3a189af9/zero-backend-white-label-demos-personalizing-static-sites-via-url-query-params-in-18-lines-of-js-3hob</id>
-        <link href="https://dev.to/irck_ysia_d79705b3a189af9/zero-backend-white-label-demos-personalizing-static-sites-via-url-query-params-in-18-lines-of-js-3hob"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Zero-Dependency Home Depot $0.01 Clearance Tag Decoder & SKU Lookup in 40 Lines of Vanilla JS]]></title>
-        <id>https://dev.to/irck_ysia_d79705b3a189af9/building-a-zero-dependency-home-depot-001-clearance-tag-decoder-sku-lookup-in-40-lines-of-4olh</id>
-        <link href="https://dev.to/irck_ysia_d79705b3a189af9/building-a-zero-dependency-home-depot-001-clearance-tag-decoder-sku-lookup-in-40-lines-of-4olh"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What a Node.js App Needs Before You Deploy It (with a ShardCloud Walkthrough)]]></title>
-        <id>https://dev.to/shardcloud/what-a-nodejs-app-needs-before-you-deploy-it-with-a-shardcloud-walkthrough-cb2</id>
-        <link href="https://dev.to/shardcloud/what-a-nodejs-app-needs-before-you-deploy-it-with-a-shardcloud-walkthrough-cb2"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Browser Extension Cookie Race Conditions: Why Auto-Coupon Popups Break $90 Cyber Monday Cashback Tracking]]></title>
-        <id>https://dev.to/irck_ysia_d79705b3a189af9/browser-extension-cookie-race-conditions-why-auto-coupon-popups-break-90-cyber-monday-cashback-1ipd</id>
-        <link href="https://dev.to/irck_ysia_d79705b3a189af9/browser-extension-cookie-race-conditions-why-auto-coupon-popups-break-90-cyber-monday-cashback-1ipd"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This try/catch Doesn't Catch: The Promise Mistake That Crashes Node]]></title>
-        <id>https://dev.to/rider_lee/this-trycatch-doesnt-catch-the-promise-mistake-that-crashes-node-3gmf</id>
-        <link href="https://dev.to/rider_lee/this-trycatch-doesnt-catch-the-promise-mistake-that-crashes-node-3gmf"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Zero-Upload Browser Tools: 75% STL Mesh Compression & Local PDF Merging in Vanilla JS]]></title>
-        <id>https://dev.to/devboxzeroops/building-zero-upload-browser-tools-75-stl-mesh-compression-local-pdf-merging-in-vanilla-js-402o</id>
-        <link href="https://dev.to/devboxzeroops/building-zero-upload-browser-tools-75-stl-mesh-compression-local-pdf-merging-in-vanilla-js-402o"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I checked 345 games to see if "follow the sharp money" works. Pulling public betting splits from Action Network's JSON]]></title>
-        <id>https://dev.to/scrapemint/i-checked-345-games-to-see-if-follow-the-sharp-money-works-pulling-public-betting-splits-from-3n32</id>
-        <link href="https://dev.to/scrapemint/i-checked-345-games-to-see-if-follow-the-sharp-money-works-pulling-public-betting-splits-from-3n32"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a offset snap code without a framework]]></title>
-        <id>https://dev.to/uimotion/building-a-offset-snap-code-without-a-framework-10nb</id>
-        <link href="https://dev.to/uimotion/building-a-offset-snap-code-without-a-framework-10nb"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A free price forecast API with no key: Bitcoin, Ether, gold and more, as ranges and touch odds]]></title>
-        <id>https://dev.to/veriql/a-free-price-forecast-api-with-no-key-bitcoin-ether-gold-and-more-as-ranges-and-touch-odds-26dj</id>
-        <link href="https://dev.to/veriql/a-free-price-forecast-api-with-no-key-bitcoin-ether-gold-and-more-as-ranges-and-touch-odds-26dj"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add an iOS-Style Wheel Picker to React in One Click (Free)]]></title>
-        <id>https://dev.to/joodi/how-to-add-an-ios-style-wheel-picker-to-react-in-one-click-free-4oa1</id>
-        <link href="https://dev.to/joodi/how-to-add-an-ios-style-wheel-picker-to-react-in-one-click-free-4oa1"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add AI Narration to Your Blog Posts]]></title>
-        <id>https://dev.to/voice_developer/how-to-add-ai-narration-to-your-blog-posts-1218</id>
-        <link href="https://dev.to/voice_developer/how-to-add-ai-narration-to-your-blog-posts-1218"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebRTC Skimmers Bypass Your CSP: A Practical Defense Guide for Checkout Pages]]></title>
-        <id>https://dev.to/eme_gug_0821b41b948be6516/webrtc-skimmers-bypass-your-csp-a-practical-defense-guide-for-checkout-pages-10d0</id>
-        <link href="https://dev.to/eme_gug_0821b41b948be6516/webrtc-skimmers-bypass-your-csp-a-practical-defense-guide-for-checkout-pages-10d0"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remounting a Form by key Resets Uncontrolled Inputs]]></title>
-        <id>https://dev.to/cometakaito/remounting-a-form-by-key-resets-uncontrolled-inputs-2o89</id>
-        <link href="https://dev.to/cometakaito/remounting-a-form-by-key-resets-uncontrolled-inputs-2o89"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Does My Projected Goal Date Keep Changing? Build a Goal-Weight Forecast in JavaScript That Admits Its Error Bars]]></title>
-        <id>https://dev.to/charlotte_nelson_9aadde70/why-does-my-projected-goal-date-keep-changing-build-a-goal-weight-forecast-in-javascript-that-4acj</id>
-        <link href="https://dev.to/charlotte_nelson_9aadde70/why-does-my-projected-goal-date-keep-changing-build-a-goal-weight-forecast-in-javascript-that-4acj"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shopify Meta pixel not detected? Check the frame before reinstalling it]]></title>
-        <id>https://dev.to/nikolay_lu46iy_43f2db24af/shopify-meta-pixel-not-detected-check-the-frame-before-reinstalling-it-37lm</id>
-        <link href="https://dev.to/nikolay_lu46iy_43f2db24af/shopify-meta-pixel-not-detected-check-the-frame-before-reinstalling-it-37lm"/>
+        <title type="html"><![CDATA[Supabase PGRST301 "JWT expired": why it happens and how to fix it without weakening security]]></title>
+        <id>https://dev.to/proofforge_live/supabase-pgrst301-jwt-expired-why-it-happens-and-how-to-fix-it-without-weakening-security-2501</id>
+        <link href="https://dev.to/proofforge_live/supabase-pgrst301-jwt-expired-why-it-happens-and-how-to-fix-it-without-weakening-security-2501"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
@@ -323,45 +225,143 @@
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using light-dark() without getting caught out]]></title>
-        <id>https://css-tricks.com/using-light-dark-without-getting-caught-out/</id>
-        <link href="https://css-tricks.com/using-light-dark-without-getting-caught-out/"/>
+        <title type="html"><![CDATA[Shopify Meta pixel not detected? Check the frame before reinstalling it]]></title>
+        <id>https://dev.to/nikolay_lu46iy_43f2db24af/shopify-meta-pixel-not-detected-check-the-frame-before-reinstalling-it-37lm</id>
+        <link href="https://dev.to/nikolay_lu46iy_43f2db24af/shopify-meta-pixel-not-detected-check-the-frame-before-reinstalling-it-37lm"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Netflix’s coziest show has made a very quiet return]]></title>
-        <id>https://www.theverge.com/entertainment/1043489/midnight-diner-season3</id>
-        <link href="https://www.theverge.com/entertainment/1043489/midnight-diner-season3"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Why Does My Projected Goal Date Keep Changing? Build a Goal-Weight Forecast in JavaScript That Admits Its Error Bars]]></title>
+        <id>https://dev.to/charlotte_nelson_9aadde70/why-does-my-projected-goal-date-keep-changing-build-a-goal-weight-forecast-in-javascript-that-4acj</id>
+        <link href="https://dev.to/charlotte_nelson_9aadde70/why-does-my-projected-goal-date-keep-changing-build-a-goal-weight-forecast-in-javascript-that-4acj"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Federal judge blocks the FCC from reviewing ABC’s licenses early]]></title>
-        <id>https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block</id>
-        <link href="https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[Remounting a Form by key Resets Uncontrolled Inputs]]></title>
+        <id>https://dev.to/cometakaito/remounting-a-form-by-key-resets-uncontrolled-inputs-2o89</id>
+        <link href="https://dev.to/cometakaito/remounting-a-form-by-key-resets-uncontrolled-inputs-2o89"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This gaming mouse should be a Logitech-killer, but it has one big flaw]]></title>
-        <id>https://www.theverge.com/games/1043028/keychron-g6-he-hall-effect-magoptic-gaming-mouse-impressions</id>
-        <link href="https://www.theverge.com/games/1043028/keychron-g6-he-hall-effect-magoptic-gaming-mouse-impressions"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[WebRTC Skimmers Bypass Your CSP: A Practical Defense Guide for Checkout Pages]]></title>
+        <id>https://dev.to/eme_gug_0821b41b948be6516/webrtc-skimmers-bypass-your-csp-a-practical-defense-guide-for-checkout-pages-10d0</id>
+        <link href="https://dev.to/eme_gug_0821b41b948be6516/webrtc-skimmers-bypass-your-csp-a-practical-defense-guide-for-checkout-pages-10d0"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Android’s DIY widgets are a bit of vibe-coding fun]]></title>
-        <id>https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini</id>
-        <link href="https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[How to Add AI Narration to Your Blog Posts]]></title>
+        <id>https://dev.to/voice_developer/how-to-add-ai-narration-to-your-blog-posts-1218</id>
+        <link href="https://dev.to/voice_developer/how-to-add-ai-narration-to-your-blog-posts-1218"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Black Friday Nintendo Switch 2 Deals (2026): Up to $50 Off Bundles, Games, Accessories]]></title>
-        <id>https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-27-2026/</id>
-        <link href="https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-27-2026/"/>
-        <updated>2026-11-26T16:00:00.000Z</updated>
-        <published>2026-11-26T16:00:00.000Z</published>
+        <title type="html"><![CDATA[How to Add an iOS-Style Wheel Picker to React in One Click (Free)]]></title>
+        <id>https://dev.to/joodi/how-to-add-an-ios-style-wheel-picker-to-react-in-one-click-free-4oa1</id>
+        <link href="https://dev.to/joodi/how-to-add-an-ios-style-wheel-picker-to-react-in-one-click-free-4oa1"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A free price forecast API with no key: Bitcoin, Ether, gold and more, as ranges and touch odds]]></title>
+        <id>https://dev.to/veriql/a-free-price-forecast-api-with-no-key-bitcoin-ether-gold-and-more-as-ranges-and-touch-odds-26dj</id>
+        <link href="https://dev.to/veriql/a-free-price-forecast-api-with-no-key-bitcoin-ether-gold-and-more-as-ranges-and-touch-odds-26dj"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a offset snap code without a framework]]></title>
+        <id>https://dev.to/uimotion/building-a-offset-snap-code-without-a-framework-10nb</id>
+        <link href="https://dev.to/uimotion/building-a-offset-snap-code-without-a-framework-10nb"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I checked 345 games to see if "follow the sharp money" works. Pulling public betting splits from Action Network's JSON]]></title>
+        <id>https://dev.to/scrapemint/i-checked-345-games-to-see-if-follow-the-sharp-money-works-pulling-public-betting-splits-from-3n32</id>
+        <link href="https://dev.to/scrapemint/i-checked-345-games-to-see-if-follow-the-sharp-money-works-pulling-public-betting-splits-from-3n32"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Zero-Upload Browser Tools: 75% STL Mesh Compression & Local PDF Merging in Vanilla JS]]></title>
+        <id>https://dev.to/devboxzeroops/building-zero-upload-browser-tools-75-stl-mesh-compression-local-pdf-merging-in-vanilla-js-402o</id>
+        <link href="https://dev.to/devboxzeroops/building-zero-upload-browser-tools-75-stl-mesh-compression-local-pdf-merging-in-vanilla-js-402o"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This try/catch Doesn't Catch: The Promise Mistake That Crashes Node]]></title>
+        <id>https://dev.to/rider_lee/this-trycatch-doesnt-catch-the-promise-mistake-that-crashes-node-3gmf</id>
+        <link href="https://dev.to/rider_lee/this-trycatch-doesnt-catch-the-promise-mistake-that-crashes-node-3gmf"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Browser Extension Cookie Race Conditions: Why Auto-Coupon Popups Break $90 Cyber Monday Cashback Tracking]]></title>
+        <id>https://dev.to/irck_ysia_d79705b3a189af9/browser-extension-cookie-race-conditions-why-auto-coupon-popups-break-90-cyber-monday-cashback-1ipd</id>
+        <link href="https://dev.to/irck_ysia_d79705b3a189af9/browser-extension-cookie-race-conditions-why-auto-coupon-popups-break-90-cyber-monday-cashback-1ipd"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What a Node.js App Needs Before You Deploy It (with a ShardCloud Walkthrough)]]></title>
+        <id>https://dev.to/shardcloud/what-a-nodejs-app-needs-before-you-deploy-it-with-a-shardcloud-walkthrough-cb2</id>
+        <link href="https://dev.to/shardcloud/what-a-nodejs-app-needs-before-you-deploy-it-with-a-shardcloud-walkthrough-cb2"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Zero-Dependency Home Depot $0.01 Clearance Tag Decoder & SKU Lookup in 40 Lines of Vanilla JS]]></title>
+        <id>https://dev.to/irck_ysia_d79705b3a189af9/building-a-zero-dependency-home-depot-001-clearance-tag-decoder-sku-lookup-in-40-lines-of-4olh</id>
+        <link href="https://dev.to/irck_ysia_d79705b3a189af9/building-a-zero-dependency-home-depot-001-clearance-tag-decoder-sku-lookup-in-40-lines-of-4olh"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero-Backend White-Label Demos: Personalizing Static Sites via URL Query Params in 18 Lines of JS]]></title>
+        <id>https://dev.to/irck_ysia_d79705b3a189af9/zero-backend-white-label-demos-personalizing-static-sites-via-url-query-params-in-18-lines-of-js-3hob</id>
+        <link href="https://dev.to/irck_ysia_d79705b3a189af9/zero-backend-white-label-demos-personalizing-static-sites-via-url-query-params-in-18-lines-of-js-3hob"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Persistent 3-Step Checklist Widget in 12 Lines of Vanilla JS (No Frameworks)]]></title>
+        <id>https://dev.to/irck_ysia_d79705b3a189af9/how-to-build-a-persistent-3-step-checklist-widget-in-12-lines-of-vanilla-js-no-frameworks-1d2i</id>
+        <link href="https://dev.to/irck_ysia_d79705b3a189af9/how-to-build-a-persistent-3-step-checklist-widget-in-12-lines-of-vanilla-js-no-frameworks-1d2i"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your cookie banner says "Reject". Here's how to check if anything listens]]></title>
+        <id>https://dev.to/immsch/your-cookie-banner-says-reject-heres-how-to-check-if-anything-listens-f9b</id>
+        <link href="https://dev.to/immsch/your-cookie-banner-says-reject-heres-how-to-check-if-anything-listens-f9b"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calculating Credit Card Points vs Cashback Yield in 15 Lines of Vanilla JS (Interactive Slider)]]></title>
+        <id>https://dev.to/irck_ysia_d79705b3a189af9/calculating-credit-card-points-vs-cashback-yield-in-15-lines-of-vanilla-js-interactive-slider-39gh</id>
+        <link href="https://dev.to/irck_ysia_d79705b3a189af9/calculating-credit-card-points-vs-cashback-yield-in-15-lines-of-vanilla-js-interactive-slider-39gh"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OLAP en el navegador: explorar ventas con Perspective y GitHub Pages]]></title>
+        <id>https://dev.to/durdenxito/olap-en-el-navegador-explorar-ventas-con-perspective-y-github-pages-55eb</id>
+        <link href="https://dev.to/durdenxito/olap-en-el-navegador-explorar-ventas-con-perspective-y-github-pages-55eb"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auditing JSON-LD Entity Graphs & llms.txt GEO Readiness with Model Context Protocol (noir-seo-geo-mcp)]]></title>
+        <id>https://dev.to/shashank_shetty_cfb327fae/auditing-json-ld-entity-graphs-llmstxt-geo-readiness-with-model-context-protocol-3iok</id>
+        <link href="https://dev.to/shashank_shetty_cfb327fae/auditing-json-ld-entity-graphs-llmstxt-geo-readiness-with-model-context-protocol-3iok"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
     </entry>
 </feed>
