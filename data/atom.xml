@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2026-11-28T10:04:11.262Z</updated>
+    <updated>2026-11-28T13:04:21.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -218,23 +218,16 @@
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Tested 26 Claude Skills on GitHub. Only These 7 Are Worth Installing]]></title>
-        <id>https://pub.towardsai.net/i-tested-26-claude-skills-on-github-only-these-7-are-worth-installing-ebd32f7f9202?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/i-tested-26-claude-skills-on-github-only-these-7-are-worth-installing-ebd32f7f9202?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[AI Can Scale Engineering Output but Can Enterprises Scale Accountability?]]></title>
+        <id>https://pub.towardsai.net/ai-can-scale-engineering-output-but-can-enterprises-scale-accountability-e195995651fd?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/ai-can-scale-engineering-output-but-can-enterprises-scale-accountability-e195995651fd?source=rss----98111c9905da---4"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Siebel Upgrade That Turned Into a Technical Debt Investigation]]></title>
-        <id>https://pub.towardsai.net/every-siebel-upgrade-exposes-technical-debt-heres-how-to-fix-it-before-the-next-one-337d0489941e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/every-siebel-upgrade-exposes-technical-debt-heres-how-to-fix-it-before-the-next-one-337d0489941e?source=rss----98111c9905da---4"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your AI Coding Agent Forgets Everything. Here’s How to Fix It.]]></title>
-        <id>https://pub.towardsai.net/your-ai-coding-agent-forgets-everything-heres-how-to-fix-it-5fba90a724d7?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-ai-coding-agent-forgets-everything-heres-how-to-fix-it-5fba90a724d7?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Your LLM Can Return the Right JSON and Still Make the Wrong Decision. Here’s How to Catch It.]]></title>
+        <id>https://pub.towardsai.net/your-llm-can-return-the-right-json-and-still-make-the-wrong-decision-heres-how-to-catch-it-2ab40183cc5e?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-llm-can-return-the-right-json-and-still-make-the-wrong-decision-heres-how-to-catch-it-2ab40183cc5e?source=rss----98111c9905da---4"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
@@ -246,9 +239,23 @@
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your LLM Can Return the Right JSON and Still Make the Wrong Decision. Here’s How to Catch It.]]></title>
-        <id>https://pub.towardsai.net/your-llm-can-return-the-right-json-and-still-make-the-wrong-decision-heres-how-to-catch-it-2ab40183cc5e?source=rss----98111c9905da---4</id>
-        <link href="https://pub.towardsai.net/your-llm-can-return-the-right-json-and-still-make-the-wrong-decision-heres-how-to-catch-it-2ab40183cc5e?source=rss----98111c9905da---4"/>
+        <title type="html"><![CDATA[Your AI Coding Agent Forgets Everything. Here’s How to Fix It.]]></title>
+        <id>https://pub.towardsai.net/your-ai-coding-agent-forgets-everything-heres-how-to-fix-it-5fba90a724d7?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/your-ai-coding-agent-forgets-everything-heres-how-to-fix-it-5fba90a724d7?source=rss----98111c9905da---4"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Siebel Upgrade That Turned Into a Technical Debt Investigation]]></title>
+        <id>https://pub.towardsai.net/every-siebel-upgrade-exposes-technical-debt-heres-how-to-fix-it-before-the-next-one-337d0489941e?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/every-siebel-upgrade-exposes-technical-debt-heres-how-to-fix-it-before-the-next-one-337d0489941e?source=rss----98111c9905da---4"/>
+        <updated>2026-11-27T16:00:00.000Z</updated>
+        <published>2026-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tested 26 Claude Skills on GitHub. Only These 7 Are Worth Installing]]></title>
+        <id>https://pub.towardsai.net/i-tested-26-claude-skills-on-github-only-these-7-are-worth-installing-ebd32f7f9202?source=rss----98111c9905da---4</id>
+        <link href="https://pub.towardsai.net/i-tested-26-claude-skills-on-github-only-these-7-are-worth-installing-ebd32f7f9202?source=rss----98111c9905da---4"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
@@ -273,100 +280,93 @@ https://github.com/jskits/openapi-chain
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[npm cache clean --force vs npm cache verify vs deleting node_modules: what each one actually resets]]></title>
-        <id>https://dev.to/bigdomainhost/npm-cache-clean-force-vs-npm-cache-verify-vs-deleting-nodemodules-what-each-one-actually-resets-8p2</id>
-        <link href="https://dev.to/bigdomainhost/npm-cache-clean-force-vs-npm-cache-verify-vs-deleting-nodemodules-what-each-one-actually-resets-8p2"/>
+        <title type="html"><![CDATA[Computing US Bathroom Exhaust Fan CFM, HVI Large-Bath Fixture Loads, and 4" vs 6" Equivalent Duct Friction in TypeScript]]></title>
+        <id>https://dev.to/clara_sutton/computing-us-bathroom-exhaust-fan-cfm-hvi-large-bath-fixture-loads-and-4-vs-6-equivalent-duct-3gnh</id>
+        <link href="https://dev.to/clara_sutton/computing-us-bathroom-exhaust-fan-cfm-hvi-large-bath-fixture-loads-and-4-vs-6-equivalent-duct-3gnh"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My JavaScript Practice Project | Learning JavaScript by Building]]></title>
-        <id>https://dev.to/basim-27/my-javascript-practice-project-learning-javascript-by-building-4gnp</id>
-        <link href="https://dev.to/basim-27/my-javascript-practice-project-learning-javascript-by-building-4gnp"/>
+        <title type="html"><![CDATA[Detecting a website's tech stack from one HTML fetch: what 194 fingerprints can and can't see]]></title>
+        <id>https://dev.to/aitech_tools/detecting-a-websites-tech-stack-from-one-html-fetch-what-194-fingerprints-can-and-cant-see-33gd</id>
+        <link href="https://dev.to/aitech_tools/detecting-a-websites-tech-stack-from-one-html-fetch-what-194-fingerprints-can-and-cant-see-33gd"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Zero-Dependency Offline Bilingual Audio Reader in Pure HTML + Web Speech API (English–Vietnamese)]]></title>
-        <id>https://dev.to/v_hngcng_0222b90666e/i-built-a-zero-dependency-offline-bilingual-audio-reader-in-pure-html-web-speech-api-3iag</id>
-        <link href="https://dev.to/v_hngcng_0222b90666e/i-built-a-zero-dependency-offline-bilingual-audio-reader-in-pure-html-web-speech-api-3iag"/>
+        <title type="html"><![CDATA[ttstickers - Turn TikTok, Reels or YouTube videos into WhatsApp stickers]]></title>
+        <id>https://dev.to/rrwd/ttstickers-turn-tiktok-reels-or-youtube-videos-into-whatsapp-stickers-4fj2</id>
+        <link href="https://dev.to/rrwd/ttstickers-turn-tiktok-reels-or-youtube-videos-into-whatsapp-stickers-4fj2"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I kept a pinned three.js scroll scene at Lighthouse 100 on mobile]]></title>
-        <id>https://dev.to/justas_arbatauskis_e220d6/how-i-kept-a-pinned-threejs-scroll-scene-at-lighthouse-100-on-mobile-5539</id>
-        <link href="https://dev.to/justas_arbatauskis_e220d6/how-i-kept-a-pinned-threejs-scroll-scene-at-lighthouse-100-on-mobile-5539"/>
+        <title type="html"><![CDATA[Why 90% of Half-Ton Trucks Hit Their Payload Limit Long Before "Max Towing Capacity" (2015–2026 Engineering Guide)]]></title>
+        <id>https://dev.to/legendmo_to_/why-90-of-half-ton-trucks-hit-their-payload-limit-long-before-max-towing-capacity-2015-2026-2hd</id>
+        <link href="https://dev.to/legendmo_to_/why-90-of-half-ton-trucks-hit-their-payload-limit-long-before-max-towing-capacity-2015-2026-2hd"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How a 30-Line Zero-Dep Node.js MX Hygiene Filter Kept Our Cold Outreach Delivery Rate Above 94%]]></title>
-        <id>https://dev.to/irck_ysia_d79705b3a189af9/how-a-30-line-zero-dep-nodejs-mx-hygiene-filter-kept-our-cold-outreach-delivery-rate-above-94-foi</id>
-        <link href="https://dev.to/irck_ysia_d79705b3a189af9/how-a-30-line-zero-dep-nodejs-mx-hygiene-filter-kept-our-cold-outreach-delivery-rate-above-94-foi"/>
+        <title type="html"><![CDATA[Building AI Agents with Node.js: What I Learned as a Tech Lead in Kanpur]]></title>
+        <id>https://dev.to/mohdzakirhassan/building-ai-agents-with-nodejs-what-i-learned-as-a-tech-lead-in-kanpur-16h2</id>
+        <link href="https://dev.to/mohdzakirhassan/building-ai-agents-with-nodejs-what-i-learned-as-a-tech-lead-in-kanpur-16h2"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Safely Expand Shortened URLs and Detect Phishing Redirect Chains in Bulk]]></title>
-        <id>https://dev.to/godedi/how-to-safely-expand-shortened-urls-and-detect-phishing-redirect-chains-in-bulk-1e14</id>
-        <link href="https://dev.to/godedi/how-to-safely-expand-shortened-urls-and-detect-phishing-redirect-chains-in-bulk-1e14"/>
+        <title type="html"><![CDATA[Why I Built Zero-Dependency Client-Side PKZIP & Safe-Zone Validators (Plus Open-Source Agent Skills) Instead of Another SaaS Uploader]]></title>
+        <id>https://dev.to/ai_198385be87cdac7d162/why-i-built-zero-dependency-client-side-pkzip-safe-zone-validators-plus-open-source-agent-2ibl</id>
+        <link href="https://dev.to/ai_198385be87cdac7d162/why-i-built-zero-dependency-client-side-pkzip-safe-zone-validators-plus-open-source-agent-2ibl"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In-Browser Image Compression at Scale: Median-Cut PNG Quantization, WebP/AVIF & OffscreenCanvas Workers]]></title>
-        <id>https://dev.to/uchitchakma/in-browser-image-compression-at-scale-median-cut-png-quantization-webpavif-offscreencanvas-2lpn</id>
-        <link href="https://dev.to/uchitchakma/in-browser-image-compression-at-scale-median-cut-png-quantization-webpavif-offscreencanvas-2lpn"/>
+        <title type="html"><![CDATA[Computing US Commercial Office, Retail & Restaurant Occupant Loads (IBC Table 1004.5), Dual-Exit Thresholds, and 44" Egress Corridors in TypeScript]]></title>
+        <id>https://dev.to/clara_sutton/computing-us-commercial-office-retail-restaurant-occupant-loads-ibc-table-10045-dual-exit-3545</id>
+        <link href="https://dev.to/clara_sutton/computing-us-commercial-office-retail-restaurant-occupant-loads-ibc-table-10045-dual-exit-3545"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Zero-Dependency ATS Resume Keyword Scorer in Pure JS (C++, .NET, Synonyms & Stemming)]]></title>
-        <id>https://dev.to/quietstacklab/building-a-zero-dependency-ats-resume-keyword-scorer-in-pure-js-c-net-synonyms-stemming-4oj6</id>
-        <link href="https://dev.to/quietstacklab/building-a-zero-dependency-ats-resume-keyword-scorer-in-pure-js-c-net-synonyms-stemming-4oj6"/>
+        <title type="html"><![CDATA[Computing US Wood Stove Hearth Pad Clearances, NFPA 211 Wall Shield Reductions, and the Chimney 10-2-3 Rule in TypeScript]]></title>
+        <id>https://dev.to/clara_sutton/computing-us-wood-stove-hearth-pad-clearances-nfpa-211-wall-shield-reductions-and-the-chimney-1aac</id>
+        <link href="https://dev.to/clara_sutton/computing-us-wood-stove-hearth-pad-clearances-nfpa-211-wall-shield-reductions-and-the-chimney-1aac"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Does Vite Run on localhost:5173? It's Not Random!]]></title>
-        <id>https://dev.to/abhisekroy169/why-does-vite-run-on-localhost5173-its-not-random-4a45</id>
-        <link href="https://dev.to/abhisekroy169/why-does-vite-run-on-localhost5173-its-not-random-4a45"/>
+        <title type="html"><![CDATA[HTML vs CSS vs JavaScript: Understanding the Three Building Blocks of Web Development Through a House Analogy]]></title>
+        <id>https://dev.to/okoye_ndidiamaka_5e3b7d30/html-vs-css-vs-javascript-understanding-the-three-building-blocks-of-web-development-through-a-2cal</id>
+        <link href="https://dev.to/okoye_ndidiamaka_5e3b7d30/html-vs-css-vs-javascript-understanding-the-three-building-blocks-of-web-development-through-a-2cal"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Black Friday Skimmer Left Through WebRTC: How to Test Your Checkout for It]]></title>
-        <id>https://dev.to/jamilxt/the-black-friday-skimmer-left-through-webrtc-how-to-test-your-checkout-for-it-bfc</id>
-        <link href="https://dev.to/jamilxt/the-black-friday-skimmer-left-through-webrtc-how-to-test-your-checkout-for-it-bfc"/>
+        <title type="html"><![CDATA[The Cheapest Checkbox in Checkout Is the Most Expensive to Get Wrong]]></title>
+        <id>https://dev.to/qinjiexu2/the-cheapest-checkbox-in-checkout-is-the-most-expensive-to-get-wrong-2j10</id>
+        <link href="https://dev.to/qinjiexu2/the-cheapest-checkbox-in-checkout-is-the-most-expensive-to-get-wrong-2j10"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Supabase PGRST301 "JWT expired": why it happens and how to fix it without weakening security]]></title>
-        <id>https://dev.to/proofforge_live/supabase-pgrst301-jwt-expired-why-it-happens-and-how-to-fix-it-without-weakening-security-2501</id>
-        <link href="https://dev.to/proofforge_live/supabase-pgrst301-jwt-expired-why-it-happens-and-how-to-fix-it-without-weakening-security-2501"/>
+        <title type="html"><![CDATA[A rose window as a radar chart: drawing quiz results in plain SVG]]></title>
+        <id>https://dev.to/work_wll_0514aab98e46fc1e/a-rose-window-as-a-radar-chart-drawing-quiz-results-in-plain-svg-432b</id>
+        <link href="https://dev.to/work_wll_0514aab98e46fc1e/a-rose-window-as-a-radar-chart-drawing-quiz-results-in-plain-svg-432b"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stress-Testing 2,000 Procedural Strategy Maps with Bots and Building Zero-Login Friend Rooms]]></title>
-        <id>https://dev.to/walleliao/stress-testing-2000-procedural-strategy-maps-with-bots-and-building-zero-login-friend-rooms-1al8</id>
-        <link href="https://dev.to/walleliao/stress-testing-2000-procedural-strategy-maps-with-bots-and-building-zero-login-friend-rooms-1al8"/>
+        <title type="html"><![CDATA[The Last Commit.]]></title>
+        <id>https://dev.to/thelastcommit/the-last-commit-52p6</id>
+        <link href="https://dev.to/thelastcommit/the-last-commit-52p6"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shopify Meta pixel not detected? Check the frame before reinstalling it]]></title>
-        <id>https://dev.to/nikolay_lu46iy_43f2db24af/shopify-meta-pixel-not-detected-check-the-frame-before-reinstalling-it-37lm</id>
-        <link href="https://dev.to/nikolay_lu46iy_43f2db24af/shopify-meta-pixel-not-detected-check-the-frame-before-reinstalling-it-37lm"/>
-        <updated>2026-11-27T16:00:00.000Z</updated>
-        <published>2026-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Does My Projected Goal Date Keep Changing? Build a Goal-Weight Forecast in JavaScript That Admits Its Error Bars]]></title>
-        <id>https://dev.to/charlotte_nelson_9aadde70/why-does-my-projected-goal-date-keep-changing-build-a-goal-weight-forecast-in-javascript-that-4acj</id>
-        <link href="https://dev.to/charlotte_nelson_9aadde70/why-does-my-projected-goal-date-keep-changing-build-a-goal-weight-forecast-in-javascript-that-4acj"/>
+        <title type="html"><![CDATA[I Built a Markdown-to-PDF Converter That Never Touches a Server]]></title>
+        <id>https://dev.to/bi_quang_f7db903e86c1505/i-built-a-markdown-to-pdf-converter-that-never-touches-a-server-2o26</id>
+        <link href="https://dev.to/bi_quang_f7db903e86c1505/i-built-a-markdown-to-pdf-converter-that-never-touches-a-server-2o26"/>
         <updated>2026-11-27T16:00:00.000Z</updated>
         <published>2026-11-27T16:00:00.000Z</published>
     </entry>
