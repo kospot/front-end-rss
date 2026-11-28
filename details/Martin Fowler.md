@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-28 15:04:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-28 18:04:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Martin Fowler
 
@@ -10,6 +10,6 @@
 - [2026-11-17-Deterministic-Simulation-Testing](https://martinfowler.com/articles/deterministic-simulation-testing.html) 
 - [2026-11-12-Bliki:-Generated-Glossary](https://martinfowler.com/bliki/GeneratedGlossary.html) 
 - [2026-11-11-Tests-as-data:-ensuring-AI-generated-code-does-what-we-want](https://martinfowler.com/articles/tests-as-data.html) 
-- [2026-11-10-Fragments:-November-10](https://martinfowler.com/fragments/2026-11-10.html) 
 - [2026-11-10-Long-horizon-agents-and-durable-execution](https://martinfowler.com/articles/durable-execution-agents.html) 
+- [2026-11-10-Fragments:-November-10](https://martinfowler.com/fragments/2026-11-10.html) 
 - [2026-11-05-The-Data-Product-Platform-Navigator](https://martinfowler.com/articles/data-product-platform-nav.html) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-28 15:04:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-28 18:04:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -9,11 +9,11 @@
 
 - [2026-11-27-HelloGitHub-第-128-期](https://hellogithub.com/periodical/volume/128) 
 - [2026-11-28-OLAP-en-el-navegador:-explorar-ventas-con-Perspective-y-GitHub-Pages](https://dev.to/durdenxito/olap-en-el-navegador-explorar-ventas-con-perspective-y-github-pages-55eb) 
-- [2026-11-26-Lightning-checkout-for-static-digital-products-with-OpenReceive,-NWC,-and-Netlify-Functions](https://dev.to/secondwindmc/lightning-checkout-for-static-digital-products-with-openreceive-nwc-and-netlify-functions-42bf) 
 - [2026-11-26-How-to-deliver-digital-downloads-automatically-after-BTCPay-invoices-with-Netlify-Functions](https://dev.to/secondwindmc/how-to-deliver-digital-downloads-automatically-after-btcpay-invoices-with-netlify-functions-c6j) 
+- [2026-11-26-Lightning-checkout-for-static-digital-products-with-OpenReceive,-NWC,-and-Netlify-Functions](https://dev.to/secondwindmc/lightning-checkout-for-static-digital-products-with-openreceive-nwc-and-netlify-functions-42bf) 
 - [2026-11-21-How-We-Built-a-10-Language-Digital-Business-Card-Studio-With-RTL-Support](https://dev.to/rahalune-qr-studio/how-we-built-a-10-language-digital-business-card-studio-with-rtl-support-2235) 
-- [2026-11-18-GitLab-corrige-duas-falhas-XSS-armazenadas-com-CVSS-8,7](https://dev.to/guiadeti/gitlab-corrige-duas-falhas-xss-armazenadas-com-cvss-87-5cc4) 
 - [2026-11-18-Fixing-Modal-Keyboard-Traps-in-GitLab-UI:-Conditional-Escape-Key-Propagation-in-GlTokenSelector](https://dev.to/manishpatel00/fixing-modal-keyboard-traps-in-gitlab-ui-conditional-escape-key-propagation-in-gltokenselector-2l6m) 
+- [2026-11-18-GitLab-corrige-duas-falhas-XSS-armazenadas-com-CVSS-8,7](https://dev.to/guiadeti/gitlab-corrige-duas-falhas-xss-armazenadas-com-cvss-87-5cc4) 
 - [2026-11-14-Company-numbers-in-Sweden,-Norway,-Finland-and-France:-formats,-check-digits,-and-the-VAT-number-hiding-inside](https://dev.to/spellzcode/company-numbers-in-sweden-norway-finland-and-france-formats-check-digits-and-the-vat-number-2j7n) 
 - [2026-11-11-I-made-a-GitHub-profile-badge-that-counts-the-good-you-do](https://dev.to/aradar46/i-made-a-github-profile-badge-that-counts-the-good-you-do-351b) 
 - [2026-10-31-Code-Quality-Tools-for-GitHub:-SonarQube-Alternatives-2026](https://dev.to/debtdraft/code-quality-tools-for-github-sonarqube-alternatives-2026-6e) 
@@ -89,8 +89,8 @@ https://github.com/webdiscus/pathmask
 - [2026-11-22-Best-Gifts-for-Mom-2026:-Digital-Wall-Calendars,-Better-Bags,-Personalized-Jewelry,-and-More](https://www.wired.com/story/best-gifts-for-moms-2026/) 
 - [2026-11-16-Best-Digital-Photo-Frames-2026:-Aura,-Skylight,-Amazon](https://www.wired.com/story/best-digital-photo-frames/) 
 - [2026-11-14-I-Put-the-Best-Digital-Notebooks-to-the-Test.-Here-Are-My-Favorites-2026](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/) 
-- [2026-11-13-Western-Digital-Promo-Code:-15%-Off](https://www.wired.com/story/western-digital-promo-code/) 
 - [2026-11-13-Logitech-Promo-Codes-and-Deals:-Up-to-$100-Off](https://www.wired.com/story/logitech-promo-code/) 
+- [2026-11-13-Western-Digital-Promo-Code:-15%-Off](https://www.wired.com/story/western-digital-promo-code/) 
 - [2026-11-06-Greenlight-Family-Hub-Digital-Wall-Calendar-Black-Friday-Sale-2026](https://www.wired.com/story/greenlight-hub-black-friday-deal-2026/) 
 - [2026-11-23-Kodak’s-next-collectible-is-a-tiny-digital-photo-frame-that-doubles-as-a-tracker](https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink) 
 - [2026-11-22-Amazon’s-first-digital-photo-frame-is-up-to-50-percent-off-for-Black-Friday](https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale) 
